@@ -2,10 +2,6 @@
 dist/
 .astro/
 
-# Next.js (legacy)
-.next/
-out/
-
 # Dependencies
 node_modules/
 
