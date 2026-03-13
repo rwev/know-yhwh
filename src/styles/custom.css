@@ -1,0 +1,98 @@
+/* ============================================
+   Know YHWH — Design System Overrides
+   ============================================ */
+
+:root {
+  --color-sandstone: #ece3d1;
+  --color-sandstone-dark: #ddd0b8;
+  --color-night: #0d0b14;
+  --color-night-light: #1a1726;
+  --color-gold: #b09050;
+  --color-gold-light: #c4a468;
+
+  /* Starlight font overrides */
+  --sl-font: 'Spectral', Georgia, 'Times New Roman', serif;
+  --sl-font-system: 'Spectral', Georgia, 'Times New Roman', serif;
+}
+
+/* --- Aged gold accent scale --- */
+:root {
+  --sl-color-accent-low: #2a2215;
+  --sl-color-accent: #b09050;
+  --sl-color-accent-high: #e8d5b0;
+}
+
+/* --- Light mode: desert sandstone --- */
+[data-theme='light'] {
+  --sl-color-bg: var(--color-sandstone);
+  --sl-color-bg-nav: color-mix(in srgb, var(--color-sandstone) 95%, var(--color-sandstone-dark));
+  --sl-color-bg-sidebar: color-mix(in srgb, var(--color-sandstone) 90%, var(--color-sandstone-dark));
+  --sl-color-hairline-light: color-mix(in srgb, var(--color-sandstone-dark) 60%, transparent);
+  --sl-color-hairline: var(--color-sandstone-dark);
+}
+
+/* --- Dark mode: starry night --- */
+[data-theme='dark'] {
+  --sl-color-bg: var(--color-night);
+  --sl-color-bg-nav: color-mix(in srgb, var(--color-night) 90%, var(--color-night-light));
+  --sl-color-bg-sidebar: color-mix(in srgb, var(--color-night) 85%, var(--color-night-light));
+  --sl-color-hairline-light: color-mix(in srgb, var(--color-night-light) 60%, transparent);
+  --sl-color-hairline: var(--color-night-light);
+}
+
+/* --- Heading font: Cormorant Garamond --- */
+h1, h2, h3, h4, h5, h6,
+.sl-markdown-content h1,
+.sl-markdown-content h2,
+.sl-markdown-content h3,
+.sl-markdown-content h4,
+.sl-markdown-content h5,
+.sl-markdown-content h6 {
+  font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
+}
+
+/* Site title in nav */
+[data-pagefind-ignore] .site-title {
+  font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif;
+}
+
+/* --- Scripture-style blockquotes --- */
+.sl-markdown-content blockquote {
+  font-family: 'Spectral', Georgia, 'Times New Roman', serif;
+  font-style: italic;
+  font-size: 1.05em;
+  line-height: 1.8;
+  letter-spacing: 0.01em;
+  border-left: 4px solid var(--color-gold);
+  border-top: 1px solid color-mix(in srgb, var(--color-gold) 30%, transparent);
+  border-bottom: 1px solid color-mix(in srgb, var(--color-gold) 30%, transparent);
+  border-right: none;
+  padding: 1.25rem 1.5rem;
+  margin: 1.75rem 0;
+  border-radius: 0 0.375rem 0.375rem 0;
+}
+
+[data-theme='light'] .sl-markdown-content blockquote {
+  background: linear-gradient(
+    135deg,
+    color-mix(in srgb, var(--color-sandstone-dark) 50%, transparent),
+    color-mix(in srgb, var(--color-sandstone-dark) 25%, transparent)
+  );
+  box-shadow: 0 1px 3px color-mix(in srgb, var(--color-gold) 10%, transparent);
+}
+
+[data-theme='dark'] .sl-markdown-content blockquote {
+  background: linear-gradient(
+    135deg,
+    color-mix(in srgb, var(--color-night-light) 80%, transparent),
+    color-mix(in srgb, var(--color-night-light) 50%, transparent)
+  );
+  border-top-color: color-mix(in srgb, var(--color-gold) 20%, transparent);
+  border-bottom-color: color-mix(in srgb, var(--color-gold) 20%, transparent);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* --- Footer --- */
+footer {
+  font-family: 'Spectral', Georgia, 'Times New Roman', serif;
+}
