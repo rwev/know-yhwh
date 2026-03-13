@@ -23,6 +23,6 @@ The Greek word *apologia* (ἀπολογία) — "defense, reasoned account" �
 
 ## In This Section
 
-- [**Christianity & Judaism**](../world-religions-and-comparative-theology/christianity-and-judaism/) — Shared heritage, Messianic hope, and the great divergence over the identity of Jesus
-- [**Christianity & Islam**](../world-religions-and-comparative-theology/christianity-and-islam/) — Common ground and critical differences on the person of Christ, salvation, and the nature of God
-- [**The Uniqueness of Christ**](../world-religions-and-comparative-theology/uniqueness-of-christ/) — Why Jesus' exclusive claims matter and how Christians respond to religious pluralism
+- [**Christianity & Judaism**](./christianity-and-judaism/) — Shared heritage, Messianic hope, and the great divergence over the identity of Jesus
+- [**Christianity & Islam**](./christianity-and-islam/) — Common ground and critical differences on the person of Christ, salvation, and the nature of God
+- [**The Uniqueness of Christ**](./uniqueness-of-christ/) — Why Jesus' exclusive claims matter and how Christians respond to religious pluralism

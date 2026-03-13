@@ -27,17 +27,17 @@ career but a divine invitation to live all of life before God's face.
 ### Work & Stewardship
 God designed human beings to work, create, and manage His world as faithful stewards. Labor is
 not a curse but a calling, and how we handle resources reveals what we truly worship.
-[Read more →](../christian-life-and-vocation/work-and-stewardship/)
+[Read more →](./work-and-stewardship/)
 
 ### Justice & Mercy
 The prophets thundered that true worship cannot be separated from justice for the oppressed.
 God's own character — righteous and merciful — sets the standard for His people.
-[Read more →](../christian-life-and-vocation/justice-and-mercy/)
+[Read more →](./justice-and-mercy/)
 
 ### Loving Neighbor
 Jesus distilled the entire law into love of God and love of neighbor. Christian love is not
 mere sentiment but concrete, self-giving action — even toward enemies and strangers.
-[Read more →](../christian-life-and-vocation/loving-neighbor/)
+[Read more →](./loving-neighbor/)
 
 ## The Shape of Faithful Living
 

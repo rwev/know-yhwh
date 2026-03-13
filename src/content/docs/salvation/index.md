@@ -11,10 +11,10 @@ Salvation is God's work of rescuing sinners from the just consequences of their 
 
 ## Key Topics
 
-- [**The Gospel**](../salvation/gospel/) — The good news of what God has done in Christ
-- [**Grace**](../salvation/grace/) — Unmerited favor as the foundation of salvation
-- [**Justification**](../salvation/justification/) — Being declared righteous before God
-- [**Repentance**](../salvation/repentance/) — Turning from sin and returning to God
-- [**Faith**](../salvation/faith/) — Trusting in Christ for salvation
-- [**Adoption**](../salvation/adoption/) — Received into the family of God
-- [**Perseverance**](../salvation/perseverance/) — The security and endurance of the saints
+- [**The Gospel**](./gospel/) — The good news of what God has done in Christ
+- [**Grace**](./grace/) — Unmerited favor as the foundation of salvation
+- [**Justification**](./justification/) — Being declared righteous before God
+- [**Repentance**](./repentance/) — Turning from sin and returning to God
+- [**Faith**](./faith/) — Trusting in Christ for salvation
+- [**Adoption**](./adoption/) — Received into the family of God
+- [**Perseverance**](./perseverance/) — The security and endurance of the saints

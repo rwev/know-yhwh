@@ -40,6 +40,6 @@ The word Paul uses for "fulfilling" is *pleroma* (πλήρωμα), from the same
 
 ## In This Section
 
-- [Ten Commandments](../the-law-and-ethics/ten-commandments/) — the covenant foundation of biblical morality
-- [Moral & Ceremonial Law](../the-law-and-ethics/moral-and-ceremonial-law/) — categories, debates, and how Christians relate to the Old Testament law
-- [Sermon on the Mount](../the-law-and-ethics/sermon-on-the-mount/) — the ethics of the kingdom as taught by Jesus in Matthew 5–7
+- [Ten Commandments](./ten-commandments/) — the covenant foundation of biblical morality
+- [Moral & Ceremonial Law](./moral-and-ceremonial-law/) — categories, debates, and how Christians relate to the Old Testament law
+- [Sermon on the Mount](./sermon-on-the-mount/) — the ethics of the kingdom as taught by Jesus in Matthew 5–7

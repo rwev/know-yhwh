@@ -38,6 +38,6 @@ Christians have long disagreed about the precise sequence and timing of future e
 
 ## In This Section
 
-- [Second Coming](../last-things/second-coming/) — The promise and nature of Christ's return
-- [Resurrection & Judgment](../last-things/resurrection-and-judgment/) — The raising of the dead and the final reckoning
-- [New Creation](../last-things/new-creation/) — The renewal of all things and the eternal state
+- [Second Coming](./second-coming/) — The promise and nature of Christ's return
+- [Resurrection & Judgment](./resurrection-and-judgment/) — The raising of the dead and the final reckoning
+- [New Creation](./new-creation/) — The renewal of all things and the eternal state

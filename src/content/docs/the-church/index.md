@@ -26,9 +26,9 @@ The Church exists to worship God, build up believers in faith and love, and bear
 
 ## What This Section Covers
 
-- [**Body of Christ**](../the-church/body-of-christ/) — The nature of the Church as the assembled people of God, the biblical images of the Body, and church leadership and polity
-- [**Sacraments & Ordinances**](../the-church/sacraments-and-ordinances/) — Baptism and the Lord's Supper as acts of obedience and means of grace, with the range of historic Christian views
-- [**Mission & Evangelism**](../the-church/mission-and-evangelism/) — The Great Commission, the Church's calling to proclaim the gospel, make disciples, and serve the world
+- [**Body of Christ**](./body-of-christ/) — The nature of the Church as the assembled people of God, the biblical images of the Body, and church leadership and polity
+- [**Sacraments & Ordinances**](./sacraments-and-ordinances/) — Baptism and the Lord's Supper as acts of obedience and means of grace, with the range of historic Christian views
+- [**Mission & Evangelism**](./mission-and-evangelism/) — The Great Commission, the Church's calling to proclaim the gospel, make disciples, and serve the world
 
 ## The Church in God's Story
 

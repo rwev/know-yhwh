@@ -22,6 +22,6 @@ The Hebrew word *mishpachah* (מִשְׁפָּחָה) — "family, clan" — app
 
 ## Explore This Section
 
-- [**Marriage**](../marriage-family-and-sexuality/marriage/) — God's design, covenant faithfulness, roles, divorce and remarriage, and the dignity of singleness
-- [**Family & Parenting**](../marriage-family-and-sexuality/family-and-parenting/) — Children as blessing, the Shema as foundation, parental roles, discipline, and the household of faith
-- [**Sexuality & Purity**](../marriage-family-and-sexuality/sexuality-and-purity/) — Biblical theology of the body, sexual ethics, purity of heart, and grace for the broken
+- [**Marriage**](./marriage/) — God's design, covenant faithfulness, roles, divorce and remarriage, and the dignity of singleness
+- [**Family & Parenting**](./family-and-parenting/) — Children as blessing, the Shema as foundation, parental roles, discipline, and the household of faith
+- [**Sexuality & Purity**](./sexuality-and-purity/) — Biblical theology of the body, sexual ethics, purity of heart, and grace for the broken

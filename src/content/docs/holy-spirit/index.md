@@ -11,8 +11,8 @@ The Holy Spirit is the third person of the Trinity — fully God, co-equal and c
 
 ## Key Topics
 
-- [**Person of the Spirit**](../holy-spirit/person-of-the-spirit/) — His personhood and deity
-- [**Gifts of the Spirit**](../holy-spirit/gifts/) — Spiritual gifts given to the church
-- [**Fruit of the Spirit**](../holy-spirit/fruit/) — The character He produces in believers
-- [**Baptism of the Spirit**](../holy-spirit/baptism-of-the-spirit/) — Immersion in the Spirit's power and presence
-- [**Indwelling & Sealing**](../holy-spirit/indwelling-and-sealing/) — The Spirit's permanent residence and guarantee
+- [**Person of the Spirit**](./person-of-the-spirit/) — His personhood and deity
+- [**Gifts of the Spirit**](./gifts/) — Spiritual gifts given to the church
+- [**Fruit of the Spirit**](./fruit/) — The character He produces in believers
+- [**Baptism of the Spirit**](./baptism-of-the-spirit/) — Immersion in the Spirit's power and presence
+- [**Indwelling & Sealing**](./indwelling-and-sealing/) — The Spirit's permanent residence and guarantee

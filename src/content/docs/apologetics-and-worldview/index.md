@@ -26,6 +26,6 @@ Christians have always employed a variety of apologetic approaches — from the 
 
 ## Key Topics
 
-- [**Arguments for God**](../apologetics-and-worldview/arguments-for-god/) — Philosophical and evidential reasons to believe God exists
-- [**Problem of Evil**](../apologetics-and-worldview/problem-of-evil/) — How Christianity addresses suffering and evil
-- [**Reliability of Scripture**](../apologetics-and-worldview/reliability-of-scripture/) — Evidence for the trustworthiness of the Bible
+- [**Arguments for God**](./arguments-for-god/) — Philosophical and evidential reasons to believe God exists
+- [**Problem of Evil**](./problem-of-evil/) — How Christianity addresses suffering and evil
+- [**Reliability of Scripture**](./reliability-of-scripture/) — Evidence for the trustworthiness of the Bible

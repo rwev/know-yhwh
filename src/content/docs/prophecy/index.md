@@ -11,8 +11,8 @@ Biblical prophecy is God's revelation of His purposes — both near-term declara
 
 ## Key Topics
 
-- [**Prophetic Literature**](../prophecy/prophetic-literature/) — The prophetic office, genres, and key prophets
-- [**Messianic Prophecy**](../prophecy/messianic/) — Old Testament predictions fulfilled in Jesus
-- [**Daniel**](../prophecy/daniel/) — Visions of kingdoms and the Son of Man
-- [**Revelation**](../prophecy/revelation/) — The consummation of God's redemptive plan
-- [**Fulfillment Patterns**](../prophecy/fulfillment-patterns/) — How the Old Testament is fulfilled in Christ
+- [**Prophetic Literature**](./prophetic-literature/) — The prophetic office, genres, and key prophets
+- [**Messianic Prophecy**](./messianic/) — Old Testament predictions fulfilled in Jesus
+- [**Daniel**](./daniel/) — Visions of kingdoms and the Son of Man
+- [**Revelation**](./revelation/) — The consummation of God's redemptive plan
+- [**Fulfillment Patterns**](./fulfillment-patterns/) — How the Old Testament is fulfilled in Christ

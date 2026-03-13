@@ -43,9 +43,9 @@ Christian mysticism is not a departure from doctrine but its deepest realization
 
 ## In This Section
 
-- [Contemplative Prayer](../spiritual-formation-and-mysticism/contemplative-prayer/) — Practices of stillness and attentive prayer
-- [Desert Fathers](../spiritual-formation-and-mysticism/desert-fathers/) — The origins of Christian monasticism
-- [Union with God](../spiritual-formation-and-mysticism/union-with-god/) — The mystical tradition of communion with the Divine
-- [Theosis](../spiritual-formation-and-mysticism/theosis/) — The Eastern doctrine of deification
+- [Contemplative Prayer](./contemplative-prayer/) — Practices of stillness and attentive prayer
+- [Desert Fathers](./desert-fathers/) — The origins of Christian monasticism
+- [Union with God](./union-with-god/) — The mystical tradition of communion with the Divine
+- [Theosis](./theosis/) — The Eastern doctrine of deification
 
 > "You have made us for yourself, O Lord, and our hearts are restless until they rest in you." — Augustine of Hippo, *Confessions*

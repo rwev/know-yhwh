@@ -11,11 +11,11 @@ Jesus Christ is the central figure of all Scripture. The Old Testament points fo
 
 ## Key Topics
 
-- [**Deity of Christ**](../jesus-christ/deity/) — Biblical evidence for Christ's divine nature
-- [**Incarnation**](../jesus-christ/incarnation/) — The Word made flesh
-- [**Death & Resurrection**](../jesus-christ/death-and-resurrection/) — The heart of the gospel
-- [**Prophet, Priest & King**](../jesus-christ/prophet-priest-king/) — The threefold office of Christ
-- [**Ascension & Session**](../jesus-christ/ascension-and-session/) — Christ enthroned at the right hand of the Father
+- [**Deity of Christ**](./deity/) — Biblical evidence for Christ's divine nature
+- [**Incarnation**](./incarnation/) — The Word made flesh
+- [**Death & Resurrection**](./death-and-resurrection/) — The heart of the gospel
+- [**Prophet, Priest & King**](./prophet-priest-king/) — The threefold office of Christ
+- [**Ascension & Session**](./ascension-and-session/) — Christ enthroned at the right hand of the Father
 
 ## Christ in All of Scripture
 

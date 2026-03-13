@@ -11,12 +11,12 @@ In the ancient Near East, a name was not merely a label but a revelation of char
 
 ## Major Names
 
-- [**YHWH**](../names-of-god/yhwh/) — The covenant name of God, "I AM WHO I AM"
-- [**Elohim**](../names-of-god/elohim/) — God as Creator and sovereign ruler
-- [**El Shaddai**](../names-of-god/el-shaddai/) — God Almighty, the all-sufficient one
-- [**Adonai**](../names-of-god/adonai/) — Lord and Master, sovereign over all
-- [**El Elyon**](../names-of-god/el-elyon/) — God Most High, supreme above all powers
-- [**YHWH Yireh**](../names-of-god/jehovah-jireh/) — The LORD will provide, the God who sees and supplies
+- [**YHWH**](./yhwh/) — The covenant name of God, "I AM WHO I AM"
+- [**Elohim**](./elohim/) — God as Creator and sovereign ruler
+- [**El Shaddai**](./el-shaddai/) — God Almighty, the all-sufficient one
+- [**Adonai**](./adonai/) — Lord and Master, sovereign over all
+- [**El Elyon**](./el-elyon/) — God Most High, supreme above all powers
+- [**YHWH Yireh**](./jehovah-jireh/) — The LORD will provide, the God who sees and supplies
 
 ## Why Names Matter
 

@@ -20,9 +20,9 @@ Theologians often distinguish between:
 
 Explore specific attributes of God in the pages that follow:
 
-- [Holiness](../gods-nature/holiness/) — God's absolute moral purity and transcendence
-- [Omniscience](../gods-nature/omniscience/) — God's perfect and exhaustive knowledge
-- [Love](../gods-nature/love/) — God's self-giving, covenantal faithfulness
-- [Sovereignty](../gods-nature/sovereignty/) — God's absolute rule over all creation and history
-- [Immutability](../gods-nature/immutability/) — God's unchanging essence, character, and purposes
-- [Mercy & Justice](../gods-nature/mercy-and-justice/) — God's compassion and righteous judgment, united at the cross
+- [Holiness](./holiness/) — God's absolute moral purity and transcendence
+- [Omniscience](./omniscience/) — God's perfect and exhaustive knowledge
+- [Love](./love/) — God's self-giving, covenantal faithfulness
+- [Sovereignty](./sovereignty/) — God's absolute rule over all creation and history
+- [Immutability](./immutability/) — God's unchanging essence, character, and purposes
+- [Mercy & Justice](./mercy-and-justice/) — God's compassion and righteous judgment, united at the cross

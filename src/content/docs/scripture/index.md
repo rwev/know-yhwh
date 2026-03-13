@@ -11,9 +11,9 @@ The Bible is the written Word of God — 66 books in the Protestant canon (Catho
 
 ## Key Topics
 
-- [**Authority of Scripture**](../scripture/authority/) — The divine origin, self-attesting nature, and supreme authority of God's Word
-- [**Inspiration & Inerrancy**](../scripture/inspiration-and-inerrancy/) — How God produced Scripture and why it is trustworthy
-- [**The Canon**](../scripture/canon/) — How the books of the Bible were recognized and received
-- [**Hermeneutics**](../scripture/hermeneutics/) — Principles for rightly interpreting the Word of God
-- [**Old Testament**](../scripture/old-testament/) — Law, Prophets, and Writings
-- [**New Testament**](../scripture/new-testament/) — Gospels, Epistles, and Revelation
+- [**Authority of Scripture**](./authority/) — The divine origin, self-attesting nature, and supreme authority of God's Word
+- [**Inspiration & Inerrancy**](./inspiration-and-inerrancy/) — How God produced Scripture and why it is trustworthy
+- [**The Canon**](./canon/) — How the books of the Bible were recognized and received
+- [**Hermeneutics**](./hermeneutics/) — Principles for rightly interpreting the Word of God
+- [**Old Testament**](./old-testament/) — Law, Prophets, and Writings
+- [**New Testament**](./new-testament/) — Gospels, Epistles, and Revelation

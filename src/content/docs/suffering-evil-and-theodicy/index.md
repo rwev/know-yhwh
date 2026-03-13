@@ -16,11 +16,11 @@ The discipline of **theodicy** (from the Greek *theos*/θεός — God + *dikē
 
 This section explores the biblical witness on suffering and evil across three major themes:
 
-- **[Why Suffering Exists](../suffering-evil-and-theodicy/why-suffering-exists/)** — The different categories of evil, the Fall as origin, the complexity of causes, and the faithful response of lament. The Bible refuses simplistic answers.
+- **[Why Suffering Exists](./why-suffering-exists/)** — The different categories of evil, the Fall as origin, the complexity of causes, and the faithful response of lament. The Bible refuses simplistic answers.
 
-- **[God's Sovereignty over Evil](../suffering-evil-and-theodicy/gods-sovereignty-over-evil/)** — How God governs a world shot through with evil without being the author of it. The mystery of divine sovereignty, human responsibility, and the spectrum of Christian theological reflection.
+- **[God's Sovereignty over Evil](./gods-sovereignty-over-evil/)** — How God governs a world shot through with evil without being the author of it. The mystery of divine sovereignty, human responsibility, and the spectrum of Christian theological reflection.
 
-- **[The Cross as Answer](../suffering-evil-and-theodicy/the-cross-as-answer/)** — God does not explain suffering from a distance; He enters it. The Incarnation, the Suffering Servant, the cry of dereliction, and the resurrection as the final word over evil and death.
+- **[The Cross as Answer](./the-cross-as-answer/)** — God does not explain suffering from a distance; He enters it. The Incarnation, the Suffering Servant, the cry of dereliction, and the resurrection as the final word over evil and death.
 
 ## A Word of Pastoral Caution
 

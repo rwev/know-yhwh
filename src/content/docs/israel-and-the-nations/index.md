@@ -15,11 +15,11 @@ This section explores the biblical theology of Israel's calling and its relation
 
 ## Topics
 
-- **[God's Plan for Israel](../israel-and-the-nations/gods-plan-for-israel/)** — The election of Abraham, Israel as a kingdom of priests, the olive tree metaphor, and God's irrevocable promises.
+- **[God's Plan for Israel](./gods-plan-for-israel/)** — The election of Abraham, Israel as a kingdom of priests, the olive tree metaphor, and God's irrevocable promises.
 
-- **[Israel & the Church](../israel-and-the-nations/israel-and-the-church/)** — How does the Church relate to Old Testament Israel? A fair survey of the major theological positions and the key texts in Romans 9--11.
+- **[Israel & the Church](./israel-and-the-church/)** — How does the Church relate to Old Testament Israel? A fair survey of the major theological positions and the key texts in Romans 9--11.
 
-- **[Missions](../israel-and-the-nations/missions/)** — God's heart for every *ethne* (ἔθνη) from Genesis to Revelation, the Great Commission, Paul's missionary journeys, and the task remaining.
+- **[Missions](./missions/)** — God's heart for every *ethne* (ἔθνη) from Genesis to Revelation, the Great Commission, Paul's missionary journeys, and the task remaining.
 
 ## A Unified Story
 

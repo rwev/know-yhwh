@@ -11,12 +11,12 @@ A covenant is a solemn, binding agreement between two parties. The covenants of 
 
 ## Key Covenants
 
-- [**Noahic Covenant**](../covenants/noahic/) — God's promise to preserve creation after the flood
-- [**Abrahamic Covenant**](../covenants/abrahamic/) — Promise of land, seed, and blessing
-- [**Mosaic Covenant**](../covenants/mosaic/) — Law given at Sinai
-- [**Davidic Covenant**](../covenants/davidic/) — Promise of an eternal throne and kingdom
-- [**New Covenant**](../covenants/new-covenant/) — Fulfilled in Christ's blood
-- [**Covenant Theology**](../covenants/covenant-theology/) — How the covenants relate to each other
+- [**Noahic Covenant**](./noahic/) — God's promise to preserve creation after the flood
+- [**Abrahamic Covenant**](./abrahamic/) — Promise of land, seed, and blessing
+- [**Mosaic Covenant**](./mosaic/) — Law given at Sinai
+- [**Davidic Covenant**](./davidic/) — Promise of an eternal throne and kingdom
+- [**New Covenant**](./new-covenant/) — Fulfilled in Christ's blood
+- [**Covenant Theology**](./covenant-theology/) — How the covenants relate to each other
 
 ## The Covenant Thread
 

@@ -30,9 +30,9 @@ Understanding the spiritual realm is essential for a complete biblical worldview
 
 ## What This Section Covers
 
-- [Angels](../angels-demons-and-spiritual-warfare/angels/) — The nature, categories, and ministry of God's holy messengers
-- [Satan & Demons](../angels-demons-and-spiritual-warfare/satan-and-demons/) — The origin, character, and defeat of the forces of darkness
-- [Spiritual Warfare](../angels-demons-and-spiritual-warfare/spiritual-warfare/) — The believer's calling and equipment for standing firm against evil
+- [Angels](./angels/) — The nature, categories, and ministry of God's holy messengers
+- [Satan & Demons](./satan-and-demons/) — The origin, character, and defeat of the forces of darkness
+- [Spiritual Warfare](./spiritual-warfare/) — The believer's calling and equipment for standing firm against evil
 
 ## A Balanced Approach
 

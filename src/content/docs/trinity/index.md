@@ -33,6 +33,6 @@ Scripture never uses the word "Trinity," yet the reality pervades its pages. The
 
 Explore the doctrine of the Trinity across the following pages:
 
-- [One God, Three Persons](../trinity/one-god-three-persons/) — The biblical foundation for God's unity and triunity
-- [Historical Development](../trinity/historical-development/) — How the church articulated this doctrine through the early councils
-- [Trinitarian Heresies](../trinity/trinitarian-heresies/) — False teachings about the Trinity and why they fail
+- [One God, Three Persons](./one-god-three-persons/) — The biblical foundation for God's unity and triunity
+- [Historical Development](./historical-development/) — How the church articulated this doctrine through the early councils
+- [Trinitarian Heresies](./trinitarian-heresies/) — False teachings about the Trinity and why they fail

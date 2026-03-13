@@ -27,6 +27,6 @@ The Hebrew word *chakam* (חָכָם) — "wise, skillful" — encompasses not o
 
 ## In This Section
 
-- [**Creation & Evolution**](../science-and-faith/creation-and-evolution/) — The biblical affirmation that God created all things, and the major Christian positions on how and when
-- [**Miracles & Natural Law**](../science-and-faith/miracles-and-natural-law/) — God's sovereignty over nature and the reality of His mighty acts in history
-- [**Faith & Reason**](../science-and-faith/faith-and-reason/) — Why Christian faith is not blind but a reasoned trust grounded in evidence and revelation
+- [**Creation & Evolution**](./creation-and-evolution/) — The biblical affirmation that God created all things, and the major Christian positions on how and when
+- [**Miracles & Natural Law**](./miracles-and-natural-law/) — God's sovereignty over nature and the reality of His mighty acts in history
+- [**Faith & Reason**](./faith-and-reason/) — Why Christian faith is not blind but a reasoned trust grounded in evidence and revelation

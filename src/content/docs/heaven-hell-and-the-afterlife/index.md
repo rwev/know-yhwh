@@ -13,10 +13,10 @@ The Bible's teaching on the afterlife unfolds progressively. The Old Testament s
 
 ## Key Topics
 
-- [**Intermediate State**](../heaven-hell-and-the-afterlife/intermediate-state/) — What happens between death and resurrection
-- [**Heaven**](../heaven-hell-and-the-afterlife/heaven/) — God's dwelling and humanity's ultimate destiny
-- [**Hell**](../heaven-hell-and-the-afterlife/hell/) — Divine judgment and the fate of the unrepentant
-- [**Resurrection Body**](../heaven-hell-and-the-afterlife/resurrection-body/) — The transformation awaiting all who are in Christ
+- [**Intermediate State**](./intermediate-state/) — What happens between death and resurrection
+- [**Heaven**](./heaven/) — God's dwelling and humanity's ultimate destiny
+- [**Hell**](./hell/) — Divine judgment and the fate of the unrepentant
+- [**Resurrection Body**](./resurrection-body/) — The transformation awaiting all who are in Christ
 
 ## Guiding Principles
 

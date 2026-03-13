@@ -21,7 +21,7 @@ Understanding creation answers the deepest questions of human existence:
 
 ## Explore This Section
 
-- [Creation](../creation-and-humanity/creation/) — God as Creator, the Genesis account, and creation's purpose
-- [Image of God](../creation-and-humanity/image-of-god/) — What it means to bear the *imago Dei*
-- [The Fall](../creation-and-humanity/the-fall/) — The Genesis 3 narrative and its devastating consequences
-- [Sin](../creation-and-humanity/sin/) — The Bible's teaching on human sinfulness and its effects
+- [Creation](./creation/) — God as Creator, the Genesis account, and creation's purpose
+- [Image of God](./image-of-god/) — What it means to bear the *imago Dei*
+- [The Fall](./the-fall/) — The Genesis 3 narrative and its devastating consequences
+- [Sin](./sin/) — The Bible's teaching on human sinfulness and its effects
