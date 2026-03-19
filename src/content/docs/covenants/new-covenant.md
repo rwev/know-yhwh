@@ -1,7 +1,7 @@
 ---
 title: New Covenant
 sidebar:
-  order: 5
+  order: 6
 ---
 
 > "Behold, the days are coming, declares the LORD, when I will make a new covenant with the house of Israel and the house of Judah." — Jeremiah 31:31

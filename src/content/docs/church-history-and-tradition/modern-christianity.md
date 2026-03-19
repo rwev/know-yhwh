@@ -1,7 +1,7 @@
 ---
 title: Modern Christianity
 sidebar:
-  order: 3
+  order: 6
 ---
 
 > After this I looked, and behold, a great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne and before the Lamb, clothed in white robes, with palm branches in their hands, and crying out with a loud voice, "Salvation belongs to our God who sits on the throne, and to the Lamb!"

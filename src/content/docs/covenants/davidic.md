@@ -1,7 +1,7 @@
 ---
 title: Davidic Covenant
 sidebar:
-  order: 4
+  order: 5
 ---
 
 > "Your house and your kingdom shall be made sure forever before me. Your throne shall be established forever." — 2 Samuel 7:16

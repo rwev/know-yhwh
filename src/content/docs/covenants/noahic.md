@@ -1,7 +1,7 @@
 ---
 title: Noahic Covenant
 sidebar:
-  order: 1
+  order: 2
 ---
 
 > "I establish my covenant with you, that never again shall all flesh be cut off by the waters of a flood, and never again shall there be a flood to destroy the earth." — Genesis 9:11
