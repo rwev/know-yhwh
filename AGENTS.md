@@ -20,6 +20,9 @@ There are no linters, formatters, or test frameworks installed. The Astro build
 changes (new pages, config edits, frontmatter changes). Pure content edits to
 existing pages do not require a build check.
 
+If you see "Duplicate id" warnings from `starlight-docs-loader` after reordering
+or renaming files, clear the Astro cache: `rm -rf .astro node_modules/.astro`
+
 ## CI/CD
 
 GitHub Actions deploys to GitHub Pages on push to `master`. The workflow
@@ -35,7 +38,7 @@ src/
   content/docs/            # ALL site content lives here
     index.md               # Homepage
     404.md                 # 404 page
-    <section>/             # ~28 topic directories
+    <section>/             # 28 topic directories
       index.md             # Section overview (sidebar order: 0)
       <article>.md         # Individual articles (order: 1, 2, 3, ...)
   styles/
@@ -50,6 +53,8 @@ public/
 
 Create `src/content/docs/<section>/<slug>.md` with frontmatter (see below).
 Sidebar ordering is automatic via `autogenerate` — just set the `order` value.
+Use consecutive integers (no gaps). If inserting between existing articles,
+renumber the subsequent articles.
 
 ### New section
 
@@ -86,15 +91,9 @@ sidebar:
 
 ### Opening Scripture blockquote
 
-Every page must begin with a Scripture blockquote immediately after the frontmatter:
-
-```markdown
-> "Scripture text here." — Book Chapter:Verse
-```
-
-- Em dash (`—`) before the reference; en dash (`–`) for verse ranges
-- Wrap the quotation in double quotes
-- Standard Bible citation format (e.g., `Romans 5:1`, `Ephesians 2:8–9`)
+Every page must begin with a Scripture blockquote immediately after the frontmatter.
+Em dash (`—`) before the reference; en dash (`–`) for verse ranges; double-quote
+the text: `> "Scripture text here." — Romans 5:1`
 
 ### Headings
 
@@ -104,14 +103,8 @@ Every page must begin with a Scripture blockquote immediately after the frontmat
 
 ### Hebrew and Greek terms
 
-```markdown
-*qadosh* (קָדוֹשׁ) — "holy" or "set apart"
-*dikaiosynē* (δικαιοσύνη) — "righteousness"
-```
-
-- Italicize transliterations with `*asterisks*`
-- Include the original Hebrew/Greek script in parentheses
-- Use em dash before the English gloss
+Italicize transliterations, include original script in parentheses, em dash before
+the English gloss: `*qadosh* (קָדוֹשׁ) — "holy" or "set apart"`
 
 ### Lists
 
@@ -131,12 +124,17 @@ Used exclusively for Scripture quotations. Never for callouts, asides, or emphas
 
 ### Content tone
 
-- Scholarly and irenic — present multiple theological viewpoints fairly
-  (e.g., Protestant vs. Catholic, different eschatological positions)
+- **Ecumenical / mere Christianity** — present Catholic, Orthodox, and Protestant
+  viewpoints fairly and charitably. Identify common ground before noting differences.
+  When covering disputed topics (atonement, predestination, sacraments, Mary, etc.),
+  give each tradition's position with its strongest scriptural and theological support.
+- Scholarly and irenic — never polemical or dismissive of any tradition
 - Deeply Scriptural — weave Scripture references throughout with parenthetical
   citations like `(Romans 8:1)` or `(cf. Isaiah 53:6)`
-- Long, substantive paragraphs (3-6 sentences typical)
+- Long, substantive paragraphs (3-6 sentences typical); articles are typically
+  60-120 lines
 - No images, code blocks, or tables
+- Close most articles with a final Scripture blockquote
 
 ## JavaScript/TypeScript Style (config files)
 
