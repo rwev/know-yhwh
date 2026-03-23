@@ -23,7 +23,7 @@ The missionary impulse is not a New Testament innovation. It runs through the en
 
 ### In the Torah
 - **Genesis 1--11** — God creates all humanity in His image; the Table of Nations (Genesis 10) shows His awareness of every people
-- **Genesis 12:1--3** — The Abrahamic covenant: "In you all the families of the earth shall be blessed"
+- **Genesis 12:1–3** — The [Abrahamic covenant](../../covenants/abrahamic/): "In you all the families of the earth shall be blessed"
 - **Exodus 9:16** — God tells Pharaoh, "For this purpose I have raised you up, to show you my power, so that my name may be proclaimed in all the earth." The Hebrew *shemi* (שְׁמִי, "my name") is central: in biblical thought, God's *shem* (שֵׁם, "name") encompasses His reputation, character, and revealed nature. Missions is fundamentally about making God's name known
 
 ### In the Psalms and Wisdom Literature
@@ -45,7 +45,7 @@ The risen Christ gave His followers a mandate that has shaped the Church's ident
 - **Luke 24:46--47** — "Repentance for the forgiveness of sins should be proclaimed in his name to all nations, beginning from Jerusalem"
 - **Acts 1:8** — "You will be my witnesses" — Greek *martyres* (μάρτυρες, from which English derives "martyr"), meaning those who testify from personal knowledge and conviction — "in Jerusalem and in all Judea and Samaria, and to the end of the earth"
 
-These commissions share a common structure: the authority of Christ, the scope of all nations, and the empowerment of the Holy Spirit.
+These commissions share a common structure: the authority of Christ, the scope of all nations, and the empowerment of the [Holy Spirit](../../holy-spirit/baptism-of-the-spirit/). For how the Church carries out this mandate through [mission and evangelism](../../the-church/mission-and-evangelism/), see the companion article.
 
 ## Paul's Missionary Journeys
 
@@ -77,4 +77,4 @@ The Bible's final portrait of redemption is emphatically multinational:
 
 > "After this I looked, and behold, a great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne and before the Lamb, clothed in white robes, with palm branches in their hands, and crying out with a loud voice, 'Salvation belongs to our God who sits on the throne, and to the Lamb!'" — Revelation 7:9--10
 
-This vision is not a hope that might fail. It is a certainty grounded in the character and promises of God. Every tribe, every tongue, every nation will have representatives before the throne. The missionary task is participation in what God has already determined to accomplish.
+This vision is not a hope that might fail. It is a certainty grounded in the character and promises of God. Every tribe, every tongue, every nation will have representatives before the throne. The missionary task is participation in what God has already determined to accomplish. The story that began with [one man called from Ur](../../covenants/abrahamic/) will end with a [new creation](../../last-things/new-creation/) filled with worshippers from every corner of the earth — the [kingdom of God](../../jesus-christ/kingdom-of-god/) in its consummated glory.

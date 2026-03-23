@@ -16,3 +16,4 @@ Prayer and worship are the heartbeat of the Christian life — the means by whic
 - [**Fasting**](./fasting/) — Self-denial as an expression of urgent dependence on God
 - [**Worship**](./worship/) — Living for the glory of God in spirit and truth
 - [**Psalms & Hymns**](./psalms-and-hymns/) — The sung theology of the people of God
+- [**Beauty, Art & Liturgy**](./beauty-art-and-liturgy/) — The theology of beauty and the role of art in Christian worship

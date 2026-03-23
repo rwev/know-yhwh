@@ -6,7 +6,7 @@ sidebar:
 
 > "For if their rejection means the reconciliation of the world, what will their acceptance mean but life from the dead?" — Romans 11:15
 
-The relationship between Israel and the Church is one of the most debated questions in Christian theology. The Greek word *ekklesia* (ἐκκλησία, "assembly, congregation") — from *ek* ("out of") and *kaleo* ("to call") — denotes a people called out and gathered together. Significantly, the Septuagint (the Greek Old Testament) uses *ekklesia* to translate the Hebrew *qahal* (קָהָל), the "assembly" of Israel before YHWH (e.g., Deuteronomy 9:10; 23:2). This linguistic overlap means that from the earliest Christian usage, the Church was understood not as a brand-new entity but as a continuation and expansion of Israel's covenant assembly. How do the promises God made to Abraham, Moses, and David relate to this community of Jews and Gentiles who confess Jesus as Messiah? Christians have given significantly different answers across the centuries.
+The relationship between Israel and the Church is one of the most debated questions in Christian theology. The Greek word *ekklesia* (ἐκκλησία, "assembly, congregation") — from *ek* ("out of") and *kaleo* ("to call") — denotes a people called out and gathered together. Significantly, the Septuagint (the Greek Old Testament) uses *ekklesia* to translate the Hebrew *qahal* (קָהָל), the "assembly" of Israel before YHWH (e.g., Deuteronomy 9:10; 23:2). This linguistic overlap means that from the earliest Christian usage, the Church was understood not as a brand-new entity but as a continuation and expansion of Israel's covenant assembly. How do the promises God made to [Abraham](../../covenants/abrahamic/), [Moses](../../covenants/mosaic/), and [David](../../covenants/davidic/) relate to this community of Jews and Gentiles who confess Jesus as Messiah? Christians have given significantly different answers across the centuries.
 
 ## The Major Views
 
@@ -14,7 +14,7 @@ The relationship between Israel and the Church is one of the most debated questi
 
 This view holds that the Church has permanently replaced Israel as the people of God. Because Israel rejected the Messiah, God's covenant promises have been transferred entirely to the Church.
 
-- **Key arguments**: The Church is called "the Israel of God" — *ton Israel tou Theou* (τὸν Ἰσραὴλ τοῦ Θεοῦ) — in Galatians 6:16 (though the scope of this phrase is debated); believers are "Abraham's offspring" — *sperma Abraam* (σπέρμα Ἀβραάμ) — in Galatians 3:29; the new covenant replaces the old (Hebrews 8:13)
+- **Key arguments**: The Church is called "the Israel of God" — *ton Israel tou Theou* (τὸν Ἰσραὴλ τοῦ Θεοῦ) — in Galatians 6:16 (though the scope of this phrase is debated); believers are "Abraham's offspring" — *sperma Abraam* (σπέρμα Ἀβραάμ) — in Galatians 3:29; the [new covenant](../../covenants/new-covenant/) replaces the old (Hebrews 8:13)
 - **Historical prevalence**: Dominant in much patristic and medieval theology
 - **Criticism**: Critics argue this view fails to account for Paul's emphatic statements in Romans 11 that God has not rejected Israel and that His gifts and calling are irrevocable
 
@@ -70,6 +70,8 @@ Despite significant disagreements, the majority of orthodox Christians across th
 
 - **God's promises to Israel are irrevocable** — "For the gifts and the calling of God are irrevocable" (Romans 11:29)
 - **Salvation is through Christ alone** — Whether for Jew or Gentile, there is one Savior (Acts 4:12; Romans 1:16). Note: Two-Covenant theologians dissent from this point, holding that Israel's covenant provides its own saving relationship with God apart from explicit faith in Christ. The mainstream Christian tradition, however, has consistently affirmed the universality of salvation through Christ.
-- **Antisemitism is a grave sin** — The Church's historical mistreatment of the Jewish people stands under God's judgment
+- **Antisemitism is a grave sin** — The Church's [historical mistreatment](../../world-religions-and-comparative-theology/christianity-and-judaism/) of the Jewish people stands under God's judgment
 - **God's plan encompasses all nations** — The story of Israel is inseparable from the story of God's love for the whole world
 - **The final chapter is not yet written** — God's purposes for Israel and the nations are still unfolding, and believers are called to trust His faithfulness
+
+> "For the gifts and the calling of God are irrevocable." — Romans 11:29

@@ -33,10 +33,10 @@ Yet Israel's wisdom is distinguished by its **monotheistic foundation**. Wisdom 
 
 ## The Voices of Wisdom
 
-- **Proverbs** offers confident, orderly wisdom — general principles for the good life
-- **Ecclesiastes** interrogates the limits of wisdom, probing the enigmas of existence
-- **Job** confronts the crisis that arises when wisdom's confident formulas break down in the face of innocent suffering
-- **Psalms** gives wisdom a voice in prayer, praise, and lament before God
+- [**Proverbs**](./proverbs/) offers confident, orderly wisdom — general principles for the good life
+- [**Ecclesiastes**](./ecclesiastes/) interrogates the limits of wisdom, probing the enigmas of existence
+- [**Job**](./job/) confronts the crisis that arises when wisdom's confident formulas break down in the face of innocent suffering
+- [**Psalms**](./psalms/) gives wisdom a voice in prayer, praise, and lament before God
 
 Together, these books present a **full-orbed** picture of life with God — not a simplistic formula but an honest, reverent engagement with all of human experience.
 

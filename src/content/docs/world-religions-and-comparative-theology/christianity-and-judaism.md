@@ -13,7 +13,7 @@ Christianity and Judaism share a relationship unlike any other pairing of world 
 The common ground between Christianity and Judaism is vast and profound:
 
 - **Monotheism**: Both confess that there is one God, the Creator of heaven and earth — the God of Abraham, Isaac, and Jacob (Deuteronomy 6:4; Mark 12:29)
-- **Covenant**: Both traditions are shaped by God's *berit* (בְּרִית) — "covenant, binding agreement" — with his people, from Abraham through Moses and beyond (Genesis 15; Exodus 19-24)
+- **Covenant**: Both traditions are shaped by God's *berit* (בְּרִית) — "covenant, binding agreement" — with His people, from [Abraham](../../covenants/abrahamic/) through [Moses](../../covenants/mosaic/) and beyond (Genesis 15; Exodus 19–24)
 - **The Hebrew Scriptures**: Christians receive the *Tanakh* (תַּנַ"ךְ) — an acronym for *Torah* (Law), *Nevi'im* (Prophets), and *Ketuvim* (Writings) — as the inspired Word of God, the same texts that shaped Second Temple Judaism
 - **Messianic hope**: Both traditions look for the fulfillment of God's promises, though they disagree sharply on whether that fulfillment has come
 - **Ethical monotheism**: The conviction that the one God is holy and demands righteousness from his people (Micah 6:8; Leviticus 19:2)
@@ -34,9 +34,9 @@ Jewish theology raises serious objections that Christians must take seriously:
 
 Christians respond to these objections from within the Scriptures both communities share:
 
-- **Two comings**: The prophets describe both a suffering servant (Isaiah 53) and a reigning king (Daniel 7:13-14). Christians affirm that Jesus fulfilled the suffering-servant prophecies at his first coming and will fulfill the kingly prophecies at his return
-- **Complex oneness**: The Hebrew word *echad* (אֶחָד) in the *Shema* means simply "one." Christians should not overstate the linguistic argument — *echad* does not inherently mean "compound unity." However, the broader Old Testament witness reveals a God who is one yet who speaks of himself in plural terms (Genesis 1:26, "Let *us* make man"), who appears as the Angel of the LORD who is identified with YHWH yet distinct from him (Genesis 16:13; Exodus 3:2-6), and whose Word and Spirit act as distinct personal agents (Psalm 33:6; Isaiah 48:16). The Trinity is not derived from a single word but from the full pattern of divine self-revelation
-- **Fulfillment, not replacement**: Christianity claims to fulfill the hopes of Israel, not abolish them. Jesus himself said, "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them" (Matthew 5:17)
+- **Two comings**: The prophets describe both a suffering servant (Isaiah 53) and a reigning king (Daniel 7:13–14). Christians affirm that Jesus fulfilled the [suffering-servant prophecies](../../prophecy/messianic/) at His first coming and will fulfill the kingly prophecies at His return. The Jewish concept of *Mashiach ben Yosef* (a suffering Messiah) alongside *Mashiach ben David* (a reigning Messiah) in later rabbinic tradition suggests that even within Judaism the tension between suffering and glory was recognized
+- **Complex oneness**: The Hebrew word *echad* (אֶחָד) in the *Shema* means "one." Christians should not overstate the linguistic argument — *echad* does not inherently mean "compound unity." However, the broader Old Testament witness reveals a God who is one yet who speaks of Himself in plural terms (Genesis 1:26), who appears as the Angel of the LORD who is identified with [YHWH](../../names-of-god/yhwh/) yet distinct from Him (Genesis 16:13; Exodus 3:2–6), and whose Word and Spirit act as distinct personal agents (Psalm 33:6; Isaiah 48:16). The [Trinity](../../trinity/one-god-three-persons/) is not derived from a single word but from the full pattern of divine self-revelation
+- **Fulfillment, not replacement**: Christianity claims to fulfill the hopes of Israel, not abolish them. Jesus Himself said, "Do not think that I have come to abolish the [Law](../../the-law-and-ethics/moral-and-ceremonial-law/) or the Prophets; I have not come to abolish them but to fulfill them" (Matthew 5:17). The [new covenant](../../covenants/new-covenant/) promised in Jeremiah 31:31–34 is understood by Christians not as the annulment of God's relationship with Israel but as its deepening and universalizing
 
 ## God's Ongoing Faithfulness to Israel
 
@@ -47,8 +47,12 @@ The apostle Paul wrestled deeply with the relationship between the church and Is
 - "All Israel will be saved" — God's covenant purposes for the Jewish people remain (Romans 11:26)
 - The gifts and calling of God are irrevocable (Romans 11:29)
 
-Christians must approach Judaism not with triumphalism or contempt, but with gratitude for the heritage received and hope for the fulfillment of God's promises to Abraham's descendants.
+Christians must approach Judaism not with triumphalism or contempt, but with gratitude for the heritage received and hope for the fulfillment of God's promises to Abraham's descendants. For a fuller treatment, see [Israel and the Church](../../israel-and-the-nations/israel-and-the-church/).
+
+The tragic history of Christian antisemitism — from the patristic *adversus Judaeos* literature through medieval persecutions to the horrors of the twentieth century — stands as a grievous failure to heed Paul's warning: "Do not be arrogant toward the branches... it is not you who support the root, but the root that supports you" (Romans 11:18). The Second Vatican Council's declaration *Nostra Aetate* (1965) marked a turning point, repudiating the charge of collective Jewish guilt for Christ's death and affirming that "the Jews should not be presented as rejected or accursed by God." Evangelical and Orthodox leaders have issued similar statements. Genuine Christian faithfulness requires both theological honesty about the claims of Christ and deep repentance for the sins committed in His name against the Jewish people.
 
 ## The Heart of the Matter
 
-The disagreement between Christianity and Judaism is not peripheral. It concerns the identity of God, the meaning of salvation, and the fulfillment of history. Christians believe that in Jesus, the God of Israel has acted decisively to redeem the world — not in spite of the Jewish Scriptures, but in fulfillment of them. As Paul writes, "For all the promises of God find their Yes in him" (2 Corinthians 1:20).
+The disagreement between Christianity and Judaism is not peripheral. It concerns the identity of God, the meaning of *yeshuah* (יְשׁוּעָה) — "salvation, deliverance" — and the fulfillment of history. Christians believe that in Jesus — whose Hebrew name *Yeshua* (יֵשׁוּעַ) itself means "YHWH saves" — the God of Israel has acted decisively to redeem the world, not in spite of the Jewish Scriptures but in fulfillment of them. As Paul writes, "For all the promises of God find their Yes in him" (2 Corinthians 1:20).
+
+> "O the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how inscrutable his ways!" — Romans 11:33

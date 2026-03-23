@@ -14,8 +14,8 @@ Scripture affirms the goodness of the physical body from its opening pages:
 
 - God created humanity as embodied beings and declared everything He made "very good" — *tov meod* (טוֹב מְאֹד) (Genesis 1:31)
 - The body is not a prison for the soul (as Greek philosophy taught) but an integral part of what it means to be human. The Hebrew *basar* (בָּשָׂר) — "flesh, body" — is not a negative category in Scripture; it refers to the whole embodied person in their creaturely dependence on God
-- The incarnation — God taking on human flesh in Christ — is the ultimate affirmation of the body's dignity and worth
-- The resurrection of the body (not escape from the body) is the Christian hope (1 Corinthians 15:42–44)
+- The [incarnation](../../jesus-christ/incarnation/) — God taking on human flesh in Christ — is the ultimate affirmation of the body's dignity and worth
+- The [resurrection of the body](../../heaven-hell-and-the-afterlife/resurrection-body/) (not escape from the body) is the Christian hope (1 Corinthians 15:42–44)
 
 Because the body is good and sacred, what we do with our bodies matters. Sexuality is not merely physical — it engages the whole person, body and soul.
 
@@ -28,7 +28,7 @@ Within the biblical vision, sexual intimacy serves multiple purposes:
 - **Delight** — The Song of Solomon celebrates the joy and beauty of marital love without embarrassment. The Hebrew *dodim* (דֹּדִים) — "lovemaking, caresses" — and *ahavah* (אַהֲבָה) — "love" — pervade the book, presenting erotic love within covenant commitment as a gift to be savored, not a concession to weakness
 - **Covenant renewal** — The sexual act reaffirms the exclusive, total self-giving of the marriage covenant
 
-Scripture places sexual union within the covenant of marriage — not to diminish it, but to protect and honor it. The boundary exists because the gift is so significant.
+Scripture places sexual union within the covenant of [marriage](../marriage/) — not to diminish it, but to protect and honor it. The boundary exists because the gift is so significant.
 
 ## Sexual Immorality — Porneia
 
@@ -87,4 +87,6 @@ No section on sexuality would be complete without the gospel. The Bible's sexual
 
 The gospel does not lower God's standard — but it meets every person in their brokenness with the offer of forgiveness, cleansing, and new life. No one is beyond the reach of God's redeeming love. No past is too broken for His grace. The same Christ who calls us to holiness is the Christ who died for us while we were still sinners (Romans 5:8).
 
-Those who struggle with sexual sin — whether in the past or the present — are not disqualified from God's family. They are precisely the people for whom Jesus came. The Church is called to be a community where truth and compassion walk together, where the standard is high and the grace is deep, and where every repentant sinner finds a home.
+Those who struggle with sexual sin — whether in the past or the present — are not disqualified from God's family. They are precisely the people for whom Jesus came. The Church is called to be a community where truth and compassion walk together, where the standard is high and the [grace](../../salvation/grace/) is deep, and where every [repentant](../../salvation/repentance/) sinner finds a home.
+
+> "Create in me a clean heart, O God, and renew a right spirit within me." — Psalm 51:10

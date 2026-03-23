@@ -18,14 +18,14 @@ Christian theology has traditionally distinguished three categories within the M
 
 ### Moral Law
 - Universal ethical principles rooted in God's character
-- Summarized in the Ten Commandments (*Aseret HaDibrot*, עֲשֶׂרֶת הַדִּבְּרוֹת)
+- Summarized in the [Ten Commandments](../ten-commandments/) (*Aseret HaDibrot*, עֲשֶׂרֶת הַדִּבְּרוֹת)
 - Binding on all people at all times
 - Examples: prohibitions against murder (*ratsach*, רָצַח), theft (*ganav*, גָּנַב), adultery (*na'af*, נָאַף), false witness (*ed shaqer*, עֵד שָׁקֶר)
 
 ### Ceremonial Law
 - Regulations governing Israel's worship, sacrifices, purity, and holy days
 - The Hebrew vocabulary for these laws is distinctive: *chuqqah* (חֻקָּה, "statute, ordinance") and *chuqqat olam* (חֻקַּת עוֹלָם, "perpetual statute") frequently mark ceremonial prescriptions, while *tohorah* (טׇהֳרָה, "purity, cleanness") and *tum'ah* (טֻמְאָה, "uncleanness, impurity") define the ritual categories
-- Pointed forward to Christ as types and shadows — Paul calls them *skia* (σκιά, "shadow") of things to come (Colossians 2:16–17; Hebrews 10:1)
+- Pointed forward to Christ as [types and shadows](../../typology-and-biblical-theology/types-and-shadows/) — Paul calls them *skia* (σκιά, "shadow") of things to come (Colossians 2:16–17; Hebrews 10:1)
 - Fulfilled and therefore no longer binding in their original form
 - Examples: animal sacrifices (*korbanot*, קׇרְבָּנוֹת, from *qarav*, קָרַב, "to draw near"), dietary laws (*kashrut*), ritual purity regulations, the temple system
 
@@ -51,7 +51,7 @@ Christians across traditions agree that Christ has decisively changed how believ
 
 The Reformed tradition, following John Calvin, identifies three uses or functions of the law:
 
-- **First use (mirror)**: The law reveals God's holiness and exposes human sinfulness, driving people to Christ for mercy (Romans 3:20)
+- **First use (mirror)**: The law reveals God's [holiness](../../gods-nature/holiness/) and exposes human [sinfulness](../../creation-and-humanity/sin/), driving people to Christ for mercy (Romans 3:20)
 - **Second use (curb)**: The law restrains evil in society by declaring God's standards and their consequences
 - **Third use (guide)**: The moral law remains a guide for the Christian life, showing believers how to live in grateful obedience — this is the law's "principal use" for Calvin
 
@@ -89,7 +89,7 @@ All Christian traditions agree that Jesus fulfills the law, though they understa
 
 - He **obeyed** the law perfectly — his *hupakoe* (ὑπακοή, "obedience," literally "hearing under") provides the *dikaiosune* (δικαιοσύνη, "righteousness") credited to believers (Romans 5:19; 2 Corinthians 5:21)
 - He **completed** the ceremonial law — he is the true *korban* (קׇרְבָּן, "offering"), the true *kohen* (כֹּהֵן, "priest"), the true *hekal* (הֵיכָל, "temple") (Hebrews 9–10)
-- He **deepened** the moral law, revealing its full intention at the level of the heart — *kardia* (καρδία), the Greek equivalent of Hebrew *lev* (לֵב) (Matthew 5:21–48)
+- He **deepened** the moral law in the [Sermon on the Mount](../sermon-on-the-mount/), revealing its full intention at the level of the heart — *kardia* (καρδία), the Greek equivalent of Hebrew *lev* (לֵב) (Matthew 5:21–48)
 - He **embodied** the law's purpose — *agape* (ἀγάπη, "self-giving love") for God and for neighbor (Romans 13:8–10)
 
 ## The Law Written on Hearts
@@ -98,4 +98,4 @@ The prophets looked forward to a day when God's law would no longer be merely ex
 
 > "I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people." — Jeremiah 31:33
 
-The New Testament declares this promise fulfilled through the Holy Spirit (*Ruach HaQodesh*, רוּחַ הַקֹּדֶשׁ), who enables believers to walk — *peripateo* (περιπατέω, "to walk about, conduct one's life") — in God's ways from the inside out (Hebrews 8:10; 2 Corinthians 3:3; Ezekiel 36:26–27). The goal of the law was always transformation — not mere compliance, but a people who love what God loves.
+The [new covenant](../../covenants/new-covenant/) declares this promise fulfilled through the [Holy Spirit](../../holy-spirit/person-of-the-spirit/) (*Ruach HaQodesh*, רוּחַ הַקֹּדֶשׁ), who enables believers to walk — *peripateo* (περιπατέω, "to walk about, conduct one's life") — in God's ways from the inside out (Hebrews 8:10; 2 Corinthians 3:3; Ezekiel 36:26–27). The goal of the law was always transformation — not mere compliance, but a people who love what God loves.

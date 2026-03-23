@@ -44,7 +44,7 @@ A recurring three-part structure runs through the prophetic books:
 2. **Warning of judgment** — Because God is holy and just, sin must be addressed. Exile, destruction, and suffering are the consequences of persistent rebellion.
 3. **Promise of restoration** — Yet God's final purpose is not destruction but redemption. Beyond the judgment lies a promised future — a new covenant, a restored people, a coming King.
 
-This pattern reflects God's character: He is both just and merciful, both holy and compassionate. Understanding this structure prevents two common errors: reading the prophets as only doom-and-gloom, or reading them as only comfort-and-hope. The prophets hold judgment and mercy together because God Himself holds them together.
+This pattern reflects God's character: He is both [just and merciful](../../gods-nature/mercy-and-justice/), both [holy](../../gods-nature/holiness/) and compassionate. Understanding this structure prevents two common errors: reading the prophets as only doom-and-gloom, or reading them as only comfort-and-hope. The prophets hold judgment and mercy together because God Himself holds them together.
 
 ## Prophetic Acts
 
@@ -60,7 +60,7 @@ These enacted parables demonstrate that God's word is not abstract theology but 
 ## Key Prophets and Their Messages
 
 - **Isaiah** — The prophet of salvation. Proclaims both the coming judgment on Judah and the glorious hope of a Suffering Servant who will bear the sins of many (Isaiah 53) and a coming King who will reign on David's throne forever (Isaiah 9:6–7).
-- **Jeremiah** — The weeping prophet. Warns Judah that judgment through Babylon is inevitable, yet promises a new covenant written on the heart (Jeremiah 31:31–34).
+- **Jeremiah** — The weeping prophet. Warns Judah that judgment through Babylon is inevitable, yet promises a [new covenant](../../covenants/new-covenant/) written on the heart (Jeremiah 31:31–34).
 - **Ezekiel** — The prophet of God's glory. Witnesses the glory of God departing the temple (Ezekiel 10) and envisions its return to a renewed creation (Ezekiel 43). Proclaims the valley of dry bones — God's power to resurrect a dead nation (Ezekiel 37).
 - **Hosea** — The prophet of unfailing love. His own marriage to an unfaithful wife becomes a living parable of God's relentless love for wayward Israel.
 - **Amos** — The prophet of justice. A shepherd called to denounce the wealthy who oppress the poor. "Let justice roll down like waters, and righteousness like an ever-flowing stream" (Amos 5:24).
@@ -68,7 +68,7 @@ These enacted parables demonstrate that God's word is not abstract theology but 
 
 ## The Prophets and the New Testament
 
-The New Testament writers understood Jesus as the culmination of the prophetic tradition. Moses had promised that God would raise up "a prophet like me" (Deuteronomy 18:15), and Peter identified Jesus as that prophet (Acts 3:22–23). Jesus Himself spoke with prophetic authority — but He did not say "Thus says the LORD." He said "Truly, truly, I say to you" — speaking on His own divine authority as the Word of God incarnate. He is not merely the greatest of the prophets; He is the one to whom all the prophets pointed.
+The New Testament writers understood Jesus as the culmination of the prophetic tradition. Moses had promised that God would raise up "a prophet like me" (Deuteronomy 18:15), and Peter identified Jesus as that prophet (Acts 3:22–23). Jesus Himself spoke with prophetic authority — but He did not say "Thus says the LORD." He said "Truly, truly, I say to you" — speaking on His own divine authority as the Word of God incarnate. He is not merely the greatest of the prophets; He is the one to whom all the prophets pointed — the fulfillment of every [messianic](../messianic/) hope and every [prophetic pattern](../fulfillment-patterns/).
 
 The book of Hebrews captures this progression: "Long ago, at many times and in many ways, God spoke to our fathers by the prophets, but in these last days he has spoken to us by his Son" (Hebrews 1:1–2). The prophetic word, scattered across centuries and many voices, finds its unified and final expression in Christ.
 

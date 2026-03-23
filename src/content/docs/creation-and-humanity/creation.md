@@ -16,7 +16,7 @@ Scripture teaches that God created out of nothing — *ex nihilo* — rather tha
 - God "calls into existence the things that do not exist" (Romans 4:17)
 - "All things were made through him, and without him was not any thing made that was made" (John 1:3)
 
-This distinguishes the biblical God from pagan creation myths, where gods shape the world from chaos or from the bodies of slain deities. YHWH is not a craftsman working with raw material — He is the source of all that exists.
+This distinguishes the biblical God from pagan creation myths, where gods shape the world from chaos or from the bodies of slain deities. [YHWH](../../names-of-god/yhwh/) is not a craftsman working with raw material — He is the source of all that exists. The early Church defended *creatio ex nihilo* against both pagan eternalism and Gnostic dualism. The Shepherd of Hermas (c. 150) declared, "First of all, believe that God is one, who made all things and completed them, and made all things to be out of that which was not." The Nicene Creed confesses God as "maker of heaven and earth, of all things visible and invisible."
 
 ## The Genesis Creation Account
 
@@ -37,7 +37,11 @@ Christians who affirm God as Creator have understood the Genesis account in diff
 - **Framework Interpretation** — The days are a literary structure presenting God's creative acts topically rather than chronologically
 - **Analogical Day View** — The days are real but analogous to human days, reflecting God's work pattern
 
-Each view is held by serious scholars who affirm the authority of Scripture. The non-negotiable truth across all orthodox positions is that the personal God of the Bible is the Creator of all things.
+Each view is held by serious scholars who affirm the authority of Scripture. For a fuller discussion, see [Creation and Evolution](../../science-and-faith/creation-and-evolution/). The non-negotiable truth across all orthodox positions is that the personal God of the Bible is the Creator of all things.
+
+## The Trinity and Creation
+
+Creation is the work of the [triune God](../../trinity/one-god-three-persons/). The Father creates through the Son by the Spirit. John's Gospel opens with a deliberate echo of Genesis: "In the beginning was the Word — *Logos* (λόγος) — and the Word was with God, and the Word was God... All things were made through him" (John 1:1, 3). Paul affirms that "by him all things were created, in heaven and on earth" and "in him all things hold together" (Colossians 1:16–17). The Spirit's role appears in Genesis 1:2 itself, where the *ruach Elohim* (רוּחַ אֱלֹהִים) — the Spirit of God — "was hovering over the face of the waters," and in Psalm 104:30: "When you send forth your Spirit, they are created." Irenaeus of Lyon spoke of the Son and the Spirit as the "two hands of God" through which the Father fashioned the world — creation is a Trinitarian act from its first moment.
 
 ## Creation Reveals God's Glory
 
@@ -51,4 +55,8 @@ Creation functions as a universal revelation of God's power, wisdom, and deity. 
 
 ## God Sustains What He Made
 
-Creation is not a past act alone. God continually upholds all things by the word of His power (Hebrews 1:3). In Christ "all things hold together" (Colossians 1:17). The universe exists moment by moment because God wills it to exist.
+Creation is not a past act alone. God continually upholds all things by the word of His power (Hebrews 1:3). In Christ "all things hold together" (Colossians 1:17). The universe exists moment by moment because God [wills](../../gods-nature/sovereignty/) it to exist. This ongoing sustaining work — [providence](../../gods-nature/sovereignty/) — means that the distinction between "natural" and "supernatural" is not absolute: every sunrise, every heartbeat, every falling sparrow depends on the Creator's active will (Matthew 10:29; Acts 17:28).
+
+Creation also has a telos — a goal. Scripture does not present the original creation as the final word but as the beginning of a story that moves toward [new creation](../../last-things/new-creation/). Paul writes that "the creation itself will be set free from its bondage to corruption and obtain the freedom of the glory of the children of God" (Romans 8:21). The Bible's story arc runs from garden to city, from Eden to the New Jerusalem (Revelation 21:1–5) — and the God who made all things will make all things new.
+
+> "Worthy are you, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they existed and were created." — Revelation 4:11

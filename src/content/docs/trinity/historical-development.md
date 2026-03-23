@@ -6,7 +6,7 @@ sidebar:
 
 > "Jesus Christ is the same yesterday and today and forever." — Hebrews 13:8
 
-The doctrine of the Trinity was not invented at Nicaea. The church always worshiped Father, Son, and Spirit as one God. What developed over the first centuries was the precise theological language needed to defend this faith against distortions.
+The doctrine of the Trinity was not invented at Nicaea. The Church always worshiped Father, Son, and Spirit as [one God](../one-god-three-persons/). What developed over the first centuries was the precise theological language needed to defend this faith against [distortions](../trinitarian-heresies/).
 
 ## The Apostolic and Pre-Nicene Period
 
@@ -30,7 +30,7 @@ The priest **Arius** of Alexandria taught that the Son was the first and greates
 - "Begotten, not made"
 - *Homoousios* (ὁμοούσιος) — "of the same substance" as the Father
 
-The Nicene Creed became the definitive standard of orthodox Trinitarian faith.
+The [Nicene Creed](../../church-history-and-tradition/creeds-and-confessions/) became the definitive standard of orthodox Trinitarian faith.
 
 ## The Council of Constantinople (381 AD)
 
@@ -67,6 +67,6 @@ The original Nicene-Constantinopolitan Creed states that the Spirit "proceeds fr
 - **The Western view** holds that the Spirit proceeds from the Father and the Son as from one principle, reflecting the Son's role in sending the Spirit (John 15:26; 16:7; Galatians 4:6)
 - **The Eastern view** holds that the Father alone is the sole source — *monarchia* (μοναρχία), literally "single origin/rule" — of the Son and Spirit, preserving the Father's unique role as *archē* (ἀρχή) — "origin" or "principle" — within the Trinity
 
-This disagreement contributed to the Great Schism of 1054 between Rome and Constantinople. Both traditions affirm the full deity and personhood of the Spirit; they differ on how to describe the Spirit's eternal origin.
+This disagreement contributed to the [Great Schism](../../church-history-and-tradition/medieval-church/) of 1054 between Rome and Constantinople. Both traditions affirm the full deity and personhood of the Spirit; they differ on how to describe the Spirit's eternal origin.
 
 > "When the Spirit of truth comes, he will guide you into all the truth." — John 16:13

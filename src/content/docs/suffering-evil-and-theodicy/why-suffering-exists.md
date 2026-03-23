@@ -23,7 +23,7 @@ These categories often overlap. A famine may be natural; it may also be worsened
 
 ## The Fall as Origin
 
-The Bible traces the entrance of suffering into the human story to the Fall of Adam and Eve (Genesis 3). God created the world *tov me'od* (טוֹב מְאֹד) — "very good" (Genesis 1:31). Suffering, death, and corruption were not part of the original design. They entered through human rebellion:
+The Bible traces the entrance of suffering into the human story to the [fall](../../creation-and-humanity/the-fall/) of Adam and Eve (Genesis 3). God created the world *tov me'od* (טוֹב מְאֹד) — "very good" (Genesis 1:31). Suffering, death, and corruption were not part of the original design. They entered through human rebellion:
 
 - Death entered the world through sin (Romans 5:12)
 - The ground itself was cursed on account of humanity (Genesis 3:17–19)
@@ -36,10 +36,10 @@ The Fall does not explain every particular instance of suffering, but it explain
 The Bible presents suffering under several aspects — none of which should be applied carelessly to another person's pain:
 
 - **Consequence** — Some suffering is the direct result of sin, individually or corporately. "Whatever one sows, that will he also reap" (Galatians 6:7). But this must never be our default assumption about others (John 9:2–3).
-- **Discipline** — God disciplines those He loves, not to destroy them, but to refine them (Hebrews 12:5–11; Proverbs 3:11–12). This is the loving correction of a Father, not punishment from a tyrant.
+- **Discipline** — God disciplines those He loves, not to destroy them, but to refine them (Hebrews 12:5–11; Proverbs 3:11–12). This is the [loving](../../gods-nature/love/) correction of a Father, the path of [sanctification through suffering](../../sanctification-and-discipleship/suffering-and-growth/).
 - **Testing and refinement** — Suffering can purify faith "more precious than gold" (1 Peter 1:6–7). Abraham was tested (Genesis 22); Israel was tested in the wilderness (Deuteronomy 8:2).
 - **Witness and mission** — Paul's sufferings advanced the gospel (Philippians 1:12–14). The blood of the martyrs has always been the seed of the Church.
-- **Mystery** — And sometimes, suffering simply defies explanation. This is the testimony of Job, and it must be honored.
+- **Mystery** — And sometimes, suffering simply defies explanation. This is the testimony of [Job](../../wisdom-literature/job/), and it must be honored. For how God's [sovereignty](../../gods-nature/sovereignty/) relates to evil, see the companion article on [God's sovereignty over evil](../gods-sovereignty-over-evil/); for how the cross addresses the deepest dimension of the problem, see [the cross as answer](../the-cross-as-answer/).
 
 ## The Book of Job: A Challenge to Simplistic Answers
 
@@ -51,7 +51,7 @@ His friends insist that suffering must be punishment for hidden sin. They repres
 - Bildad appeals to tradition: God does not pervert justice (Job 8:3). True — but wrongly applied.
 - Zophar appeals to divine mystery — but uses it as a club to silence Job (Job 11:6).
 
-God's response from the whirlwind (Job 38–41) does not answer the "why." Instead, God reveals *Himself* — His power, wisdom, and sovereign freedom. The answer to Job's suffering is not an explanation but an encounter.
+God's response from the whirlwind (Job 38–41) does not answer the "why." Instead, God reveals *Himself* — His power, wisdom, and [sovereign](../../gods-nature/sovereignty/) freedom. The answer to Job's suffering is not an explanation but an encounter. As Gregory the Great wrote in his *Moralia in Job*, the book teaches that the deepest knowledge of God comes not through argument but through the crucible of affliction — a truth the [suffering of Christ](../../jesus-christ/death-and-resurrection/) itself would consummate.
 
 > "I had heard of you by the hearing of the ear, but now my eye sees you."
 > — Job 42:5
@@ -73,3 +73,5 @@ The biblical tradition gives us **permission to grieve, to question, and to cry 
 - We must not pretend that faith eliminates suffering. It does not. But it does provide a framework of hope — a hope anchored not in understanding, but in the character of God Himself.
 
 Some suffering is genuinely mysterious. And the honest theologian will say so.
+
+> "We do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin. Let us then with confidence draw near to the throne of grace." — Hebrews 4:15–16

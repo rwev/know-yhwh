@@ -13,6 +13,7 @@ The Bible's teaching on the afterlife unfolds progressively. The Old Testament s
 
 ## Key Topics
 
+- [**Death & Dying**](./death-and-dying/) — The biblical understanding of death, the *ars moriendi*, and the hope of the believer
 - [**Intermediate State**](./intermediate-state/) — What happens between death and resurrection
 - [**Heaven**](./heaven/) — God's dwelling and humanity's ultimate destiny
 - [**Hell**](./hell/) — Divine judgment and the fate of the unrepentant

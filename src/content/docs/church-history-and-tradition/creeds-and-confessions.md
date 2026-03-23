@@ -16,7 +16,7 @@ The English word "creed" comes from the Latin *credo* — "I believe" — the op
 
 Long before any formal creed was composed, the apostolic Church confessed its faith in brief, structured formulas:
 
-- **"Jesus is Lord"** — *Kyrios Iēsous* (Κύριος Ἰησοῦς) — is perhaps the earliest Christian confession (Romans 10:9; 1 Corinthians 12:3; Philippians 2:11). In the Roman Empire, where *Kyrios Kaisar* — "Caesar is Lord" — was the oath of political allegiance, the confession that Jesus is Lord was both a theological statement and an act of defiance.
+- **"Jesus is Lord"** — *Kyrios Iēsous* (Κύριος Ἰησοῦς) — is perhaps the earliest Christian confession (Romans 10:9; 1 Corinthians 12:3; Philippians 2:11). In the Roman Empire, where *Kyrios Kaisar* — "Caesar is Lord" — was the oath of political allegiance, the confession that Jesus is [Lord](../../names-of-god/adonai/) was both a theological statement and an act of defiance.
 - **1 Corinthians 15:3–5** — Paul passes on what he "received" — a pre-Pauline summary of the gospel: Christ died for our sins according to the Scriptures, was buried, was raised on the third day, and appeared to witnesses. This creedal formula dates to within a few years of the resurrection itself.
 - **Philippians 2:6–11** — The great Christ-hymn, confessing that Christ, "though he was in the form of God," emptied Himself, took the form of a servant, was obedient to death on a cross, and was exalted by the Father so that "every tongue confess that Jesus Christ is Lord."
 - **1 Timothy 3:16** — "He was manifested in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory." This rhythmic, hymn-like passage reads like an early liturgical confession.
@@ -37,7 +37,7 @@ The Apostles' Creed is used across Western Christianity — Catholic, Anglican, 
 
 The Nicene Creed (more precisely, the Niceno-Constantinopolitan Creed) emerged from the great theological controversies of the fourth century. When Arius of Alexandria taught that the Son was a created being — the highest creature, but a creature nonetheless — the Church was forced to articulate with precision what Scripture teaches about the relationship between the Father and the Son.
 
-The Council of Nicaea (325 AD) produced the original Nicene Creed, which declared the Son to be *homoousios* (ὁμοούσιος) — "of the same substance" — with the Father. This single word, nowhere found in Scripture, was adopted to safeguard a thoroughly biblical truth: that the Son is not a lesser god or a created intermediary but fully and truly God. The Council of Constantinople (381 AD) expanded the creed, particularly its section on the Holy Spirit, affirming that the Spirit is "the Lord, the Giver of life, who proceeds from the Father, who with the Father and the Son together is worshiped and glorified."
+The Council of Nicaea (325 AD) produced the original Nicene Creed, which declared the Son to be *homoousios* (ὁμοούσιος) — "of the same substance" — with the Father. This single word, nowhere found in Scripture, was adopted to safeguard a thoroughly biblical truth: that the Son is not a lesser god or a created intermediary but fully and truly God. For a fuller treatment of the [Trinity](../../trinity/one-god-three-persons/) and its [historical development](../early-church-and-councils/), see those articles. The Council of Constantinople (381 AD) expanded the creed, particularly its section on the Holy Spirit, affirming that the Spirit is "the Lord, the Giver of life, who proceeds from the Father, who with the Father and the Son together is worshiped and glorified."
 
 The Nicene Creed is the most widely accepted creed in Christendom, confessed by Catholic, Orthodox, Anglican, Lutheran, Reformed, Methodist, and many other traditions. It is the closest thing Christianity has to a universal statement of faith — the shared grammar of "mere Christianity."
 
@@ -47,13 +47,13 @@ One word divides East and West to this day. The original creed states that the S
 
 ## The Chalcedonian Definition
 
-The Council of Chalcedon (451 AD) produced not a creed for liturgical use but a precise theological definition addressing the person of Christ. Against those who confused Christ's two natures (Eutyches) or divided them into two persons (Nestorius), Chalcedon declared that Christ is:
+The Council of Chalcedon (451 AD) produced not a creed for liturgical use but a precise theological definition addressing the person of Christ. Against those who confused Christ's two natures (Eutyches) or divided them into two persons (Nestorius) — [trinitarian heresies](../../trinity/trinitarian-heresies/) applied to Christology — Chalcedon declared that Christ is:
 
 - Truly God and truly man
 - One person (*hypostasis*, ὑπόστασις) in two natures (divine and human)
 - The two natures united "without confusion, without change, without division, without separation" — *asynchytōs, atreptōs, adiairetōs, achōristōs* (ἀσυγχύτως, ἀτρέπτως, ἀδιαιρέτως, ἀχωρίστως)
 
-The Chalcedonian Definition is accepted by Catholic, Orthodox, and most Protestant traditions. The Oriental Orthodox churches (Coptic, Ethiopian, Armenian, Syriac) did not accept Chalcedon's formula, though modern ecumenical dialogues have revealed that the disagreement may be more linguistic than substantive — both sides affirm the full divinity and full humanity of Christ.
+The Chalcedonian Definition is accepted by Catholic, Orthodox, and most Protestant traditions. The Oriental Orthodox churches (Coptic, Ethiopian, Armenian, Syriac) did not accept Chalcedon's formula, though modern ecumenical dialogues have revealed that the disagreement may be more linguistic than substantive — both sides affirm the full [deity](../../jesus-christ/deity/) and full humanity of Christ. For a fuller treatment of [Eastern Christianity](../eastern-christianity/) and the Oriental Orthodox tradition, see the companion article.
 
 ## The Athanasian Creed
 

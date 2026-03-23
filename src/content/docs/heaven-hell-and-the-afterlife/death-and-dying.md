@@ -12,7 +12,7 @@ Death is the great certainty of human existence and the great enemy of human hop
 
 The Hebrew word *mawet* (מָוֶת) — "death" — and the Greek *thanatos* (θάνατος) carry weight far beyond the biological cessation of bodily functions. In Scripture, death encompasses three dimensions:
 
-- **Spiritual death** — Separation from God, the source of all life. This is the immediate consequence of the fall: "in the day that you eat of it you shall surely die" (Genesis 2:17). Adam and Eve did not die physically on the day they ate, but they died spiritually — their fellowship with God was broken, and they hid in shame (Genesis 3:8). Paul describes the unregenerate state as being "dead in trespasses and sins" (Ephesians 2:1) — alive biologically but cut off from the life of God.
+- **Spiritual death** — Separation from God, the source of all life. This is the immediate consequence of the [fall](../../creation-and-humanity/the-fall/): "in the day that you eat of it you shall surely die" (Genesis 2:17). Adam and Eve did not die physically on the day they ate, but they died spiritually — their fellowship with God was broken, and they hid in shame (Genesis 3:8). Paul describes the unregenerate state as being "dead in trespasses and sins" (Ephesians 2:1) — alive biologically but cut off from the life of God.
 
 - **Physical death** — The separation of the soul from the body, the dissolution of the embodied person. Physical death entered the world through sin: "By a man came death" (1 Corinthians 15:21). It was not part of God's original design but a consequence of the fall — "dust you are, and to dust you shall return" (Genesis 3:19). The body returns to the earth, and the spirit returns to God who gave it (Ecclesiastes 12:7).
 
@@ -28,10 +28,10 @@ Jesus Himself wept at the tomb of Lazarus (John 11:35) — not because He lacked
 
 Yet the central claim of the Christian faith is that death has been conquered. Christ's resurrection is not merely a personal survival but a cosmic victory: "Death is swallowed up in victory. O death, where is your victory? O death, where is your sting?" (1 Corinthians 15:54–55, quoting Isaiah 25:8 and Hosea 13:14).
 
-Through His death and resurrection, Christ has:
+Through His [death and resurrection](../../jesus-christ/death-and-resurrection/), Christ has:
 
 - **Broken the power of death** — "Through death he might destroy the one who has the power of death, that is, the devil" (Hebrews 2:14)
-- **Removed the sting of death** — "The sting of death is sin, and the power of sin is the law. But thanks be to God, who gives us the victory through our Lord Jesus Christ" (1 Corinthians 15:56–57). Death's sting was sin; sin's power was the law's condemnation. Both have been dealt with at the cross.
+- **Removed the sting of death** — "The sting of death is sin, and the power of sin is the law. But thanks be to God, who gives us the victory through our Lord Jesus Christ" (1 Corinthians 15:56–57). Death's sting was sin; sin's power was the law's condemnation. Both have been dealt with at the [cross](../../jesus-christ/atonement-theories/).
 - **Made death a doorway** — For the believer, to die is not to perish but to "depart and be with Christ, which is far better" (Philippians 1:23). Death is no longer a dead end but a passage into the presence of the Lord.
 
 ## The Christian Art of Dying
@@ -50,7 +50,7 @@ For the believer, death has been radically transformed. It remains an enemy — 
 - "Precious in the sight of the LORD is the death of his saints" (Psalm 116:15)
 - "Blessed are the dead who die in the Lord from now on... that they may rest from their labors, for their deeds follow them" (Revelation 14:13)
 
-The Christian dies not into oblivion but into the arms of Christ. The intermediate state — the time between death and the final resurrection — is characterized as being "at home with the Lord" (2 Corinthians 5:8), "with Christ" (Philippians 1:23), and in "paradise" (Luke 23:43). Physical death separates the soul from the body, but it cannot separate the believer from the love of God in Christ Jesus (Romans 8:38–39).
+The Christian dies not into oblivion but into the arms of Christ. The [intermediate state](../intermediate-state/) — the time between death and the final [resurrection](../../last-things/resurrection-and-judgment/) — is characterized as being "at home with the Lord" (2 Corinthians 5:8), "with Christ" (Philippians 1:23), and in "paradise" (Luke 23:43). Physical death separates the soul from the body, but it cannot separate the believer from the love of God in Christ Jesus (Romans 8:38–39).
 
 ## Grief and Hope
 
@@ -60,7 +60,7 @@ The Psalms model this honest grief. The lament psalms — the largest category i
 
 ## The Hope of Resurrection
 
-Death is not the end of the story. The Christian hope is not the survival of a disembodied soul but the resurrection of the body — the whole person, body and soul, raised and transformed by the power of God. "We shall all be changed, in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable, and we shall be changed" (1 Corinthians 15:51–52).
+Death is not the end of the story. The Christian hope is not the survival of a disembodied soul but the [resurrection of the body](../resurrection-body/) — the whole person, body and soul, raised and transformed by the power of God. As Athanasius argued in *De Incarnatione*, because the Word assumed a human body, death's hold on human flesh was broken from within: "He surrendered His body to death in place of all, and offered it to the Father... that by dying in Him the law of death might be destroyed" (8.4–9.1). "We shall all be changed, in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable, and we shall be changed" (1 Corinthians 15:51–52).
 
 The resurrection of Christ is the ground and pattern of the believer's resurrection: "Just as we have borne the image of the man of dust, we shall also bear the image of the man of heaven" (1 Corinthians 15:49). Death is the last page of one chapter, not the last page of the book. The final word belongs not to death but to life — the life of the risen Christ, shared with all who belong to Him.
 

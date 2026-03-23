@@ -12,7 +12,7 @@ sidebar:
 
 *Henosis* (ἕνωσις, from *hen*, ἕν, "one") — union, oneness — names the deepest aspiration of the Christian mystical tradition: not merely to know about God, but to be united with God in love. The related concept *koinonia* (κοινωνία) — communion, fellowship, participation — is the New Testament's most characteristic word for this shared life (1 John 1:3; 1 Corinthians 1:9; 2 Corinthians 13:14). This is not absorption into an impersonal divine essence but a personal, relational communion — the creature drawn into the life of the Creator while remaining fully a creature.
 
-The Christian doctrine of union with God is grounded in the most intimate language of Scripture and has been explored by every major branch of the Church throughout its history.
+The Christian doctrine of union with God is grounded in the most intimate language of Scripture and has been explored by every major branch of the Church throughout its history. It connects to the [Eastern](../../church-history-and-tradition/eastern-christianity/) doctrine of [*theosis*](../theosis/), the Reformed emphasis on *unio mystica* with Christ, and the Catholic tradition of transforming union through [prayer](../../prayer-and-worship/prayer/) and [sacrament](../../the-church/sacraments-and-ordinances/).
 
 ## Biblical Foundations
 
@@ -26,13 +26,13 @@ John's Gospel is saturated with the language of mutual indwelling: "I am in my F
 
 Paul's most characteristic phrase — *en Christo* (ἐν Χριστῷ), "in Christ" — appears over 160 times in his letters. It describes a participatory reality: believers are baptized *into* Christ (Romans 6:3), clothed with Christ (Galatians 3:27), members of Christ's body (1 Corinthians 12:27), and hidden with Christ in God (Colossians 3:3).
 
-For Paul, union with Christ is not one theme among many but the organizing center of the Christian life. Every blessing — justification, sanctification, adoption, glorification — comes to believers *in Christ*.
+For Paul, union with Christ is not one theme among many but the organizing center of the Christian life. Every blessing — [justification](../../salvation/justification/), [sanctification](../../sanctification-and-discipleship/sanctification/), [adoption](../../salvation/adoption/), glorification — comes to believers *in Christ*. Calvin called this union "the central hinge on which religion turns" (*Institutes* III.11.10).
 
 ### The Bridal Tradition
 
 The Song of Solomon has been read as an allegory of divine-human love since the earliest centuries of both Jewish and Christian interpretation. The beloved's cry — *ani le-dodi ve-dodi li* (אֲנִי לְדוֹדִי וְדוֹדִי לִי), "I am my beloved's and my beloved is mine" (Song of Solomon 6:3) — became the foundational text for an entire tradition of bridal mysticism. The Hebrew *dod* (דּוֹד, "beloved") expresses the tenderest intimacy, and the reciprocal *le-* ("belonging to") conveys mutual possession in love.
 
-This reading is supported by the New Testament's own use of marriage imagery: Christ as the bridegroom (Matthew 25:1–13; John 3:29), the Church as the bride (Ephesians 5:25–32; Revelation 19:7–9). The union between husband and wife becomes an icon of the union between God and his people.
+This reading is supported by the New Testament's own use of marriage imagery: Christ as the bridegroom (Matthew 25:1–13; John 3:29), the Church as the bride (Ephesians 5:25–32; Revelation 19:7–9). The union between husband and wife becomes an icon of the union between God and His people (cf. [marriage](../../marriage-family-and-sexuality/marriage/)).
 
 ## The Western Mystical Tradition
 

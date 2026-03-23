@@ -10,7 +10,7 @@ The phrase "treasured possession" translates the Hebrew *segullah* (סְגֻלָ
 
 ## The Election of Abraham
 
-God's plan for Israel begins with a single call. In Genesis 12:1--3, YHWH summoned Abram out of Ur of the Chaldeans and made a threefold promise: land, offspring, and blessing to all nations. God's opening command, *lekh-lekha* (לֶךְ־לְךָ, "go forth" or literally "go for yourself"), signals the radical break Abraham must make — leaving homeland, clan, and father's house. The Hebrew verb *bachar* (בָּחַר) — "to choose" or "to elect" — describes God's sovereign selection of Abraham and his descendants for a particular purpose. Notably, *bachar* in the Old Testament is used almost exclusively of God choosing; it underscores that the initiative belongs entirely to Him.
+God's plan for Israel begins with a single call. In Genesis 12:1–3, [YHWH](../../names-of-god/yhwh/) summoned Abram out of Ur of the Chaldeans and made a threefold promise: land, offspring, and blessing to all nations. God's opening command, *lekh-lekha* (לֶךְ־לְךָ, "go forth" or literally "go for yourself"), signals the radical break Abraham must make — leaving homeland, clan, and father's house. The Hebrew verb *bachar* (בָּחַר) — "to choose" or "to elect" — describes God's sovereign selection of Abraham and his descendants for a particular purpose. Notably, *bachar* in the Old Testament is used almost exclusively of God choosing; it underscores that the initiative belongs entirely to Him.
 
 The blessing promised uses the Hebrew *nivreku* (נִבְרְכוּ), from the root *barakh* (בָּרַךְ, "to bless"). The Niphal/Hitpael form carries the sense "shall find blessing in you" or "shall bless themselves by you," indicating that Abraham's line would become the channel through which divine blessing flows to all the *mishpechot ha'adamah* (מִשְׁפְּחֹת הָאֲדָמָה, "families of the ground/earth").
 
@@ -46,7 +46,7 @@ Israel's story follows a recurring pattern of God's faithfulness amid human fail
 - **Exodus** — Deliverance from Egypt by God's mighty hand, not Israel's strength (Deuteronomy 7:7--8)
 - **Sinai and wilderness** — Covenant given and broken; God's patience and provision
 - **Conquest and settlement** — The land given as promise fulfilled (Joshua 21:45)
-- **Monarchy** — From Saul's failure to David's covenant; a throne established forever (2 Samuel 7:12--16)
+- **Monarchy** — From Saul's failure to [David's covenant](../../covenants/davidic/); a throne established forever (2 Samuel 7:12–16)
 - **Exile** — Judgment for persistent idolatry and injustice (2 Kings 17; 25)
 - **Return** — Restoration under Ezra and Nehemiah; the faithfulness of God to His word (Jeremiah 29:10--14)
 
@@ -74,4 +74,6 @@ In Romans 11:17--24, Paul uses the image of an olive tree — Greek *kallielaios
 - **The warning**: Gentile believers must not boast over the broken branches, for "it is not you who support the root, but the root that supports you" (Romans 11:18)
 - **The hope**: God is able to graft the natural branches back in, "for if you were cut from what is by nature a wild olive tree, and grafted, contrary to nature, into a cultivated olive tree, how much more will these, the natural branches, be grafted back into their own olive tree" (Romans 11:24)
 
-This metaphor underscores that God's redemptive plan has always been one tree, one people of God, rooted in the promises made to Abraham — a plan that encompasses both Israel and the nations.
+This metaphor underscores that God's redemptive plan has always been one tree, one people of God, rooted in the promises made to [Abraham](../../covenants/abrahamic/) — a plan that encompasses both [Israel and the Church](../israel-and-the-church/) and ultimately all the [nations](../missions/).
+
+> "For the gifts and the calling of God are irrevocable." — Romans 11:29

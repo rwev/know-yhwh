@@ -6,7 +6,7 @@ sidebar:
 
 > "For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom we cry, 'Abba! Father!'" — Romans 8:15
 
-Adoption is God's gracious act of receiving justified sinners into His family, granting them the full status, privileges, and inheritance of sons and daughters. In salvation, God does not merely pardon criminals — He welcomes orphans home.
+Adoption is God's gracious act of receiving justified sinners into His family, granting them the full status, privileges, and inheritance of sons and daughters. In salvation, God does not merely pardon criminals — He welcomes orphans home. While [justification](../justification/) addresses our legal standing before God the Judge, adoption addresses our relational standing before God the Father.
 
 ## The Language of Adoption
 
@@ -20,7 +20,7 @@ Paul employs *huiothesia* in five key passages:
 
 - **Romans 8:15** — Believers have received the "Spirit of adoption" who enables them to cry out to God as Father
 - **Romans 8:23** — Believers groan inwardly as they await the final adoption, "the redemption of our bodies"
-- **Romans 9:4** — Israel's adoption as God's son is listed among their covenant privileges (cf. Exodus 4:22)
+- **Romans 9:4** — Israel's adoption as God's son is listed among their [covenant](../../covenants/covenant-theology/) privileges. The OT roots run deep: God declares Israel "my firstborn son" (Exodus 4:22), calls him out of Egypt in love (Hosea 11:1), and names him as His treasured possession (Deuteronomy 14:1–2). What Israel was corporately, believers become individually and collectively in Christ.
 - **Galatians 4:5** — Christ came "to redeem those who were under the law, so that we might receive adoption as sons"
 - **Ephesians 1:5** — God "predestined us for adoption to himself as sons through Jesus Christ, according to the purpose of his will"
 
@@ -30,7 +30,7 @@ Together these passages reveal that adoption is rooted in God's eternal purpose,
 
 ## The Spirit of Adoption
 
-The Holy Spirit is the agent and seal of adoption. It is the Spirit who transforms our relationship with God from one of fear to one of intimacy:
+The [Holy Spirit](../../holy-spirit/indwelling-and-sealing/) is the agent and seal of adoption. It is the Spirit who transforms our relationship with God from one of fear to one of intimacy:
 
 > "And because you are sons, God has sent the Spirit of his Son into our hearts, crying, 'Abba! Father!'" — Galatians 4:6
 
@@ -40,7 +40,7 @@ The Holy Spirit is the agent and seal of adoption. It is the Spirit who transfor
 
 Adoption and regeneration are closely related but distinct aspects of salvation:
 
-- **Regeneration** is the inward change of nature — God gives the believer a new heart, new desires, and new spiritual life. It addresses *what we are*.
+- **[Regeneration](../regeneration/)** is the inward change of nature — God gives the believer a new heart, new desires, and new spiritual life. It addresses *what we are*.
 - **Adoption** is the outward change of status — God places the believer into His family with full legal standing as an heir. It addresses *whose we are*.
 
 A regenerated person has the nature of a child of God. An adopted person has the standing of a child of God. Both are necessary, and both occur simultaneously at conversion, but they describe different realities. Regeneration makes us alive; adoption makes us heirs. Together they ensure that believers are not only inwardly transformed but also publicly received into the household of God with full legal rights and privileges.
@@ -63,7 +63,7 @@ Like all aspects of salvation, adoption has an "already/not yet" dimension. We a
 
 > "And not only the creation, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for adoption as sons, the redemption of our bodies." — Romans 8:23
 
-The present experience of adoption is real but incomplete. We still suffer, still groan, still inhabit bodies subject to decay and death. The final adoption will be the resurrection itself — when our bodies are transformed and the last barrier between us and full fellowship with the Father is removed forever.
+The present experience of adoption is real but incomplete. We still suffer, still groan, still inhabit bodies subject to decay and death. The final adoption will be the [resurrection](../../last-things/resurrection-and-judgment/) itself — when our bodies are transformed and the last barrier between us and full fellowship with the Father is removed forever. As Athanasius argued, the Son became what we are — human — so that we might become what He is — children of God by [grace](../grace/) (*De Incarnatione* 54). Adoption is the Father's purpose from before the foundation of the world (Ephesians 1:4–5), accomplished through the Son's redeeming work, applied by the Spirit's [indwelling](../../holy-spirit/indwelling-and-sealing/) witness, and consummated in the [new creation](../../last-things/new-creation/).
 
 Until that day, believers live as children in a foreign land — truly belonging to the Father's household, yet longing for the day when they will see Him face to face and the family of God will be gathered in its fullness.
 

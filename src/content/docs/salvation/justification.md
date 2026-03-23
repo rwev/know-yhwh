@@ -12,7 +12,7 @@ Justification is God's judicial act of declaring a sinner righteous on the basis
 
 The Greek noun *dikaiosynē* (δικαιοσύνη) means "righteousness" — right standing before God's tribunal. The verb *dikaioō* (δικαιόω) means "to justify" or "to declare righteous." In Paul's letters, justification is primarily a courtroom term: God is the Judge, humanity stands guilty, and the verdict of "righteous" is rendered not on the basis of the defendant's record but on the basis of Christ's.
 
-The Hebrew equivalent *tsedaqah* (צְדָקָה) — "righteousness" — carries a broader sense of covenant faithfulness. When God "justifies," He acts in accordance with His own righteous character to set things right. His justice and His mercy meet at the cross.
+The Hebrew equivalent *tsedaqah* (צְדָקָה) — "righteousness" — carries a broader sense of covenant faithfulness. When God "justifies," He acts in accordance with His own righteous character to set things right. His [justice and mercy](../../gods-nature/mercy-and-justice/) meet at the [cross](../../jesus-christ/atonement-theories/).
 
 ## How Justification Works
 
@@ -46,7 +46,9 @@ The nature of justification has been one of the deepest divides in Christian his
 - **The Protestant view** (Lutheran, Reformed) holds that justification is a *forensic declaration* — a legal verdict in which God counts the believer righteous because of Christ's imputed righteousness. Justification is distinct from sanctification: the believer is declared righteous even while still being made righteous.
 - **The Catholic view** holds that justification involves both the forgiveness of sins and the *infusion of righteousness* — God does not merely declare the sinner righteous but actually makes the sinner righteous through sanctifying grace. Justification is therefore not merely forensic but transformative, and it can be increased through the sacraments and cooperation with grace.
 
-Both traditions affirm that justification is by grace, that Christ's work is its foundation, and that genuine faith produces a changed life. The disagreement centers on *how* Christ's righteousness relates to the believer — is it counted to us (imputed) or poured into us (infused)?
+The **Eastern Orthodox view** does not typically frame salvation through the Western justification-[sanctification](../../sanctification-and-discipleship/sanctification/) distinction. Orthodox theology speaks more naturally of [*theosis*](../../spiritual-formation-and-mysticism/theosis/) — participation in the divine life — as the comprehensive category of salvation. Justification, healing, and transformation are aspects of a single movement from death to life in Christ, mediated through the [sacraments](../../the-church/sacraments-and-ordinances/) and the Spirit's indwelling.
+
+All traditions affirm that justification is by [grace](../grace/), that Christ's work is its foundation, and that genuine faith produces a changed life. The 1999 *Joint Declaration on the Doctrine of Justification* (JDDJ), signed by the Lutheran World Federation and the Roman Catholic Church (later affirmed by the World Methodist Council and others), declared a "consensus in basic truths" — acknowledging that the historic condemnations of the Reformation era no longer apply to the partner's teaching. While differences remain, the JDDJ represents a landmark in healing one of Christianity's deepest divisions.
 
 ## Faith and Works: Paul and James
 
@@ -62,8 +64,9 @@ The tension dissolves when we recognize that Paul and James address different pr
 ## The Result
 
 Those who are justified have:
-- **Peace with God** — the enmity is removed (Romans 5:1)
-- **No condemnation** — the verdict is final (Romans 8:1)
+- **Peace with God** — *eirēnē* (εἰρήνη) — the enmity is removed (Romans 5:1)
+- **No condemnation** — the verdict is final and irreversible (Romans 8:1; cf. [perseverance](../perseverance/))
 - **Access to grace** — standing in the favor of God (Romans 5:2)
+- **[Adoption](../adoption/)** — the justified are not merely acquitted but received as children (Galatians 4:4–7)
 
 > "Who shall bring any charge against God's elect? It is God who justifies. Who is to condemn?" — Romans 8:33–34

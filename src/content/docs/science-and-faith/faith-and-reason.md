@@ -6,7 +6,7 @@ sidebar:
 
 > "Now faith is the assurance of things hoped for, the conviction of things not seen." — Hebrews 11:1
 
-In modern usage, "faith" is often caricatured as believing something without evidence — or even against evidence. But this is not the biblical concept. The Greek word *pistis* (πίστις) — "faith, trust, fidelity, conviction" — denotes confident trust in a person or promise based on good grounds. Biblical faith is not a blind leap into the dark; it is a reasoned step into the light.
+In modern usage, "faith" is often caricatured as believing something without evidence — or even against evidence. But this is not the biblical concept. The Greek word *pistis* (πίστις) — "faith, trust, fidelity, conviction" — denotes confident trust in a person or promise based on good grounds. Biblical [faith](../../salvation/faith/) is not a blind leap into the dark; it is a reasoned step into the light.
 
 ## The Language of Hebrews 11:1
 
@@ -35,7 +35,7 @@ The Greek *dianoia* (διάνοια) — "mind, understanding, intellectual facu
 Christian faith rests not on private feelings but on public, verifiable claims about history:
 
 - **Eyewitness testimony** — The apostles claimed to have seen, heard, and touched the risen Christ (1 John 1:1–3; 2 Peter 1:16). They suffered and died for this testimony, which they could have easily recanted if it were false.
-- **Fulfilled prophecy** — Hundreds of Old Testament prophecies find their fulfillment in Jesus — His birthplace (Micah 5:2), His suffering (Isaiah 53), His resurrection (Psalm 16:10).
+- **[Fulfilled prophecy](../../prophecy/messianic/)** — Hundreds of Old Testament prophecies find their fulfillment in Jesus — His birthplace (Micah 5:2), His suffering (Isaiah 53), His [resurrection](../../jesus-christ/death-and-resurrection/) (Psalm 16:10).
 - **The resurrection** — The bodily resurrection of Jesus is the cornerstone of Christian evidential claims. Paul openly invited scrutiny: many of the eyewitnesses were still alive and could be questioned (1 Corinthians 15:6).
 
 ## Faith Seeking Understanding
@@ -65,4 +65,6 @@ Human reason is a powerful gift from God, but it is finite, fallen, and insuffic
 
 > "For my thoughts are not your thoughts, neither are your ways my ways, declares the LORD." — Isaiah 55:8
 
-Faith and reason are not enemies but partners in the pursuit of truth. Reason prepares the ground; revelation plants the seed; the Holy Spirit gives the growth. The God who made the human mind invites us to use it — and then to bow before the mysteries that surpass it.
+Faith and reason are not enemies but partners in the pursuit of truth. Reason prepares the ground (cf. [arguments for God](../../apologetics-and-worldview/arguments-for-god/)); [revelation](../../scripture/authority/) plants the seed; the [Holy Spirit](../../holy-spirit/person-of-the-spirit/) gives the growth. The God who made the human mind invites us to use it — and then to bow before the mysteries that surpass it.
+
+> "Come now, let us reason together, says the LORD." — Isaiah 1:18

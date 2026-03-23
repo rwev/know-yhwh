@@ -6,7 +6,7 @@ sidebar:
 
 > "Behold, children are a heritage from the Lord, the fruit of the womb a reward." — Psalm 127:3
 
-The family is not merely a social convention — it is a divine institution, created by God as the primary context for human flourishing and the transmission of faith from one generation to the next. Scripture speaks of children not as burdens but as blessings, and of parenting not as mere obligation but as sacred stewardship.
+The family is not merely a social convention — it is a divine institution, created by God as the primary context for human flourishing and the transmission of [faith](../../salvation/faith/) from one generation to the next. Scripture speaks of children not as burdens but as blessings, and of parenting not as mere obligation but as sacred stewardship.
 
 ## Children as a Blessing
 
@@ -14,7 +14,7 @@ The Bible consistently presents children as a gift from God:
 
 - "Children are a heritage from the Lord" — the Hebrew *nachalah* (נַחֲלָה) means "inheritance, possession, allotted portion" — the same word used of Israel's inheritance in the Promised Land (Deuteronomy 4:21), indicating that children are God's own treasured allotment entrusted to parents (Psalm 127:3)
 - "Like arrows in the hand of a warrior are the children of one's youth" (Psalm 127:4) — the Hebrew *chitsim* (חִצִּים) — "arrows" — pictures children as purposefully aimed instruments of God's future purposes, launched by parents into the world with direction and intent
-- God's very first command to humanity is "Be fruitful and multiply" — *peru urvu* (פְּר֥וּ וּרְב֛וּ) (Genesis 1:28) — using imperative verbs of organic abundance, the bearing of children participates in God's creative work
+- God's very first command to humanity is "Be fruitful and multiply" — *peru urvu* (פְּר֥וּ וּרְב֛וּ) (Genesis 1:28; cf. the [creation](../../creation-and-humanity/creation/) mandate) — using imperative verbs of organic abundance, the bearing of children participates in God's creative work
 - Jesus welcomed children, rebuked those who turned them away, and declared that "the kingdom of God belongs to such as these" (Mark 10:14)
 
 In a world that often views children as inconveniences or accessories, Scripture calls God's people to receive them as what they are — living signs of God's faithfulness and hope for the future.
@@ -83,4 +83,6 @@ The New Testament extends the language of family far beyond biological kinship. 
 
 This means that the single, the widowed, the orphaned, and the childless are not outside the family of God — they are at its heart. The local church is called to be an extended family where every member is known, loved, and cared for. Spiritual parenthood (as Paul exercised toward Timothy) is as real and significant as biological parenthood.
 
-The family of faith will outlast every earthly family. When all things are made new, the entire people of God will sit together at the marriage supper of the Lamb — one household, one family, united forever in the love of the Father.
+The family of faith will outlast every earthly family. When all things are made [new](../../last-things/new-creation/), the entire people of God will sit together at the marriage supper of the Lamb — one household, one family, united forever in the [love](../../gods-nature/love/) of the Father. For how [marriage](../marriage/) and [singleness](../singleness-and-celibacy/) relate to this larger family, see the companion articles.
+
+> "Train up a child in the way he should go; even when he is old he will not depart from it." — Proverbs 22:6

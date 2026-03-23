@@ -24,7 +24,7 @@ Tradition ascribes the book primarily to Solomon (1:1; 10:1; 25:1), though it al
 
 ## The Fear of the Lord
 
-The theological backbone of Proverbs is the conviction that **all true wisdom begins with the fear of the LORD** (1:7; 9:10; 15:33). This *yirat YHWH* (יִרְאַת יהוה) is not cringing dread but reverent awe — a posture of the whole person before the holy Creator. Without it, all cleverness is ultimately foolishness.
+The theological backbone of Proverbs is the conviction that **all true wisdom begins with the fear of the LORD** (1:7; 9:10; 15:33). This *yirat [YHWH](../../names-of-god/yhwh/)* (יִרְאַת יהוה) is not cringing dread but reverent awe — a posture of the whole person before the [holy](../../gods-nature/holiness/) Creator. Without it, all cleverness is ultimately foolishness.
 
 ## Lady Wisdom and Lady Folly
 
@@ -46,7 +46,7 @@ Proverbs addresses the full range of human experience:
 - **Character** — Pride goes before destruction (16:18); humility comes before honor (15:33)
 - **Justice** — Unequal weights are an abomination to the LORD (20:23); speak up for the voiceless (31:8-9)
 
-These are **general principles**, not unconditional guarantees. Proverbs itself acknowledges that the righteous sometimes suffer (24:16) and that wisdom has limits (21:30-31). Ecclesiastes and Job will press these qualifications further.
+These are **general principles**, not unconditional guarantees. Proverbs itself acknowledges that the righteous sometimes suffer (24:16) and that wisdom has limits (21:30-31). [Ecclesiastes](../ecclesiastes/) and [Job](../job/) will press these qualifications further.
 
 ## The Two Ways
 
@@ -59,4 +59,6 @@ Running through the entire book is the doctrine of the **two ways**: the path of
 
 The New Testament makes an extraordinary claim: the wisdom Proverbs celebrates finds its ultimate embodiment in Jesus Christ. Paul writes that Christ Jesus "became to us wisdom from God" (1 Corinthians 1:30) and is Himself "the power of God and the wisdom of God" (1 Corinthians 1:24).
 
-The early Church Fathers read Proverbs 8 — where Wisdom declares "The LORD possessed me at the beginning of His work" — as a testimony to the eternal Son. Whether one reads that passage as directly Christological or as typological, the trajectory is clear: the Wisdom that orders creation, calls in the streets, and offers life has a name, and His name is Jesus.
+The early Church Fathers read Proverbs 8 — where Wisdom declares "The LORD possessed me at the beginning of His work" — as a testimony to the eternal Son. Whether one reads that passage as directly Christological or as typological, the trajectory is clear: the Wisdom that orders [creation](../../creation-and-humanity/creation/), calls in the streets, and offers life has a name, and His name is [Jesus](../../jesus-christ/deity/).
+
+> "The LORD by wisdom founded the earth; by understanding he established the heavens." — Proverbs 3:19

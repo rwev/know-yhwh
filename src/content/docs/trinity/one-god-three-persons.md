@@ -6,7 +6,7 @@ sidebar:
 
 > "Hear, O Israel: The LORD our God, the LORD is one." — Deuteronomy 6:4
 
-The Christian doctrine of the Trinity confesses one God who exists eternally in three persons. This is not a contradiction but a mystery revealed progressively through Scripture. The God who is *echad* (אֶחָד) — "one" — is a unity that encompasses real personal distinctions.
+The Christian doctrine of the Trinity confesses one God who exists eternally in three persons. This is not a contradiction but a mystery revealed progressively through Scripture. The God who is *echad* (אֶחָד) — "one" — is a unity that encompasses real personal distinctions. The [Nicene Creed](../../church-history-and-tradition/creeds-and-confessions/) (325/381) and the [early councils](../../church-history-and-tradition/early-church-and-councils/) that followed gave the Church the language to confess this mystery with precision, guarding it against the [heresies](../trinitarian-heresies/) that would collapse the persons into one (modalism), divide the essence into three (tritheism), or subordinate the Son and Spirit below the Father (Arianism).
 
 ## The Oneness of God
 
@@ -36,7 +36,7 @@ The New Testament reveals that within the one divine being there are three disti
 
 ### The Holy Spirit
 
-- Called God: Peter equates lying to the Spirit with lying to God (Acts 5:3–4). The Greek *Pneuma* (πνεῦμα) — "Spirit" or "breath" — corresponds to the Hebrew *Ruach* (רוּחַ), the same "Spirit of God" who hovered over the waters at creation (Genesis 1:2)
+- Called God: Peter equates lying to the Spirit with lying to God (Acts 5:3–4). For a fuller treatment, see the article on the [person of the Spirit](../../holy-spirit/person-of-the-spirit/). The Greek *Pneuma* (πνεῦμα) — "Spirit" or "breath" — corresponds to the Hebrew *Ruach* (רוּחַ), the same "Spirit of God" who hovered over the waters at creation (Genesis 1:2)
 - Possesses divine attributes: omniscience (1 Corinthians 2:10–11) — the Spirit "searches" (*eraunaō*, ἐραυνάω) even "the depths of God" (*ta bathē tou theou*, τὰ βάθη τοῦ θεοῦ) — omnipresence (Psalm 139:7–8)
 - Acts as a person — He teaches, testifies, intercedes, and can be grieved. The verb *lypeō* (λυπέω) — "to grieve" — in Ephesians 4:30 implies a personal, relational being, not an impersonal force (see also John 14:26; Romans 8:26–27, where the Spirit intercedes with "groanings" — *stenagmois*, στεναγμοῖς — too deep for words)
 
@@ -54,7 +54,7 @@ The church developed precise language to guard the biblical teaching:
 
 - *Homoousios* (ὁμοούσιος) — "of the same substance." The Son is of the same divine essence as the Father, not a lesser or different kind of being. Affirmed at Nicaea (325 AD).
 - *Hypostasis* (ὑπόστασις) — "person" or "subsistence." Each of the three is a distinct *hypostasis* while sharing the one divine *ousia* (οὐσία) — "essence" or "being."
-- *Perichoresis* (περιχώρησις) — "mutual indwelling" or "interpenetration." The three persons eternally dwell in one another in perfect love and communion (John 14:10–11; 17:21). There is no separation, no rivalry, no division — only the fullness of shared life.
+- *Perichoresis* (περιχώρησις) — "mutual indwelling" or "interpenetration." The three persons eternally dwell in one another in perfect [love](../../gods-nature/love/) and communion (John 14:10–11; 17:21). There is no separation, no rivalry, no division — only the fullness of shared life. John of Damascus (c. 675–749) gave this concept its classic formulation in *De Fide Orthodoxa*, describing a ceaseless circulation of life and love among the three persons.
 
 ## One God — Not Three
 
@@ -62,4 +62,6 @@ The Trinity is not three gods cooperating. The three persons share one undivided
 
 > "I and the Father are one." — John 10:30
 
-In this verse, "one" is the neuter *hen* (ἕν) — "one thing," one in essence — rather than the masculine *heis* (εἷς), which would mean "one person." Jesus claims unity of nature with the Father while preserving personal distinction. His Jewish opponents understood this perfectly: they picked up stones because He was "making himself God" (John 10:33).
+In this verse, "one" is the neuter *hen* (ἕν) — "one thing," one in essence — rather than the masculine *heis* (εἷς), which would mean "one person." Jesus claims unity of nature with the Father while preserving personal distinction. His Jewish opponents understood this perfectly: they picked up stones because He was "making himself God" (John 10:33). The [deity of Christ](../../jesus-christ/deity/) and the deity of the Spirit, together with the Father's divinity, constitute the one triune God — the mystery that stands at the heart of Christian [worship](../../prayer-and-worship/worship/) and the foundation of every other doctrine.
+
+> "The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all." — 2 Corinthians 13:14

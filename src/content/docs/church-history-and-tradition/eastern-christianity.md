@@ -16,13 +16,13 @@ The Eastern Orthodox Church is a communion of self-governing (*autocephalous*) c
 
 Orthodox theology is characterized by several emphases that distinguish it from both Catholic and Protestant approaches:
 
-- **Theosis** — *theosis* (θέωσις) — "deification" or "divinization" — is the central soteriological concept. Salvation is understood not primarily as a legal transaction but as participation in the divine nature (2 Peter 1:4). Athanasius's famous formula captures it: "God became man so that man might become god" — not in essence, but by grace, through the Holy Spirit.
+- **[Theosis](../../spiritual-formation-and-mysticism/theosis/)** — *theosis* (θέωσις) — "deification" or "divinization" — is the central soteriological concept. Salvation is understood not primarily as a legal transaction but as participation in the divine nature (2 Peter 1:4). Athanasius's famous formula captures it: "God became man so that man might become god" — not in essence, but by grace, through the [Holy Spirit](../../holy-spirit/person-of-the-spirit/).
 
 - **Apophatic theology** — The Orthodox tradition emphasizes that God transcends all human categories and concepts. *Apophasis* (ἀπόφασις) — "negation, denial" — is the method of knowing God by saying what He is not. Gregory of Nyssa, Pseudo-Dionysius, and Maximus the Confessor developed this tradition, insisting that God's essence (*ousia*, οὐσία) is forever beyond human comprehension, while His energies (*energeiai*, ἐνέργειαι) — His real operations in the world — can be genuinely known and experienced.
 
 - **The essence-energies distinction** — Formalized by Gregory Palamas (1296–1359), this distinction holds that God's essence is unknowable and inaccessible, but His uncreated energies — His grace, light, and life — are truly God and truly accessible to human experience. The light the disciples saw on Mount Tabor at the Transfiguration (Matthew 17:2) was not created light but the uncreated light of God's own glory. This distinction underlies the Orthodox understanding of prayer, sacrament, and mystical experience.
 
-- **The Mystery of the Trinity** — Orthodox theology holds to the Nicene Creed without the *filioque* addition, confessing that the Spirit proceeds from the Father alone (John 15:26). The Father is the sole *arche* (ἀρχή) — "source, origin" — of the Godhead. This is not a minor liturgical difference but a fundamental point of Trinitarian theology.
+- **The Mystery of the [Trinity](../../trinity/one-god-three-persons/)** — Orthodox theology holds to the [Nicene Creed](../creeds-and-confessions/) without the *filioque* addition, confessing that the [Spirit proceeds from the Father](../../holy-spirit/person-of-the-spirit/) alone (John 15:26). The Father is the sole *arche* (ἀρχή) — "source, origin" — of the Godhead. This is not a minor liturgical difference but a fundamental point of Trinitarian theology.
 
 ### Liturgy and Worship
 
@@ -32,7 +32,7 @@ The liturgical year shapes the rhythm of Orthodox life: the Great Lent, Holy Wee
 
 ### Icons
 
-The theology of icons (*eikōn*, εἰκών — "image") is central to Orthodox worship and devotion. Against the iconoclasts of the eighth and ninth centuries, the Seventh Ecumenical Council (Nicaea II, 787 AD) affirmed the veneration of icons, arguing that because God became visible in the incarnation, He can be depicted in images. The honor given to an icon passes to its prototype — to venerate the icon of Christ is to honor Christ Himself.
+The theology of icons (*eikōn*, εἰκών — "image") is central to Orthodox worship and devotion. Against the iconoclasts of the eighth and ninth centuries, the Seventh [Ecumenical Council](../early-church-and-councils/) (Nicaea II, 787) affirmed the veneration of icons, arguing that because God became visible in the [incarnation](../../jesus-christ/incarnation/), He can be depicted in images. The honor given to an icon passes to its prototype — to venerate the icon of Christ is to honor Christ Himself.
 
 Icons are not mere decorations or illustrations. They are understood as windows into heaven — sacred images that make the spiritual reality present to the beholder. The Orthodox tradition distinguishes sharply between *latreia* (worship, due to God alone) and *proskynesis* (veneration, appropriate for icons and saints).
 
@@ -52,11 +52,11 @@ The Assyrian Church of the East — sometimes called the "Nestorian" Church, tho
 
 Eastern Christianity preserves theological and spiritual emphases that complement and challenge the Western tradition:
 
-- **A participatory view of salvation** — Salvation as *theosis* emphasizes union with God and transformation, not merely forgiveness of guilt.
+- **A participatory view of salvation** — Salvation as *theosis* emphasizes [union with God](../../spiritual-formation-and-mysticism/union-with-god/) and transformation, not merely forgiveness of guilt.
 - **A sacramental vision of creation** — The material world is not a barrier to the spiritual but a vehicle of God's grace and presence.
 - **The primacy of doxology** — Theology is not primarily an academic discipline but an act of worship. *Lex orandi, lex credendi* — "the law of prayer is the law of belief."
 - **The apophatic corrective** — A healthy reminder that God always exceeds our theological systems and formulations.
-- **The richness of liturgical tradition** — Worship that engages the whole person: body, mind, senses, and spirit.
+- **The richness of liturgical tradition** — [Worship](../../prayer-and-worship/worship/) that engages the whole person: body, mind, senses, and spirit.
 
 For Western Christians — Protestant and Catholic alike — engaging with the Eastern tradition is not an exercise in exotic curiosity but a recovery of dimensions of the apostolic faith that the universal Church needs.
 

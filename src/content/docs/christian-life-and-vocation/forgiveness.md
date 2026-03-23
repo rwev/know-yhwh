@@ -6,7 +6,7 @@ sidebar:
 
 > "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you." — Ephesians 4:32
 
-Forgiveness is at the very center of the Christian faith. The gospel is, at its core, a message of forgiveness — God's costly, unmerited, transforming forgiveness of sinners through the cross of Christ. And from that divine forgiveness flows the call to forgive others, a call so central that Jesus made it a condition of prayer: "If you forgive others their trespasses, your heavenly Father will also forgive you, but if you do not forgive others their trespasses, neither will your Father forgive your trespasses" (Matthew 6:14–15).
+Forgiveness is at the very center of the Christian faith. The [gospel](../../salvation/gospel/) is, at its core, a message of forgiveness — God's costly, unmerited, transforming forgiveness of sinners through the [cross](../../jesus-christ/atonement-theories/) of Christ. And from that divine forgiveness flows the call to forgive others, a call so central that Jesus made it a condition of prayer: "If you forgive others their trespasses, your heavenly Father will also forgive you, but if you do not forgive others their trespasses, neither will your Father forgive your trespasses" (Matthew 6:14–15).
 
 ## The Language of Forgiveness
 
@@ -21,9 +21,9 @@ Together these words paint a picture of forgiveness as removal, release, and res
 
 ## God's Forgiveness
 
-The foundation of all forgiveness is the character of God Himself. In the Great Declaration of Exodus 34:6–7 — the most frequently quoted Scripture within Scripture — God reveals Himself as "merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness, keeping steadfast love for thousands, forgiving iniquity and transgression and sin." Forgiveness is not peripheral to God's nature; it flows from the depths of who He is.
+The foundation of all forgiveness is the character of God Himself. In the Great Declaration of [Exodus 34:6–7](../../names-of-god/yhwh/) — the most frequently quoted Scripture within Scripture — God reveals Himself as "merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness, keeping steadfast love for thousands, forgiving iniquity and transgression and sin." Forgiveness is not peripheral to God's nature; it flows from the depths of who He is.
 
-Yet divine forgiveness is not cheap. God does not simply overlook sin or pretend it never happened. The same passage that declares God's forgiveness also says He "will by no means clear the guilty" (Exodus 34:7). The tension between God's mercy and God's justice is resolved at the cross, where Christ bore the full penalty of sin so that God could be "just and the justifier of the one who has faith in Jesus" (Romans 3:26). Divine forgiveness is costly — it cost the Son of God His life.
+Yet divine forgiveness is not cheap. God does not simply overlook sin or pretend it never happened. The same passage that declares God's forgiveness also says He "will by no means clear the guilty" (Exodus 34:7). The tension between God's [mercy and justice](../../gods-nature/mercy-and-justice/) is resolved at the cross, where Christ bore the full penalty of sin so that God could be "just and the justifier of the one who has faith in Jesus" (Romans 3:26). Divine forgiveness is costly — it cost the Son of God His life. As Dietrich Bonhoeffer warned, "cheap grace is the grace we bestow on ourselves... costly grace is the gospel which must be sought again and again, the gift which must be asked for" (*The Cost of Discipleship*).
 
 ### The Scope of Forgiveness
 
@@ -34,7 +34,7 @@ Scripture testifies to the completeness of God's forgiveness for those who repen
 - "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness" (1 John 1:9)
 - "There is therefore now no condemnation for those who are in Christ Jesus" (Romans 8:1)
 
-God's forgiveness is total, final, and irrevocable for those who are in Christ. He does not forgive partially or provisionally. The debt is cancelled, the record is destroyed, the verdict is "not guilty."
+God's forgiveness is total, final, and irrevocable for those who are in Christ (cf. [justification](../../salvation/justification/)). He does not forgive partially or provisionally. The debt is cancelled, the record is destroyed, the verdict is "not guilty."
 
 ## The Call to Forgive Others
 
@@ -69,6 +69,6 @@ All traditions agree that God alone forgives sin, that forgiveness is received t
 
 Unforgiveness is a prison. Jesus' parable ends with the unforgiving servant "delivered to the jailers" (Matthew 18:34) — a vivid image of the bondage that comes from harboring bitterness. To withhold forgiveness is to chain oneself to the offense, reliving the wound endlessly. To forgive is to be set free — not because the offense was trivial, but because the one who forgives entrusts justice to God and refuses to be defined by what was done to them.
 
-The power to forgive comes not from human strength but from the Spirit of the God who forgave us at infinite cost. It is, like all Christian virtues, a participation in the life of Christ — who, even from the cross, prayed for His executioners: "Father, forgive them, for they know not what they do" (Luke 23:34).
+The power to forgive comes not from human strength but from the [Spirit](../../holy-spirit/person-of-the-spirit/) of the God who forgave us at infinite cost. It is, like all Christian virtues, a participation in the life of Christ — who, even from the cross, prayed for His executioners: "Father, forgive them, for they know not what they do" (Luke 23:34).
 
 > "Who is a God like you, pardoning iniquity and passing over transgression for the remnant of his inheritance? He does not retain his anger forever, because he delights in steadfast love." — Micah 7:18

@@ -13,10 +13,10 @@ In God, mercy and justice are not opposing forces held in tension but complement
 The Hebrew Scriptures use a rich vocabulary to describe these attributes:
 
 - *Rachamim* (רַחֲמִים) — compassion or mercy, derived from *rechem* (רֶחֶם), meaning "womb." God's mercy is tender, visceral, maternal in its depth. It is the compassion of a mother for the child she has carried.
-- *Chesed* (חֶסֶד) — steadfast love, loyal kindness, covenant faithfulness. This is mercy expressed in the context of relationship and promise.
+- *Chesed* (חֶסֶד) — steadfast love, loyal kindness, covenant faithfulness. This is mercy expressed in the context of relationship and promise — the [love](./love/) that binds God to His [covenant](../../covenants/covenant-theology/) people even when they are faithless.
 - *Channun* (חַנּוּן) — gracious, describing God's disposition to show undeserved favor.
 - *Mishpat* (מִשְׁפָּט) — justice or judgment, referring to God's commitment to set things right, to render fair verdicts, and to uphold moral order.
-- *Tsedaqah* (צְדָקָה) — righteousness, the standard of God's own character against which all things are measured.
+- *Tsedaqah* (צְדָקָה) — righteousness, the standard of God's own character against which all things are measured. The corresponding Greek *dikaiosynē* (δικαιοσύνη) — "righteousness, justice" — carries both forensic (declaring right) and relational (making right) dimensions, which is why Paul can speak of God's righteousness as both the standard that condemns and the gift that saves (Romans 1:17; 3:21–22).
 
 ## The Great Declaration: Exodus 34:6–7
 
@@ -40,15 +40,15 @@ Yet God's justice is never arbitrary or vindictive. It is the necessary expressi
 
 > "He executes justice for the fatherless and the widow, and loves the sojourner, giving him food and clothing." — Deuteronomy 10:18
 
-The prophets called Israel to reflect God's justice in their common life. Amos thundered against those who "trample on the poor" (Amos 5:11). Isaiah condemned those who "acquit the guilty for a bribe, and deprive the innocent of his right" (Isaiah 5:23).
+The prophets called Israel to reflect God's justice in their common life. Amos thundered against those who "trample on the poor" (Amos 5:11) and demanded, "Let justice — *mishpat* — roll down like waters, and righteousness — *tsedaqah* — like an ever-flowing stream" (Amos 5:24). Isaiah condemned those who "acquit the guilty for a bribe, and deprive the innocent of his right" (Isaiah 5:23). God's justice is not merely retributive — punishing wrongdoing — but restorative: setting right what is broken, defending the oppressed, and creating the conditions for *shalom* (שָׁלוֹם) — wholeness, flourishing, peace (Isaiah 1:17; Psalm 146:7–9).
 
 ## The Cross: Where Mercy and Justice Meet
 
-The deepest mystery of the Christian faith is that at the cross of Christ, God's mercy and justice are simultaneously and fully satisfied. God does not choose one at the expense of the other. Instead, He provides the sacrifice Himself:
+The deepest mystery of the Christian faith is that at the [cross](../../suffering-evil-and-theodicy/the-cross-as-answer/) of Christ, God's mercy and justice are simultaneously and fully satisfied. God does not choose one at the expense of the other. Instead, He provides the sacrifice Himself. Anselm of Canterbury (1033–1109) posed the question sharply in *Cur Deus Homo*: How can God be both merciful (forgiving sin) and just (punishing sin)? His answer — that the God-man alone could offer a satisfaction of infinite worth — shaped Western [atonement theology](../../jesus-christ/atonement-theories/) decisively, though the Eastern tradition has emphasized other dimensions: Christ's victory over death (*Christus Victor*), His recapitulation of human nature, and His healing of what sin had corrupted. All traditions converge on Paul's astonishing claim:
 
 > "Whom God put forward as a propitiation by his blood, to be received by faith. This was to show God's righteousness, because in his divine forbearance he had passed over former sins. It was to show his righteousness at the present time, so that he might be just and the justifier of the one who has faith in Jesus." — Romans 3:25–26
 
-At the cross, *mishpat* is fully executed — sin is punished, the penalty is paid, the moral order is upheld. And *rachamim* overflows — the guilty are pardoned, the condemned are freed, the enemies of God are reconciled as His children. The same act that displays the severity of divine justice displays the depth of divine mercy.
+The Greek *hilastērion* (ἱλαστήριον) — "propitiation, mercy seat" — in Romans 3:25 deliberately evokes the *kapporet* (כַּפֹּרֶת), the golden cover of the Ark where the blood of atonement was sprinkled on the Day of Atonement (Leviticus 16:14–15). Christ is the true mercy seat — the place where [God's wrath](../../last-things/resurrection-and-judgment/) against sin and God's mercy toward sinners meet in a single, world-changing act. At the cross, *mishpat* is fully executed — sin is judged, the moral order upheld. And *rachamim* overflows — the guilty are pardoned, the condemned are freed, the enemies of God are reconciled as His children (Romans 5:10). The same act that displays the severity of divine justice displays the depth of divine [grace](../../salvation/grace/).
 
 ## What God Requires
 
@@ -56,4 +56,6 @@ The prophet Micah summarized the life that flows from understanding God's charac
 
 > "He has told you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?" — Micah 6:8
 
-Those who have received mercy become agents of mercy. Those who have been justified by grace become pursuers of justice. The character of God, fully displayed at the cross, becomes the pattern for the life of His people.
+Those who have received mercy become agents of [mercy and forgiveness](../../christian-life-and-vocation/forgiveness/). Those who have been [justified](../../salvation/justification/) by grace become pursuers of justice. The character of God, fully displayed at the cross, becomes the pattern for the life of His people.
+
+> "Steadfast love and faithfulness meet; righteousness and peace kiss each other." — Psalm 85:10

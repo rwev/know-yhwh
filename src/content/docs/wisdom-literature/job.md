@@ -9,7 +9,7 @@ sidebar:
 
 ## The Question of Innocent Suffering
 
-The Book of Job confronts the most agonizing question in theology: **Why do the righteous suffer?** It does so not with a tidy answer but with a dramatic narrative that moves from devastating loss, through anguished debate, to a divine encounter that transforms everything — and explains almost nothing.
+The Book of Job confronts the most agonizing question in theology: **[Why do the righteous suffer?](../../suffering-evil-and-theodicy/why-suffering-exists/)** It does so not with a tidy answer but with a dramatic narrative that moves from devastating loss, through anguished debate, to a divine encounter that transforms everything — and explains almost nothing.
 
 Job is arguably the most sophisticated piece of literature in the Old Testament. Its poetry is among the most elevated in all of Scripture, and its theology is among the most daring.
 
@@ -22,7 +22,7 @@ The book has a distinctive two-part structure:
 
 ### The Prologue (Chapters 1-2)
 
-Job is introduced as a man who is *tam* (תָּם) — blameless, complete, a man of integrity. He is wealthy, devout, and beloved. Then the scene shifts to the heavenly court, where *ha-satan* (הַשָּׂטָן) — "the adversary" — challenges God: does Job fear God for nothing, or only because God has blessed him?
+Job is introduced as a man who is *tam* (תָּם) — blameless, complete, a man of integrity. He is wealthy, devout, and beloved. Then the scene shifts to the heavenly court, where *ha-satan* (הַשָּׂטָן) — "[the adversary](../../angels-demons-and-spiritual-warfare/satan-and-demons/)" — challenges God: does Job fear God for nothing, or only because God has blessed him?
 
 God permits the adversary to strip Job of everything: his wealth, his children, and finally his health. Job's response to the first wave of loss is iconic:
 
@@ -58,7 +58,7 @@ God **does**:
 - Pose over seventy unanswerable questions: "Where were you when I laid the foundation of the earth?" (38:4)
 - Display His sovereign wisdom in sustaining creatures Job cannot comprehend — the wild donkey, the ostrich, the war horse, Behemoth, Leviathan
 
-The message is not "might makes right" but rather: **the God who governs this incomprehensibly vast and intricate universe can be trusted with the things you cannot understand**.
+The message is not "might makes right" but rather: **the God who [governs](../../gods-nature/sovereignty/) this incomprehensibly vast and intricate universe can be trusted with the things you cannot understand**.
 
 ## Job's Response
 
@@ -94,4 +94,6 @@ The Christian tradition has long seen in Job a prefiguration of Christ:
 - **The living Redeemer** — Job's declaration "I know that my *go'el* (גֹּאֵל) lives" (19:25) uses the Hebrew term for the kinsman-redeemer — the family member legally bound to rescue, avenge, and restore. Job stakes his hope on a living Go'el who will vindicate him; the Christian tradition sees this fulfilled in the risen Christ
 - **Vindication through suffering** — As Job was vindicated after his suffering, so Christ was raised in glory after the cross
 
-Job teaches us that God's answer to suffering is ultimately not a doctrine but a Person.
+Job teaches us that God's answer to [suffering](../../sanctification-and-discipleship/suffering-and-growth/) is ultimately not a doctrine but a Person — the same truth the [cross](../../jesus-christ/death-and-resurrection/) would make visible for all the world.
+
+> "Though he slay me, I will hope in him." — Job 13:15

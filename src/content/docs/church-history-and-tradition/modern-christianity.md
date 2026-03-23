@@ -47,9 +47,9 @@ The twentieth century witnessed the dramatic rise of Spirit-centered Christianit
 - **The Azusa Street Revival (1906)** — led by William J. Seymour in Los Angeles, this interracial revival is considered the birthplace of modern Pentecostalism. Participants reported speaking in tongues (*glossolalia*, from Greek γλῶσσα *glōssa*, "tongue/language" + λαλέω *laleō*, "to speak"), healings, and other spiritual gifts.
 - **Classical Pentecostalism** — denominations such as the Assemblies of God, Church of God in Christ, and the Foursquare Church emphasize the baptism of the Holy Spirit, evidenced by speaking in tongues, and the continuation of all the spiritual gifts
 - **The Charismatic Renewal (1960s–1970s)** — the experience of the Spirit's gifts spread into mainline Protestant and Roman Catholic congregations, often without participants leaving their existing denominations
-- **The global impact** — Pentecostal and charismatic Christianity is the fastest-growing segment of global Christianity, with an estimated 600 million adherents worldwide. Its growth has been especially dramatic in Africa, Latin America, and Asia.
+- **The global impact** — Pentecostal and charismatic Christianity is the fastest-growing segment of [global Christianity](../global-christianity/), with an estimated 600 million adherents worldwide. Its growth has been especially dramatic in Africa, Latin America, and Asia.
 
-Christians hold diverse views on the continuation of miraculous gifts. Cessationists argue that certain gifts ceased with the apostolic age, while continuationists affirm their ongoing operation. Both perspectives are held by faithful, orthodox believers.
+Christians hold diverse views on the continuation of miraculous [gifts](../../holy-spirit/gifts/). Cessationists argue that certain gifts ceased with the apostolic age, while continuationists affirm their ongoing operation (cf. [baptism of the Spirit](../../holy-spirit/baptism-of-the-spirit/)). Both perspectives are held by faithful, orthodox believers.
 
 ## The Ecumenical Movement
 
@@ -57,7 +57,7 @@ The twentieth century also saw significant efforts toward Christian unity:
 
 - **The World Council of Churches** (founded 1948) — brought together mainline Protestant and Eastern Orthodox churches for dialogue and cooperation
 - **The Second Vatican Council** (1962–1965) — Pope John XXIII convened a council that opened the Roman Catholic Church to ecumenical engagement, liturgical reform, and dialogue with the modern world
-- **Bilateral dialogues** — Lutherans and Catholics, Anglicans and Orthodox, and many other traditions have engaged in formal theological conversations, finding common ground on issues such as justification, baptism, and the Eucharist
+- **Bilateral dialogues** — Lutherans and Catholics, Anglicans and Orthodox, and many other traditions have engaged in formal theological conversations, finding common ground on issues such as [justification](../../salvation/justification/), baptism, and the [Eucharist](../../the-church/sacraments-and-ordinances/)
 - **Evangelical cooperation** — organizations such as the Lausanne Movement (founded 1974 through Billy Graham's initiative) have united evangelicals across denominational lines for world evangelization
 
 Ecumenism at its best seeks visible unity in truth, not uniformity at the expense of conviction. The prayer of Jesus remains the aspiration: "that they may all be one" — Greek *hen* (ἕν), expressing a unity of purpose and being — "so that the world may believe" (John 17:21).
@@ -83,7 +83,7 @@ The church in the twenty-first century faces a complex landscape:
 - **Technology and communication** — the digital age presents both opportunities for gospel proclamation and challenges of distraction, misinformation, and shallow faith
 - **Theological polarization** — tensions between progressive and traditional approaches to ethics, Scripture, and doctrine test the unity of many denominations
 - **The call to justice** — Christians across the spectrum are rediscovering the biblical mandate to care for the poor, the oppressed, and the marginalized, reflecting the heart of the prophets and the ministry of Jesus
-- **Interfaith engagement** — in an increasingly pluralistic world, Christians must hold firmly to the uniqueness of Christ while engaging with people of other faiths with grace and respect
+- **Interfaith engagement** — in an increasingly pluralistic world, Christians must hold firmly to the [uniqueness of Christ](../../world-religions-and-comparative-theology/uniqueness-of-christ/) while engaging with people of other faiths with [grace](../../salvation/grace/) and respect
 
 Despite these challenges, the promise of Christ stands firm. The church is not a human institution dependent on human strength. It is the body of Christ, animated by the Holy Spirit, and destined to endure until He returns.
 

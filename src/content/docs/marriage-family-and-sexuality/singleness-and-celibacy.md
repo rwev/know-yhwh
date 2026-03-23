@@ -6,7 +6,7 @@ sidebar:
 
 > "I wish that all were as I myself am. But each has his own gift from God, one of one kind and one of another." — 1 Corinthians 7:7
 
-In a faith tradition that highly honors marriage and family, the witness of Scripture is striking: singleness is not a deficiency to be remedied but a legitimate, honored, and in some cases, preferred vocation. Jesus Himself was unmarried. Paul wished others shared his single state. The early Church revered celibacy as a powerful sign of the coming kingdom. A complete biblical theology of human relationships must affirm both marriage and singleness as callings from God.
+In a faith tradition that highly honors marriage and family, the witness of Scripture is striking: singleness is not a deficiency to be remedied but a legitimate, honored, and in some cases, preferred vocation. Jesus Himself was unmarried. Paul wished others shared his single state. The early Church revered celibacy as a powerful sign of the coming kingdom. A complete biblical theology of human relationships must affirm both [marriage](../marriage/) and singleness as callings from God.
 
 ## Jesus and Singleness
 
@@ -35,7 +35,7 @@ This does not mean that all single people have "the gift of celibacy" in the sen
 
 ## The Witness of the Early Church
 
-The early Church held celibacy in extraordinary honor. The desert monks and nuns — Anthony of Egypt, Macrina, Syncletica, Mary of Egypt — embraced celibacy as a radical act of devotion, freeing themselves from family obligations to pursue union with God through prayer, fasting, and solitude. Virginity was understood as an anticipation of the resurrection life, where "they neither marry nor are given in marriage, but are like angels in heaven" (Matthew 22:30).
+The early Church held celibacy in extraordinary honor. The [desert monks and nuns](../../spiritual-formation-and-mysticism/desert-fathers/) — Anthony of Egypt, Macrina, Syncletica, Mary of Egypt — embraced celibacy as a radical act of devotion, freeing themselves from family obligations to pursue [union with God](../../spiritual-formation-and-mysticism/union-with-god/) through [prayer](../../prayer-and-worship/prayer/), [fasting](../../prayer-and-worship/fasting/), and solitude. Virginity was understood as an anticipation of the resurrection life, where "they neither marry nor are given in marriage, but are like angels in heaven" (Matthew 22:30).
 
 The Church Fathers developed rich theological reflection on celibacy:
 
@@ -60,6 +60,6 @@ Jesus Himself redefined family in radical terms: "Whoever does the will of my Fa
 
 ## Singleness and the Coming Kingdom
 
-Ultimately, singleness points forward. Marriage is a temporary institution — a beautiful and good gift for this present age, but one that will give way to something greater. In the resurrection, Jesus says, human beings "neither marry nor are given in marriage" (Matthew 22:30) — not because intimacy is abolished but because it is fulfilled in the unmediated communion of God and His people. The celibate life, freely chosen, is a prophetic sign of that coming reality — a living testimony that the deepest human longings find their ultimate satisfaction not in any human relationship but in God Himself.
+Ultimately, singleness points forward. Marriage is a temporary institution — a beautiful and good gift for this present age, but one that will give way to something greater. In the [resurrection](../../last-things/resurrection-and-judgment/), Jesus says, human beings "neither marry nor are given in marriage" (Matthew 22:30) — not because intimacy is abolished but because it is fulfilled in the unmediated communion of God and His people in the [new creation](../../last-things/new-creation/). The celibate life, freely chosen, is a prophetic sign of that coming reality — a living testimony that the deepest human longings find their ultimate satisfaction not in any human relationship but in God Himself.
 
 > "For your Maker is your husband, the LORD of hosts is his name; and the Holy One of Israel is your Redeemer, the God of the whole earth he is called." — Isaiah 54:5

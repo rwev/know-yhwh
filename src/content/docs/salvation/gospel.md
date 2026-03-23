@@ -22,16 +22,16 @@ When Paul "preached the gospel" to the Romans and Corinthians, he was consciousl
 
 The core of the gospel can be summarized in four movements:
 
-1. **Creation** — God made all things good, and humanity was created in His image to know and glorify Him
-2. **Fall** — Adam's sin brought death, corruption, and condemnation upon the entire human race (Romans 5:12)
-3. **Redemption** — God sent His Son to live the life we couldn't live and die the death we deserved (2 Corinthians 5:21)
-4. **Restoration** — Christ rose from the dead, ascended to the Father, and will return to make all things new (Revelation 21:5)
+1. **[Creation](../../creation-and-humanity/creation/)** — God made all things good, and humanity was created in His [image](../../creation-and-humanity/image-of-god/) to know and glorify Him
+2. **[Fall](../../creation-and-humanity/the-fall/)** — Adam's sin brought death, corruption, and condemnation upon the entire human race (Romans 5:12)
+3. **Redemption** — God sent His Son to live the life we couldn't live and [die the death](../../jesus-christ/death-and-resurrection/) we deserved (2 Corinthians 5:21)
+4. **[Restoration](../../last-things/new-creation/)** — Christ rose from the dead, ascended to the Father, and will return to make all things new (Revelation 21:5)
 
 Paul provides the apostolic summary of this message:
 
 > "For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures." — 1 Corinthians 15:3–4
 
-Three elements are essential: Christ *died* for our sins, He was *buried* (confirming the reality of His death), and He was *raised* (vindicating His sacrifice and securing our hope). Each event occurred "in accordance with the Scriptures" — the gospel fulfills the entire Old Testament narrative. Paul received this message as a tradition already crystallized in the earliest church, making it among the oldest summaries of Christian faith we possess.
+Three elements are essential: Christ *died* for our sins, He was *buried* (confirming the reality of His death), and He was *raised* (vindicating His sacrifice and securing our hope). Each event occurred *kata tas graphas* (κατὰ τὰς γραφάς) — "in accordance with the Scriptures" — emphasizing that the gospel fulfills the entire Old Testament narrative, from the [protoevangelium](../../creation-and-humanity/the-fall/) of Genesis 3:15 through the [Suffering Servant](../../prophecy/messianic/) of Isaiah 53 to the [covenant](../../covenants/covenant-theology/) promises made to Abraham, Moses, and David. Paul received this message as a tradition already crystallized in the earliest Church — Irenaeus called it the *kanōn tēs alētheias* (κανὼν τῆς ἀληθείας) — "the rule of truth" (*Against Heresies* I.9.4) — making it among the oldest summaries of Christian [faith](../faith/) we possess.
 
 ## The Gospel as Trinitarian
 
@@ -60,11 +60,11 @@ Believers live between the first coming of Christ, which inaugurated the kingdom
 
 The gospel calls for:
 
-- **Repentance** — turning from sin and self-reliance (Acts 2:38)
-- **Faith** — trusting in Christ alone for salvation (Acts 16:31)
+- **[Repentance](../repentance/)** — turning from sin and self-reliance (Acts 2:38)
+- **[Faith](../faith/)** — trusting in Christ alone for salvation (Acts 16:31)
 
 These are not two separate requirements but two sides of the same coin: turning *from* sin and turning *to* Christ. Wherever the gospel is faithfully proclaimed, it demands a response — not merely intellectual agreement but the surrender of the whole life to the lordship of Christ.
 
-The gospel is not merely a message to be believed at the beginning of the Christian life; it is the foundation upon which the entire Christian life is built. Believers never graduate beyond the good news — they grow deeper into it.
+The gospel is not merely a message to be believed at the beginning of the Christian life; it is the foundation upon which the entire Christian life is built. Believers never graduate beyond the good news — they grow deeper into it. The gospel [justifies](../justification/) and [sanctifies](../../sanctification-and-discipleship/sanctification/), comforts and commissions, humbles and empowers. It is the message the Church [proclaims](../../the-church/mission-and-evangelism/) to the ends of the earth until Christ returns.
 
 > "The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel." — Mark 1:15

@@ -10,15 +10,15 @@ The relationship between God and Adam in the Garden of Eden is the starting poin
 
 ## The Creation Mandate
 
-Before the prohibition came the commission. God placed Adam in the garden "to work it and keep it" — *le'ovdah uleshomrah* (לְעָבְדָהּ וּלְשָׁמְרָהּ) (Genesis 2:15). The verbs *avad* (עָבַד) — "to serve, to work" — and *shamar* (שָׁמַר) — "to keep, to guard" — are the same verbs later used for the priestly service in the tabernacle (Numbers 3:7–8; 18:7). Adam was not merely a gardener but a priest-king, tending God's sanctuary-garden and guarding it from intrusion.
+Before the prohibition came the commission. God placed Adam in the garden "to work it and keep it" — *le'ovdah uleshomrah* (לְעָבְדָהּ וּלְשָׁמְרָהּ) (Genesis 2:15). The verbs *avad* (עָבַד) — "to serve, to work" — and *shamar* (שָׁמַר) — "to keep, to guard" — are the same verbs later used for the priestly service in the tabernacle (Numbers 3:7–8; 18:7). Adam was not merely a gardener but a priest-king, tending God's sanctuary-garden and guarding it from intrusion. Eden itself was a [temple](../../typology-and-biblical-theology/temple-exile-kingdom/) — the place where heaven and earth intersected, where God walked with His creatures in unmediated fellowship (Genesis 3:8).
 
-The broader creation mandate of Genesis 1:28 — "Be fruitful and multiply and fill the earth and subdue it, and have dominion" — adds royal dimensions. The verbs *radah* (רָדָה) — "to rule" — and *kavash* (כָּבַשׁ) — "to subdue" — are royal language. Adam and Eve were God's vice-regents, commissioned to extend the order and beauty of Eden throughout the earth, filling it with image-bearers who would reflect God's glory in every corner of creation.
+The broader creation mandate of Genesis 1:28 — "Be fruitful and multiply and fill the earth and subdue it, and have dominion" — adds royal dimensions. The verbs *radah* (רָדָה) — "to rule" — and *kavash* (כָּבַשׁ) — "to subdue" — are royal language. Adam and Eve were God's vice-regents, commissioned to extend the order and beauty of Eden throughout the earth, filling it with [image-bearers](../../creation-and-humanity/image-of-god/) who would reflect God's glory in every corner of [creation](../../creation-and-humanity/creation/).
 
 ## The Prohibition and the Promise
 
 The single prohibition — "of the tree of the knowledge of good and evil you shall not eat" (Genesis 2:17) — functioned as a test of covenant faithfulness. Obedience would demonstrate trust in God's word and submission to His wisdom. The "knowledge of good and evil" is not mere intellectual awareness but the autonomous determination of right and wrong — the claim to moral self-sufficiency apart from God.
 
-The implied promise was life. The tree of life stood in the garden (Genesis 2:9; 3:22), and access to it was conditioned on obedience. The warning — "in the day that you eat of it you shall surely die" — *mot tamut* (מוֹת תָּמוּת), an emphatic construction meaning "you will certainly die" — established the covenant sanction. Obedience leads to life; disobedience leads to death.
+The implied promise was life. The tree of life stood in the garden (Genesis 2:9; 3:22), and access to it was conditioned on obedience. The warning — "in the day that you eat of it you shall surely die" — *mot tamut* (מוֹת תָּמוּת), an emphatic construction meaning "you will certainly die" — established the covenant sanction. Obedience leads to life; disobedience leads to [death](../../heaven-hell-and-the-afterlife/death-and-dying/) — not merely physical death but spiritual alienation from the source of all life.
 
 ## The Covenant of Works
 
@@ -32,9 +32,9 @@ The logic of the covenant of works is essential to the Reformed understanding of
 
 Not all Christians use the language of a "Covenant of Works," though most recognize the theological realities it describes:
 
-- **Catholic theology** speaks of the state of *justitia originalis* — "original justice" or "original righteousness" — in which Adam enjoyed sanctifying grace, preternatural gifts (freedom from suffering, death, and concupiscence), and friendship with God. The fall was the loss of these gifts, and redemption is their restoration through Christ and the sacraments.
+- **Catholic theology** speaks of the state of *justitia originalis* — "original justice" or "original righteousness" — in which Adam enjoyed sanctifying [grace](../../salvation/grace/), preternatural gifts (freedom from suffering, death, and concupiscence), and friendship with God. The [fall](../../creation-and-humanity/the-fall/) was the loss of these gifts, and redemption is their restoration through Christ and the [sacraments](../../the-church/sacraments-and-ordinances/).
 
-- **Eastern Orthodox theology** describes Adam's original state not as a finished perfection but as an immature goodness oriented toward growth. Adam was created for *theosis* — participation in the divine nature — and the fall was a failure to grow into the fullness God intended. The emphasis falls less on legal categories (covenant, merit, penalty) and more on ontological categories (nature, corruption, healing, transformation).
+- **Eastern Orthodox theology** describes Adam's original state not as a finished perfection but as an immature goodness oriented toward growth. Adam was created for [*theosis*](../../spiritual-formation-and-mysticism/theosis/) — participation in the divine nature — and the fall was a failure to grow into the fullness God intended. The emphasis falls less on legal categories (covenant, merit, penalty) and more on ontological categories (nature, corruption, healing, transformation).
 
 - **New Covenant Theology** and some Baptist theologians question whether the term "covenant" should be applied to the pre-fall arrangement, since Genesis 1–2 does not use the word *berit*. They acknowledge the elements of divine command, human obligation, and promised blessing, but prefer to reserve "covenant" for the explicit covenants beginning with Noah or Abraham.
 
@@ -52,7 +52,7 @@ This representative principle is not arbitrary. Adam was humanity's natural head
 
 ## From Eden to Christ
 
-The Adamic covenant is the foundation upon which every subsequent covenant builds. The Noahic covenant preserves the world after the fall. The Abrahamic covenant begins the work of redemption through one chosen family. The Mosaic covenant reveals the standard Adam failed to keep. The Davidic covenant promises a king who will succeed where Adam failed. The new covenant accomplishes what all the others pointed toward: a new humanity in a new Adam, restored to fellowship with God and destined for the glory that Eden only foreshadowed.
+The Adamic covenant is the foundation upon which every subsequent covenant builds. The [Noahic](../noahic/) covenant preserves the world after the fall. The [Abrahamic](../abrahamic/) covenant begins the work of redemption through one chosen family. The [Mosaic](../mosaic/) covenant reveals the standard Adam failed to keep. The [Davidic](../davidic/) covenant promises a king who will succeed where Adam failed. The [new covenant](../new-covenant/) accomplishes what all the others pointed toward: a new humanity in a new Adam, restored to fellowship with God and destined for the glory that Eden only foreshadowed.
 
 The entire biblical story, from Genesis to Revelation, is the story of what was lost in Adam being recovered — and infinitely surpassed — in Christ.
 

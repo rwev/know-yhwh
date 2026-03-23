@@ -9,7 +9,7 @@ sidebar:
 In the Old Testament, three offices were set apart by anointing with oil:
 the prophet, the priest, and the king.
 Jesus Christ — whose very title *mashiach* (מָשִׁיחַ), "the Anointed One,"
-is rendered *Christos* (Χριστός) in Greek — fulfills all three offices in Himself.
+is rendered *Christos* (Χριστός) in Greek (cf. [messianic prophecy](../../prophecy/messianic/)) — fulfills all three offices in Himself.
 This is the *munus triplex*, the threefold office of Christ —
 a framework rooted in the early church fathers, developed by Thomas Aquinas,
 and given its fullest expression in Reformed theology through John Calvin.
@@ -92,7 +92,7 @@ He conquered not by the sword but by the cross.
 
 He reigns now at the right hand of the Father,
 "far above all rule and authority and power and dominion" (Ephesians 1:20–21),
-and He will return as "King of kings and Lord of lords" (Revelation 19:16).
+and He will [return](../../last-things/second-coming/) as "King of kings and [Lord](../../names-of-god/adonai/) of lords" (Revelation 19:16).
 
 His kingship means that every knee will bow — in heaven, on earth, and under the earth —
 and every tongue will confess that Jesus Christ is Lord (Philippians 2:10–11).
@@ -108,6 +108,8 @@ At His baptism the Spirit descended upon Him and the Father declared:
 "This is my beloved Son, with whom I am well pleased" (Matthew 3:16–17).
 
 He is the Prophet who reveals God perfectly,
-the Priest who reconciles us to God forever,
-and the King who rules over all things
+the Priest who [reconciles](../atonement-theories/) us to God forever,
+and the King who [rules](../../jesus-christ/kingdom-of-god/) over all things
 for the good of His people and the glory of His Father.
+
+> "He is the radiance of the glory of God and the exact imprint of his nature, and he upholds the universe by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high." — Hebrews 1:3

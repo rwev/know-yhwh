@@ -7,7 +7,7 @@ sidebar:
 > "For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures." — 1 Corinthians 15:3–4
 
 The death and resurrection of Jesus Christ form the heart of the Christian gospel.
-Without the cross, there is no atonement; without the resurrection, there is no victory over death.
+Without the cross, there is no [atonement](../atonement-theories/); without the resurrection, there is no victory over [death](../../heaven-hell-and-the-afterlife/death-and-dying/).
 
 ## The Cross
 
@@ -44,7 +44,7 @@ as beloved children (Romans 5:10–11; 2 Corinthians 5:18–19).
 
 No single word or metaphor exhausts the meaning of the cross.
 Together these terms reveal a work of infinite depth:
-God's holiness is satisfied, the ransom is paid, and enemies are made friends.
+God's [holiness](../../gods-nature/holiness/) is satisfied, the ransom is paid, and enemies are made friends. For a fuller treatment of how the Church has understood the cross's meaning, see the article on [atonement theories](../atonement-theories/).
 
 ## The Seven Last Words from the Cross
 
@@ -72,7 +72,7 @@ The bodily resurrection of Jesus is the vindication of everything He claimed and
 
 The resurrection declares that the Father accepted the Son's sacrifice,
 that death has been defeated,
-and that all who are united to Christ will also be raised (1 Corinthians 15:20–23).
+and that all who are united to Christ will also be [raised](../../last-things/resurrection-and-judgment/) (1 Corinthians 15:20–23). As Paul declares, Christ is *aparchē* (ἀπαρχή) — "firstfruits" — the initial portion of the harvest that guarantees the full ingathering of the [new creation](../../last-things/new-creation/).
 
 ### The Empty Tomb
 
@@ -112,6 +112,6 @@ imperishable, glorious, and powerful (1 Corinthians 15:42–43).
 
 Jesus' risen body was physical yet transformed:
 He passed through locked doors (John 20:19) and yet bore the marks of the nails and the spear (John 20:27).
-His resurrection body is the firstfruits and the pattern of what awaits all who belong to Him.
+His resurrection body is the firstfruits and the pattern of what awaits all who belong to Him. For a fuller treatment, see the article on the [resurrection body](../../heaven-hell-and-the-afterlife/resurrection-body/).
 
 > "Just as we have borne the image of the man of dust, we shall also bear the image of the man of heaven." — 1 Corinthians 15:49

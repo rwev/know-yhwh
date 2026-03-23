@@ -6,7 +6,7 @@ sidebar:
 
 > "All these things Jesus said to the crowds in parables; indeed, he said nothing to them without a parable. This was to fulfill what was spoken by the prophet: 'I will open my mouth in parables; I will utter what has been hidden since the foundation of the world.'" — Matthew 13:34–35
 
-The parables are the most distinctive feature of Jesus' teaching. He told short, vivid stories drawn from everyday life — farming, fishing, baking, feasting, shepherding, traveling — and through them revealed the deepest truths about the kingdom of God. The parables are deceptively simple on the surface but endlessly rich beneath it, and they have captivated the imagination of the Church for two thousand years.
+The parables are the most distinctive feature of Jesus' teaching. He told short, vivid stories drawn from everyday life — farming, fishing, baking, feasting, shepherding, traveling — and through them revealed the deepest truths about the [kingdom of God](../kingdom-of-god/). The parables are deceptively simple on the surface but endlessly rich beneath it, and they have captivated the imagination of the Church for two thousand years.
 
 ## What Is a Parable?
 
@@ -49,14 +49,14 @@ Some of Jesus' most memorable parables reveal the extravagant, surprising, and o
 
 - **The Prodigal Son** (Luke 15:11–32) — A son squanders his inheritance in dissolute living, returns home in shame, and is met by a father who runs to embrace him — a shocking breach of patriarchal dignity in the ancient Near East. The older brother, resentful and self-righteous, refuses to join the feast. The parable addresses both the tax collectors and sinners (the younger son) and the Pharisees and scribes (the older son), revealing a God whose grace offends the self-righteous.
 - **The Workers in the Vineyard** (Matthew 20:1–16) — Workers hired at different hours all receive the same pay. Those who worked all day grumble; the landowner replies, "Am I not allowed to do what I choose with what belongs to me? Or do you begrudge my generosity?" (20:15). The parable overturns human calculations of merit and reward. The kingdom operates by grace, not by the marketplace.
-- **The Pharisee and the Tax Collector** (Luke 18:9–14) — The Pharisee thanks God for his own righteousness; the tax collector beats his breast and cries, "God, be merciful (*hilasthēti*, ἱλάσθητί) to me, a sinner!" (18:13). Jesus declares the tax collector justified — *dedikaiōmenos* (δεδικαιωμένος). This parable is a miniature gospel: salvation comes not through self-congratulation but through honest confession and dependence on God's mercy.
+- **The Pharisee and the Tax Collector** (Luke 18:9–14) — The Pharisee thanks God for his own righteousness; the tax collector beats his breast and cries, "God, be merciful (*hilasthēti*, ἱλάσθητί) to me, a sinner!" (18:13). Jesus declares the tax collector [justified](../../salvation/justification/) — *dedikaiōmenos* (δεδικαιωμένος). This parable is a miniature [gospel](../../salvation/gospel/): salvation comes not through self-congratulation but through honest confession and dependence on God's [mercy](../../gods-nature/mercy-and-justice/).
 
 ## Parables of Responsibility
 
 Other parables press the urgency of faithful response:
 
 - **The Talents** (Matthew 25:14–30) — Three servants are entrusted with different amounts. Two invest and produce returns; one buries his talent in the ground out of fear. The master rewards the faithful and condemns the fearful. The parable teaches that God's gifts demand active stewardship, not passive hoarding.
-- **The Ten Virgins** (Matthew 25:1–13) — Five wise virgins bring oil for their lamps; five foolish ones do not. When the bridegroom arrives at midnight, the unprepared are shut out. The parable calls for vigilant readiness for Christ's return.
+- **The Ten Virgins** (Matthew 25:1–13) — Five wise virgins bring oil for their lamps; five foolish ones do not. When the bridegroom arrives at midnight, the unprepared are shut out. The parable calls for vigilant readiness for Christ's [return](../../last-things/second-coming/).
 - **The Rich Man and Lazarus** (Luke 16:19–31) — A wealthy man feasts daily while Lazarus lies starving at his gate. In the afterlife, their positions are reversed. The parable warns that indifference to the suffering of the poor has eternal consequences — and that the Scriptures ("Moses and the Prophets") are sufficient warning.
 
 ## Parables of Prayer

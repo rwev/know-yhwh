@@ -9,7 +9,7 @@ sidebar:
 
 ## The Assembly of God
 
-The English word "church" translates the Greek *ekklesia* (ἐκκλησία) — meaning "assembly" or "called-out ones." In the Septuagint, *ekklesia* regularly translates the Hebrew *qahal* (קָהָל), the assembly of God's covenant people gathered before him (Deuteronomy 9:10; Psalm 22:22). The New Testament Church is thus the continuation and fulfillment of God's ancient purpose: to have a people assembled in his presence, belonging to him.
+The English word "church" translates the Greek *ekklesia* (ἐκκλησία) — meaning "assembly" or "called-out ones." In the Septuagint, *ekklesia* regularly translates the Hebrew *qahal* (קָהָל), the assembly of God's covenant people gathered before him (Deuteronomy 9:10; Psalm 22:22). The New Testament Church is thus the continuation and fulfillment of God's ancient [covenant](../../covenants/covenant-theology/) purpose: to have a people assembled in His presence, belonging to Him.
 
 When Jesus declared, "I will build my *ekklesia*" (Matthew 16:18), he was not introducing a novel concept but claiming ownership of God's covenant assembly and placing it on an unshakeable foundation.
 
@@ -17,7 +17,7 @@ When Jesus declared, "I will build my *ekklesia*" (Matthew 16:18), he was not in
 
 ### The Body of Christ
 
-Paul's primary image for the Church is a living *soma* (σῶμα) — "body" — with Christ as its *kephale* (κεφαλή) — "head" (Ephesians 1:22-23; Colossians 1:18). Each believer is a *melos* (μέλος) — "member, limb" — of this body, placed there by the Holy Spirit and given *charismata* (χαρίσματα) — "grace-gifts" — for the common good (1 Corinthians 12:7, 18). No member can say to another, "I have no need of you" (1 Corinthians 12:21). The body grows as each part does its work (Ephesians 4:15-16).
+Paul's primary image for the Church is a living *soma* (σῶμα) — "body" — with Christ as its *kephale* (κεφαλή) — "head" (Ephesians 1:22-23; Colossians 1:18). Each believer is a *melos* (μέλος) — "member, limb" — of this body, placed there by the [Holy Spirit](../../holy-spirit/baptism-of-the-spirit/) and given *charismata* (χαρίσματα) — "[grace-gifts](../../holy-spirit/gifts/)" — for the common good (1 Corinthians 12:7, 18). No member can say to another, "I have no need of you" (1 Corinthians 12:21). The body grows as each part does its work (Ephesians 4:15-16).
 
 ### The Bride of Christ
 
@@ -25,7 +25,7 @@ The Church is the Bride — *nymphe* (νύμφη) — whom Christ loved and for 
 
 ### The Temple of the Living God
 
-Believers are "living stones" — *lithoi zontes* (λίθοι ζῶντες) — being built into a spiritual house, *oikos pneumatikos* (οἶκος πνευματικός) (1 Peter 2:4-5). Together, the Church is "a holy temple" — *naos hagios* (ναὸς ἅγιος) — "in the Lord" and "a dwelling place for God by the Spirit" — *katoiketerion tou Theou* (κατοικητήριον τοῦ Θεοῦ) (Ephesians 2:21-22). The word *naos* refers not to the broader temple complex (*hieron*, ἱερόν) but to the inner sanctuary where God's glory dwells. God's presence no longer inhabits a structure of stone but a community of redeemed people.
+Believers are "living stones" — *lithoi zontes* (λίθοι ζῶντες) — being built into a spiritual house, *oikos pneumatikos* (οἶκος πνευματικός) (1 Peter 2:4-5). Together, the Church is "a holy temple" — *naos hagios* (ναὸς ἅγιος) — "in the Lord" and "a dwelling place for God by the Spirit" — *katoiketerion tou Theou* (κατοικητήριον τοῦ Θεοῦ) (Ephesians 2:21-22). The word *naos* refers not to the broader temple complex (*hieron*, ἱερόν) but to the inner sanctuary where God's glory dwells. God's presence no longer inhabits a structure of stone but a community of redeemed people. The [temple](../../typology-and-biblical-theology/temple-exile-kingdom/) imagery traces a line from Eden through the tabernacle and Solomon's temple to the Church and ultimately to the New Jerusalem, where God dwells fully with His people (Revelation 21:3, 22).
 
 ## Unity and Diversity
 
@@ -58,4 +58,6 @@ Throughout church history, Christians have organized these offices into differen
 - **Presbyterian polity** — authority is exercised by councils of elders (*presbyteroi*) at local, regional, and national levels. This is the pattern in Reformed and Presbyterian churches.
 - **Congregational polity** — authority rests with the gathered local congregation under Christ's headship, with elders and deacons serving by congregational appointment. This is the pattern in Baptist, Congregationalist, and many independent churches.
 
-Each tradition appeals to New Testament precedent and emphasizes different aspects of the biblical witness. All agree that Christ alone is the true Head of the Church (Colossians 1:18) and that leaders are called to shepherd God's flock with humility, not lording it over those entrusted to them (1 Peter 5:2-3).
+Each tradition appeals to New Testament precedent and emphasizes different aspects of the biblical witness. Cyprian of Carthage (c. 210–258) stressed episcopal [unity](../christian-unity/) — "the bishop is in the Church and the Church in the bishop" (*Epistle* 66.8) — while emphasizing that all bishops share equally in the one episcopate. All traditions agree that Christ alone is the true Head of the Church (Colossians 1:18) and that leaders are called to shepherd God's flock with humility, not lording it over those entrusted to them (1 Peter 5:2–3). The Church's [marks](../marks-of-the-church/) — one, holy, catholic, and apostolic — are realized in and through these diverse structures as the Spirit works to build up the body in [love](../../gods-nature/love/) (Ephesians 4:16).
+
+> "And he is the head of the body, the church. He is the beginning, the firstborn from the dead, that in everything he might be preeminent." — Colossians 1:18

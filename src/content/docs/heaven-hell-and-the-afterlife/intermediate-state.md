@@ -6,7 +6,7 @@ sidebar:
 
 > "And he said to him, 'Truly, I say to you, today you will be with me in paradise.'" — Luke 23:43
 
-The "intermediate state" refers to the condition of the human person between physical death and the final resurrection. Where are the dead now? Are they conscious? At rest? In the presence of God? Christians have wrestled with these questions since the earliest centuries.
+The "intermediate state" refers to the condition of the human person between physical death and the final resurrection. Where are the dead now? Are they conscious? At rest? In the presence of God? For how [death](../death-and-dying/) relates to the believer and the hope of [resurrection](../../last-things/resurrection-and-judgment/), see the companion articles. Christians have wrestled with these questions since the earliest centuries.
 
 ## Sheol in the Old Testament
 
@@ -77,4 +77,6 @@ The Roman Catholic tradition teaches *purgatory* — a state of purification aft
 - Death is not the end — the soul survives the body's death
 - The righteous dead are "with Christ," which is "far better" (Philippians 1:23)
 - The intermediate state is temporary — it awaits the bodily resurrection at Christ's return
-- Our ultimate hope is not a disembodied afterlife but the resurrection of the body and the life of the world to come
+- Our ultimate hope is not a disembodied afterlife but the [resurrection of the body](../resurrection-body/) and the life of the world to come in the [new creation](../../last-things/new-creation/)
+
+> "For we know that if the tent that is our earthly home is destroyed, we have a building from God, a house not made with hands, eternal in the heavens." — 2 Corinthians 5:1

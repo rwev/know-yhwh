@@ -19,7 +19,7 @@ The Hebrew background is found in the declaration *YHWH malak* (יהוה מָל�
 The Old Testament announces God's kingship in widening circles:
 
 - **Creation** — God reigns as Creator over all that exists. The heavens declare His glory, and the earth is His footstool (Psalm 19:1; Isaiah 66:1).
-- **Israel** — At Sinai, God constitutes Israel as His kingdom: "You shall be to me a kingdom of priests and a holy nation" — *mamlekhet kohanim* (מַמְלֶכֶת כֹּהֲנִים) (Exodus 19:6). Israel's human kings were meant to be vice-regents under YHWH's ultimate rule.
+- **Israel** — At Sinai, God constitutes Israel as His kingdom: "You shall be to me a kingdom of priests and a holy nation" — *mamlekhet kohanim* (מַמְלֶכֶת כֹּהֲנִים) (Exodus 19:6). Israel's human kings were meant to be vice-regents under [YHWH's](../../names-of-god/yhwh/) ultimate rule — a vocation that echoed the [Adamic](../../covenants/adamic/) calling to exercise dominion under God.
 - **The Prophets** — When Israel's kings failed, the prophets looked forward to a day when God would establish His rule decisively. Daniel sees "one like a son of man" (*bar enash*, בַּר אֱנָשׁ) coming on the clouds and receiving "dominion and glory and a kingdom, that all peoples, nations, and languages should serve him" (Daniel 7:13–14). Isaiah envisions a world where "the earth shall be full of the knowledge of the LORD as the waters cover the sea" (Isaiah 11:9).
 
 ## Jesus and the Kingdom
@@ -28,7 +28,7 @@ When Jesus announced that "the kingdom of God is at hand" (Mark 1:15), He was de
 
 ### The Kingdom Is Present
 
-Jesus' miracles were signs that God's reign was already at work. When He cast out demons, He declared: "If it is by the finger of God that I cast out demons, then the kingdom of God has come upon you" (Luke 11:20). The healing of the sick, the feeding of the hungry, the raising of the dead — all were evidence that God's restorative rule was invading a broken world. The kingdom was not merely taught; it was enacted.
+Jesus' miracles were signs that God's reign was already at work. When He cast out demons, He declared: "If it is by the finger of God that I cast out demons, then the kingdom of God has come upon you" (Luke 11:20). The healing of the sick, the feeding of the hungry, the raising of the dead — all were evidence that God's restorative rule was invading a broken world. The kingdom was not merely taught; it was enacted. As Origen observed, Jesus is Himself the *autobasileia* (αὐτοβασιλεία) — "the kingdom in person" — the reign of God embodied in a human life.
 
 ### The Kingdom Is Future
 
@@ -52,17 +52,17 @@ Jesus taught about the kingdom primarily through parables — short, vivid stori
 
 Jesus' teaching on who enters the kingdom is consistently surprising. It is not the righteous who find easy entrance but the repentant: "Truly, I say to you, the tax collectors and the prostitutes go into the kingdom of God before you" (Matthew 21:31). Entry requires a childlike posture of dependence: "Unless you turn and become like children, you will never enter the kingdom of heaven" (Matthew 18:3). The Beatitudes describe the citizens of the kingdom: the poor in spirit, the meek, those who hunger and thirst for righteousness, the merciful, the pure in heart, the peacemakers, those persecuted for righteousness' sake (Matthew 5:3–10).
 
-The kingdom is entered by grace through repentance and faith. Jesus told Nicodemus, "Unless one is born again (*anōthen*, ἄνωθεν — "from above"), he cannot see the kingdom of God" (John 3:3). The new birth, accomplished by the Spirit, is the doorway into God's reign.
+The kingdom is entered by grace through repentance and faith. Jesus told Nicodemus, "Unless one is born again (*anōthen*, ἄνωθεν — "from above"), he cannot see the kingdom of God" (John 3:3). The [new birth](../../salvation/regeneration/), accomplished by the Spirit, is the doorway into God's reign.
 
 ## The Kingdom and the Church
 
 The kingdom of God and the Church are related but not identical. The Church is the community of those who have received the kingdom and live under Christ's lordship — but the kingdom is larger than the Church. God's reign extends over all creation, and His sovereign purposes encompass all of history. The Church is the primary instrument and witness of the kingdom in the present age, but the kingdom will be fully realized only when Christ returns and makes all things new.
 
-The Church proclaims the kingdom (Acts 8:12; 28:31), embodies its values in community, and anticipates its consummation in worship. Every celebration of the Lord's Supper looks forward to the day when Christ will drink the cup "new in the kingdom of God" (Mark 14:25).
+The Church [proclaims](../../the-church/mission-and-evangelism/) the kingdom (Acts 8:12; 28:31), embodies its values in community, and anticipates its consummation in [worship](../../prayer-and-worship/worship/). The kingdom's ethic — expressed in the [Sermon on the Mount](../../the-law-and-ethics/sermon-on-the-mount/) and summarized in the command to [love](../../gods-nature/love/) God and neighbor (Matthew 22:37–40) — calls the Church to pursue [justice](../../gods-nature/mercy-and-justice/), mercy, and peace as signs of God's reign. Every celebration of the [Lord's Supper](../../the-church/sacraments-and-ordinances/) looks forward to the day when Christ will drink the cup "new in the kingdom of God" (Mark 14:25).
 
 ## The Kingdom Consummated
 
-The final vision of Scripture is the kingdom fully come. In Revelation, voices in heaven declare: "The kingdom of the world has become the kingdom of our Lord and of his Christ, and he shall reign forever and ever" (Revelation 11:15). The new heavens and new earth, the New Jerusalem descending from God, the river of life flowing from the throne — all of this is the kingdom in its fullness. God will dwell with His people, "and they will be his people, and God himself will be with them as their God" (Revelation 21:3).
+The final vision of Scripture is the kingdom fully come. In Revelation, voices in heaven declare: "The kingdom of the world has become the kingdom of our Lord and of his Christ, and he shall reign forever and ever" (Revelation 11:15). The new heavens and new earth, the [New Jerusalem](../../last-things/new-creation/) descending from God, the river of life flowing from the throne — all of this is the kingdom in its fullness. God will dwell with His people, "and they will be his people, and God himself will be with them as their God" (Revelation 21:3).
 
 The prayer Jesus taught His disciples will at last be answered in full: God's will done on earth as it is in heaven, without remainder, without resistance, without end.
 

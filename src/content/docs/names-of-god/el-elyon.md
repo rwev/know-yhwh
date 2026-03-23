@@ -18,7 +18,7 @@ The name communicates:
 
 ## First Appearance: Melchizedek and Abram
 
-The title *El Elyon* first appears in one of the most mysterious episodes in Genesis. After Abram's victory over the coalition of kings, Melchizedek — king of Salem and priest of God Most High — met him with bread and wine and blessed him. Abram then swore an oath "to the LORD, God Most High, Possessor of heaven and earth" (Genesis 14:22), fusing the titles YHWH and El Elyon and declaring them to be the same God.
+The title *El Elyon* first appears in one of the most mysterious episodes in Genesis. After Abram's victory over the coalition of kings, Melchizedek — king of Salem and priest of God Most High — met him with bread and wine and blessed him. Abram then swore an oath "to the LORD, God Most High, Possessor of heaven and earth" (Genesis 14:22), fusing the titles [YHWH](../yhwh/) and El Elyon and declaring them to be the same God.
 
 Melchizedek himself is a figure of immense theological significance. He appears without genealogy, without recorded birth or death, serving as both king and priest — a combination forbidden under the later Mosaic law, where kings came from Judah and priests from Levi.
 
@@ -28,7 +28,7 @@ The author of Hebrews saw in Melchizedek a type of Christ — a priest "not acco
 
 > "You are a priest forever, after the order of Melchizedek." — Hebrews 5:6 (quoting Psalm 110:4)
 
-Jesus serves as priest of God Most High in the fullest sense: His priesthood is permanent and untransferable, "since he always lives to make intercession" for His people (Hebrews 7:24-25). As the author of Hebrews argues, the very fact that Abraham paid tithes to Melchizedek and received his blessing demonstrates the superiority of this priestly order over the Levitical priesthood — and Christ, the priest after this order, surpasses even the one who foreshadowed Him.
+Jesus serves as [priest](../../jesus-christ/prophet-priest-king/) of God Most High in the fullest sense: His priesthood is permanent and untransferable, "since he always lives to make intercession" for His people (Hebrews 7:24–25; cf. His [ascension and session](../../jesus-christ/ascension-and-session/) at the Father's right hand). As the author of Hebrews argues, the very fact that Abraham paid tithes to Melchizedek and received his blessing demonstrates the superiority of this priestly order over the Levitical priesthood — and Christ, the priest after this order, surpasses even the one who foreshadowed Him.
 
 ## El Elyon in Daniel
 
@@ -44,7 +44,7 @@ The Psalms celebrate God as Elyon in contexts of refuge and protection:
 
 > "He who dwells in the shelter of the Most High will abide in the shadow of the Almighty." — Psalm 91:1
 
-Here *Elyon* and *Shaddai* stand together — the God who is highest in authority is also the God who shelters His people beneath the shadow of His almighty care.
+Here *Elyon* and [*Shaddai*](../el-shaddai/) stand together — the God who is highest in authority is also the God who shelters His people beneath the shadow of His almighty care.
 
 ## Hypsistos — Most High in the New Testament
 
@@ -52,4 +52,6 @@ The Greek equivalent of *Elyon* is *hypsistos* (ὕψιστος), "Most High." I
 
 > "He will be great and will be called the Son of the Most High. And the Lord God will give to him the throne of his father David." — Luke 1:32
 
-And at Jesus' birth, the heavenly host proclaimed, "Glory to God in the highest" (Luke 2:14). The Son of the Most High inherits the throne that Daniel foresaw — an everlasting dominion given to the one who is both David's heir and God's eternal Son.
+And at Jesus' birth, the heavenly host proclaimed, "Glory to God in the highest" (Luke 2:14). The Son of the Most High inherits the throne that Daniel foresaw — an everlasting dominion given to the one who is both [David's](../../covenants/davidic/) heir and God's eternal Son, reigning over the [kingdom](../../jesus-christ/kingdom-of-god/) that will have no end.
+
+> "For the LORD Most High is to be feared, a great king over all the earth." — Psalm 47:2

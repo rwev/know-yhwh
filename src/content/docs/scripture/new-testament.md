@@ -57,11 +57,11 @@ evil and the consummation of God's kingdom.
 
 ## Major Themes
 
-- **Fulfillment** — Jesus is the one to whom all the Old Testament pointed
-- **Gospel** — The good news of salvation by grace through faith in Christ
-- **Church** — The body of Christ, composed of Jews and Gentiles united in Him
-- **Already / Not Yet** — The kingdom has come in Christ but awaits final consummation
-- **Hope** — The return of Christ, resurrection of the dead, and new creation
+- **[Fulfillment](../../prophecy/fulfillment-patterns/)** — Jesus is the one to whom all the [Old Testament](../old-testament/) pointed
+- **[Gospel](../../salvation/gospel/)** — The good news of salvation by [grace](../../salvation/grace/) through [faith](../../salvation/faith/) in Christ
+- **[Church](../../the-church/body-of-christ/)** — The body of Christ, composed of Jews and Gentiles united in Him
+- **Already / Not Yet** — The [kingdom](../../jesus-christ/kingdom-of-god/) has come in Christ but awaits final consummation
+- **Hope** — The [return of Christ](../../last-things/second-coming/), [resurrection](../../last-things/resurrection-and-judgment/) of the dead, and [new creation](../../last-things/new-creation/)
 
 ## Apostolic Authority
 
@@ -95,4 +95,6 @@ to the substance (Colossians 2:17), and what was promised in part is now reveale
 in full.
 
 As Jesus said, He came not to abolish but to fulfill (Matthew 5:17). The New
-Testament does not discard the Old but completes it.
+Testament does not discard the Old but completes it. For a fuller treatment, see [Old Testament to New](../../typology-and-biblical-theology/old-testament-to-new/).
+
+> "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness." — 2 Timothy 3:16

@@ -39,7 +39,7 @@ Cries of distress — individual or communal — brought honestly before God. Ma
 Responses to God's deliverance, recounting specific acts of rescue. The *todah* ("thanksgiving") was both a psalm type and a sacrifice (Leviticus 7:12) — the grateful worshipper would offer a thanksgiving sacrifice accompanied by a sung testimony of what God had done. Examples: Psalms 18, 30, 34, 116, 118.
 
 ### Royal Psalms
-Psalms concerning the Davidic king — his coronation, his battles, his wedding, his reign. These carry messianic weight as they point beyond any historical king to the coming Anointed One. Examples: Psalms 2, 45, 72, 89, 110.
+Psalms concerning the Davidic king — his coronation, his battles, his wedding, his reign. These carry [messianic](../../prophecy/messianic/) weight as they point beyond any historical king to the coming Anointed One. Examples: Psalms 2, 45, 72, 89, 110.
 
 ### Wisdom Psalms
 Psalms reflecting on the two ways, the prosperity of the wicked, and the life of faith. Examples: Psalms 1, 37, 49, 73, 119.
@@ -54,7 +54,7 @@ The mysterious term *selah* appears seventy-one times in the Psalms and three ti
 
 From its earliest days, the Church adopted the Psalter as its primary prayer book. The monastic tradition of praying through the entire Psalter on a regular cycle shaped Western Christianity for over a millennium. The Reformers continued this emphasis: Calvin called the Psalms "an anatomy of all the parts of the soul."
 
-The Psalms teach us to pray with the **full range of human emotion**. They give us permission to bring our anger, confusion, and despair to God — not polished and sanitized but raw and real. If we only pray in calm, composed language, we are praying less honestly than the psalmists.
+The Psalms teach us to [pray](../../prayer-and-worship/prayer/) with the **full range of human emotion**. They give us permission to bring our anger, confusion, and despair to God — not polished and sanitized but raw and real. If we only pray in calm, composed language, we are praying less honestly than the psalmists.
 
 ## Messianic Psalms
 
@@ -62,7 +62,7 @@ Certain psalms are recognized as having particular messianic significance, point
 
 - **Psalm 2** — "You are My Son; today I have begotten You" — The enthronement of the Anointed King, cited at Jesus' baptism and throughout the New Testament
 - **Psalm 22** — "My God, my God, why have You forsaken me?" — The psalm Jesus quoted from the cross, whose details — hands and feet surrounded by evildoers (22:16), garments divided by lot (22:18) — match the crucifixion narrative with striking precision, culminating in vindication and universal praise
-- **Psalm 110** — "The LORD says to my Lord: Sit at My right hand" — The most quoted Old Testament verse in the New Testament; Jesus used it to demonstrate the Messiah's divine nature (Matthew 22:41-46)
+- **Psalm 110** — "The LORD says to my [Lord](../../names-of-god/adonai/): Sit at My right hand" — The most quoted Old Testament verse in the New Testament; Jesus used it to demonstrate the Messiah's divine nature (Matthew 22:41–46)
 - **Psalm 16** — "You will not abandon my soul to Sheol" — Cited by Peter at Pentecost as fulfilled in Christ's resurrection (Acts 2:25-28)
 - **Psalm 118** — "The stone the builders rejected has become the cornerstone" — Applied to Christ by Jesus Himself (Matthew 21:42)
 
@@ -86,4 +86,6 @@ Some psalms contain prayers for God's judgment on the wicked — sometimes in st
 - **They point to final judgment.** The New Testament affirms that God will indeed judge the wicked (2 Thessalonians 1:6-8; Revelation 6:10). The imprecatory psalms align the heart with God's own commitment to justice.
 - **They must be read christologically.** In the mouths of Christians, these prayers are directed not against flesh and blood but against the spiritual powers of evil (Ephesians 6:12).
 
-The Psalms, in all their beauty and difficulty, remain the irreplaceable school of prayer — teaching God's people in every generation how to bring the whole of life before the God who hears.
+The Psalms, in all their beauty and difficulty, remain the irreplaceable school of [prayer](../../prayer-and-worship/prayer/) — teaching God's people in every generation how to bring the whole of life before the God who hears. As Athanasius wrote in his *Letter to Marcellinus*, the Psalms are unique among the books of Scripture because "in the other books one hears only what one must do or not do... but in the Psalter, the reader is taught *how* to feel all these things" — making them the perfect mirror of the soul's journey with God.
+
+> "Let everything that has breath praise the LORD! Praise the LORD!" — Psalm 150:6

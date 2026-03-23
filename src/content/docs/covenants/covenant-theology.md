@@ -20,11 +20,11 @@ Before creation, the Father, Son, and Holy Spirit entered into an eternal pact �
 
 ### Covenant of Works
 
-God established a covenant with Adam in the garden: perfect obedience would yield confirmed life; disobedience would yield death (Genesis 2:16-17). Adam, as the representative head of humanity, broke this covenant, plunging all his descendants into sin and death (Romans 5:12-19). Christ, the "last Adam," succeeded where the first Adam failed, fulfilling the covenant of works on behalf of His people (1 Corinthians 15:45).
+God established a [covenant with Adam](../adamic/) in the garden: perfect obedience would yield confirmed life; disobedience would yield death (Genesis 2:16–17). Adam, as the representative head of humanity, broke this covenant, plunging all his descendants into [sin](../../creation-and-humanity/sin/) and [death](../../heaven-hell-and-the-afterlife/death-and-dying/) (Romans 5:12–19). Christ, the "last Adam," succeeded where the first Adam failed, fulfilling the covenant of works on behalf of His people (1 Corinthians 15:45).
 
 ### Covenant of Grace
 
-After the fall, God initiated a single covenant of grace that unfolds through the successive biblical covenants — Noahic, Abrahamic, Mosaic, Davidic, and new. Each is a distinct administration of the one covenant of grace. The substance is the same throughout: salvation by grace through faith in the promised Redeemer. This framework emphasizes the unity of God's people across the testaments — there is one church, one faith, one Savior from Genesis to Revelation.
+After the [fall](../../creation-and-humanity/the-fall/), God initiated a single covenant of grace that unfolds through the successive biblical covenants — [Noahic](../noahic/), [Abrahamic](../abrahamic/), [Mosaic](../mosaic/), [Davidic](../davidic/), and [new](../new-covenant/). Each is a distinct administration of the one covenant of grace. The substance is the same throughout: salvation by grace through faith in the promised Redeemer. This framework emphasizes the unity of God's people across the testaments — there is one church, one faith, one Savior from Genesis to Revelation.
 
 **Strengths**: Covenant Theology highlights the deep continuity of God's plan and reads the Old Testament Christologically. It provides a robust framework for understanding sacraments (baptism as the new covenant counterpart to circumcision) and the unity of the people of God.
 
@@ -36,7 +36,7 @@ Dispensationalism reads Scripture through a series of distinct dispensations —
 
 Key distinctives include:
 
-- **Israel and the church are distinct** — God has separate programs for ethnic Israel and the church. The church is a "parenthesis" in God's plan for Israel.
+- **[Israel and the church](../../israel-and-the-nations/israel-and-the-church/) are distinct** — God has separate programs for ethnic Israel and the Church. The Church is a "parenthesis" in God's plan for Israel.
 - **Literal fulfillment of Old Testament promises** — Promises of land, throne, and kingdom made to Israel will be fulfilled literally to national Israel, particularly in a future millennial reign of Christ on earth.
 - **A pre-tribulational rapture** — The church will be removed before a period of tribulation in which God resumes His program with Israel.
 
@@ -64,7 +64,7 @@ Despite significant disagreements, faithful evangelical interpreters across thes
 
 - **Christ is the fulfillment of all the covenants** — Every covenant points to Him and finds its ultimate "Yes" in Him (2 Corinthians 1:20).
 - **Scripture is one unified story** — From creation to new creation, the Bible tells a single narrative of God redeeming a people for His glory.
-- **Salvation is by grace through faith** — No covenant has ever taught that sinners earn God's favor by their own merit. From Abraham to the present, justification is by faith alone in the promised Redeemer.
+- **Salvation is by [grace](../../salvation/grace/) through [faith](../../salvation/faith/)** — No covenant has ever taught that sinners earn God's favor by their own merit. From Abraham to the present, [justification](../../salvation/justification/) is by faith alone in the promised Redeemer.
 - **God is faithful** — Not one of His promises has failed or will fail (Joshua 23:14). The covenants reveal a God who keeps His word across millennia, through every failure of His human partners.
 
 > "Know therefore that the LORD your God is God, the faithful God who keeps covenant and steadfast love with those who love him and keep his commandments, to a thousand generations." — Deuteronomy 7:9

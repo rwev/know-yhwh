@@ -6,7 +6,7 @@ sidebar:
 
 > "Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God." — Philippians 4:6
 
-Prayer is speaking with God — an act made possible by the mediating work of Christ and the intercession of the Holy Spirit. It is not merely asking for things but communion with the living God.
+Prayer is speaking with God — an act made possible by the mediating work of Christ and the intercession of the [Holy Spirit](../../holy-spirit/person-of-the-spirit/). It is not merely asking for things but communion with the living God. As Evagrius of Pontus (345–399) defined it, "Prayer is the ascent of the mind to God" — the creature lifting its heart to the Creator in dependence, adoration, and trust.
 
 ## The Language of Prayer
 
@@ -16,7 +16,7 @@ The Greek *proseuchē* (προσευχή) is the general term for "prayer," enco
 
 ## Elements of Prayer
 
-The Lord's Prayer (Matthew 6:9–13) provides a model:
+The [Lord's Prayer](../lords-prayer/) (Matthew 6:9–13) provides a model:
 
 1. **Adoration** — "Our Father in heaven, hallowed be your name"
 2. **Submission** — "Your kingdom come, your will be done"
@@ -38,7 +38,7 @@ Even when we do not know what to pray, the Holy Spirit intercedes on our behalf,
 
 ## The Trinitarian Nature of Prayer
 
-Christian prayer is inherently Trinitarian. We pray **to the Father**, **through the Son**, and **by the Holy Spirit** (Ephesians 2:18). The Father hears, the Son mediates as our great High Priest (Hebrews 7:25), and the Spirit helps us in our weakness and shapes our prayers according to the will of God (Romans 8:26–27). Prayer is thus not merely a human exercise but a participation in the life of the triune God.
+Christian prayer is inherently Trinitarian. We pray **to the [Father](../../trinity/one-god-three-persons/)**, **through the Son**, and **by the Holy Spirit** (Ephesians 2:18). The Father hears, the Son mediates as our great High Priest (Hebrews 7:25), and the Spirit helps us in our weakness and shapes our prayers according to the will of God (Romans 8:26–27). Prayer is thus not merely a human exercise but a participation in the life of the triune God.
 
 ## Types of Prayer
 
@@ -63,7 +63,7 @@ Some of the most powerful prayers in the Bible are intercessions — saints plea
 
 ## Prayer and Fasting
 
-Scripture frequently links prayer with fasting as an expression of earnest dependence on God. Jesus assumed His followers would fast (Matthew 6:16–18), and the early church fasted when seeking God's guidance (Acts 13:2–3). Fasting intensifies prayer by expressing the soul's hunger for God above all earthly sustenance.
+Scripture frequently links prayer with [fasting](../fasting/) as an expression of earnest dependence on God. Jesus assumed His followers would fast (Matthew 6:16–18), and the early church fasted when seeking God's guidance (Acts 13:2–3). Fasting intensifies prayer by expressing the soul's hunger for God above all earthly sustenance.
 
 ## Jesus' Prayer Life as Model
 
@@ -80,4 +80,6 @@ Scripture also warns of conditions that obstruct prayer:
 - **Selfish motives** — "You ask and do not receive, because you ask wrongly, to spend it on your passions" (James 4:3)
 - **Doubt** — James exhorts the one who prays to "ask in faith, with no doubting" (James 1:6)
 
-These warnings do not mean prayer requires perfection but that it requires sincerity — a heart genuinely turned toward God.
+These warnings do not mean prayer requires perfection but that it requires sincerity — a heart genuinely turned toward God. For the rich tradition of [contemplative prayer](../../spiritual-formation-and-mysticism/contemplative-prayer/) — from the [Desert Fathers](../../spiritual-formation-and-mysticism/desert-fathers/) to the *Hesychast* tradition to Ignatian meditation — see the articles on spiritual formation. Prayer is both the simplest and the deepest of all [spiritual disciplines](../../sanctification-and-discipleship/spiritual-disciplines/) — the breath of the soul that sustains every other practice of the Christian life.
+
+> "Rejoice always, pray without ceasing, give thanks in all circumstances; for this is the will of God in Christ Jesus for you." — 1 Thessalonians 5:16–18

@@ -14,7 +14,7 @@ The most straightforward pattern is predictive prophecy — a specific predictio
 
 ## Typological Fulfillment
 
-A "type" is a person, event, or institution in the Old Testament that prefigures and foreshadows a greater reality in Christ. Typology is not allegory — it is rooted in real historical events that God sovereignly designed to anticipate the coming Redeemer. Key examples include:
+A "[type](../../typology-and-biblical-theology/types-and-shadows/)" is a person, event, or institution in the Old Testament that prefigures and foreshadows a greater reality in Christ. Typology is not allegory — it is rooted in real historical events that God sovereignly designed to anticipate the coming Redeemer. Key examples include:
 
 - **Adam** — The first man who plunged humanity into sin prefigures Christ, the "last Adam" who brings life (Romans 5:14; 1 Corinthians 15:45).
 - **The Passover Lamb** — The lamb whose blood protected Israel from death in Egypt foreshadows Christ, "our Passover lamb" who has been sacrificed (1 Corinthians 5:7).
@@ -36,7 +36,7 @@ The Old Testament often moves fluidly between the individual and the corporate �
 
 Some prophecies have been fulfilled in Christ's first coming, yet await their ultimate consummation at His return. This "already/not yet" pattern is essential for understanding biblical prophecy:
 
-- The kingdom of God has **already** been inaugurated in Christ's life, death, and resurrection (Mark 1:15). It is **not yet** fully consummated — we await the new heavens and new earth.
+- The [kingdom of God](../../jesus-christ/kingdom-of-god/) has **already** been inaugurated in Christ's life, [death, and resurrection](../../jesus-christ/death-and-resurrection/) (Mark 1:15). It is **not yet** fully consummated — we await the [new heavens and new earth](../../last-things/new-creation/).
 - The Spirit has **already** been poured out at Pentecost (Acts 2:16–21). The **not yet** final renewal of all creation still lies ahead.
 - Death has **already** been defeated at the cross and empty tomb (2 Timothy 1:10). Believers **not yet** experience the bodily resurrection and the end of all suffering.
 
@@ -44,8 +44,8 @@ Some prophecies have been fulfilled in Christ's first coming, yet await their ul
 
 Beyond persons and events, the Old Testament institutions themselves find their fulfillment in Christ:
 
-- **The Sacrificial System** — The repeated animal sacrifices of the Old Covenant pointed to their own insufficiency. "It is impossible for the blood of bulls and goats to take away sins" (Hebrews 10:4). Christ offered Himself once for all as the final, perfect sacrifice (Hebrews 9:26).
-- **The Priesthood** — The Levitical priests served as mediators between God and man, yet they were sinful men who eventually died. Christ is the eternal High Priest "after the order of Melchizedek" who "always lives to make intercession" (Hebrews 7:25).
+- **The Sacrificial System** — The repeated animal sacrifices of the Old Covenant pointed to their own insufficiency. "It is impossible for the blood of bulls and goats to take away sins" (Hebrews 10:4). Christ offered Himself once for all as the final, perfect [sacrifice](../../jesus-christ/atonement-theories/) (Hebrews 9:26).
+- **The Priesthood** — The Levitical priests served as mediators between God and man, yet they were sinful men who eventually died. Christ is the eternal [High Priest](../../jesus-christ/prophet-priest-king/) "after the order of Melchizedek" who "always lives to make intercession" (Hebrews 7:25).
 - **The Tabernacle and Temple** — The dwelling place of God among His people was a shadow of the reality: "The Word became flesh and *dwelt* [literally, 'tabernacled'] among us" (John 1:14).
 
 ## Multiple Fulfillment and Escalation
@@ -66,6 +66,6 @@ The risen Jesus Himself established the hermeneutical principle that governs all
 
 Christ is the interpretive key. The Law, the Prophets, and the Writings all find their center, their coherence, and their completion in Him. Every sacrifice pointed to His cross. Every king foreshadowed His reign. Every prophet anticipated His word. To read the Old Testament rightly is to read it as a book about Jesus — the One in whom all God's promises find their "Yes" (2 Corinthians 1:20).
 
-This does not mean every Old Testament verse is a secret code about Jesus. Rather, it means the entire storyline — creation, fall, covenant, exodus, kingdom, exile, and return — finds its resolution in Christ. He is the true Adam, the faithful Abraham, the greater Moses, the eternal David, the final Temple, the ultimate Sacrifice. The Old Testament asks questions that only Jesus answers. It creates longings that only Jesus fulfills. It makes promises that only Jesus keeps.
+This does not mean every Old Testament verse is a secret code about Jesus. Rather, it means the entire storyline — creation, fall, covenant, exodus, kingdom, exile, and return — finds its resolution in Christ. He is the true [Adam](../../covenants/adamic/), the faithful [Abraham](../../covenants/abrahamic/), the greater Moses, the eternal [David](../../covenants/davidic/), the final [Temple](../../typology-and-biblical-theology/temple-exile-kingdom/), the ultimate Sacrifice. The Old Testament asks questions that only Jesus answers. It creates longings that only Jesus fulfills. It makes promises that only Jesus keeps.
 
 > "For all the promises of God find their Yes in him. That is why it is through him that we utter our Amen to God for his glory." — 2 Corinthians 1:20

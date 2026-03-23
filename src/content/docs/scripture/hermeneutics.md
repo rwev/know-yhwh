@@ -41,9 +41,8 @@ according to its own conventions:
 - **Narrative** — Story-form history (Genesis, Judges, Acts). Narratives describe
   what happened; they do not always prescribe what should happen. Not every action
   recorded is an action endorsed.
-- **Law** — Legal codes and covenant stipulations (Exodus 20–23, Deuteronomy).
-  These must be understood within their covenantal context — some laws are moral
-  and universal, others are ceremonial or civil and particular to ancient Israel.
+- **Law** — Legal codes and [covenant](../../covenants/mosaic/) stipulations (Exodus 20–23, Deuteronomy).
+  These must be understood within their covenantal context — some are [moral and universal, others ceremonial or civil](../../the-law-and-ethics/moral-and-ceremonial-law/).
 - **Poetry** — Psalms, Song of Solomon, portions of the Prophets. Hebrew poetry
   uses parallelism, imagery, and emotional intensity. It is not less true for
   being poetic, but it communicates truth through aesthetic forms.
@@ -57,10 +56,8 @@ according to its own conventions:
 - **Epistle** — Romans, Galatians, 1 Peter. Letters addressed to specific
   situations that carry universal theological principles. The reader must
   distinguish between the situation-specific and the universally binding.
-- **Apocalyptic** — Daniel, Revelation. A genre that uses symbolism, visions,
-  numerology, and cosmic imagery to unveil heavenly realities and the end of
-  history. Apocalyptic must be read on its own terms, not forced into a modern
-  literalist framework.
+- **Apocalyptic** — [Daniel](../../prophecy/daniel/), [Revelation](../../prophecy/revelation/). A genre that uses symbolism, visions,
+  and cosmic imagery to unveil heavenly realities and the end of history. Apocalyptic must be read on its own terms.
 
 ## Context: Immediate, Book-Level, Canonical
 
@@ -97,8 +94,8 @@ culminates in Him.
 
 **Typology** reads Old Testament persons, events, and institutions as divinely
 intended patterns (*typoi*) that find their fulfillment in Christ and the new
-covenant. Adam is a type of Christ (Romans 5:14). The Passover lamb is a type of
-Christ (1 Corinthians 5:7). Typology is grounded in real history and recognized
+covenant. [Adam](../../covenants/adamic/) is a type of Christ (Romans 5:14). The Passover lamb is a type of
+Christ (1 Corinthians 5:7). [Typology](../../typology-and-biblical-theology/types-and-shadows/) is grounded in real history and recognized
 by the New Testament authors themselves.
 
 **Allegory**, by contrast, treats the text as a coded message whose surface
@@ -122,4 +119,6 @@ The Greek *phōtismos* (φωτισμός) — "illumination, enlightenment" — 
 Spirit's work of opening the eyes of the heart to see and receive what Scripture
 teaches (Ephesians 1:18; 2 Corinthians 4:6). Illumination does not add new
 revelation to Scripture; it enables the reader to grasp and delight in the
-revelation already given.
+revelation already given. For how Scripture's [authority](../authority/) and [inspiration](../inspiration-and-inerrancy/) ground the interpretive task, see the companion articles.
+
+> "Open my eyes, that I may behold wondrous things out of your law." — Psalm 119:18

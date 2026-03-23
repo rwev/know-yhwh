@@ -6,7 +6,7 @@ sidebar:
 
 > "The grass withers, the flower fades, but the word of our God will stand forever." — Isaiah 40:8 (Hebrew: *davar* (דָּבָר) — "word, matter, thing" — signifying both speech and the reality it effects)
 
-Can the Bible be trusted? This is one of the most important questions anyone can ask, because Christianity stakes its claims on events recorded in a collection of ancient documents. The Greek term for Scripture is *graphe* (γραφή) — "writing, that which is written" — and Paul declares that all Scripture is *theopneustos* (θεόπνευστος) — "God-breathed" (2 Timothy 3:16). The evidence for the Bible's reliability is substantial — not because Christians demand blind faith, but because the God who inspired Scripture also providentially preserved it and embedded it in verifiable history.
+Can the Bible be trusted? This is one of the most important questions anyone can ask, because Christianity stakes its claims on events recorded in a collection of ancient documents. The Greek term for Scripture is *graphe* (γραφή) — "writing, that which is written" — and Paul declares that all Scripture is *theopneustos* (θεόπνευστος) — "God-breathed" (2 Timothy 3:16; cf. [inspiration and inerrancy](../../scripture/inspiration-and-inerrancy/)). The evidence for the Bible's reliability is substantial — not because Christians demand blind faith, but because the God who inspired Scripture also providentially preserved it and embedded it in verifiable history.
 
 ## Manuscript Evidence
 
@@ -37,14 +37,14 @@ Archaeology does not "prove" every biblical event, nor should we expect it to. B
 The Bible was composed over approximately 1,500 years, by more than 40 authors, across three continents, in three languages — *'Ivrit* (עִבְרִית) — "Hebrew," *'Aramit* (אֲרָמִית) — "Aramaic," and *Hellenike* (Ἑλληνική) — "Greek." Yet it tells a unified story:
 
 - Creation, fall, redemption, and restoration form a single coherent narrative arc
-- Themes introduced in Genesis — the seed of the woman, the blessing of the nations, the sacrificial lamb — reach their fulfillment in the New Testament
+- Themes introduced in Genesis — the [seed of the woman](../../creation-and-humanity/the-fall/), the [blessing of the nations](../../covenants/abrahamic/), the sacrificial lamb — reach their [fulfillment](../../prophecy/fulfillment-patterns/) in the New Testament
 - The Old Testament prophets point forward to realities that the New Testament authors recognize in Jesus of Nazareth
 
 This coherence is not the product of editorial coordination. The authors wrote in different centuries, cultures, and literary genres. The unity of Scripture is best explained by a single divine mind guiding the entire project.
 
 ## Prophetic Fulfillment
 
-The Bible contains hundreds of predictive prophecies that were fulfilled in verifiable historical events:
+The Bible contains hundreds of predictive prophecies that were fulfilled in verifiable historical events (cf. [messianic prophecy](../../prophecy/messianic/)):
 
 - The prophet Micah named Bethlehem as the birthplace of the Messiah (Micah 5:2), centuries before Jesus was born there
 - Isaiah 53 describes a suffering servant who bears the sins of others, is pierced and crushed, and is buried with the rich — details fulfilled in the crucifixion and burial of Christ
@@ -61,7 +61,7 @@ The strongest argument for the authority of Scripture is the testimony of Jesus 
 - He treated the Old Testament as the authoritative Word of God: "Scripture cannot be *lythēnai* (λυθῆναι) — broken, loosed, dissolved" (John 10:35)
 - He authorized the apostles to teach in His name (John 14:26, 16:13), laying the foundation for the New Testament
 
-If Jesus is who He claimed to be — the Son of God, risen from the dead — then His view of Scripture carries ultimate authority. To trust Christ is to trust the book He endorsed.
+If Jesus is who He claimed to be — the [Son of God](../../jesus-christ/deity/), [risen from the dead](../../jesus-christ/death-and-resurrection/) — then His view of Scripture carries ultimate [authority](../../scripture/authority/). To trust Christ is to trust the book He endorsed.
 
 ## A Note on Approach
 

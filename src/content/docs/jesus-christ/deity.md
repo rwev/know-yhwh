@@ -42,7 +42,7 @@ Three Greek terms illuminate how the New Testament writers understood and procla
 
 - *theos* (θεός) — "God." Applied directly to Jesus in John 1:1, John 20:28, and Titus 2:13.
 The same word used for the Father is used without qualification for the Son.
-- *kyrios* (κύριος) — "Lord." The Septuagint's translation of YHWH.
+- *kyrios* (κύριος) — "[Lord](../../names-of-god/adonai/)." The Septuagint's translation of [YHWH](../../names-of-god/yhwh/).
 When Paul writes "Jesus is Lord" (Romans 10:9; 1 Corinthians 12:3), he ascribes to Christ the covenant name of Israel's God.
 - *proskyneō* (προσκυνέω) — "to worship, to bow before."
 Used of the worship due to God alone (Matthew 4:10), yet rendered to Jesus repeatedly (Matthew 2:11; 28:9; Hebrews 1:6).
@@ -88,14 +88,14 @@ The Commander of the LORD's army who appears to Joshua (Joshua 5:13–15) comman
 standing on holy ground, as Moses did before the burning bush.
 
 These visible manifestations of the invisible God anticipate the incarnation,
-when the Son who had appeared in veiled glory would take on human flesh permanently.
+when the Son who had appeared in veiled glory would take on human flesh permanently in the [incarnation](../incarnation/).
 Since "no one has ever seen God" the Father (John 1:18; 6:46),
 every visible appearance of God in the Old Testament points to the Son
 who is "the image of the invisible God" (Colossians 1:15).
 
 ## The *Homoousios* Debate at Nicaea
 
-The early church formally confessed Christ's deity at the Council of Nicaea (325 AD):
+The early Church formally confessed Christ's deity at the [Council of Nicaea](../../church-history-and-tradition/creeds-and-confessions/) (325):
 *"God of God, Light of Light, very God of very God, begotten not made, being of one substance with the Father."*
 
 The critical term was *homoousios* (ὁμοούσιος) — "of the same substance" or "of one being."
@@ -108,4 +108,6 @@ This was not an innovation but the formal articulation of what Scripture had alw
 and the church had always believed.
 Athanasius, the great champion of Nicaea, understood that everything was at stake:
 if the Son is not truly God, then God has not truly come to save us,
-and our worship of Christ is idolatry rather than the fitting response to the One who made us.
+and our [worship](../../prayer-and-worship/worship/) of Christ is idolatry rather than the fitting response to the One who made us. The deity of Christ is thus not a speculative doctrine but the foundation of the [gospel](../../salvation/gospel/) itself: only if God has come in person can His [death](../death-and-resurrection/) save us and His [resurrection](../../last-things/resurrection-and-judgment/) guarantee our hope. As the [Trinity](../../trinity/one-god-three-persons/) affirms, the Son is not a lesser deity but the same God who spoke from Sinai and will reign from the [throne of the new creation](../../last-things/new-creation/).
+
+> "He is the radiance of the glory of God and the exact imprint of his nature, and he upholds the universe by the word of his power." — Hebrews 1:3

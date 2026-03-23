@@ -9,7 +9,7 @@ sidebar:
 
 ## The Resurrection of the Dead
 
-*Anastasis* (ἀνάστασις) — "resurrection, rising up" — from *ana* ("up") and *histēmi* ("to stand"); literally, "a standing up again." The related verb *anistēmi* (ἀνίστημι) — "to raise up, to rise" — appears throughout the Gospels and Acts for both Jesus' resurrection and the future resurrection of believers. The Christian hope is not the immortality of the soul alone but the resurrection of the body. The Hebrew equivalent appears in Daniel 12:2, where the dead *yaqitsu* (יָקִיצוּ) — "shall awake" — from the verb *quts* (קוּץ), evoking an awakening from sleep. God created human beings as embodied souls, and he will redeem them as embodied souls. The resurrection of Jesus — bodily, physical, tangible — is the prototype and guarantee of the resurrection to come. Paul calls the risen Christ *aparchē* (ἀπαρχή) — "firstfruits" — the initial portion of the harvest that guarantees the full ingathering (1 Corinthians 15:20–23).
+*Anastasis* (ἀνάστασις) — "resurrection, rising up" — from *ana* ("up") and *histēmi* ("to stand"); literally, "a standing up again." The related verb *anistēmi* (ἀνίστημι) — "to raise up, to rise" — appears throughout the Gospels and Acts for both Jesus' resurrection and the future resurrection of believers. The Christian hope is not the immortality of the soul alone but the resurrection of the body. The Hebrew equivalent appears in Daniel 12:2, where the dead *yaqitsu* (יָקִיצוּ) — "shall awake" — from the verb *quts* (קוּץ), evoking an awakening from sleep. God created human beings as embodied souls, and he will redeem them as embodied souls. The resurrection of Jesus — bodily, physical, tangible — is the prototype and guarantee of the resurrection to come. Paul calls the risen Christ *aparchē* (ἀπαρχή) — "firstfruits" — the initial portion of the harvest that guarantees the full ingathering (1 Corinthians 15:20–23). Christ's [death and resurrection](../../jesus-christ/death-and-resurrection/) are not merely events in His biography but the hinge of cosmic history — the beginning of [new creation](../new-creation/).
 
 The Old Testament already anticipates this hope. Daniel declares: "Many of those who sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt" (Daniel 12:2). The prophets envision a day when death itself is swallowed up (Isaiah 25:8; Hosea 13:14).
 
@@ -25,7 +25,7 @@ Paul addresses the question "With what kind of body do they come?" in 1 Corinthi
 > "It is sown a natural body; it is raised a spiritual body."
 > — 1 Corinthians 15:44
 
-The resurrection body is continuous with the present body — it is the same person raised — yet gloriously transformed. Jesus' risen body could be touched and could eat, yet it also passed through locked doors and ascended to heaven (Luke 24:39–43; John 20:19, 27; Acts 1:9).
+The resurrection body is continuous with the present body — it is the same person raised — yet gloriously transformed. Jesus' risen body could be touched and could eat, yet it also passed through locked doors and ascended to heaven (Luke 24:39–43; John 20:19, 27; Acts 1:9). For a fuller treatment, see the article on the [resurrection body](../../heaven-hell-and-the-afterlife/resurrection-body/). As Tertullian argued in *De Resurrectione Carnis*, the flesh that was created by God, redeemed by Christ, and indwelt by the [Spirit](../../holy-spirit/indwelling-and-sealing/) will not be discarded but glorified — "the flesh is the hinge of salvation" (*caro salutis est cardo*).
 
 ## The Judgment Seat of Christ
 
@@ -46,7 +46,7 @@ This solemn scene affirms that God's justice is thorough and impartial. No deed 
 
 A perennial question arises: if salvation is by grace through faith (Ephesians 2:8–9), how can judgment be according to works? Scripture holds both truths together without contradiction:
 
-- **Justification is by faith alone** — *Dikaiōsis* (δικαίωσις) — "justification, acquittal, vindication" — is received not by earning a right standing before God but as a gift (*dōrean*, δωρεάν — "freely, without cost") through trust in Christ (Romans 3:24, 28; Galatians 2:16)
+- **[Justification](../../salvation/justification/) is by faith alone** — *Dikaiōsis* (δικαίωσις) — "justification, acquittal, vindication" — is received not by earning a right standing before God but as a gift (*dōrean*, δωρεάν — "freely, without cost") through trust in Christ (Romans 3:24, 28; Galatians 2:16)
 - **Faith produces works** — Genuine faith bears fruit; works are the evidence, not the basis, of salvation (James 2:17–18; Ephesians 2:10)
 - **Judgment reveals the heart** — Works at the final judgment disclose the reality of one's relationship with God. Those who truly knew Christ lived accordingly; those who did not are exposed (Matthew 7:21–23; 25:31–46)
 
@@ -60,4 +60,6 @@ What happens between death and the final resurrection? Scripture speaks briefly 
 - Jesus tells the thief on the cross, "Today you will be with me in *paradeisos*" (*paradeisos*, παράδεισος — "paradise, enclosed garden"; a word borrowed from Old Persian *paridaida*, "walled garden," used in the Septuagint for the Garden of Eden in Genesis 2:8) (Luke 23:43)
 - The souls of the martyrs rest in God's presence awaiting vindication (Revelation 6:9–11)
 
-The Christian dead are conscious and at rest with Christ, yet they await the fullness of redemption — the resurrection of the body and the renewal of all creation. Death is real, but for the believer it is not the final word.
+The Christian dead are conscious and at rest with Christ, yet they await the fullness of redemption — the resurrection of the body and the renewal of all creation. Catholic theology adds the doctrine of purgatory — a state of purification after [death](../../heaven-hell-and-the-afterlife/death-and-dying/) in which those who die in [grace](../../salvation/grace/) but with remaining imperfections are prepared for the beatific vision (cf. 1 Corinthians 3:13–15; 2 Maccabees 12:46). Protestant and Orthodox traditions generally reject or reinterpret this teaching, though all agree that death is not the final word for the believer.
+
+> "For this perishable body must put on the imperishable, and this mortal body must put on immortality. When the perishable puts on the imperishable, and the mortal puts on immortality, then shall come to pass the saying that is written: 'Death is swallowed up in victory.'" — 1 Corinthians 15:53–54

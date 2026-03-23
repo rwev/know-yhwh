@@ -32,9 +32,13 @@ The story of the Christian church spans two thousand years, stretching from a sm
 
 This section surveys three major eras of church history:
 
-- **Early Church & Councils** — From the apostles through the seven ecumenical councils and the East-West Schism
-- **The Reformation** — The causes, key figures, and lasting impact of the Protestant Reformation, including Catholic and Protestant perspectives
-- **Modern Christianity** — From the Great Awakenings to the global church of the twenty-first century
+- [**Early Church & Councils**](./early-church-and-councils/) — From the apostles through the seven ecumenical councils and the East-West Schism
+- [**Creeds & Confessions**](./creeds-and-confessions/) — The Apostles', Nicene, and Chalcedonian creeds, plus Reformation confessions
+- [**The Medieval Church**](./medieval-church/) — Monasticism, scholasticism, the Crusades, and the Great Schism
+- [**Eastern Christianity**](./eastern-christianity/) — The Orthodox, Oriental Orthodox, and Assyrian traditions
+- [**The Reformation**](./the-reformation/) — The causes, key figures, and lasting impact of the Protestant Reformation
+- [**Modern Christianity**](./modern-christianity/) — From the Great Awakenings to the Pentecostal movement and the global church
+- [**Global Christianity**](./global-christianity/) — The shift South and East, indigenous theologies, and the Church's future
 
 Throughout, the aim is to present history faithfully, honoring the contributions of diverse Christian traditions while holding firmly to the core orthodoxy expressed in the ancient creeds.
 

@@ -28,7 +28,7 @@ The Psalms are poetry of the highest order. The Song of Solomon is love poetry o
 
 The most significant theological debate about art in Christian history was the iconoclast controversy of the eighth and ninth centuries. The iconoclasts — from *eikon* (εἰκών) — "image" — and *klaō* (κλάω) — "to break" — opposed the use of images in Christian worship, appealing to the Second Commandment's prohibition of graven images (Exodus 20:4–5).
 
-The defenders of icons — the iconodules (*eikōn* + *doulos*, "servant of images") — argued that the incarnation had fundamentally changed the situation. The invisible God had become visible in Christ. To forbid the depiction of Christ was, in effect, to deny the incarnation. The Seventh Ecumenical Council (Nicaea II, 787 AD) affirmed the veneration of icons, distinguishing between *latreia* (worship, due to God alone) and *proskynēsis* (veneration, appropriate for sacred images).
+The defenders of icons — the iconodules (*eikōn* + *doulos*, "servant of images") — argued that the incarnation had fundamentally changed the situation. The invisible God had become visible in Christ. To forbid the depiction of Christ was, in effect, to deny the incarnation. The [Seventh Ecumenical Council](../../church-history-and-tradition/early-church-and-councils/) (Nicaea II, 787) affirmed the veneration of icons, distinguishing between *latreia* (worship, due to God alone) and *proskynēsis* (veneration, appropriate for sacred images).
 
 The Protestant Reformation reignited aspects of this debate. The Reformed tradition generally rejected images of Christ in worship (following the Second Commandment strictly), while the Lutheran tradition was more permissive, and the Anglican tradition maintained a middle way. These differences persist today and reflect genuine theological convictions about the relationship between the material and the spiritual, the visible and the invisible.
 
@@ -54,8 +54,8 @@ Despite the diversity of form, the elements of Christian worship are remarkably 
 
 - **Reading and preaching of Scripture** — The Word of God has been central to Christian worship from the beginning (Acts 2:42; 1 Timothy 4:13)
 - **Prayer** — Corporate prayer, including praise, confession, thanksgiving, intercession, and the Lord's Prayer
-- **Singing** — Psalms, hymns, and spiritual songs (Colossians 3:16; Ephesians 5:19)
-- **Sacraments** — Baptism and the Lord's Supper
+- **Singing** — [Psalms, hymns, and spiritual songs](../psalms-and-hymns/) (Colossians 3:16; Ephesians 5:19)
+- **[Sacraments](../../the-church/sacraments-and-ordinances/)** — Baptism and the Lord's Supper
 - **Offering** — The giving of material resources as an act of worship (1 Corinthians 16:1–2)
 - **Confession and assurance** — Acknowledgment of sin and declaration of God's pardon
 
@@ -67,6 +67,6 @@ The psalms were the original hymnal of the people of God and remain the foundati
 
 ## Beauty and Mission
 
-The *via pulchritudinis* — "the way of beauty" — has been recognized throughout Christian history as a path to God. Beauty arrests attention, stirs longing, and opens the heart to transcendence. A Gothic cathedral, an icon of Christ, a well-crafted hymn, the ordered beauty of a liturgy — these are not distractions from the gospel but invitations into it. In a world saturated with ugliness, noise, and banality, the Church's commitment to beauty in worship is itself a form of witness — a proclamation that the God who made the heavens beautiful has not abandoned His creation but is making all things new.
+The *via pulchritudinis* — "the way of beauty" — has been recognized throughout Christian history as a path to God. Beauty arrests attention, stirs longing, and opens the heart to transcendence. A Gothic cathedral, an icon of Christ, a well-crafted hymn, the ordered beauty of a liturgy — these are not distractions from the gospel but invitations into it. In a world saturated with ugliness, noise, and banality, the Church's commitment to beauty in worship is itself a form of witness — a proclamation that the God who made the heavens beautiful has not abandoned His creation but is making all things [new](../../last-things/new-creation/).
 
 > "He has made everything beautiful in its time. Also, he has put eternity into man's heart, yet so that he cannot find out what God has done from the beginning to the end." — Ecclesiastes 3:11

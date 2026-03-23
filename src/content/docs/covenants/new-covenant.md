@@ -6,7 +6,7 @@ sidebar:
 
 > "Behold, the days are coming, declares the LORD, when I will make a new covenant with the house of Israel and the house of Judah." — Jeremiah 31:31
 
-The new covenant is the climax of God's covenant purposes — promised by the prophets, inaugurated by the blood of Christ, and now experienced by all who believe.
+The new covenant is the climax of God's [covenant](../covenant-theology/) purposes — the fulfillment of the [Abrahamic](../abrahamic/) promise of universal blessing, the resolution of the [Mosaic](../mosaic/) covenant's inability to transform the heart, and the consummation of the [Davidic](../davidic/) hope for an eternal King. Promised by the prophets, inaugurated by the blood of Christ, and now experienced by all who believe, it is the covenant toward which the entire biblical story has been moving.
 
 ## Covenant or Testament?
 
@@ -29,7 +29,7 @@ Ezekiel 36:25-27 adds a vital dimension to the prophetic promise of the new cove
 
 > "I will sprinkle clean water on you, and you shall be clean from all your uncleannesses, and from all your idols I will cleanse you. And I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh. And I will put my Spirit within you, and cause you to walk in my statutes and be careful to obey my rules." — Ezekiel 36:25-27
 
-Where the Mosaic covenant wrote the law on tablets of stone, the new covenant writes it on the heart by the indwelling Holy Spirit. The Spirit does not merely inform the mind but transforms the will, causing obedience from the inside out. This is the decisive difference between the two covenants: not a different moral standard, but a different power — the Spirit Himself enabling what the law alone could never produce (Romans 8:3-4).
+Where the Mosaic covenant wrote the law on tablets of stone, the new covenant writes it on the heart by the indwelling Holy Spirit. The Spirit does not merely inform the mind but transforms the will, causing obedience from the inside out. This is the decisive difference between the two covenants: not a different moral standard, but a different power — the [Spirit](../../holy-spirit/person-of-the-spirit/) Himself enabling what the law alone could never produce (Romans 8:3–4). As Augustine argued, the old covenant commanded from without what the new covenant accomplishes from within: "The law was given that [grace](../../salvation/grace/) might be sought; grace was given that the law might be fulfilled" (*De Spiritu et Littera* 19.34).
 
 ## Inaugurated by Christ
 
@@ -37,7 +37,7 @@ At the Last Supper, Jesus declared:
 
 > "This cup that is poured out for you is the new covenant in my blood." — Luke 22:20
 
-His death on the cross ratified the new covenant, accomplishing what the blood of bulls and goats could never achieve (Hebrews 9:15). Just as the Mosaic covenant was sealed with blood — "Behold the blood of the covenant that the LORD has made with you" (Exodus 24:8) — so the new covenant was sealed by the blood of Christ, the mediator of a "better covenant" (Hebrews 8:6).
+His [death on the cross](../../jesus-christ/death-and-resurrection/) ratified the new covenant, accomplishing what the blood of bulls and goats could never achieve (Hebrews 9:15). Just as the Mosaic covenant was sealed with blood — "Behold the blood of the covenant that the LORD has made with you" (Exodus 24:8) — so the new covenant was sealed by the blood of Christ, the mediator of a "better covenant" (Hebrews 8:6).
 
 ### The Lord's Supper as Covenant Meal
 
@@ -55,13 +55,13 @@ This does not mean the Old Testament is irrelevant — it means that the realiti
 
 Under the new covenant, believers receive:
 
-- **The indwelling Holy Spirit** — God's Spirit takes up residence within each believer, producing the fruit of Christlike character (Galatians 5:22-23) and empowering obedience from the heart (Ezekiel 36:26-27).
+- **The [indwelling Holy Spirit](../../holy-spirit/indwelling-and-sealing/)** — God's Spirit takes up residence within each believer, producing the [fruit](../../holy-spirit/fruit/) of Christlike character (Galatians 5:22–23) and empowering obedience from the heart (Ezekiel 36:26–27).
 - **Direct access to God** — The veil has been torn (Matthew 27:51). Every believer, not just the high priest, may "with confidence draw near to the throne of grace" (Hebrews 4:16).
 - **Assurance of complete forgiveness** — "Where there is forgiveness of these, there is no longer any offering for sin" (Hebrews 10:18). The conscience is cleansed, not merely the flesh (Hebrews 9:14).
 - **Membership in the new covenant community** — The church, composed of Jew and Gentile alike, is the community of the new covenant — united not by ethnicity or geography, but by the blood of Christ and the Spirit's regenerating work.
 
 ## Already and Not Yet
 
-The new covenant has been inaugurated but not yet consummated. Believers already experience forgiveness, the Spirit's indwelling, and intimate knowledge of God. But we do not yet see the fullness of what Jeremiah promised — the day when "they shall all know me, from the least of them to the greatest" (Jeremiah 31:34). Sin still lingers. Creation still groans (Romans 8:22-23). The new covenant blessings have broken into the present age, but their complete realization awaits the return of Christ, when He will make all things new and dwell with His people face to face (Revelation 21:3-4).
+The new covenant has been inaugurated but not yet consummated. Believers already experience forgiveness, the Spirit's indwelling, and intimate knowledge of God. But we do not yet see the fullness of what Jeremiah promised — the day when "they shall all know me, from the least of them to the greatest" (Jeremiah 31:34). Sin still lingers. Creation still groans (Romans 8:22-23). The new covenant blessings have broken into the present age, but their complete realization awaits the [return of Christ](../../last-things/second-coming/), when He will make all things [new](../../last-things/new-creation/) and dwell with His people face to face (Revelation 21:3–4).
 
 > "For now we see in a mirror dimly, but then face to face. Now I know in part; then I shall know fully, even as I have been fully known." — 1 Corinthians 13:12

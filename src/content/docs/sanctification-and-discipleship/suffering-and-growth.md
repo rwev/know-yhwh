@@ -7,7 +7,7 @@ sidebar:
 > "Not only that, but we rejoice in our sufferings, knowing that suffering produces endurance, and endurance produces character, and character produces hope, and hope does not put us to shame, because God's love has been poured into our hearts through the Holy Spirit who has been given to us."
 > — Romans 5:3–5
 
-The New Testament does not treat suffering as an anomaly in the Christian life but as one of its defining features. The Greek *pascho* (πάσχω) — "to suffer, to experience, to endure" — appears repeatedly as a normal dimension of faithfulness. Believers are called not only to believe in Christ but also to suffer for His sake (Philippians 1:29). Far from being meaningless, suffering serves as one of God's primary instruments of spiritual formation.
+The New Testament does not treat suffering as an anomaly in the Christian life but as one of its defining features. The Greek *pascho* (πάσχω) — "to suffer, to experience, to endure" — appears repeatedly as a normal dimension of faithfulness. Believers are called not only to believe in Christ but also to suffer for His sake (Philippians 1:29). Far from being meaningless, suffering serves as one of God's primary instruments of spiritual formation. For a deeper exploration of [why suffering exists](../../suffering-evil-and-theodicy/why-suffering-exists/) and how [the cross answers](../../suffering-evil-and-theodicy/the-cross-as-answer/) the problem of pain, see the articles on suffering and theodicy.
 
 ## Suffering as Formative, Not Punitive
 
@@ -16,7 +16,7 @@ A crucial biblical distinction separates discipline from punishment. The Greek *
 > "For the Lord disciplines the one he loves, and chastises every son whom he receives. ... For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it."
 > — Hebrews 12:6, 11
 
-God's discipline is not retributive wrath against His children — Christ bore that fully on the cross. It is the loving correction and training of a Father who is forming His children into maturity. The goal is "the peaceful fruit of righteousness" — *karpos* (καρπός), "fruit, produce, result" — a character refined through *hypomone* (ὑπομονή), "patient endurance, steadfast perseverance under pressure."
+God's discipline is not retributive wrath against His children — Christ bore that fully on the [cross](../../jesus-christ/death-and-resurrection/). It is the loving correction and training of a Father who is forming His children into maturity. The goal is "the peaceful fruit of righteousness" — *karpos* (καρπός), "fruit, produce, result" — a character refined through *hypomone* (ὑπομονή), "patient endurance, steadfast perseverance under pressure." The book of [Job](../../wisdom-literature/job/) stands as the Old Testament's most sustained meditation on this mystery — suffering that is neither punitive nor explicable, yet which ultimately deepens the sufferer's knowledge of God: "I had heard of you by the hearing of the ear, but now my eye sees you" (Job 42:5).
 
 ## The Refining Fire
 
@@ -31,7 +31,7 @@ The suffering of Jesus is not only the means of our salvation but also the patte
 > "For to this you have been called, because Christ also suffered for you, leaving you an example, so that you might follow in his steps."
 > — 1 Peter 2:21
 
-Christ endured unjust suffering with trust in His Father, without retaliation, committing Himself to the One who judges justly (1 Peter 2:23). His example shapes how believers respond to affliction — not with bitterness or despair, but with faith, patience, and hope in God's vindication.
+Christ endured unjust suffering with trust in His Father, without retaliation, committing Himself to the One who judges justly (1 Peter 2:23). His example shapes how believers respond to affliction — not with bitterness or despair, but with faith, patience, and hope in God's vindication. The Christian traditions have drawn deeply on this theme. The Catholic tradition speaks of *redemptive suffering* — the mystery that believers can, in union with Christ, offer their sufferings for the sake of others, participating in what Paul calls "filling up what is lacking in Christ's afflictions" for the sake of His body, the Church (Colossians 1:24). The Orthodox tradition, through its theology of [theosis](../../spiritual-formation-and-mysticism/theosis/), understands suffering as a crucible of transformation — the path by which the believer participates ever more deeply in the death and resurrection of Christ. The Protestant tradition, particularly in the Reformed stream, emphasizes [God's sovereignty over evil](../../suffering-evil-and-theodicy/gods-sovereignty-over-evil/) — that no suffering falls outside His providential governance, and that He is faithful to sustain His people through every trial (1 Corinthians 10:13).
 
 ## The Fellowship of His Sufferings
 
@@ -52,4 +52,6 @@ The Christian hope does not deny or minimize suffering. It holds suffering and h
 
 The consistent biblical witness is that genuine faith endures through suffering rather than being destroyed by it. Jesus warned that tribulation would come (John 16:33). Paul taught that "through many tribulations we must enter the kingdom of God" (Acts 14:22). The book of Revelation portrays the redeemed as those who "have come out of the great tribulation" and have "washed their robes" in the blood of the Lamb (Revelation 7:14).
 
-Suffering does not disqualify faith — it deepens and proves it. And the God who sustains His people through the fire is the same God who promises that one day He will "wipe away every tear from their eyes, and death shall be no more" (Revelation 21:4).
+Suffering does not disqualify faith — it deepens and proves it. As Irenaeus wrote, God permits trials not because He is indifferent but because He is forming human beings for glory — "for it was necessary that man should in the first instance be created; and having been created, should receive growth; and having received growth, should be strengthened" (*Adversus Haereses* IV.38.3). The God who sustains His people through the fire is the same God who promises that one day He will "wipe away every tear from their eyes, and death shall be no more" (Revelation 21:4). [Perseverance](../../salvation/perseverance/) through suffering is not grim endurance but confident hope — the assurance that He who began a good work will bring it to completion (Philippians 1:6).
+
+> "He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away." — Revelation 21:4

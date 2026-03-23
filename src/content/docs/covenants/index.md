@@ -11,6 +11,7 @@ A covenant is a solemn, binding agreement between two parties. The covenants of 
 
 ## Key Covenants
 
+- [**Adamic Covenant**](./adamic/) — The original arrangement in Eden: creation mandate, prohibition, and federal headship
 - [**Noahic Covenant**](./noahic/) — God's promise to preserve creation after the flood
 - [**Abrahamic Covenant**](./abrahamic/) — Promise of land, seed, and blessing
 - [**Mosaic Covenant**](./mosaic/) — Law given at Sinai

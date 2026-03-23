@@ -16,7 +16,7 @@ Whether Paul intended three distinct categories or was using overlapping terms t
 
 ## The Psalms as the Prayer Book of the Church
 
-The 150 Psalms have served as the church's primary songbook and prayer book for millennia. They cover the full range of human experience before God:
+The 150 [Psalms](../../wisdom-literature/psalms/) have served as the Church's primary songbook and prayer book for millennia. They cover the full range of human experience before God:
 
 ### Psalm Genres
 
@@ -36,7 +36,7 @@ Dietrich Bonhoeffer called the Psalms "the prayer book of the Bible" — the pla
 
 The early church composed hymns celebrating Christ. Scholars identify several hymnic passages embedded in the New Testament epistles:
 
-- **Philippians 2:6–11** — the *kenosis* hymn, tracing Christ's descent from divine glory to the cross and His exaltation as Lord
+- **Philippians 2:6–11** — the *kenosis* hymn, tracing Christ's descent from divine glory to the [cross](../../jesus-christ/death-and-resurrection/) and His exaltation as [Lord](../../names-of-god/adonai/)
 - **Colossians 1:15–20** — a hymn to Christ as the image of the invisible God, the firstborn of all creation, in whom all things hold together
 - **1 Timothy 3:16** — a creedal hymn: "He was manifested in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory"
 - **Revelation 4–5** — the heavenly worship of the Lamb, combining Old Testament imagery with distinctly Christian confession: "Worthy is the Lamb who was slain" (Revelation 5:12)
@@ -69,4 +69,6 @@ Both sides share a commitment to God-centered, doctrinally faithful singing. The
 
 Whatever position one holds on the content of congregational singing, Scripture is clear that singing must engage both the heart and the mind. It is not mere performance or emotional expression but a means of teaching, admonishing, and building up the body of Christ (Colossians 3:16). The songs of the church shape what the church believes — a truth expressed in the ancient principle *lex orandi, lex credendi*: the rule of prayer is the rule of faith.
 
-The theology of our hymns is therefore a matter of the highest importance. What the church sings, the church comes to believe. Doctrinally rich, Christ-exalting, God-centered singing forms the faith of congregations across generations — a stewardship that every generation must take up with care and reverence.
+The theology of our hymns is therefore a matter of the highest importance. What the Church sings, the Church comes to believe. Doctrinally rich, Christ-exalting, God-centered singing forms the faith of congregations across generations — a stewardship that every generation must take up with care and reverence. For how singing fits within the broader life of [worship](../worship/) and [prayer](../prayer/), see the companion articles.
+
+> "Sing to the LORD a new song, for he has done marvelous things!" — Psalm 98:1

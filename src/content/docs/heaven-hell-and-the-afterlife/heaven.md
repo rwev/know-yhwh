@@ -32,7 +32,7 @@ When believers die, they enter what theologians call the "intermediate heaven" �
 
 - Paul desires "to depart and be with Christ, for that is far better" (Philippians 1:23)
 - The martyrs under the altar are conscious and worshipping (Revelation 6:9-11)
-- This state is wonderful but incomplete — the saints await their resurrection bodies and the renewal of all things
+- This state is wonderful but incomplete — the saints await their [resurrection bodies](../resurrection-body/) and the renewal of all things. For a fuller treatment of the [intermediate state](../intermediate-state/), see the companion article
 
 ## The Final State: New Heavens and New Earth
 
@@ -41,7 +41,7 @@ The ultimate Christian hope is not an escape from the physical world but its tot
 > "Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away." — Revelation 21:1
 
 - Isaiah prophesied it (Isaiah 65:17; 66:22), and Peter confirmed it (2 Peter 3:13)
-- Heaven and earth are reunited — God dwells with humanity on a renewed creation (Revelation 21:3)
+- Heaven and earth are reunited — God dwells with humanity on a renewed [creation](../../last-things/new-creation/) (Revelation 21:3)
 - There is no temple in the new Jerusalem, "for its temple is the Lord God the Almighty and the Lamb" (Revelation 21:22)
 - The tree of life reappears, and the curse of Genesis 3 is undone (Revelation 22:1-3)
 
@@ -56,7 +56,7 @@ The highest joy of heaven is seeing God face to face — what Latin theology cal
 - In this life, "no one can see God and live" (Exodus 33:20) — but in glory, the barrier is removed
 - The key Greek verb is *horao* (ὁράω) in its future form *opsometha* (ὀψόμεθα), "we shall see" (1 John 3:2) — implying direct, unmediated perception, not mere intellectual knowledge
 - The beatific vision is the soul's ultimate satisfaction — knowing God fully, as we are fully known (1 Corinthians 13:12)
-- Catholic and Orthodox theology have developed this concept extensively; Protestant theology affirms the reality while sometimes differing on the details
+- Catholic and [Orthodox](../../church-history-and-tradition/eastern-christianity/) theology have developed this concept extensively, connecting it to [theosis](../../spiritual-formation-and-mysticism/theosis/) — the fullness of participation in the divine life; Protestant theology affirms the reality while sometimes differing on the details
 
 ## What We Know and What We Do Not
 
@@ -79,4 +79,6 @@ A common misunderstanding reduces Christian hope to: die, leave the body, go to 
 2. **Resurrection** — at Christ's return, the body is raised and glorified
 3. **New creation** — heaven and earth are united, and God dwells with His people forever
 
-The goal is not escape from creation but the redemption of creation. As N. T. Wright has emphasized, the biblical story ends not with us going up to heaven but with God coming down to earth (Revelation 21:2-3). Our hope is thoroughly physical, thoroughly communal, and thoroughly centered on the God who made all things and will make all things new.
+The goal is not escape from creation but the redemption of creation. As N. T. Wright has emphasized, the biblical story ends not with us going up to heaven but with God coming down to earth (Revelation 21:2-3). Our hope is thoroughly physical, thoroughly communal, and thoroughly centered on the God who made all things and will make all things new. The [resurrection](../../last-things/resurrection-and-judgment/) of the body and the [return of Christ](../../last-things/second-coming/) are not footnotes to the gospel — they are its climax.
+
+> "No eye has seen, nor ear heard, nor the heart of man imagined, what God has prepared for those who love him." — 1 Corinthians 2:9

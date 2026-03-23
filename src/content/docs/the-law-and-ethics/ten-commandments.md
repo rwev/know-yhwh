@@ -16,25 +16,21 @@ Before any command is given, God identifies himself: "I am the LORD your God, wh
 
 The first four commandments govern the relationship between humanity and God:
 
-| # | Commandment | Significance |
-|---|-------------|-------------|
-| 1 | "You shall have no other gods before me" (Exodus 20:3) | *Lo yihyeh lekha elohim acherim al-panay* — the phrase *al-panay* (עַל־פָּנָי, "before my face") suggests not only priority but presence: no rival may stand in God's sight |
-| 2 | "You shall not make for yourself a carved image" (Exodus 20:4–6) | The word *pesel* (פֶּסֶל, "carved image") comes from *pasal* ("to hew, cut"), emphasizing the human manufacture of false gods. God determines how he is to be worshiped; idolatry reduces him to human control |
-| 3 | "You shall not take the name of the LORD your God in vain" (Exodus 20:7) | *Lo tissa* (לֹא תִשָּׂא, "you shall not lift up/carry") God's name *lashav* (לַשָּׁוְא, "for emptiness, falsehood"). God's name represents his character and must be honored, not trivialized or weaponized |
-| 4 | "Remember the Sabbath day, to keep it holy" (Exodus 20:8–11) | *Zakhor* (זָכוֹר, "remember") implies active, ongoing mindfulness. *Shabbat* (שַׁבָּת) derives from *shavat* (שָׁבַת, "to cease, rest") — rest as trust in God's provision and a sign of creation order and covenant identity |
+1. **"You shall have no other gods before me"** (Exodus 20:3) — *Lo yihyeh lekha elohim acherim al-panay* — the phrase *al-panay* (עַל־פָּנָי, "before my face") suggests not only priority but presence: no rival may stand in God's sight
+2. **"You shall not make for yourself a carved image"** (Exodus 20:4–6) — The word *pesel* (פֶּסֶל, "carved image") comes from *pasal* ("to hew, cut"), emphasizing human manufacture of false gods. God determines how He is to be [worshiped](../../prayer-and-worship/worship/); idolatry reduces Him to human control
+3. **"You shall not take the name of the LORD your God in vain"** (Exodus 20:7) — *Lo tissa* (לֹא תִשָּׂא, "you shall not lift up/carry") God's [name](../../names-of-god/yhwh/) *lashav* (לַשָּׁוְא, "for emptiness, falsehood"). God's name represents His character and must be honored
+4. **"Remember the [Sabbath](../sabbath-and-lords-day/) day, to keep it holy"** (Exodus 20:8–11) — *Zakhor* (זָכוֹר, "remember") implies active, ongoing mindfulness. *Shabbat* (שַׁבָּת) derives from *shavat* (שָׁבַת, "to cease, rest") — rest as trust in God's provision
 
 ## The Second Table: Duties Toward Neighbor
 
 The remaining six commandments govern relationships among people:
 
-| # | Commandment | Significance |
-|---|-------------|-------------|
-| 5 | "Honor your father and your mother" (Exodus 20:12) | *Kabbed* (כַּבֵּד, "honor, give weight to") comes from *kavod* (כָּבוֹד, "glory, weight"). To honor parents is to recognize their gravity and worth — the same root used for honoring God |
-| 6 | "You shall not murder" (Exodus 20:13) | The verb is *ratsach* (רָצַח), which refers to unlawful killing — distinct from *harag* (הָרַג, general "killing") or *mut* (מוּת, "to put to death" judicially). The sanctity of human life as made in God's image |
-| 7 | "You shall not commit adultery" (Exodus 20:14) | *Lo tin'af* (לֹא תִנְאָף) — *na'af* (נָאַף) refers specifically to violation of the marriage covenant, distinct from broader sexual terms. The sacredness of the marriage covenant and sexual faithfulness |
-| 8 | "You shall not steal" (Exodus 20:15) | *Lo tignov* (לֹא תִגְנֹב) — *ganav* (גָּנַב) implies stealth and deception. Some rabbinic interpreters understand this commandment as originally prohibiting kidnapping (stealing persons), the most severe form of theft |
-| 9 | "You shall not bear false witness" (Exodus 20:16) | *Ed shaqer* (עֵד שָׁקֶר, "witness of falsehood") — *shaqer* denotes not just inaccuracy but deliberate deception. Truth-telling is essential to community trust and justice |
-| 10 | "You shall not covet" (Exodus 20:17) | *Lo tachmod* (לֹא תַחְמֹד) — *chamad* (חָמַד, "to desire, take pleasure in") describes a craving that leads to grasping. The inner life matters to God; sin begins in disordered desire |
+5. **"Honor your father and your mother"** (Exodus 20:12) — *Kabbed* (כַּבֵּד, "honor, give weight to") comes from *kavod* (כָּבוֹד, "glory, weight"). To honor parents is to recognize their gravity and worth — the same root used for honoring God
+6. **"You shall not murder"** (Exodus 20:13) — The verb *ratsach* (רָצַח) refers to unlawful killing — distinct from *harag* (הָרַג, general "killing"). The sanctity of human life as made in God's [image](../../creation-and-humanity/image-of-god/)
+7. **"You shall not commit adultery"** (Exodus 20:14) — *Na'af* (נָאַף) refers specifically to violation of the [marriage](../../marriage-family-and-sexuality/marriage/) covenant. The sacredness of sexual faithfulness
+8. **"You shall not steal"** (Exodus 20:15) — *Ganav* (גָּנַב) implies stealth and deception. Some rabbinic interpreters understand this as originally prohibiting kidnapping, the most severe form of theft
+9. **"You shall not bear false witness"** (Exodus 20:16) — *Ed shaqer* (עֵד שָׁקֶר, "witness of falsehood") — *shaqer* denotes deliberate deception. Truth-telling is essential to community trust and [justice](../../gods-nature/mercy-and-justice/)
+10. **"You shall not covet"** (Exodus 20:17) — *Chamad* (חָמַד, "to desire, take pleasure in") describes a craving that leads to grasping. The inner life matters to God; [sin](../../creation-and-humanity/sin/) begins in disordered desire
 
 ## Two Tablets, One Law
 
@@ -73,4 +69,8 @@ Christians have historically affirmed that the moral content of the Ten Commandm
 
 - A **revelation of God's unchanging character**
 - A **guide for grateful obedience** in the life of faith
-- A **standard** that drives believers to depend on Christ's righteousness
+- A **standard** that drives believers to depend on Christ's [righteousness](../../salvation/justification/)
+
+Jesus deepened and intensified the commandments in the [Sermon on the Mount](../sermon-on-the-mount/) (Matthew 5:17–48), showing that they reach not merely to outward behavior but to the thoughts and intentions of the heart. The law remains, as the [Mosaic covenant](../../covenants/mosaic/) always intended, not a ladder for climbing to God but a mirror that reveals our need for the [grace](../../salvation/grace/) He freely offers.
+
+> "Do we then overthrow the law by this faith? By no means! On the contrary, we uphold the law." — Romans 3:31

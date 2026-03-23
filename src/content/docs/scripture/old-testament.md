@@ -56,11 +56,11 @@ forward-looking trajectory of prophecy and fulfillment.
 
 ## Major Themes
 
-- **Creation and Fall** — God's good creation marred by human rebellion (Genesis 1–3)
-- **Covenant** — God's binding promises to Noah, Abraham, Israel, and David
-- **Law** — God's holy standard revealing His character and humanity's need
-- **Prophecy** — The promise of a coming Messiah, a new covenant, and final restoration
-- **Exile and hope** — Israel's failure and God's unwavering faithfulness
+- **[Creation](../../creation-and-humanity/creation/) and [Fall](../../creation-and-humanity/the-fall/)** — God's good creation marred by human rebellion (Genesis 1–3)
+- **[Covenant](../../covenants/covenant-theology/)** — God's binding promises to Noah, Abraham, Israel, and David
+- **[Law](../../the-law-and-ethics/moral-and-ceremonial-law/)** — God's holy standard revealing His character and humanity's need
+- **[Prophecy](../../prophecy/prophetic-literature/)** — The promise of a coming Messiah, a new covenant, and final restoration
+- **[Exile and hope](../../typology-and-biblical-theology/temple-exile-kingdom/)** — Israel's failure and God's unwavering faithfulness
 
 ## Progressive Revelation of Redemption
 
@@ -86,5 +86,7 @@ you have eternal life; and it is they that bear witness about me" (John 5:39).
 The Passover lamb points to the Lamb of God (John 1:29). The bronze serpent
 lifted in the wilderness prefigures Christ lifted on the cross (John 3:14). The
 high priest, the temple, the sacrificial system, the Davidic throne — all find
-their fulfillment in the person and work of Jesus. The Old Testament is a book
-about Christ before Christ came.
+their [fulfillment](../../prophecy/fulfillment-patterns/) in the person and work of Jesus. The Old Testament is a book
+about Christ before Christ came. For how the OT relates to the [New Testament](../new-testament/), see the companion articles on [types and shadows](../../typology-and-biblical-theology/types-and-shadows/) and [Old Testament to New](../../typology-and-biblical-theology/old-testament-to-new/).
+
+> "These are the Scriptures that testify about me." — John 5:39

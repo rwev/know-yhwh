@@ -7,13 +7,13 @@ sidebar:
 > "And we all, with unveiled face, beholding the glory of the Lord, are being transformed into the same image from one degree of glory to another. For this comes from the Lord who is the Spirit."
 > — 2 Corinthians 3:18
 
-*Hagiasmos* (ἁγιασμός) means "sanctification" or "holiness" — the process and state of being made holy, set apart for God. The related verb *hagiazo* (ἁγιάζω) means "to make holy" or "to consecrate." Both are rooted in the Hebrew *qadash* (קָדַשׁ), "to set apart, consecrate," whose adjective form *qadosh* (קָדוֹשׁ) describes God's own separateness and moral purity. To be sanctified is to be drawn into the holiness of God Himself.
+*Hagiasmos* (ἁγιασμός) means "sanctification" or "holiness" — the process and state of being made holy, set apart for God. The related verb *hagiazo* (ἁγιάζω) means "to make holy" or "to consecrate." Both are rooted in the Hebrew *qadash* (קָדַשׁ), "to set apart, consecrate," whose adjective form *qadosh* (קָדוֹשׁ) describes God's own separateness and moral purity. To be sanctified is to be drawn into the [holiness of God](../../gods-nature/holiness/) Himself.
 
 ## Positional Sanctification
 
 At the moment of faith and union with Christ, the believer is declared holy — set apart as belonging to God. Paul addresses the Corinthian church, with all its struggles, as "those sanctified in Christ Jesus, called to be saints" (1 Corinthians 1:2). The word "saints" is *hagioi* (ἅγιοι) — literally "holy ones" — a term of identity, not achievement. The author of Hebrews writes that "we have been sanctified through the offering of the body of Jesus Christ once for all" (Hebrews 10:10).
 
-This positional reality is foundational. The believer's identity is no longer defined by sin but by Christ. It is a finished work, grounded in the cross, not in human achievement.
+This positional reality is foundational. The believer's identity is no longer defined by sin but by Christ. It is a finished work, grounded in the cross, not in human achievement. Positional sanctification is inseparable from [justification](../../salvation/justification/) — the declared righteous standing and the declared holy identity are two facets of the one act by which God claims sinners as His own (1 Corinthians 6:11).
 
 ## Progressive Sanctification
 
@@ -23,8 +23,8 @@ Progressive sanctification involves:
 
 - **Renewal of the mind** — Transformation through the *anakainosis* (ἀνακαίνωσις) — "renewal, renovation" — of the *nous* (νοῦς), the mind's capacity for understanding, judgment, and moral perception (Romans 12:2)
 - **Mortification of sin** — *Thanatoo* (θανατόω), "to put to death," describes the believer's active, Spirit-empowered killing of sinful patterns and desires (Romans 8:13; Colossians 3:5)
-- **Cultivation of virtue** — Growing in the fruit of the Spirit: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control (Galatians 5:22–23)
-- **Deepening communion with God** — Increasing knowledge of and fellowship with Christ (Philippians 3:10)
+- **Cultivation of virtue** — Growing in the [fruit of the Spirit](../../holy-spirit/fruit/): love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control (Galatians 5:22–23)
+- **Deepening communion with God** — Increasing knowledge of and fellowship with Christ (Philippians 3:10; cf. [union with God](../../spiritual-formation-and-mysticism/union-with-god/))
 
 ## Final Sanctification (Glorification)
 
@@ -44,8 +44,11 @@ Scripture uses vigorous language: *dioko* (διώκω), "pursue, press hard afte
 
 Christian traditions understand the dynamics of sanctification in different ways:
 
-- **Reformed tradition** — Emphasizes sanctification as the definite, progressive work of God's grace in which the believer cooperates but never achieves sinless perfection in this life. The struggle with sin remains until glorification.
-- **Wesleyan tradition** — Affirms progressive sanctification but also teaches the possibility of "entire sanctification" or Christian perfection in this life — not absolute sinlessness, but a heart wholly devoted to love of God and neighbor, made possible by a distinct work of grace.
-- **Eastern Orthodox tradition** — Speaks of sanctification through the lens of *theosis* (θέωσις) — deification or participation in the divine nature (2 Peter 1:4). Through the sacraments, prayer, and ascetic life, believers are progressively united with God's uncreated energies, becoming by grace what God is by nature, without confusion of divine and human natures.
+- **Reformed tradition** — Emphasizes sanctification as the definite, progressive work of God's [grace](../../salvation/grace/) in which the believer cooperates but never achieves sinless perfection in this life. The struggle with indwelling sin remains until glorification (Romans 7:14–25). The Westminster Confession (XIII) describes sanctification as "throughout, in the whole man," yet "imperfect in this life" — there remain "remnants of corruption in every part."
+- **Catholic tradition** — Teaches that sanctification is a real, interior transformation — not merely a change of status but an infusion of [grace](../../salvation/grace/) that makes the soul genuinely holy. The [sacraments](../../the-church/sacraments-and-ordinances/), especially the Eucharist and confession (reconciliation), are the ordinary means by which sanctifying grace is received and restored. The Council of Trent (Session VI, 1547) affirmed that justification itself includes sanctification — being "not only reputed but truly called and made just." Catholic theology also recognizes that some saints attain heroic holiness through extraordinary cooperation with grace.
+- **Wesleyan tradition** — Affirms progressive sanctification but also teaches the possibility of "entire sanctification" or Christian perfection in this life — not absolute sinlessness, but a heart wholly devoted to love of God and neighbor, made possible by a distinct work of grace (cf. Deuteronomy 30:6; Matthew 22:37). Wesley drew on both the Fathers and Scripture to argue that what God commands, He also enables.
+- **Eastern Orthodox tradition** — Speaks of sanctification through the lens of [*theosis*](../../spiritual-formation-and-mysticism/theosis/) (θέωσις) — deification or participation in the divine nature (2 Peter 1:4). Athanasius's axiom captures the vision: "God became man that man might become god" (*De Incarnatione*). Through the sacraments, prayer, and ascetic life, believers are progressively united with God's uncreated energies, becoming by grace what God is by nature, without confusion of divine and human natures.
 
 Each tradition affirms that holiness is both God's gift and the believer's calling, that the Spirit is the primary agent of transformation, and that the goal is ever-deeper union with God through Christ.
+
+> "Now may the God of peace himself sanctify you completely, and may your whole spirit and soul and body be kept blameless at the coming of our Lord Jesus Christ. He who calls you is faithful; he will surely do it." — 1 Thessalonians 5:23–24

@@ -21,7 +21,7 @@ The name conveys God's:
 The plural form of *Elohim* has generated significant scholarly discussion. Three main interpretations have been proposed:
 
 - **Plural of majesty** (*pluralis majestatis*) — The plural intensifies the noun, expressing God's supreme greatness and fullness of power, much as a king might use "we" in royal decrees.
-- **Plural of deliberation** — Passages like "Let us make man in our image" (Genesis 1:26) suggest an intra-divine dialogue, pointing toward a plurality of persons within the Godhead.
+- **Plural of deliberation** — Passages like "Let us make man in [our image](../../creation-and-humanity/image-of-god/)" (Genesis 1:26; cf. Genesis 3:22; 11:7; Isaiah 6:8) suggest an intra-divine dialogue. The Church Fathers, including Basil of Caesarea (*Hexaemeron* IX.6), read this as an early intimation of the [Trinity](../../trinity/one-god-three-persons/) — not proof in isolation, but consistent with the full revelation of Father, Son, and Spirit.
 - **Abstract plural** — Some grammarians argue it expresses the fullness of deity, the sum of all divine attributes concentrated in one being.
 
 What is certain is that when *Elohim* refers to the God of Israel, Hebrew grammar insists on singular verbs and adjectives — *bara Elohim*, "God [He] created" — affirming the unity of God even as the plural form gestures toward something richer than bare singularity.
@@ -32,11 +32,11 @@ What is certain is that when *Elohim* refers to the God of Israel, Hebrew gramma
 
 ## Elohim as Creator
 
-Genesis 1 reveals Elohim as the one who creates by the power of His word. "And God said... and it was so" — this pattern demonstrates that creation is the effortless overflow of divine speech (Psalm 33:6).
+Genesis 1 reveals Elohim as the one who [creates](../../creation-and-humanity/creation/) by the power of His word. "And God said... and it was so" — this tenfold pattern demonstrates that creation is the effortless overflow of divine speech (Psalm 33:6, 9; cf. Hebrews 11:3). The Hebrew verb *bara* (בָּרָא) — "to create, bring into being" — is used exclusively of God in the Old Testament; no human subject ever takes this verb. Creation is Elohim's unique prerogative. John's Gospel opens with a deliberate echo of Genesis 1:1: "In the beginning was the Word" (John 1:1) — identifying the *Logos* (λόγος) through whom all things were made (John 1:3; Colossians 1:16) as the same creative speech by which Elohim called the cosmos into existence.
 
 ## Elohim as Judge
 
-The name also carries the connotation of judge and ruler. As Elohim, God is the one who governs His creation with justice and righteousness (Psalm 82:1). In a few Old Testament passages, the word *elohim* is even applied to human judges and rulers who act as God's representatives (Exodus 21:6; Psalm 82:6) — a usage Jesus Himself cited in John 10:34-35.
+The name also carries the connotation of judge and ruler. As Elohim, God is the one who governs His creation with [justice and righteousness](../../gods-nature/mercy-and-justice/) (Psalm 82:1; cf. Psalm 50:6; 75:7). Psalm 82 depicts Elohim presiding over the *adat-El* (עֲדַת אֵל) — the "assembly of God" — pronouncing judgment on lesser *elohim* who have failed to execute justice. Whether these are [angelic](../../angels-demons-and-spiritual-warfare/angels/) beings, human judges acting as God's delegates, or both, the passage underscores that the supreme Elohim alone judges with perfect equity. Jesus Himself cited Psalm 82:6 in John 10:34–35 to argue from the lesser to the greater: if Scripture calls mere delegates *elohim*, how much more does the title belong to the one whom the Father "consecrated and sent into the world" (John 10:36).
 
 ## Elohim for False Gods
 
@@ -48,4 +48,6 @@ The foundational confession of Israel binds the names together:
 
 > "Hear, O Israel: The LORD our God, the LORD is one." — Deuteronomy 6:4
 
-In Hebrew: *Shema Yisrael, YHWH Eloheinu, YHWH echad.* The God who is *Elohim* — powerful, majestic, sovereign — is also *YHWH* — personal, covenantal, present. And this God is *echad*, one. Israel's God is not one deity among many; He is the sole Creator, Judge, and Redeemer of all the earth.
+In Hebrew: *Shema Yisrael, [YHWH](../yhwh/) Eloheinu, YHWH echad.* The God who is *Elohim* — powerful, majestic, sovereign — is also *YHWH* — personal, covenantal, present. And this God is *echad* (אֶחָד) — "one." The word *echad* denotes a unity that can be composite — the same term describes "one flesh" in marriage (Genesis 2:24) and the cluster of grapes the spies carried on "one" pole (Numbers 13:23). Christian theologians have noted this distinction from *yachid* (יָחִיד) — "only, solitary" — which is never used of God in the Shema. Israel's God is not one deity among many, nor a bare monad; He is the sole Creator, Judge, and Redeemer of all the earth — a unity rich enough to contain the fullness later revealed as [Father, Son, and Holy Spirit](../../trinity/one-god-three-persons/).
+
+> "For even if there are so-called gods in heaven or on earth — as indeed there are many 'gods' and many 'lords' — yet for us there is one God, the Father, from whom are all things and for whom we exist, and one Lord, Jesus Christ, through whom are all things and through whom we exist." — 1 Corinthians 8:5–6

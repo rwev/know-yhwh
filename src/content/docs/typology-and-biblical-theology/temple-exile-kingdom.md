@@ -31,7 +31,7 @@ New Jerusalem traces God's relentless pursuit of presence with His people.
 
 ### The Progression of God's Dwelling
 
-- **Eden** --- The garden was the first temple, the place where God walked with humanity
+- **Eden** --- The garden was the first [temple](../../covenants/adamic/), the place where God walked with humanity
   in unbroken fellowship (Genesis 3:8)
 - **The Tabernacle** --- After the Exodus, God commanded Israel to build a portable sanctuary
   so that He might dwell in their midst (Exodus 25:8)
@@ -39,11 +39,11 @@ New Jerusalem traces God's relentless pursuit of presence with His people.
   the glory cloud at its dedication (1 Kings 8:10--11)
 - **The Second Temple** --- Rebuilt after the exile, but the prophets looked forward to a
   greater glory yet to come (Haggai 2:9)
-- **Christ Incarnate** --- The Word became flesh and "tabernacled" among us (John 1:14).
-  Jesus called His body the true temple (John 2:19--21)
-- **The Church** --- Believers are the temple of the Holy Spirit, individually and
-  corporately (1 Corinthians 3:16; 6:19; Ephesians 2:19--22)
-- **The New Jerusalem** --- In the final vision, there is no temple building because the
+- **Christ [Incarnate](../../jesus-christ/incarnation/)** --- The Word became flesh and "tabernacled" among us (John 1:14).
+  Jesus called His body the true temple (John 2:19–21)
+- **The [Church](../../the-church/body-of-christ/)** --- Believers are the temple of the [Holy Spirit](../../holy-spirit/indwelling-and-sealing/), individually and
+  corporately (1 Corinthians 3:16; 6:19; Ephesians 2:19–22)
+- **The [New Jerusalem](../../last-things/new-creation/)** --- In the final vision, there is no temple building because the
   Lord God Almighty and the Lamb are its temple (Revelation 21:22)
 
 ## Exile: The Pattern of Departure and Return
@@ -60,8 +60,8 @@ consequence of rebellion against God and the hopeful expectation of restoration.
 
 ### The Pattern Across Scripture
 
-- **Adam and Eve** --- Cast out of Eden, barred from the tree of life and the immediate
-  presence of God (Genesis 3:23--24)
+- **Adam and Eve** --- Cast out of Eden in the [fall](../../creation-and-humanity/the-fall/), barred from the tree of life and the immediate
+  presence of God (Genesis 3:23–24)
 - **Cain** --- Driven further east, away from the presence of the LORD (Genesis 4:16)
 - **The Babylonian Exile** --- Judah carried away from the land because of covenant
   unfaithfulness, the temple destroyed (2 Kings 25:1--21)
@@ -89,8 +89,8 @@ advancing through opposition, defeat, and apparent failure to ultimate and total
   (2 Samuel 7:12--16)
 - **The Prophetic Vision** --- The prophets announce a coming kingdom that will fill the
   whole earth (Daniel 2:44; Isaiah 11:1--9)
-- **Christ the King** --- Jesus inaugurates the kingdom of God in His person, ministry,
-  death, and resurrection (Mark 1:15; Luke 17:21)
+- **Christ the King** --- Jesus inaugurates the [kingdom of God](../../jesus-christ/kingdom-of-god/) in His person, ministry,
+  [death, and resurrection](../../jesus-christ/death-and-resurrection/) (Mark 1:15; Luke 17:21)
 - **The Church Age** --- The kingdom is present but not yet consummated. The Church proclaims
   the reign of Christ and lives under His lordship (Colossians 1:13)
 - **The New Creation** --- Christ returns, every knee bows, and God's kingdom comes in

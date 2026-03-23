@@ -10,7 +10,7 @@ The cross of Christ is the center of the Christian faith, but Christians have ex
 
 ## The Word Itself
 
-The English word "atonement" — at-one-ment — captures the basic idea: the reconciliation of God and humanity, the making of two estranged parties into one. The Hebrew verb *kaphar* (כָּפַר) — "to cover, to make atonement" — is the root behind Yom Kippur, the Day of Atonement (Leviticus 16). The Greek *katallagē* (καταλλαγή) — "reconciliation" — emphasizes the restoration of a broken relationship (Romans 5:11; 2 Corinthians 5:18–19). Together these terms point to a work that is both Godward (satisfying divine justice) and humanward (restoring sinners to fellowship with their Creator).
+The English word "atonement" — at-one-ment — captures the basic idea: the reconciliation of God and humanity, the making of two estranged parties into one. The Hebrew verb *kaphar* (כָּפַר) — "to cover, to make atonement" — is the root behind Yom Kippur, the Day of Atonement (Leviticus 16; cf. the [Mosaic](../../covenants/mosaic/) sacrificial system). The Greek *katallagē* (καταλλαγή) — "reconciliation" — emphasizes the restoration of a broken relationship (Romans 5:11; 2 Corinthians 5:18–19). Together these terms point to a work that is both Godward (satisfying divine justice) and humanward (restoring sinners to fellowship with their Creator).
 
 ## Ransom / Christus Victor
 
@@ -22,13 +22,13 @@ The early Church Fathers — Irenaeus, Athanasius, Gregory of Nyssa — develope
 
 Irenaeus of Lyon (c. 130–202 AD) articulated what is perhaps the most comprehensive early model. In his *Against Heresies*, Irenaeus argued that Christ "recapitulated" — *anakephalaiōsis* (ἀνακεφαλαίωσις) — all of human history in Himself (cf. Ephesians 1:10). Where Adam failed at every stage of human life, Christ succeeded. He relived humanity's story from beginning to end, undoing the damage of the fall by His obedience at every point.
 
-This model emphasizes the entire life of Christ, not only His death. The incarnation itself is redemptive: by uniting human nature to divine nature, the Son of God healed what was broken. As Irenaeus wrote, "He became what we are, that He might bring us to be what He is." This vision of atonement is deeply cherished in the Orthodox tradition, where it connects closely to the doctrine of *theosis* — humanity's participation in the divine nature (2 Peter 1:4).
+This model emphasizes the entire life of Christ, not only His death. The incarnation itself is redemptive: by uniting human nature to divine nature, the Son of God healed what was broken. As Irenaeus wrote, "He became what we are, that He might bring us to be what He is." This vision of atonement is deeply cherished in the [Orthodox tradition](../../church-history-and-tradition/eastern-christianity/), where it connects closely to the doctrine of [*theosis*](../../spiritual-formation-and-mysticism/theosis/) — humanity's participation in the divine nature (2 Peter 1:4).
 
 ## Satisfaction
 
 Anselm of Canterbury (1033–1109) asked the question *Cur Deus Homo?* — "Why did God become man?" His answer: human sin is an infinite offense against God's honor, and no finite creature can make adequate satisfaction. Only a being who is both truly God (possessing infinite worth) and truly human (bearing the obligation to make restitution) could offer what is owed. Christ's voluntary death, as the God-man, provided a satisfaction of infinite value — more than enough to cover the debt of all human sin.
 
-Anselm's model was shaped by the feudal context of medieval Europe, where offenses against a lord's honor demanded proportional restitution. Critics note this cultural influence, but the underlying logic has deep biblical roots: sin is an offense against the infinitely holy God, and only God Himself can provide what justice demands. Anselm's framework profoundly influenced Western theology, both Catholic and Protestant.
+Anselm's model was shaped by the feudal context of medieval Europe, where offenses against a lord's honor demanded proportional restitution. Critics note this cultural influence, but the underlying logic has deep biblical roots: sin is an offense against the infinitely [holy](../../gods-nature/holiness/) God, and only God Himself can provide what [justice](../../gods-nature/mercy-and-justice/) demands. Anselm's framework profoundly influenced Western theology, both Catholic and Protestant.
 
 ## Penal Substitution
 
@@ -38,7 +38,7 @@ The Reformers — Luther, Calvin, and their heirs — refined and sharpened the 
 
 Isaiah 53 is the great prophetic foundation: "He was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed" (Isaiah 53:5). Paul declares that God put Christ forward as a propitiation — *hilastērion* (ἱλαστήριον) — "by his blood, to be received by faith" (Romans 3:25).
 
-This model has been the dominant view in Protestant theology since the Reformation and is affirmed by many Catholic and Orthodox theologians in modified forms. Critics argue that it can portray the Father as wrathful and the Son as victim, but its defenders insist that the Trinity acts in perfect unity: the Father sends the Son in love (John 3:16), the Son goes willingly (John 10:18), and the Spirit applies the benefits of the cross to believers.
+This model has been the dominant view in Protestant theology since the Reformation and is affirmed by many Catholic and Orthodox theologians in modified forms. Critics argue that it can portray the Father as wrathful and the Son as victim, but its defenders insist that the Trinity acts in perfect unity: the Father sends the Son in [love](../../gods-nature/love/) (John 3:16), the Son goes willingly (John 10:18), and the Spirit applies the benefits of the cross to believers. The [cross as answer](../../suffering-evil-and-theodicy/the-cross-as-answer/) to the problem of evil also finds its deepest expression through this model.
 
 ## Moral Influence
 
@@ -56,7 +56,7 @@ This model has been influential in Wesleyan and Arminian traditions. It preserve
 
 ## Holding the Models Together
 
-Scripture itself uses a rich tapestry of images to describe the cross — sacrifice, ransom, victory, reconciliation, redemption, propitiation, justification, healing. No single metaphor was ever intended to carry the full weight of what happened at Golgotha. The cross is a diamond with many facets, and each atonement model illuminates genuine biblical truth:
+Scripture itself uses a rich tapestry of images to describe the cross — sacrifice, ransom, victory, reconciliation, redemption, propitiation, [justification](../../salvation/justification/), healing. No single metaphor was ever intended to carry the full weight of what happened at Golgotha. The cross is a diamond with many facets, and each atonement model illuminates genuine biblical truth:
 
 - **Christus Victor** reveals that the cross is a triumph over evil powers
 - **Recapitulation** reveals that Christ relives and heals all of human experience

@@ -10,7 +10,7 @@ Few topics in Christian theology reveal the breadth of the Church's diversity mo
 
 ## Mary in Scripture
 
-The New Testament presents Mary as a woman of extraordinary faith and obedience. At the Annunciation, the angel Gabriel greets her as *kecharitōmenē* (κεχαριτωμένη) — variously translated "favored one" or "full of grace" — and announces that she will conceive by the Holy Spirit and bear the Son of the Most High (Luke 1:28–35). Mary's response is one of humble submission: "Behold, I am the servant of the Lord; let it be to me according to your word" (Luke 1:38).
+The New Testament presents Mary as a woman of extraordinary faith and obedience. At the Annunciation, the angel Gabriel greets her as *kecharitōmenē* (κεχαριτωμένη) — variously translated "favored one" or "full of grace" — and announces that she will conceive by the [Holy Spirit](../../holy-spirit/person-of-the-spirit/) and bear the Son of the Most High (Luke 1:28–35). Mary's response is one of humble submission: "Behold, I am the servant of the Lord; let it be to me according to your word" (Luke 1:38).
 
 Her song of praise — the *Magnificat* (Luke 1:46–55) — reveals a woman steeped in Israel's Scriptures, echoing Hannah's prayer (1 Samuel 2:1–10) and the prophetic hope of reversal: the mighty brought low, the humble exalted, the hungry filled. Mary is present at the cross (John 19:25), where Jesus entrusts her to the beloved disciple, and she appears among the disciples in the upper room before Pentecost (Acts 1:14).
 
@@ -18,7 +18,7 @@ Scripture also records moments of tension. Jesus gently redirects those who woul
 
 ## Theotokos: Mother of God
 
-The Council of Ephesus (431 AD) affirmed Mary's title *Theotokos* (Θεοτόκος) — "God-bearer" or "Mother of God." This was not primarily a statement about Mary but a Christological confession: the one born of Mary is truly God. If Jesus is one divine person with two natures, then Mary bore not merely a human being but the incarnate Son of God. The alternative title proposed by Nestorius — *Christotokos* — "Christ-bearer" — was rejected because it seemed to divide Christ into two persons.
+The Council of Ephesus (431 AD) affirmed Mary's title *Theotokos* (Θεοτόκος) — "God-bearer" or "Mother of God." This was not primarily a statement about Mary but a Christological confession: the one born of Mary is truly God. If Jesus is one divine person with two natures — as the [Council of Chalcedon](../../church-history-and-tradition/early-church-and-councils/) (451) would later define — then Mary bore not merely a human being but the [incarnate](../../jesus-christ/incarnation/) Son of God. The alternative title proposed by Nestorius — *Christotokos* — "Christ-bearer" — was rejected because it seemed to divide Christ into two persons.
 
 The title *Theotokos* is accepted by Catholic, Orthodox, Anglican, Lutheran, and Reformed traditions. It is a Christological guardrail: to deny that Mary is the Mother of God is, in effect, to deny the incarnation.
 
@@ -33,7 +33,7 @@ The Roman Catholic Church has developed four Marian dogmas:
 
 ## Orthodox Veneration of the Theotokos
 
-Eastern Orthodox theology venerates Mary as the supreme example of human cooperation with divine grace — the one whose free "yes" to God made the incarnation possible. Orthodox Christians pray to the Theotokos with the ancient prayer *Axion Estin* (Ἄξιόν ἐστιν) — "It is truly meet to bless thee, O Theotokos" — and honor her through icons, hymns, and feast days. The Orthodox do not define Marian dogmas with the same juridical precision as Rome but hold Mary in the highest honor of any created being, calling her *Panagia* (Παναγία) — "All-Holy."
+[Eastern Orthodox](../../church-history-and-tradition/eastern-christianity/) theology venerates Mary as the supreme example of human cooperation with divine [grace](../../salvation/grace/) — the one whose free "yes" to God made the incarnation possible. Orthodox Christians pray to the Theotokos with the ancient prayer *Axion Estin* (Ἄξιόν ἐστιν) — "It is truly meet to bless thee, O Theotokos" — and honor her through icons, hymns, and feast days. The Orthodox do not define Marian dogmas with the same juridical precision as Rome but hold Mary in the highest honor of any created being, calling her *Panagia* (Παναγία) — "All-Holy."
 
 ## Protestant Perspectives
 
@@ -52,7 +52,7 @@ Most Protestants deny:
 
 ## The Communion of Saints
 
-The phrase *communio sanctorum* — "communion of saints" — appears in the Apostles' Creed and expresses the Church's belief that all who belong to Christ are united in one body, whether living or dead. The question is what this communion entails.
+The phrase *communio sanctorum* — "communion of saints" — appears in the [Apostles' Creed](../../church-history-and-tradition/creeds-and-confessions/) and expresses the Church's belief that all who belong to Christ are united in one body, whether living or dead. The question is what this communion entails.
 
 - **Catholic and Orthodox traditions** teach that the saints in heaven are alive in Christ, aware of the Church on earth, and able to intercede before God on behalf of the living. Asking a saint to pray for you is understood as analogous to asking a living friend to pray — except that the saints are in God's nearer presence and free from sin. The Church distinguishes between *latreia* (worship, due to God alone) and *douleia* (veneration, appropriate for the saints) or, in Mary's case, *hyperdouleia* (special veneration).
 - **Protestant traditions** generally hold that while believers who have died are indeed "with Christ" (Philippians 1:23) and part of the great cloud of witnesses (Hebrews 12:1), there is no biblical warrant for praying to them or asking their intercession. Christ alone is the mediator between God and humanity (1 Timothy 2:5), and prayer is directed to the Father through the Son in the power of the Spirit.

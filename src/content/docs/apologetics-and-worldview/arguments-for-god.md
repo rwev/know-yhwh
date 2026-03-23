@@ -16,7 +16,7 @@ The cosmological argument (from Greek *kosmos* (κόσμος) — "world, ordere
 
 - Everything that begins to exist has a cause
 - The universe began to exist (supported by Big Bang cosmology, the impossibility of an actual infinite past, and the second law of thermodynamics)
-- Therefore, the universe has a cause — a cause that is itself uncaused, timeless, spaceless, immaterial, and enormously powerful
+- Therefore, the universe has a cause — a cause that is itself uncaused, timeless, spaceless, immaterial, and enormously powerful. Scripture affirms this conclusion: "[In the beginning, God created](../../creation-and-humanity/creation/) the heavens and the earth" (Genesis 1:1)
 
 This line of reasoning traces back to Aristotle's Unmoved Mover, was developed by Islamic philosophers such as al-Kindi, and was refined by Thomas Aquinas in his "Five Ways." The modern *kalam* (Arabic: كلام — "speech, discourse," denoting Islamic scholastic theology) cosmological argument, championed by William Lane Craig, remains one of the most widely discussed arguments in philosophy of religion.
 
@@ -34,7 +34,7 @@ The argument does not depend on "gaps" in scientific knowledge. Rather, it draws
 
 - Human beings across all cultures recognize objective moral truths — that torturing innocents is wrong, that justice matters, that love is good
 - If morality is merely the product of evolution or social convention, it has no binding authority beyond personal or cultural preference
-- Objective moral values and duties are best grounded in a transcendent moral lawgiver — a God who is the ultimate standard of goodness
+- Objective moral values and duties are best grounded in a transcendent moral lawgiver — a God who is the ultimate standard of [goodness](../../gods-nature/holiness/) and [justice](../../gods-nature/mercy-and-justice/)
 
 As Dostoevsky explored through his character Ivan Karamazov: if there is no God and no immortality, then everything is permitted. The moral argument does not claim that atheists cannot behave morally, but that without God there is no adequate foundation for the objective moral truths we all recognize.
 
@@ -60,8 +60,10 @@ C.S. Lewis developed a version of this argument in *Miracles*, contending that n
 
 These arguments are powerful, but they have important limitations:
 
-- They point toward a Creator, Designer, and Moral Lawgiver — but by themselves they do not reveal the full identity of this God as the Triune God of Scripture
+- They point toward a Creator, Designer, and Moral Lawgiver — but by themselves they do not reveal the full identity of this God as the [Triune](../../trinity/one-god-three-persons/) God of [Scripture](../../scripture/authority/)
 - Philosophical arguments can remove obstacles and open the mind, but saving faith comes through the work of the Holy Spirit and the proclamation of the *euangelion* (εὐαγγέλιον) — "good news, gospel" (Romans 10:17)
-- The God of the Bible is not merely a philosophical conclusion but a personal being who has revealed Himself in history, supremely in Jesus Christ
+- The God of the Bible is not merely a philosophical conclusion but a personal being who has revealed Himself in history, supremely in [Jesus Christ](../../jesus-christ/incarnation/). The early Church Fathers understood this complementary relationship: Justin Martyr (c. 100–165) argued that Greek philosophy contained *spermatikoi logoi* — "seeds of the Word" — partial truths that find their fulfillment only in Christ, the full *Logos* (λόγος) of God. Augustine similarly testified that the philosophers had glimpsed God's eternal power but could not find the way to Him — that came only through the [gospel](../../salvation/gospel/) (*Confessions* 7.9)
 
-The arguments for God's existence are servants of the gospel, not substitutes for it. They clear the ground so that the seed of God's Word can be planted and take root.
+The arguments for God's existence are servants of the gospel, not substitutes for it. They clear the ground so that the seed of God's Word can be planted and take root. For how the [problem of evil](../problem-of-evil/) challenges these arguments, and how faith relates to reason more broadly, see the companion articles.
+
+> "Come now, let us reason together, says the LORD." — Isaiah 1:18

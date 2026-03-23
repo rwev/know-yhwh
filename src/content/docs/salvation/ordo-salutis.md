@@ -18,15 +18,15 @@ The classic text is Romans 8:29–30 — often called the "golden chain" of salv
 
 The Reformed tradition arranges the *ordo salutis* as follows:
 
-1. **Election** — God's eternal choice of individuals for salvation, before the foundation of the world (Ephesians 1:4)
-2. **Calling** — The outward call of the gospel to all who hear, accompanied by the inward, effectual call of the Spirit to the elect (Romans 8:30; 2 Timothy 1:9)
-3. **Regeneration** — The Spirit gives new life to the spiritually dead heart, enabling faith and repentance (John 3:3–8; Ephesians 2:4–5)
-4. **Faith and repentance** — The regenerate heart responds with trust in Christ and turning from sin (Acts 20:21; Ephesians 2:8)
-5. **Justification** — God declares the believer righteous on the basis of Christ's imputed righteousness (Romans 3:24–26; 5:1)
-6. **Adoption** — The justified believer is received into God's family as a son or daughter (Galatians 4:4–5; Romans 8:15)
-7. **Sanctification** — The progressive work of the Spirit conforming the believer to Christ's image (Romans 8:29; 2 Corinthians 3:18)
-8. **Perseverance** — The elect persevere in faith to the end by God's preserving grace (Philippians 1:6; John 10:28–29)
-9. **Glorification** — The final transformation of the believer, body and soul, at the resurrection (Romans 8:30; 1 John 3:2)
+1. **[Election](../predestination-and-election/)** — God's eternal choice of individuals for salvation, before the foundation of the world (Ephesians 1:4)
+2. **Calling** — The outward call of the [gospel](../gospel/) to all who hear, accompanied by the inward, effectual call of the Spirit to the elect (Romans 8:30; 2 Timothy 1:9)
+3. **[Regeneration](../regeneration/)** — The Spirit gives new life to the spiritually dead heart, enabling faith and repentance (John 3:3–8; Ephesians 2:4–5)
+4. **[Faith](../faith/) and [repentance](../repentance/)** — The regenerate heart responds with trust in Christ and turning from sin (Acts 20:21; Ephesians 2:8)
+5. **[Justification](../justification/)** — God declares the believer righteous on the basis of Christ's imputed righteousness (Romans 3:24–26; 5:1)
+6. **[Adoption](../adoption/)** — The justified believer is received into God's family as a son or daughter (Galatians 4:4–5; Romans 8:15)
+7. **[Sanctification](../../sanctification-and-discipleship/sanctification/)** — The progressive work of the Spirit conforming the believer to Christ's image (Romans 8:29; 2 Corinthians 3:18)
+8. **[Perseverance](../perseverance/)** — The elect persevere in faith to the end by God's preserving grace (Philippians 1:6; John 10:28–29)
+9. **Glorification** — The final transformation of the believer, body and soul, at the [resurrection](../../last-things/resurrection-and-judgment/) (Romans 8:30; 1 John 3:2)
 
 The distinctive feature of the Reformed order is that regeneration precedes faith. The sinner is dead in trespasses (Ephesians 2:1) and cannot respond to God until the Spirit makes the heart alive. Faith is the first fruit of regeneration, not its cause.
 
@@ -66,13 +66,13 @@ Key elements include:
 - **Baptism and chrismation** — The mysteries of initiation, effecting new birth and the seal of the Spirit
 - **Synergy** — Divine grace and human freedom cooperating throughout the process of salvation (*synergeia*, συνέργεια). The Orthodox reject both the idea that humans can save themselves (Pelagianism) and the idea that God overrides human freedom (as they understand strict predestinarianism)
 - **Participation in the sacramental life** — The Eucharist, confession, prayer, fasting, and the liturgical cycle as means of ongoing transformation
-- **Theosis** — The goal of salvation: "partakers of the divine nature" (2 Peter 1:4)
+- **[Theosis](../../spiritual-formation-and-mysticism/theosis/)** — The goal of salvation: "partakers of the divine nature" (2 Peter 1:4)
 
 ## Common Ground
 
 Despite significant differences in arrangement, all major Christian traditions affirm:
 
-- Salvation originates entirely in God's grace
+- Salvation originates entirely in God's [grace](../grace/)
 - Faith in Christ is necessary
 - The Holy Spirit is the agent of transformation
 - Salvation encompasses past (accomplished on the cross), present (being applied in the believer's life), and future (to be consummated at Christ's return)

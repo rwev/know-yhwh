@@ -6,7 +6,7 @@ sidebar:
 
 > "Beloved, do not believe every spirit, but test the spirits to see whether they are from God, for many false prophets have gone out into the world." — 1 John 4:1
 
-Throughout church history, various teachings have distorted the biblical doctrine of the Trinity. Understanding these errors clarifies what the church confesses and why precision matters. Each heresy sacrifices something essential — either God's oneness, the full deity of a person, or the real distinctness of the persons.
+Throughout church history, various teachings have distorted the biblical doctrine of the Trinity. Understanding these errors clarifies what the church confesses and why precision matters. Each heresy sacrifices something essential — either God's oneness, the full [deity](../../jesus-christ/deity/) of a person, or the real distinctness of the persons. The [Nicene Creed](../../church-history-and-tradition/creeds-and-confessions/) and subsequent [councils](../../church-history-and-tradition/early-church-and-councils/) defined orthodoxy precisely in response to these errors.
 
 ## Modalism (Sabellianism)
 
@@ -22,7 +22,7 @@ Modalism collapses the persons into one and ultimately makes the cross unintelli
 
 ## Arianism
 
-**The claim:** The Son is the first and greatest creature, made by the Father before all things. "There was a time when He was not." Taught by **Arius** of Alexandria (c. 256–336) and condemned at the Council of Nicaea (325 AD).
+**The claim:** The Son is the first and greatest creature, made by the Father before all things. "There was a time when He was not." Taught by **Arius** of Alexandria (c. 256–336) and condemned at the Council of Nicaea (325). Athanasius of Alexandria spent decades defending the [Trinity](../one-god-three-persons/) against Arianism, arguing in *Contra Arianos* that if the Son is a creature, He cannot save — for only God can bridge the infinite gap between Creator and creation.
 
 **Why it fails:**
 
@@ -52,7 +52,7 @@ Tritheism abandons monotheism and turns Christianity into a form of polytheism.
 - The Son is *homoousios* (ὁμοούσιος) — "of the same substance" as the Father (Nicene Creed), not a lesser deity
 - "In him the whole fullness of deity dwells bodily" (Colossians 2:9). The Greek *theotēs* (θεότης) — "deity" — denotes the fullness of the divine nature itself, not merely divine qualities (which would be *theiotēs*, θειότης, as in Romans 1:20). Paul's word choice is precise: Christ possesses deity in its totality, not merely a share in divine attributes
 - The Spirit is called "God" (Acts 5:3–4) and possesses all divine attributes
-- While the Son voluntarily submits to the Father's will in the economy of salvation (Philippians 2:5–8), this functional ordering does not imply ontological inequality. Paul describes this self-humbling with the verb *ekenōsen* (ἐκένωσεν) — "He emptied Himself" — from *kenoō* (κενόω). This *kenosis* was a voluntary act of condescension, not a diminishment of deity. A son who obeys his father is not less human than his father
+- While the Son voluntarily submits to the Father's will in the economy of salvation (Philippians 2:5–8), this functional ordering does not imply ontological inequality. Paul describes this self-humbling with the verb *ekenōsen* (ἐκένωσεν) — "He emptied Himself" — from *kenoō* (κενόω). This *kenosis* was a voluntary act of condescension, not a diminishment of deity. A son who obeys his father is not less human than his father. For how this distinction applies to the [incarnation](../../jesus-christ/incarnation/), see the companion article
 
 **Note:** Orthodox theology distinguishes between the *economic* Trinity — from *oikonomia* (οἰκονομία), "household management/plan" — meaning how God acts in history, and the *immanent* Trinity — who God is in Himself in eternity. The Son's obedience in the incarnation reveals His love, not His inferiority.
 
@@ -64,7 +64,7 @@ Tritheism abandons monotheism and turns Christianity into a form of polytheism.
 
 - The Spirit is called God and equated with God (Acts 5:3–4; 2 Corinthians 3:17)
 - The Spirit possesses divine attributes: omniscience (1 Corinthians 2:10–11), omnipresence (Psalm 139:7–8), the power to give life (Romans 8:11)
-- The Nicene-Constantinopolitan Creed (381 AD) confesses the Spirit as "the Lord, the giver of life" who "with the Father and the Son together is worshiped and glorified"
+- The Nicene-Constantinopolitan Creed (381) confesses the Spirit as "the Lord, the giver of life" who "with the Father and the Son together is worshiped and glorified." For a fuller treatment of the Spirit's deity and personhood, see the article on the [person of the Spirit](../../holy-spirit/person-of-the-spirit/)
 
 ## The Athanasian Creed
 

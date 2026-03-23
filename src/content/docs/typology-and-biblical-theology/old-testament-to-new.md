@@ -15,9 +15,9 @@ but brings it to its intended completion in Christ.
 ## Promise and Fulfillment
 
 The Old Testament is a book of promises --- promises of a seed who would crush the serpent's
-head (Genesis 3:15), of a great nation through Abraham (Genesis 12:1--3), of an eternal
-kingdom through David (2 Samuel 7:12--16), and of a new covenant written on the heart
-(Jeremiah 31:31--34).
+head ([Genesis 3:15](../../creation-and-humanity/the-fall/)), of a great nation through [Abraham](../../covenants/abrahamic/) (Genesis 12:1–3), of an eternal
+kingdom through [David](../../covenants/davidic/) (2 Samuel 7:12–16), and of a [new covenant](../../covenants/new-covenant/) written on the heart
+(Jeremiah 31:31–34).
 
 - *Pleroma* (πλήρωμα) --- fullness, fulfillment, completion. Christ came in "the fullness
   of time" (Galatians 4:4) to bring all God's promises to their *pleroma*
@@ -119,7 +119,7 @@ one story:
 The Old Testament sets the stage, raises the questions, and makes the promises. The New
 Testament reveals the answer, fulfills the promises, and brings the story to its climax ---
 though not yet to its conclusion. The people of God still await the final consummation,
-when Christ will return and God will be all in all (1 Corinthians 15:28).
+when Christ will [return](../../last-things/second-coming/) and God will be all in all (1 Corinthians 15:28). For how the Old Testament patterns reach their culmination, see the companion articles on [types and shadows](../types-and-shadows/), [fulfillment patterns](../../prophecy/fulfillment-patterns/), and the [temple-exile-kingdom](../temple-exile-kingdom/) narrative.
 
 > "For all the promises of God find their Yes in him. That is why it is through him that
 > we utter our Amen to God for his glory."

@@ -10,9 +10,9 @@ Bioethics — from the Greek *bios* (βίος) — "life" — and *ēthikos* (�
 
 ## The Sanctity of Human Life
 
-The foundation of all Christian bioethics is the sanctity of human life. Every human being is created in the image of God — *tselem Elohim* (צֶלֶם אֱלֹהִים) (Genesis 1:27) — and possesses inherent, inviolable dignity. This dignity does not depend on age, ability, productivity, or social utility. It belongs to every person from conception to natural death, simply because they are human and bear the Creator's image.
+The foundation of all Christian bioethics is the sanctity of human life. Every human being is created in the [image of God](../../creation-and-humanity/image-of-god/) — *tselem Elohim* (צֶלֶם אֱלֹהִים) (Genesis 1:27) — and possesses inherent, inviolable dignity. This dignity does not depend on age, ability, productivity, or social utility. It belongs to every person from conception to natural death, simply because they are human and bear the Creator's image.
 
-The Noahic covenant established the sanctity of life as a universal moral principle: "Whoever sheds the blood of man, by man shall his blood be shed, for God made man in his own image" (Genesis 9:6). The Sixth Commandment — "You shall not murder" — *lo tirtsach* (לֹא תִרְצָח) (Exodus 20:13) — protects innocent human life as sacred. Jesus deepened this commandment to encompass not only the act of killing but the anger and contempt that devalue persons made in God's image (Matthew 5:21–22).
+The [Noahic covenant](../../covenants/noahic/) established the sanctity of life as a universal moral principle: "Whoever sheds the blood of man, by man shall his blood be shed, for God made man in his own image" (Genesis 9:6). The [Sixth Commandment](../ten-commandments/) — "You shall not murder" — *lo tirtsach* (לֹא תִרְצָח) (Exodus 20:13) — protects innocent human life as sacred. Jesus deepened this commandment to encompass not only the act of killing but the anger and contempt that devalue persons made in God's image (Matthew 5:21–22).
 
 ## Beginning of Life
 
@@ -46,7 +46,7 @@ At the same time, Christians distinguish between killing and allowing to die. Th
 
 ### Care for the Dying
 
-The Christian tradition of care for the dying — *ars moriendi*, "the art of dying" — has deep historical roots. The medieval Church developed a rich tradition of spiritual preparation for death, including confession, anointing of the sick (James 5:14–15), and commendation of the soul to God. Modern hospice care, founded by the Anglican Christian Cicely Saunders, is a direct outgrowth of the Christian conviction that every person deserves to die with dignity, comfort, and spiritual care.
+The Christian tradition of care for the [dying](../../heaven-hell-and-the-afterlife/death-and-dying/) — *ars moriendi*, "the art of dying" — has deep historical roots. The medieval Church developed a rich tradition of spiritual preparation for death, including confession, anointing of the sick (James 5:14–15), and commendation of the soul to God. Modern hospice care, founded by the Anglican Christian Cicely Saunders, is a direct outgrowth of the Christian conviction that every person deserves to die with dignity, comfort, and spiritual care.
 
 ## Other Bioethical Questions
 

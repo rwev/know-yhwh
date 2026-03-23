@@ -6,7 +6,7 @@ sidebar:
 
 > "For all have sinned and fall short of the glory of God." — Romans 3:23
 
-Sin is not merely a human failing or social dysfunction. It is rebellion against the holy God — a fracture in the relationship between Creator and creature that lies at the root of every form of human misery, injustice, and death.
+Sin is not merely a human failing or social dysfunction. It is rebellion against the [holy](../../gods-nature/holiness/) God — a fracture in the relationship between Creator and creature that lies at the root of every form of human misery, injustice, and death. Understanding sin rightly is the prerequisite for understanding the [gospel](../../salvation/gospel/): only those who grasp the depth of the disease can appreciate the power of the cure.
 
 ## Biblical Vocabulary for Sin
 
@@ -30,7 +30,7 @@ Together these terms show that sin is not one thing but many — it is missing G
 
 ## Original Sin and Inherited Corruption
 
-The fall of Adam did not affect him alone. His sin brought consequences for all his descendants:
+The [fall](../the-fall/) of Adam did not affect him alone. His sin brought consequences for all his descendants:
 
 > "Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned." — Romans 5:12
 
@@ -38,7 +38,7 @@ The church has understood this reality in different ways:
 
 - **Augustinian / Western view** — All humanity was "in Adam" and shares in his guilt and corruption. We inherit both a sinful nature and the guilt of the original transgression. This view was developed by Augustine and is held across much of Protestantism and Roman Catholicism.
 - **Eastern Orthodox view** — Humanity inherits the consequences of Adam's sin (mortality, a tendency toward sin) but not his personal guilt. Each person becomes guilty through their own sinful acts. The emphasis falls on death as the root problem from which sin flows.
-- **Federal / Covenantal view** — Adam acted as the covenant representative (federal head) of all humanity. His disobedience is imputed to his descendants, just as Christ's obedience is imputed to believers (Romans 5:18–19).
+- **Federal / Covenantal view** — Adam acted as the [covenant](../../covenants/adamic/) representative (federal head) of all humanity. His disobedience is imputed to his descendants, just as Christ's obedience is imputed to believers (Romans 5:18–19).
 
 What all orthodox traditions affirm is that humanity is born into a fallen condition — no one enters the world in a state of original righteousness.
 
@@ -56,7 +56,7 @@ It does mean:
 - No one is able to save themselves or merit God's favor
 - Apart from God's grace, the human heart is inclined away from God (Jeremiah 17:9; Romans 8:7–8)
 
-The doctrine affirms the radical depth of the human problem and the corresponding necessity of divine grace.
+The doctrine affirms the radical depth of the human problem and the corresponding necessity of divine [grace](../../salvation/grace/). As the Synod of Dort (1618–1619) expressed it, humans retain "glimmerings of natural light" but are unable to use them rightly in matters of salvation — a position that echoes Augustine's anti-Pelagian writings and was reaffirmed by the [Council of Orange](../../salvation/grace/) (529).
 
 ## Universal Sinfulness
 
@@ -74,4 +74,6 @@ Sin carries a penalty that corresponds to its seriousness as an offense against 
 
 > "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord." — Romans 6:23
 
-The Greek *opsonia* (ὀψώνια) — "wages, soldier's pay" — depicts sin as a master paying out what is earned. Death in Scripture is not merely physical cessation but separation — separation from God, the source of all life and goodness. Yet the same verse that pronounces the sentence also declares the remedy: the *charisma* (χάρισμα) — "free gift, grace-gift" — of eternal life through Jesus Christ. The contrast is stark: wages earned versus a gift freely given.
+The Greek *opsonia* (ὀψώνια) — "wages, soldier's pay" — depicts sin as a master paying out what is earned. Death in Scripture is not merely physical cessation but separation — separation from God, the source of all life and goodness. Yet the same verse that pronounces the sentence also declares the remedy: the *charisma* (χάρισμα) — "free gift, grace-gift" — of eternal life through Jesus Christ. The contrast is stark: wages earned versus a gift freely given. Sin is the problem the entire biblical narrative exists to solve — from the [protoevangelium](../the-fall/) of Genesis 3:15 through the [sacrificial system](../../covenants/mosaic/) of the law to the [atoning death](../../jesus-christ/atonement-theories/) of Christ, who "bore our sins in his body on the tree, that we might die to sin and live to [righteousness](../../salvation/justification/)" (1 Peter 2:24).
+
+> "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness." — 1 John 1:9

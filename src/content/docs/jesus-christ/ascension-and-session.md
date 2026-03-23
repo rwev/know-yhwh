@@ -12,7 +12,7 @@ He did not dissolve into spirit or merely disappear.
 He was *anelēmphthē* (ἀνελήμφθη) — "taken up" (Acts 1:11) —
 bodily received into the presence of the Father.
 The ascension marks the completion of Christ's earthly ministry
-and the beginning of His heavenly reign.
+and the beginning of His heavenly reign as [Prophet, Priest, and King](../prophet-priest-king/).
 
 ## The Ascension
 
@@ -82,7 +82,7 @@ All authority in heaven and on earth has been given to Him (Matthew 28:18).
 At Pentecost, Peter declared that the exalted Christ
 "having received from the Father the promise of the Holy Spirit,
 he has poured out this that you yourselves are seeing and hearing" (Acts 2:33).
-The gift of the Spirit is the direct result of Christ's ascension and enthronement.
+The gift of the [Spirit](../../holy-spirit/baptism-of-the-spirit/) is the direct result of Christ's ascension and enthronement.
 
 ### He Prepares a Place
 
@@ -106,5 +106,7 @@ governs all things for the good of those who love Him (Romans 8:28).
 When He comes again, the session will give way to the final judgment
 and the renewal of all things.
 Every knee will bow, every enemy will be subdued,
-and the kingdom He now rules from heaven
-will fill the earth as the waters cover the sea (Habakkuk 2:14).
+and the [kingdom](../kingdom-of-god/) He now rules from heaven
+will fill the earth as the waters cover the sea (Habakkuk 2:14) in the [new creation](../../last-things/new-creation/).
+
+> "Therefore God has highly exalted him and bestowed on him the name that is above every name, so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father." — Philippians 2:9–11

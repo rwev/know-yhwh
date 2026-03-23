@@ -18,12 +18,10 @@ The Christian hope is not the immortality of the soul alone but the resurrection
 
 Paul anticipates the skeptic's question — "How are the dead raised? With what kind of body do they come?" (v. 35) — and answers with a series of contrasts:
 
-| Sown (present body) | Raised (resurrection body) |
-|---|---|
-| Perishable | Imperishable |
-| Dishonorable | Glorious |
-| Weak | Powerful |
-| Natural (*psychikon*, ψυχικόν) | Spiritual (*pneumatikon*, πνευματικόν) |
+- **Perishable** is raised **imperishable** — no longer subject to decay
+- **Dishonorable** is raised in **glory** — reflecting the radiance of the age to come
+- **Weak** is raised in **power** — freed from every limitation
+- **Natural** (*psychikon*, ψυχικόν) is raised **spiritual** (*pneumatikon*, πνευματικόν) — animated by the [Holy Spirit](../../holy-spirit/indwelling-and-sealing/)
 
 The "spiritual body" does not mean immaterial. *Pneumatikon* describes a body fully animated and governed by the Holy Spirit — not a body made of spirit. It is physical, but it is no longer subject to decay, fatigue, or death.
 
@@ -42,7 +40,7 @@ What do we learn from Christ's risen body?
 - **It transcended normal physical limitations** — He appeared in locked rooms (John 20:19, 26) and ascended into heaven (Acts 1:9)
 - **It bore the marks of His suffering, now glorified** — the wounds remained, transformed from shame into tokens of victory (Revelation 5:6)
 
-Christ is "the firstfruits of those who have fallen asleep" (1 Corinthians 15:20). His resurrection is not an isolated miracle but the beginning of the harvest — what happened to Him will happen to all who belong to Him.
+Christ is "the firstfruits of those who have fallen asleep" (1 Corinthians 15:20; cf. [death and resurrection](../../jesus-christ/death-and-resurrection/)). His resurrection is not an isolated miracle but the beginning of the harvest — what happened to Him will happen to all who belong to Him.
 
 ## Continuity and Transformation
 
@@ -72,7 +70,7 @@ The resurrection of the body is part of a larger cosmic renewal. Creation itself
 > "For the creation waits with eager longing for the revealing of the sons of God... the creation itself will be set free from its bondage to corruption and obtain the freedom of the glory of the children of God." — Romans 8:19, 21
 
 - Our bodily resurrection is linked to creation's renewal — both groan under the curse, and both will be set free (Romans 8:22-23)
-- The new heavens and new earth are not a different creation but this creation healed, glorified, and made permanent
+- The [new heavens and new earth](../../last-things/new-creation/) are not a different creation but this creation healed, glorified, and made permanent
 - The material world is not the enemy of the spiritual life; it is the arena of God's redemptive purposes
 
 ## Why This Matters
@@ -82,4 +80,6 @@ The resurrection of the body is part of a larger cosmic renewal. Creation itself
 - **For comfort in grief** — we will see our loved ones again, not as ghosts but as themselves, glorified
 - **For present faithfulness** — what we do in the body matters, because the body itself has a future (1 Corinthians 6:13-14, 19-20)
 
-The resurrection of the body is the Christian hope made concrete. It declares that God does not abandon what He has made. He finishes what He starts. And the last word over every grave is not death, but life.
+The resurrection of the body is the Christian hope made concrete. It declares that God does not abandon what He has made. He finishes what He starts. And the last word over every grave is not [death](../death-and-dying/), but life — the life of the risen Christ shared with all who are His, in the [image of God](../../creation-and-humanity/image-of-god/) brought at last to its fullest expression.
+
+> "Just as we have borne the image of the man of dust, we shall also bear the image of the man of heaven." — 1 Corinthians 15:49

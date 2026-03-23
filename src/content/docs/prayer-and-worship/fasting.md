@@ -6,7 +6,7 @@ sidebar:
 
 > "Yet even now," declares the LORD, "return to me with all your heart, with fasting, with weeping, and with mourning." — Joel 2:12
 
-Fasting is the voluntary abstention from food for spiritual purposes — an act of self-denial that expresses the soul's hunger for God above all earthly sustenance. Scripture presents fasting not as a means of earning God's favor but as a posture of urgent dependence on Him.
+Fasting is the voluntary abstention from food for spiritual purposes — an act of self-denial that expresses the soul's hunger for God above all earthly sustenance. Scripture presents fasting not as a means of earning God's favor but as a posture of urgent dependence on Him. As one of the classical [spiritual disciplines](../../sanctification-and-discipleship/spiritual-disciplines/), fasting has been practiced across every Christian tradition from the apostolic age to the present.
 
 ## The Language of Fasting
 
@@ -22,7 +22,7 @@ Fasting appears throughout the Old Testament in a variety of contexts:
 - **National crisis** — Jehoshaphat proclaimed a fast when Judah faced invasion (2 Chronicles 20:3); Esther called for a fast before approaching the king (Esther 4:16)
 - **The Day of Atonement** — the only mandatory fast in the Mosaic law, when Israel was to "afflict" their souls (Leviticus 16:29–31)
 
-The prophets warned against fasting that was mere outward performance without inward reality. Isaiah 58 contrasts the fast God rejects — self-serving piety — with the fast He chooses: justice, mercy, and care for the oppressed.
+The prophets warned against fasting that was mere outward performance without inward reality. Isaiah 58 contrasts the fast God rejects — self-serving piety — with the fast He chooses: "to loose the bonds of wickedness... to let the oppressed go free... to share your bread with the hungry" (Isaiah 58:6–7). True fasting is inseparable from [justice and mercy](../../gods-nature/mercy-and-justice/) — it is not merely a private discipline but a reorientation toward the needs of others.
 
 ## Jesus and Fasting
 
@@ -43,7 +43,7 @@ The book of Acts records the church fasting at critical moments:
 - The church at Antioch was "worshiping the Lord and fasting" when the Holy Spirit called Barnabas and Saul for missionary work (Acts 13:2–3)
 - Paul and Barnabas appointed elders "with prayer and fasting" in every church (Acts 14:23)
 
-Fasting accompanied the church's most consequential decisions, underscoring its role as a discipline of serious, prayerful dependence on God's direction.
+Fasting accompanied the Church's most consequential decisions, underscoring its role as a discipline of serious, prayerful dependence on God's direction. The *Didache* (c. 50–120), one of the earliest Christian documents, instructed believers to fast on Wednesdays and Fridays (8.1) — a practice the [Eastern Orthodox](../../church-history-and-tradition/eastern-christianity/) churches maintain to this day through an elaborate fasting calendar that includes four major fasting seasons (Great Lent, Apostles' Fast, Dormition Fast, Nativity Fast) comprising roughly half the year. The Catholic tradition observes fasting during Lent and on specified days of abstinence, while many Protestant and evangelical communities have recovered fasting as a vital dimension of [prayer](../prayer/) and spiritual formation.
 
 Jesus also indicated that some seasons would call for fasting more than others. When asked why His disciples did not fast, He replied, "Can the wedding guests mourn as long as the bridegroom is with them? The days will come when the bridegroom is taken away from them, and then they will fast" (Matthew 9:15). The present age — between Christ's ascension and His return — is a time of fasting, longing for the Bridegroom's return.
 
@@ -52,7 +52,7 @@ Jesus also indicated that some seasons would call for fasting more than others. 
 Fasting is not a mechanism for twisting God's arm or accumulating spiritual merit. It is a means of grace — a way of expressing and deepening our desire for God. Its purposes include:
 
 - **Intensifying prayer** — removing distraction to focus the heart on God
-- **Expressing repentance** — outward denial reflecting inward sorrow for sin
+- **Expressing [repentance](../../salvation/repentance/)** — outward denial reflecting inward sorrow for sin
 - **Seeking clarity** — humbling oneself before God when facing decisions
 - **Cultivating self-discipline** — training the body to serve the spirit
 - **Identifying with the suffering** — voluntarily entering into want as an act of compassion and solidarity
@@ -61,4 +61,4 @@ Fasting should always be accompanied by prayer and oriented toward God, not towa
 
 > "Blessed are those who hunger and thirst for righteousness, for they shall be satisfied." — Matthew 5:6
 
-Fasting is the body's "amen" to the soul's declaration that God alone is enough. It trains the whole person — body and spirit — to look beyond the visible and temporal to the invisible and eternal.
+Fasting is the body's "amen" to the soul's declaration that God alone is enough. As Jesus declared, quoting Deuteronomy 8:3: "Man shall not live by bread alone, but by every word that comes from the mouth of God" (Matthew 4:4). Fasting trains the whole person — body and spirit — to look beyond the visible and temporal to the invisible and eternal, cultivating the [self-control](../../holy-spirit/fruit/) that is itself a fruit of the Spirit.

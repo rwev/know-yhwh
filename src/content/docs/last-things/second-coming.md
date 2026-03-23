@@ -9,7 +9,7 @@ sidebar:
 
 ## The Parousia
 
-*Parousia* (παρουσία) — "coming, arrival, presence." In secular Greek the word denoted the official visit of a king or emperor to a city. In the New Testament it refers to the visible, bodily, and glorious return of Jesus Christ to earth. The *parousia* is not a second mission but the completion of the first: the crucified and risen Lord returns as King to consummate his redemptive work.
+*Parousia* (παρουσία) — "coming, arrival, presence." In secular Greek the word denoted the official visit of a king or emperor to a city. In the New Testament it refers to the visible, bodily, and glorious return of Jesus Christ to earth. The *parousia* is not a second mission but the completion of the first: the [crucified and risen](../../jesus-christ/death-and-resurrection/) Lord returns as [King](../../jesus-christ/kingdom-of-god/) to consummate His redemptive work.
 
 The New Testament uses three primary terms for this event, each illuminating a different facet:
 
@@ -44,7 +44,7 @@ The term *millennium* (from Latin *mille*, "thousand," and *annus*, "year") tran
 - **Amillennialism** — The millennium is the present reign of Christ from heaven, symbolically depicted in Revelation 20. Christ returns once at the end of the age for the general resurrection and final judgment. This view has been held by many in the Reformed and Catholic traditions and stresses the already-inaugurated nature of the kingdom.
 - **Postmillennialism** — Through the spread of the gospel, Christ's kingdom progressively transforms the world before his return. The millennium represents a golden age of Christian influence. Christ returns after this era of gospel triumph. This view emphasizes the power of the gospel to transform culture and society.
 
-Each view is held by faithful Christians who affirm the authority of Scripture. The differences concern the interpretation of prophetic and apocalyptic literature, not the certainty of Christ's return or the reality of his reign.
+Each view is held by faithful Christians who affirm the authority of [Scripture](../../scripture/authority/). The differences concern the interpretation of [prophetic](../../prophecy/fulfillment-patterns/) and apocalyptic literature, not the certainty of Christ's return or the reality of His reign. All agree that the *parousia* inaugurates the final [resurrection and judgment](../resurrection-and-judgment/) and the [new creation](../new-creation/) in which God will dwell with His people forever (Revelation 21:3).
 
 ## The Rapture Debate
 
@@ -64,4 +64,4 @@ Whatever their eschatological framework, all Christians are called to live in re
 > "Therefore, stay awake, for you do not know on what day your Lord is coming. … Therefore you also must be ready, for the Son of Man is coming at an hour you do not expect."
 > — Matthew 24:42, 44
 
-The proper response to the promise of Christ's return is not speculation but faithfulness — watching, serving, proclaiming the gospel, and living in holiness. The early church's prayer captures this posture: *Marana tha* (μαράνα θά, from Aramaic מָרָנָא תָּא) — "Our Lord, come!" (1 Corinthians 16:22). That Paul preserves this prayer in Aramaic rather than translating it into Greek testifies to its antiquity — it reaches back to the earliest Aramaic-speaking community of believers. John echoes the same cry in Greek: *Erchou, Kyrie Iēsou* (Ἔρχου, Κύριε Ἰησοῦ) — "Come, Lord Jesus!" (Revelation 22:20).
+The proper response to the promise of Christ's return is not speculation but faithfulness — watching, serving, [proclaiming the gospel](../../the-church/mission-and-evangelism/), and living in [holiness](../../gods-nature/holiness/). The early church's prayer captures this posture: *Marana tha* (μαράνα θά, from Aramaic מָרָנָא תָּא) — "Our Lord, come!" (1 Corinthians 16:22). That Paul preserves this prayer in Aramaic rather than translating it into Greek testifies to its antiquity — it reaches back to the earliest Aramaic-speaking community of believers. John echoes the same cry in Greek: *Erchou, Kyrie Iēsou* (Ἔρχου, Κύριε Ἰησοῦ) — "Come, Lord Jesus!" (Revelation 22:20).

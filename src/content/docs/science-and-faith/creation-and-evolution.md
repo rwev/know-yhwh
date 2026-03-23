@@ -21,11 +21,13 @@ The Hebrew word *bara* (בָּרָא) — "to create" — is used exclusively of
 
 Across the spectrum of views on creation, faithful Christians unite on these non-negotiables:
 
-- **God as Creator** — The universe is not self-existent, not eternal, and not the product of blind chance. It is the deliberate work of a personal, transcendent God.
-- **Creation *ex nihilo*** — God created out of nothing, not from pre-existing matter. He alone is uncreated.
-- **Humanity as *imago Dei*** — Human beings are made in the image of God (*tselem* (צֶלֶם) — "image, likeness"), possessing unique dignity, moral agency, and the capacity for relationship with their Creator (Genesis 1:26–27).
-- **The Fall** — The entrance of sin into the world through human rebellion is a historical reality with cosmic consequences (Genesis 3; Romans 5:12).
+- **God as Creator** — The universe is not self-existent, not eternal, and not the product of blind chance. It is the deliberate work of a personal, transcendent God (cf. [arguments for God's existence](../../apologetics-and-worldview/arguments-for-god/)).
+- **Creation *ex nihilo*** — God [created](../../creation-and-humanity/creation/) out of nothing, not from pre-existing matter. He alone is uncreated. The Nicene Creed confesses God as "maker of heaven and earth, of all things visible and invisible."
+- **Humanity as *imago Dei*** — Human beings are made in the [image of God](../../creation-and-humanity/image-of-god/) (*tselem* (צֶלֶם) — "image, likeness"), possessing unique dignity, moral agency, and the capacity for relationship with their Creator (Genesis 1:26–27).
+- **[The Fall](../../creation-and-humanity/the-fall/)** — The entrance of sin into the world through human rebellion is a historical reality with cosmic consequences (Genesis 3; Romans 5:12).
 - **The goodness of creation** — God declared His creation "very good" (*tov meod*, טוֹב מְאֹד) (Genesis 1:31).
+
+It is worth noting that the question of how to read Genesis is not a modern invention forced upon the Church by Darwin. The Fathers themselves held diverse views. Basil of Caesarea (c. 330–379) in his *Hexaemeron* read the days as literal, successive periods, while Augustine of Hippo (354–430) in *De Genesi ad Litteram* argued that God created all things simultaneously in a single instant and that the "days" are a literary framework for human understanding. Origen (c. 185–254) insisted that Genesis contained deeper spiritual meanings beyond the literal surface. The tradition of faithful [interpretation](../../scripture/hermeneutics/) is broader than any single modern position.
 
 ## Major Christian Positions
 
@@ -50,4 +52,6 @@ The differences among these positions are real, but they pale beside what unites
 - All three affirm that humanity bears the image of God and has unique value
 - All three reject the claim that the universe is purposeless, unguided, and meaningless
 
-The real enemy of Christian faith is not a fellow believer who reads Genesis differently, but the materialist philosophy that denies any Creator at all. As Christians engage one another on these questions, the call is for charity, humility, and a shared commitment to following the truth wherever it leads — confident that the God of creation and the God of Scripture is one and the same.
+The real enemy of Christian faith is not a fellow believer who reads Genesis differently, but the materialist philosophy that denies any Creator at all. As Christians engage one another on these questions, the call is for charity, humility, and a shared commitment to following the truth wherever it leads — confident that the God of creation and the God of Scripture is one and the same. The Psalmist's wonder remains the proper posture for all who study God's works, whether through telescope, microscope, or sacred text.
+
+> "The heavens declare the glory of God, and the sky above proclaims his handiwork. Day to day pours out speech, and night to night reveals knowledge." — Psalm 19:1–2

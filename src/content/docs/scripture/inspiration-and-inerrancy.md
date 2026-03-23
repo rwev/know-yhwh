@@ -22,7 +22,7 @@ God "inspired" the human writers in the way a muse inspires a poet; rather, it
 declares the origin of the text itself.
 
 Scripture is the product of God's creative breath — the same breath that called
-the worlds into being (Psalm 33:6). What the Bible says, God says.
+the worlds into being (Psalm 33:6; cf. [creation](../../creation-and-humanity/creation/)). What the Bible says, God says. For how this [authority](../authority/) functions in the life of the Church, see the companion article.
 
 ## Pheromenoi — "Carried Along"
 
@@ -33,7 +33,7 @@ by the Holy Spirit."
 The Greek *pheromenoi* (φερόμενοι) — "carried along, borne" — is the same word
 used of a ship driven by the wind (Acts 27:15). The human authors were not
 passive instruments, yet neither were they operating under their own initiative.
-The Spirit sovereignly directed them so that the words they freely chose were
+The [Spirit](../../holy-spirit/person-of-the-spirit/) sovereignly directed them so that the words they freely chose were
 precisely the words God intended.
 
 ## Models of Inspiration
@@ -57,7 +57,7 @@ is not the same as Luke's historical prose. God worked through — not against �
 the distinctive gifts of each writer.
 
 This is sometimes called "organic" inspiration: the divine and human elements are
-inseparable, much as the two natures of Christ are united without confusion.
+inseparable, much as the two natures of Christ are united without confusion in the [incarnation](../../jesus-christ/incarnation/).
 
 ### The Concursive Model
 
@@ -115,4 +115,6 @@ fish (Matthew 12:40), and the destruction of Sodom (Luke 17:29).
 
 He corrected errors not by questioning the text but by insisting that His
 opponents had failed to read it rightly: "Have you not read?" (Matthew 22:31).
-For Jesus, to encounter Scripture was to encounter the voice of the living God.
+For Jesus, to encounter Scripture was to encounter the voice of the living God. For how Scripture is rightly interpreted, see the article on [hermeneutics](../hermeneutics/).
+
+> "The words of the LORD are pure words, like silver refined in a furnace on the ground, purified seven times." — Psalm 12:6

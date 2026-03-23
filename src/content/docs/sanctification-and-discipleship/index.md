@@ -18,9 +18,9 @@ This growth is not self-improvement by human willpower alone. It is a cooperativ
 
 ## Key Themes
 
-- **Sanctification** — The theological heart of Christian transformation: being set apart and made holy, both in position and in practice
-- **Spiritual Disciplines** — The practices through which believers open themselves to God's transforming grace: prayer, Scripture, fasting, community, and more
-- **Suffering & Growth** — The biblical teaching that trials and affliction, far from being meaningless, serve as instruments of spiritual formation
+- [**Sanctification**](./sanctification/) — The theological heart of Christian transformation: being set apart and made holy, both in position and in practice
+- [**Spiritual Disciplines**](./spiritual-disciplines/) — The practices through which believers open themselves to God's transforming grace: prayer, Scripture, fasting, community, and more
+- [**Suffering & Growth**](./suffering-and-growth/) — The biblical teaching that trials and affliction, far from being meaningless, serve as instruments of spiritual formation
 
 ## The Goal of Transformation
 

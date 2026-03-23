@@ -6,9 +6,9 @@ sidebar:
 
 > You shall love your neighbor as yourself. — Leviticus 19:18; Matthew 22:39
 
-When asked to name the greatest commandment, Jesus gave two: love God with all your heart,
+When asked to name the greatest commandment, Jesus gave two: [love](../../gods-nature/love/) God with all your heart,
 and love your neighbor as yourself. Then He added: "On these two commandments depend all the
-Law and the Prophets" (Matthew 22:40). The entire moral life hangs on love.
+[Law](../../the-law-and-ethics/ten-commandments/) and the Prophets" (Matthew 22:40). The entire moral life hangs on love.
 
 The Hebrew word for "neighbor" in Leviticus 19:18 is *re'a* (רֵעַ) — a companion, fellow, or
 associate. In the Greek Septuagint and the New Testament, this becomes *plesion* (πλησίον),
@@ -118,5 +118,7 @@ overflows to the world.
 - Practice agape — costly, active, unconditional love — as a daily discipline
 - Welcome strangers as though welcoming Christ Himself
 - Enter into the suffering of others rather than standing at a distance
-- Cultivate the "one another" habits that make the church a living witness to the
-  love of God
+- Cultivate the "one another" habits that make the [Church](../../the-church/body-of-christ/) a living witness to the
+  [love of God](../../gods-nature/love/)
+
+> "By this all people will know that you are my disciples, if you have love for one another." — John 13:35

@@ -7,7 +7,7 @@ sidebar:
 > As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today.
 > — Genesis 50:20
 
-One of the deepest tensions in all of theology is the relationship between God's sovereignty and the existence of evil. If God is truly sovereign over all things, how can evil exist without God being its author? And if God is not sovereign over evil, is He truly God?
+One of the deepest tensions in all of theology is the relationship between God's sovereignty and the existence of evil. If God is truly [sovereign](../../gods-nature/sovereignty/) over all things, how can evil exist without God being its author? And if God is not sovereign over evil, is He truly God?
 
 Scripture holds both truths with unflinching resolve: God is absolutely sovereign, and God is absolutely good. It does not resolve the tension into a tidy formula. It calls us to trust.
 
@@ -20,7 +20,7 @@ Scripture is emphatic on this point:
 
 - God is light, and in Him is no darkness at all (1 John 1:5)
 - God takes no pleasure in wickedness (Psalm 5:4)
-- God is holy — *qadosh* (קָדוֹשׁ) — utterly set apart from all that is impure (Isaiah 6:3)
+- God is [holy](../../gods-nature/holiness/) — *qadosh* (קָדוֹשׁ) — utterly set apart from all that is impure (Isaiah 6:3)
 
 Evil originates in the rebellious wills of creatures — angelic and human — not in the being or decree of God. Whatever we say about divine sovereignty must never compromise the absolute moral purity of God.
 
@@ -33,7 +33,7 @@ Yet Scripture also testifies that evil does not operate outside the bounds of Go
 - **Joseph and his brothers** — What they meant for evil, God meant for good (Genesis 50:20). God did not cause the brothers' jealousy and cruelty, but He sovereignly worked through it to save many lives.
 - **The hardening of Pharaoh** — God hardened Pharaoh's heart (Exodus 9:12), yet Pharaoh also hardened his own heart (Exodus 8:15). Both are stated without apology. God's hardening worked through Pharaoh's own willful obstinacy.
 - **The cross of Christ** — "This Jesus, delivered up according to the definite plan and foreknowledge of God, you crucified and killed by the hands of lawless men" (Acts 2:23). The greatest evil in history — the murder of the Son of God — was simultaneously the greatest act of divine love and redemption.
-- **Satan's activity** — Satan required permission to afflict Job (Job 1:12; 2:6). The devil is on a leash. He is real, dangerous, and active — but not autonomous.
+- **[Satan's](../../angels-demons-and-spiritual-warfare/satan-and-demons/) activity** — Satan required permission to afflict [Job](../../wisdom-literature/job/) (Job 1:12; 2:6). The devil is on a leash. He is real, dangerous, and active — but not autonomous.
 
 God is like a master chess player who incorporates every move of His opponent into a strategy that was never in doubt. Evil is real, but it is never ultimate.
 
@@ -101,4 +101,6 @@ No single theological system fully resolves the mystery. Each tradition illumina
 > "Though he slay me, I will hope in him."
 > — Job 13:15
 
-This is the posture Scripture calls us to: not a faith that has all the answers, but a faith that trusts the One who does. We do not trust God because we understand His ways. We trust Him because we know His character — revealed supremely in the face of Jesus Christ.
+This is the posture Scripture calls us to: not a faith that has all the answers, but a faith that trusts the One who does. We do not trust God because we understand His ways. We trust Him because we know His character — revealed supremely in the face of [Jesus Christ](../../jesus-christ/death-and-resurrection/), who entered our suffering and conquered it from within. For how the [cross answers](../the-cross-as-answer/) the problem of evil not philosophically but personally, see the companion article. For the philosophical dimensions, see the article on the [problem of evil](../../apologetics-and-worldview/problem-of-evil/).
+
+> "Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how inscrutable his ways!" — Romans 11:33

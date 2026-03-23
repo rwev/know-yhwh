@@ -8,9 +8,9 @@ sidebar:
 
 ## The Language of Deification
 
-*Theosis* (θέωσις) — deification, divinization — is among the most striking and, to many Western Christians, most unfamiliar doctrines in the Christian tradition. Yet it stands at the very heart of patristic soteriology and represents the most exalted understanding of what salvation ultimately means: that human beings are destined to share in the life of God himself.
+*Theosis* (θέωσις) — deification, divinization — is among the most striking and, to many Western Christians, most unfamiliar doctrines in the Christian tradition. Yet it stands at the very heart of patristic soteriology and represents the most exalted understanding of what [salvation](../../salvation/gospel/) ultimately means: that human beings are destined to share in the life of God Himself.
 
-The related term *theopoiesis* (θεοποίησις) — "being made god" — appears in the writings of the earliest Church Fathers and expresses what they understood to be the purpose and goal of the Incarnation itself.
+The related term *theopoiesis* (θεοποίησις) — "being made god" — appears in the writings of the earliest Church Fathers and expresses what they understood to be the purpose and goal of the [incarnation](../../jesus-christ/incarnation/) itself.
 
 ## The Patristic Foundation
 
@@ -44,8 +44,8 @@ In Eastern Orthodox theology, theosis is not one doctrine among many but the org
 Key aspects of the Orthodox understanding include:
 
 - **The distinction between divine essence and divine energies**: Following Gregory Palamas (1296–1359), Orthodoxy teaches that while God's essence (*ousia*, οὐσία, "being, substance") remains forever inaccessible and incomprehensible, his uncreated energies (*energeiai*, ἐνέργειαι, from *energeia*, ἐνέργεια, "activity, operation") — his grace, his glory, his power, his love — are genuinely communicated to creatures. Theosis is participation in the divine energies, not the divine essence. This distinction preserves both the transcendence of God and the reality of human communion with him.
-- **A process beginning now**: Theosis is not merely a future hope but begins in this life through baptism, the Eucharist, prayer, ascetical struggle, and the whole sacramental and liturgical life of the Church
-- **The work of the Holy Spirit**: The Spirit is the agent of deification, making believers "partakers of the divine nature" by uniting them to Christ
+- **A process beginning now**: Theosis is not merely a future hope but begins in this life through [baptism](../../the-church/sacraments-and-ordinances/), the Eucharist, [prayer](../../prayer-and-worship/prayer/), ascetical struggle, and the whole [sacramental](../../the-church/sacraments-and-ordinances/) and liturgical life of the Church
+- **The work of the [Holy Spirit](../../holy-spirit/person-of-the-spirit/)**: The Spirit is the agent of deification, making believers "partakers of the divine nature" by uniting them to Christ
 - **Synergy**: Theosis involves genuine human cooperation (*synergeia*, συνεργεία) with divine grace — not as earning salvation but as freely receiving and responding to God's transforming gift. (Protestant traditions, while affirming that sanctification involves human effort [Philippians 2:12–13], typically emphasize that even this cooperation is itself a gift of grace, guarding against any suggestion of merit.)
 
 ## The Essential Distinction
@@ -90,6 +90,6 @@ Notable Protestant engagements include:
 
 ## The Goal of All Things
 
-Theosis is not an esoteric doctrine for spiritual elites. It is the Church's most exalted vision of what God intends for every human being — indeed, for all creation (Romans 8:19–23). It is the fulfillment of the image of God in humanity, the completion of Christ's saving work, and the eternal destiny of the redeemed: to share forever in the joy, glory, and love of the Triune God — not as spectators but as participants.
+Theosis is not an esoteric doctrine for spiritual elites. It is the Church's most exalted vision of what God intends for every human being — indeed, for all creation (Romans 8:19–23). It is the fulfillment of the [image of God](../../creation-and-humanity/image-of-god/) in humanity, the completion of Christ's saving work, and the eternal destiny of the redeemed: to share forever in the joy, glory, and [love](../../gods-nature/love/) of the [Triune God](../../trinity/one-god-three-persons/) — not as spectators but as participants. The [sanctification](../../sanctification-and-discipleship/sanctification/) that begins in this life, the [union with God](../union-with-god/) that deepens through [prayer](../../prayer-and-worship/prayer/) and [spiritual disciplines](../../sanctification-and-discipleship/spiritual-disciplines/), and the [glorification](../../last-things/resurrection-and-judgment/) that awaits at the resurrection are all aspects of this single, magnificent movement from creation to [new creation](../../last-things/new-creation/) — from the image of God given to the image of God fulfilled.
 
 > "Beloved, we are God's children now, and what we will be has not yet appeared; but we know that when he appears we shall be like him, because we shall see him as he is." — 1 John 3:2

@@ -18,17 +18,17 @@ Several passages speak powerfully to the security of believers:
 
 > "Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead, to an inheritance that is imperishable, undefiled, and unfading, kept in heaven for you, who by God's power are being guarded through faith for a salvation ready to be revealed in the last time." — 1 Peter 1:3–5
 
-These texts ground the believer's security not in human strength or determination but in God's power, Christ's intercession, and the Spirit's sealing.
+These texts ground the believer's security not in human strength or determination but in God's [sovereign](../../gods-nature/sovereignty/) power, Christ's intercession, and the Spirit's [sealing](../../holy-spirit/indwelling-and-sealing/).
 
 ## Major Views
 
 ### Reformed: Perseverance of the Saints
 
-The Reformed tradition holds that those whom God has truly regenerated will persevere in faith to the end — not because of their own resolve but because God preserves them. This is often summarized as "once truly saved, always saved," though the Reformed emphasis is on God's faithfulness rather than a one-time decision.
+The Reformed tradition holds that those whom God has truly regenerated will persevere in faith to the end — not because of their own resolve but because God preserves them. This is often summarized as "once truly saved, always saved," though the Reformed emphasis is on God's faithfulness rather than a one-time decision. The Westminster Confession (XVII.1) states that those whom God has accepted and [sanctified](../../sanctification-and-discipleship/sanctification/) "can neither totally nor finally fall away from the state of [grace](../grace/), but shall certainly persevere therein to the end, and be eternally saved."
 
 Key arguments include: God's electing purpose cannot be thwarted (Romans 8:28–30); Christ's intercession for His own is perpetually effective (Hebrews 7:25; John 17:12); and the Holy Spirit is a "guarantee" and "seal" of final redemption (Ephesians 1:13–14; 2 Corinthians 1:22).
 
-Those who appear to fall away were never truly regenerate (1 John 2:19: "They went out from us, but they were not of us"). Perseverance is the evidence of genuine faith, not its cause.
+Those who appear to fall away were never truly [regenerate](../regeneration/) (1 John 2:19: "They went out from us, but they were not of us"). Perseverance is the evidence of genuine [faith](../faith/), not its cause. Augustine anticipated this logic: "They who are of the [predestined](../predestination-and-election/) number, though they may not yet be called, are already called in God's foreknowledge" — and those who persevere reveal that they were truly His from the beginning (*De Correptione et Gratia* 7.14).
 
 ### Arminian/Wesleyan: Conditional Preservation
 
@@ -40,7 +40,7 @@ This view does not teach that salvation is fragile or easily lost — only that 
 
 ### Catholic: Grace Lost and Restored
 
-The Catholic tradition teaches that justification can be lost through mortal sin — a grave, deliberate offense against God committed with full knowledge and consent. Venial sins wound but do not destroy the life of grace. Those who have fallen through mortal sin can be restored through the sacrament of confession (reconciliation), in which the penitent confesses, receives absolution, and is restored to a state of grace.
+The Catholic tradition teaches that justification can be lost through mortal sin — a grave, deliberate offense against God committed with full knowledge and consent. Venial sins wound but do not destroy the life of grace. Those who have fallen through mortal sin can be restored through the [sacrament](../../the-church/sacraments-and-ordinances/) of confession (reconciliation), in which the penitent confesses, receives absolution, and is restored to a state of grace.
 
 This view takes seriously both the biblical warnings and the biblical promises, framing the Christian life as a real journey in which grace sustains, sin endangers, and the sacraments restore.
 

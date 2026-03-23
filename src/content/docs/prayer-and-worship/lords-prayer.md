@@ -20,7 +20,7 @@ The prayer's structure is notable: it begins with God — His name, His kingdom,
 
 The prayer begins with the address *Pater* (Πατήρ) — "Father." The Aramaic *Abba* conveys intimacy — the address of a child to a trusted father — yet "in heaven" preserves reverence and transcendence. These two dimensions must be held together: intimacy without reverence becomes presumption; reverence without intimacy becomes cold formalism.
 
-To call God "Father" is no casual privilege; it is a right granted through adoption in Christ (Romans 8:15). Only those united to the Son by faith may address God as Father — and they may do so with confidence, knowing that He delights to hear His children's prayers (Matthew 7:11).
+To call God "Father" is no casual privilege; it is a right granted through [adoption](../../salvation/adoption/) in Christ (Romans 8:15). Only those united to the Son by faith may address God as Father — and they may do so with confidence, knowing that He delights to hear His children's prayers (Matthew 7:11).
 
 The word "our" reminds us that prayer is never merely private — we pray as members of God's family. Even in the solitude of a private room (Matthew 6:6), the Christian prays as one who belongs to the body of Christ.
 
@@ -32,7 +32,7 @@ To pray "hallowed be your name" is to commit oneself to living in a way that doe
 
 ## "Your Kingdom Come, Your Will Be Done"
 
-These twin petitions express the longing for God's sovereign rule to be fully manifest. The kingdom has already been inaugurated in Christ's first coming, yet it awaits consummation at His return — the "already and not yet" of New Testament eschatology. To pray "your kingdom come" is to ask for the advance of the gospel, the conversion of sinners, the defeat of evil, and the return of Christ.
+These twin petitions express the longing for God's sovereign rule to be fully manifest. The [kingdom](../../jesus-christ/kingdom-of-god/) has already been inaugurated in Christ's first coming, yet it awaits consummation at His [return](../../last-things/second-coming/) — the "already and not yet" of New Testament eschatology. To pray "your kingdom come" is to ask for the advance of the gospel, the conversion of sinners, the defeat of evil, and the return of Christ.
 
 "Your will be done on earth as it is in heaven" extends the petition: in heaven, God's will is obeyed perfectly, joyfully, and without delay. This prayer asks that such obedience would increasingly characterize life on earth — beginning with the one who prays it.
 
@@ -44,7 +44,7 @@ Whatever its exact sense, the petition teaches daily dependence on God for provi
 
 ## "Forgive Us Our Debts"
 
-The Greek *opheilēma* (ὀφείλημα) means a moral or financial "debt." Luke's parallel uses "sins" (*hamartias*, ἁμαρτίας). Sin is a debt owed to God — an obligation we cannot pay. Only the cross of Christ can settle this debt, and this petition is a daily plea for the grace that flows from Calvary.
+The Greek *opheilēma* (ὀφείλημα) means a moral or financial "debt." Luke's parallel uses "sins" (*hamartias*, ἁμαρτίας). Sin is a debt owed to God — an obligation we cannot pay. Only the [cross](../../jesus-christ/death-and-resurrection/) of Christ can settle this debt, and this petition is a daily plea for the [grace](../../salvation/grace/) that flows from Calvary.
 
 The petition links divine forgiveness to our willingness to forgive others: "as we also have forgiven our debtors." Jesus reinforces this principle immediately after the prayer (Matthew 6:14–15) and illustrates it powerfully in the parable of the unforgiving servant (Matthew 18:21–35). This does not mean we earn forgiveness by forgiving; rather, a heart that has truly received God's forgiveness naturally overflows in mercy toward others. The refusal to forgive reveals a heart that has not grasped the magnitude of its own debt.
 
@@ -77,4 +77,6 @@ The prayer divides naturally into two halves:
 
 This structure mirrors the two tables of the Ten Commandments: love for God first, then love for neighbor and self. It teaches that the proper ordering of prayer — and of life — begins with the glory of God and flows from there into every human concern.
 
-To pray the Lord's Prayer is to be schooled by Christ Himself in what matters most: the glory of God, dependence on His provision, the need for forgiveness, and deliverance from evil.
+To pray the Lord's Prayer is to be schooled by Christ Himself in what matters most: the glory of God, dependence on His provision, the need for [forgiveness](../../christian-life-and-vocation/forgiveness/), and deliverance from evil.
+
+> "Lord, teach us to pray." — Luke 11:1

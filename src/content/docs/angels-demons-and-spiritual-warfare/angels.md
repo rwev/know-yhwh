@@ -19,7 +19,7 @@ The terminology itself reveals their fundamental role: angels are sent ones, age
 
 ## The Nature of Angels
 
-Angels are spiritual beings created by God before the foundation of the earth (Job 38:4-7). Scripture reveals several characteristics:
+Angels are spiritual beings [created](../../creation-and-humanity/creation/) by God before the foundation of the earth (Job 38:4–7). Scripture reveals several characteristics:
 
 - **Created beings** — They are not eternal or self-existent; God made them (Psalm 148:2-5, Colossians 1:16)
 - **Spiritual in nature** — They are *pneumata* (πνεύματα) — "spirits" (Hebrews 1:14), though they can appear in bodily form (Genesis 18:1-8, Hebrews 13:2)
@@ -45,7 +45,7 @@ The term *archangelos* (ἀρχάγγελος) — from *arche* (ἀρχή, "fir
 
 One of the most striking figures in the Old Testament is the *Mal'ak YHWH* (מַלְאַךְ יהוה), the Angel of YHWH. This figure speaks as God, is identified as God, and receives worship — yet is also distinguished from God (Genesis 16:7-13, 22:11-18, Exodus 3:2-6, Judges 13:18-22). In Judges 13:18, the Angel tells Manoah his name is *peli* (פֶּלִאי) — "wonderful, incomprehensible" — the same root used in Isaiah 9:6 for the Messiah's name *Pele Yo'ets* (פֶּלֶא יוֹעֵץ), "Wonderful Counselor."
 
-Many Church Fathers and theologians across the centuries have understood these appearances as *Christophanies* — pre-incarnate manifestations of the Son of God. Others interpret the Angel of YHWH as a created angel uniquely authorized to speak in God's name. The Christophany reading has strong patristic support and coheres with the New Testament's identification of Christ as the *eikon* (εἰκών) — "image, visible representation" — of the invisible God (Colossians 1:15, John 1:18).
+Many Church Fathers and theologians across the centuries have understood these appearances as *Christophanies* — pre-incarnate manifestations of the Son of God. Others interpret the Angel of YHWH as a created angel uniquely authorized to speak in God's name. The Christophany reading has strong patristic support and coheres with the New Testament's identification of Christ as the *eikon* (εἰκών) — "image, visible representation" — of the invisible God (Colossians 1:15; John 1:18; cf. [deity of Christ](../../jesus-christ/deity/)).
 
 ## Angels in Redemptive History
 
@@ -68,4 +68,6 @@ Angels appear at pivotal moments throughout Scripture:
 
 Angels continue to serve God's purposes in the lives of believers. They offer protection (Psalm 91:11-12), deliver from danger (Acts 12:7-11), and rejoice over repentant sinners (Luke 15:10). While the concept of individual "guardian angels" is debated, Jesus' words in Matthew 18:10 suggest that angels do attend to God's people in a personal way.
 
-Yet Scripture is clear: angels are *sundouloi* (σύνδουλοι) — "fellow servants" — not objects of worship (Revelation 19:10, 22:8-9). Paul warns against *threskeia ton angelon* (θρησκεία τῶν ἀγγέλων) — "worship of angels" (Colossians 2:18). All glory belongs to God alone.
+Yet Scripture is clear: angels are *sundouloi* (σύνδουλοι) — "fellow servants" — not objects of worship (Revelation 19:10, 22:8-9). Paul warns against *threskeia ton angelon* (θρησκεία τῶν ἀγγέλων) — "worship of angels" (Colossians 2:18). All glory belongs to God alone. For the fallen angels who rebelled against God, see the article on [Satan and demons](../satan-and-demons/); for the believer's engagement with the spiritual realm, see [spiritual warfare](../spiritual-warfare/).
+
+> "Praise him, all his angels; praise him, all his hosts!" — Psalm 148:2

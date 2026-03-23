@@ -37,11 +37,11 @@ God designed to foreshadow a greater *antitype* (*antitypos*, ἀντίτυπο�
 
 ## Key Themes in This Section
 
-- **Types and Shadows** --- The biblical vocabulary and major typological pairs that connect
+- [**Types and Shadows**](./types-and-shadows/) --- The biblical vocabulary and major typological pairs that connect
   Old Testament patterns to New Testament fulfillment
-- **Temple, Exile, and Kingdom** --- Three interlocking themes that form the backbone of the
+- [**Temple, Exile, and Kingdom**](./temple-exile-kingdom/) --- Three interlocking themes that form the backbone of the
   biblical narrative, from Eden to the New Jerusalem
-- **Old Testament to New** --- How the New Testament reads, interprets, and fulfills the Old,
+- [**Old Testament to New**](./old-testament-to-new/) --- How the New Testament reads, interprets, and fulfills the Old,
   and what this means for how we read the whole Bible today
 
 ## Why It Matters

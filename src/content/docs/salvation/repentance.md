@@ -6,7 +6,7 @@ sidebar:
 
 > "The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance." — 2 Peter 3:9
 
-Repentance is the radical turning of the whole person — mind, heart, and will — away from sin and toward God. It is not merely feeling sorry but fundamentally changing direction. Together with faith, repentance forms the human response to the gospel that God Himself enables.
+Repentance is the radical turning of the whole person — mind, heart, and will — away from sin and toward God. It is not merely feeling sorry but fundamentally changing direction. Together with [faith](../faith/), repentance forms the human response to the [gospel](../gospel/) that God Himself enables.
 
 ## The Language of Repentance
 
@@ -26,7 +26,7 @@ Repentance is not an optional appendix to the gospel but stands at the center of
 
 - **The prophets** summoned Israel to turn from idols and return to the covenant God: "Repent and turn from all your transgressions, lest iniquity be your ruin" (Ezekiel 18:30). Hosea, Jeremiah, and Isaiah all echoed the same plea — return to the LORD.
 - **John the Baptist** prepared the way for Christ with the cry: "Repent, for the kingdom of heaven is at hand" (Matthew 3:2). His baptism was a "baptism of repentance for the forgiveness of sins" (Mark 1:4).
-- **Jesus** opened His public ministry with the same call: "The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel" (Mark 1:15). He warned that without repentance, all would perish (Luke 13:3, 5).
+- **Jesus** opened His public ministry with the same call: "The time is fulfilled, and the [kingdom of God](../../jesus-christ/kingdom-of-god/) is at hand; repent and believe in the gospel" (Mark 1:15). He warned that without repentance, all would perish (Luke 13:3, 5).
 - **The apostles** proclaimed repentance to all nations: "God commands all people everywhere to repent" (Acts 17:30). The risen Christ Himself commissioned this message: "repentance for the forgiveness of sins should be proclaimed in his name to all nations" (Luke 24:47).
 
 On the day of Pentecost, when the crowd was cut to the heart and asked what they should do, Peter answered with a single imperative:
@@ -35,7 +35,7 @@ On the day of Pentecost, when the crowd was cut to the heart and asked what they
 
 ## Repentance as a Gift of God
 
-While repentance is a genuine human act — we are commanded to repent — Scripture also reveals that it is ultimately a gift of divine grace. Left to ourselves, we would never turn from sin. God must grant what He commands:
+While repentance is a genuine human act — we are commanded to repent — Scripture also reveals that it is ultimately a gift of divine [grace](../grace/). Left to ourselves, we would never turn from sin. God must grant what He commands. The early Church reflected deeply on this paradox. John Chrysostom (c. 349–407) preached extensively on repentance as the door through which all must pass — yet a door that God Himself opens: "Repentance is a gift of God, and a falling away from sins is from the power of God" (*Homilies on Repentance*). The [sacrament of confession](../../the-church/sacraments-and-ordinances/) in Catholic and Orthodox practice embodies this conviction, providing a concrete means through which penitents receive assurance of God's [mercy](../../gods-nature/mercy-and-justice/) and restoration to fellowship:
 
 > "When they heard these things they fell silent. And they glorified God, saying, 'Then to the Gentiles also God has granted repentance that leads to life.'" — Acts 11:18
 
@@ -61,6 +61,6 @@ The Corinthians themselves illustrated the difference. After Paul's confrontatio
 
 True repentance is known by its fruit. John the Baptist demanded evidence: "Bear fruit in keeping with repentance" (Matthew 3:8). When the crowds asked what this looked like concretely, he answered with practical examples: share your clothing with those in need, collect no more tax than what is owed, do not extort (Luke 3:10–14).
 
-Zacchaeus demonstrated the reality of his repentance by restoring what he had stolen fourfold and giving half his possessions to the poor (Luke 19:8). The Thessalonians showed theirs by turning "to God from idols to serve the living and true God" (1 Thessalonians 1:9). Repentance is not complete in the moment of turning — it unfolds in a lifetime of walking in the new direction.
+Zacchaeus demonstrated the reality of his repentance by restoring what he had stolen fourfold and giving half his possessions to the poor (Luke 19:8). The Thessalonians showed theirs by turning "to God from idols to serve the living and true God" (1 Thessalonians 1:9). Repentance is not complete in the moment of turning — it unfolds in a lifetime of walking in the new direction, inseparable from the ongoing process of [sanctification](../../sanctification-and-discipleship/sanctification/).
 
 > "I declared first to those in Damascus, then in Jerusalem and throughout all the region of Judea, and also to the Gentiles, that they should repent and turn to God, performing deeds in keeping with their repentance." — Acts 26:20

@@ -6,7 +6,7 @@ sidebar:
 
 > "But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ — by grace you have been saved." — Ephesians 2:4–5
 
-Grace is God's unmerited favor toward those who deserve only judgment. It is not a reward for the worthy but a gift to the undeserving. Grace is the heartbeat of the gospel — remove it, and Christianity becomes just another system of human achievement.
+Grace is God's unmerited favor toward those who deserve only judgment. It is not a reward for the worthy but a gift — *dōrean* (δωρεάν) — "freely, without cost" (Romans 3:24) — to the undeserving. Grace is the heartbeat of the [gospel](../gospel/) — remove it, and Christianity becomes just another system of human achievement.
 
 ## The Language of Grace
 
@@ -31,12 +31,14 @@ Both forms of grace flow from the same generous God, but they differ in purpose 
 
 Every aspect of salvation is rooted in grace:
 
-- **Election** — God chose us before the foundation of the world (Ephesians 1:4)
+- **[Election](../predestination-and-election/)** — God chose us before the foundation of the world (Ephesians 1:4)
 - **Calling** — The Spirit effectually draws sinners to Christ (John 6:44)
-- **Regeneration** — God gives new spiritual life to those who were dead (Ephesians 2:5)
-- **Justification** — We are declared righteous as a free gift (Romans 3:24)
-- **Sanctification** — God works in us to will and act for His good purpose (Philippians 2:13)
+- **[Regeneration](../regeneration/)** — God gives new spiritual life to those who were dead (Ephesians 2:5)
+- **[Justification](../justification/)** — We are declared righteous as a free gift (Romans 3:24)
+- **[Sanctification](../../sanctification-and-discipleship/sanctification/)** — God works in us to will and act for His good purpose (Philippians 2:13)
 - **Glorification** — God will complete what He has begun (Philippians 1:6)
+
+For a fuller treatment of how these aspects relate, see the article on the [*ordo salutis*](../ordo-salutis/).
 
 ## The Debate: Irresistible or Resistible?
 
@@ -45,13 +47,15 @@ Christians have long debated how grace operates in the human will:
 - **The Reformed view** holds that saving grace is *effectual* (often called "irresistible"). Because sinners are spiritually dead (Ephesians 2:1), God must sovereignly regenerate the heart before a person can respond in faith. Those whom God calls will infallibly come (John 6:37, 44). The term "irresistible" does not mean grace is coercive — rather, it so transforms the heart's desires that the sinner freely and gladly comes to Christ.
 - **The Arminian/Wesleyan view** holds that God extends *prevenient grace* to all people, enabling them to respond freely to the gospel. This grace restores the ability to choose that was lost in the Fall. Grace is genuinely sufficient for salvation, but it can be resisted by the human will (Acts 7:51). Salvation remains entirely by grace, but human cooperation is part of the response.
 
+The Pelagian controversy of the fifth century forced the Church to define grace's role with precision. Pelagius taught that humans possess the natural ability to obey God without the prior work of grace; Augustine of Hippo argued that the [fall](../../creation-and-humanity/the-fall/) so damaged human nature that apart from grace, the will is enslaved to sin (*De Gratia et Libero Arbitrio*). The Council of Carthage (418) and the Second Council of Orange (529) sided decisively with Augustine, condemning the idea that humans can initiate or merit salvation apart from grace. Both Reformed and Arminian traditions stand within this Augustinian consensus — disagreeing about how grace operates, but united against any suggestion that human effort can earn God's favor.
+
 Both traditions affirm that salvation is by grace alone — the disagreement concerns *how* grace relates to human freedom. Believers on each side can affirm with gratitude:
 
 > "But by the grace of God I am what I am, and his grace toward me was not in vain." — 1 Corinthians 15:10
 
 ## Grace and the Sacraments
 
-The Catholic and Orthodox traditions emphasize that grace is mediated through the sacraments — baptism, the Eucharist, confession, and others. In this understanding, grace is not merely a divine attitude but a real, transformative power communicated through the Church's liturgical life. The sacraments are "visible signs of invisible grace," as Augustine put it. This view does not deny the necessity of faith but sees faith and sacramental participation as working together in the economy of salvation.
+The Catholic and Orthodox traditions emphasize that grace is mediated through the sacraments — baptism, the Eucharist, confession, and others. In this understanding, grace is not merely a divine attitude but a real, transformative power communicated through the Church's liturgical life. The [sacraments](../../the-church/sacraments-and-ordinances/) are "visible signs of invisible grace," as Augustine put it. This view does not deny the necessity of faith but sees faith and sacramental participation as working together in the economy of salvation.
 
 Protestant traditions generally view the sacraments (or ordinances) as means of grace that strengthen faith but do not confer grace apart from the believer's trust in Christ. Despite these differences, all major Christian traditions agree that grace is not a mere abstraction — it is the living power of God at work in human lives through concrete means He has appointed.
 

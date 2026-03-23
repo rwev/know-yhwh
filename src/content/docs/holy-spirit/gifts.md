@@ -6,7 +6,7 @@ sidebar:
 
 > "Now there are varieties of gifts, but the same Spirit; and there are varieties of service, but the same Lord." — 1 Corinthians 12:4–5
 
-Spiritual gifts are abilities given by the Holy Spirit to believers for the building up of the church. They are not earned or chosen but sovereignly distributed according to the Spirit's will. The Greek word *charisma* (χάρισμα) means "grace-gift" — from *charis* (χάρις), "grace." Every spiritual gift is, by definition, an unmerited endowment of divine grace.
+Spiritual gifts are abilities given by the Holy Spirit to believers for the building up of the church. They are not earned or chosen but sovereignly distributed according to the Spirit's will. The Greek word *charisma* (χάρισμα) means "grace-gift" — from *charis* (χάρις), "grace." Every spiritual gift is, by definition, an unmerited endowment of divine [grace](../../salvation/grace/).
 
 ## Key Gift Passages
 
@@ -25,11 +25,11 @@ Spiritual gifts are given not for personal prestige but for mutual edification:
 
 > "To each is given the manifestation of the Spirit for the common good." — 1 Corinthians 12:7
 
-Every believer has been gifted by the Spirit and is called to exercise those gifts in love for the building up of the body of Christ (1 Corinthians 14:12, 26).
+Every believer has been gifted by the Spirit — through [baptism in the Spirit](../baptism-of-the-spirit/) — and is called to exercise those gifts in [love](../../gods-nature/love/) for the building up of the [body of Christ](../../the-church/body-of-christ/) (1 Corinthians 14:12, 26).
 
 ## Unity in Diversity — The Body of Christ
 
-Paul's most sustained teaching on gifts uses the metaphor of a human body (1 Corinthians 12:12–27). Just as a body has many members with different functions, so the church has many members with different gifts — all essential, none dispensable.
+Paul's most sustained teaching on gifts uses the metaphor of a human body (1 Corinthians 12:12–27). Just as a body — *sōma* (σῶμα) — has many *melē* (μέλη) — "members, limbs" — with different functions, so the church has many members with different gifts — all essential, none dispensable.
 
 > "The eye cannot say to the hand, 'I have no need of you,' nor again the head to the feet, 'I have no need of you.'" — 1 Corinthians 12:21
 
@@ -53,8 +53,10 @@ Paul values the gift but subordinates it to prophecy in the gathered assembly, b
 
 Christians disagree about whether all the gifts listed in the New Testament continue today. Two broad positions have emerged:
 
-**Cessationism** holds that certain gifts — particularly tongues, prophecy, healing, and miracles (sometimes called the "sign gifts") — ceased with the apostolic age. Cessationists argue that these gifts served to authenticate the apostles and the newly-revealed Scriptures (2 Corinthians 12:12, Hebrews 2:3–4), and that once the canon was complete, their foundational purpose was fulfilled. The "perfect" in 1 Corinthians 13:10 is sometimes understood as the completed canon.
+**Cessationism** holds that certain gifts — particularly tongues, prophecy, healing, and miracles (sometimes called the "sign gifts") — ceased with the apostolic age. Cessationists argue that these gifts served to authenticate the apostles and the newly-revealed Scriptures (2 Corinthians 12:12; Hebrews 2:3–4), and that once the [canon](../../scripture/canon/) was complete, their foundational purpose was fulfilled. The "perfect" — *to teleion* (τὸ τέλειον) — in 1 Corinthians 13:10 is sometimes understood as the completed canon. B.B. Warfield influentially argued this position in *Counterfeit Miracles* (1918), and it has been widely held in Reformed and dispensational traditions.
 
-**Continuationism** holds that all the gifts of the Spirit remain available to the church today. Continuationists argue that there is no explicit biblical text announcing the cessation of any gift, that the "perfect" in 1 Corinthians 13:10 refers to the return of Christ rather than the canon, and that the global church continues to report experiences consistent with the New Testament gifts.
+**Continuationism** holds that all the gifts of the Spirit remain available to the church today. Continuationists argue that there is no explicit biblical text announcing the cessation of any gift, that *to teleion* refers to the return of Christ rather than the canon, and that the [global church](../../church-history-and-tradition/modern-christianity/) — particularly the Pentecostal and charismatic movements that have grown to over half a billion believers — continues to report experiences consistent with the New Testament gifts. The patristic evidence is mixed: Irenaeus (*Against Heresies* V.6.1) and Origen report ongoing miraculous gifts in their day, while Chrysostom acknowledged that certain gifts had become rare by the late fourth century.
 
 Both positions are held by faithful, Bible-believing Christians. The essential agreement is that the Holy Spirit remains active in the church, that Scripture is the final authority, and that all gifts — however understood — must be exercised in love and for the common good.
+
+> "As each has received a gift, use it to serve one another, as good stewards of God's varied grace." — 1 Peter 4:10

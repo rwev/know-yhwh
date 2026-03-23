@@ -21,12 +21,12 @@ Paul commands believers to put on the *panoplia tou Theou* (πανοπλία τ�
 ### The Belt of Truth
 > Stand therefore, having fastened on the belt of truth — Ephesians 6:14a
 
-The Greek *perizosamenoi* (περιζωσάμενοι) — "having girded" — is an aorist middle participle indicating decisive, personal action. The *zone* (ζώνη, "belt") held the soldier's armor together and allowed free movement. *Aletheia* (ἀλήθεια) — "truth" — encompasses both doctrinal integrity and personal honesty; it is the foundation that holds the Christian's life together. Satan's primary weapon is *pseudos* (ψεῦδος, "falsehood, deception"); truth is its antidote.
+The Greek *perizosamenoi* (περιζωσάμενοι) — "having girded" — is an aorist middle participle indicating decisive, personal action. The *zone* (ζώνη, "belt") held the soldier's armor together and allowed free movement. *Aletheia* (ἀλήθεια) — "truth" — encompasses both doctrinal integrity and personal honesty; it is the foundation that holds the Christian's life together. [Satan's](../satan-and-demons/) primary weapon is *pseudos* (ψεῦδος, "falsehood, deception"); truth is its antidote.
 
 ### The Breastplate of Righteousness
 > Having put on the breastplate of righteousness — Ephesians 6:14b
 
-The *thorax* (θώραξ, "breastplate") protected vital organs. The *dikaiosyne* (δικαιοσύνη) — "righteousness" — of Christ imputed to believers (2 Corinthians 5:21) and the pursuit of righteous living together guard the heart against accusation and moral compromise. This echoes Isaiah 59:17, where YHWH Himself puts on *tsedaqah* (צְדָקָה) — "righteousness" — as a breastplate.
+The *thorax* (θώραξ, "breastplate") protected vital organs. The *dikaiosyne* (δικαιοσύνη) — "[righteousness](../../salvation/justification/)" — of Christ imputed to believers (2 Corinthians 5:21) and the pursuit of righteous living together guard the heart against accusation and moral compromise. This echoes Isaiah 59:17, where YHWH Himself puts on *tsedaqah* (צְדָקָה) — "righteousness" — as a breastplate.
 
 ### The Shoes of the Gospel of Peace
 > As shoes for your feet, having put on the readiness given by the gospel of peace — Ephesians 6:15
@@ -53,7 +53,7 @@ The *machaira* (μάχαιρα) was a short sword for close combat — distinct 
 > Praying at all times in the Spirit, with all prayer and supplication. To that end,
 > keep alert with all perseverance, making supplication for all the saints. — Ephesians 6:18
 
-Prayer is not merely one more piece of armor — it is the atmosphere in which all spiritual warfare takes place. Paul uses four occurrences of *pas* (πᾶς, "all, every") in a single verse: *praying at all times* (*en panti kairo*, ἐν παντὶ καιρῷ), *with all prayer* (*dia pases proseuches*, διὰ πάσης προσευχῆς), *with all perseverance* (*en pase proskarteresis*, ἐν πάσῃ προσκαρτερήσει), *for all the saints* (*peri panton ton hagion*, περὶ πάντων τῶν ἁγίων) — emphasizing the comprehensive, unceasing nature of prayerful vigilance. The word *proseuche* (προσευχή) — "prayer" — and *deesis* (δέησις) — "supplication, specific petition" — together cover every form of speaking to God. Without prayer, the armor remains inert. Through prayer, the believer accesses the power of God, discerns the enemy's *methodeia* (μεθοδεία) — "schemes, stratagems" (Ephesians 6:11) — and intercedes for fellow soldiers in the fight.
+[Prayer](../../prayer-and-worship/prayer/) is not merely one more piece of armor — it is the atmosphere in which all spiritual warfare takes place. Paul uses four occurrences of *pas* (πᾶς, "all, every") in a single verse: *praying at all times* (*en panti kairo*, ἐν παντὶ καιρῷ), *with all prayer* (*dia pases proseuches*, διὰ πάσης προσευχῆς), *with all perseverance* (*en pase proskarteresis*, ἐν πάσῃ προσκαρτερήσει), *for all the saints* (*peri panton ton hagion*, περὶ πάντων τῶν ἁγίων) — emphasizing the comprehensive, unceasing nature of prayerful vigilance. The word *proseuche* (προσευχή) — "prayer" — and *deesis* (δέησις) — "supplication, specific petition" — together cover every form of speaking to God. Without prayer, the armor remains inert. Through prayer, the believer accesses the power of God, discerns the enemy's *methodeia* (μεθοδεία) — "schemes, stratagems" (Ephesians 6:11) — and intercedes for fellow soldiers in the fight.
 
 ## Resisting the Devil
 
@@ -88,4 +88,6 @@ The biblical balance is sober awareness coupled with confident faith. The enemy 
 
 > In all these things we are more than conquerors through him who loved us. — Romans 8:37
 
-The outcome of the cosmic battle is not in doubt. Christ has already *thriambeusas* (θριαμβεύσας) — "triumphed, led in triumphal procession" — over the powers (Colossians 2:15), an image drawn from the Roman *triumphus*, where a victorious general paraded conquered enemies through the city. Satan's doom is sealed (Revelation 20:10). The believer fights not *for* victory but *from* victory — as *hupernikomen* (ὑπερνικῶμεν) — "more than conquerors, super-victors" (Romans 8:37) — standing in the finished work of Christ, awaiting the day when every *echthros* (ἐχθρός) — "enemy" — will be placed *hupo tous podas autou* (ὑπὸ τοὺς πόδας αὐτοῦ) — "under His feet" (1 Corinthians 15:25-26), fulfilling Psalm 110:1.
+The outcome of the cosmic battle is not in doubt. Christ has already *thriambeusas* (θριαμβεύσας) — "triumphed, led in triumphal procession" — over the powers (Colossians 2:15), an image drawn from the Roman *triumphus*, where a victorious general paraded conquered enemies through the city. Satan's doom is sealed (Revelation 20:10). The believer fights not *for* victory but *from* victory — as *hupernikomen* (ὑπερνικῶμεν) — "more than conquerors, super-victors" (Romans 8:37) — standing in the finished work of Christ, awaiting the day when every *echthros* (ἐχθρός) — "enemy" — will be placed *hupo tous podas autou* (ὑπὸ τοὺς πόδας αὐτοῦ) — "under His feet" (1 Corinthians 15:25–26), fulfilling [Psalm 110:1](../../names-of-god/adonai/).
+
+> "For he must reign until he has put all his enemies under his feet. The last enemy to be destroyed is death." — 1 Corinthians 15:25–26

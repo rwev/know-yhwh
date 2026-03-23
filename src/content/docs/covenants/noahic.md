@@ -6,7 +6,7 @@ sidebar:
 
 > "I establish my covenant with you, that never again shall all flesh be cut off by the waters of a flood, and never again shall there be a flood to destroy the earth." — Genesis 9:11
 
-The Noahic covenant is God's promise to preserve the created order after the catastrophic judgment of the flood. Unlike the later covenants with Abraham, Moses, and David, this covenant is universal in scope — made not with one family or nation, but with every living creature on earth.
+The Noahic covenant is God's promise to preserve the created order after the catastrophic judgment of the flood. Unlike the later covenants with [Abraham](../abrahamic/), [Moses](../mosaic/), and [David](../davidic/), this covenant is universal in scope — made not with one family or nation, but with every living creature on earth. It is the first covenant in Scripture to use the word *berit* (בְּרִית) — "covenant, binding agreement" — explicitly (Genesis 6:18; 9:9), establishing the [covenantal](../covenant-theology/) pattern that structures all of God's subsequent dealings with humanity.
 
 ## The Occasion: After the Flood
 
@@ -14,7 +14,7 @@ After the waters receded and Noah's family emerged from the ark, Noah built an a
 
 > "I will never again curse the ground because of man, for the intention of man's heart is evil from his youth. Neither will I ever again strike down every living creature as I have done. While the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night, shall not cease." — Genesis 8:21-22
 
-This is remarkable: God's commitment to preserve the earth is grounded not in human improvement but in His own sovereign mercy. The same human sinfulness that provoked the flood is acknowledged — yet God pledges restraint.
+This is remarkable: God's commitment to preserve the earth is grounded not in human improvement but in His own [sovereign](../../gods-nature/sovereignty/) [mercy](../../gods-nature/mercy-and-justice/). The same human sinfulness that provoked the flood is acknowledged — the Hebrew *yetser* (יֵצֶר) — "inclination, imagination, formed purpose" — of the human heart is *ra* (רַע) — "evil" — from youth. Yet God pledges restraint. Irenaeus saw in this a foreshadowing of God's patience with a fallen world: God preserves creation not because humanity has improved but because His redemptive purposes require time and space to unfold (*Adversus Haereses* III.11.8).
 
 The stability of the natural order — seasons, harvests, the rhythm of day and night — rests on this divine promise. Every time the seasons turn, every sunrise that follows a sunset, testifies to the faithfulness of the God who made this covenant with Noah.
 
@@ -42,7 +42,7 @@ Alongside the promise, God gave Noah a set of foundational commands that apply t
 
 1. **Be fruitful and multiply** (Genesis 9:1, 7) — The original creation mandate of Genesis 1:28 is renewed. Humanity is to fill the earth and exercise stewardship over it.
 2. **Respect for blood and life** (Genesis 9:4) — "You shall not eat flesh with its life, that is, its blood." Blood represents life, and life belongs to God. This command establishes the sanctity of life as a universal moral principle.
-3. **Capital punishment for murder** (Genesis 9:6) — "Whoever sheds the blood of man, by man shall his blood be shed, for God made man in his own image." Human life is sacred because every person bears the image of God. This principle grounds human government and the administration of justice.
+3. **Capital punishment for murder** (Genesis 9:6) — "Whoever sheds the blood of man, by man shall his blood be shed, for God made man in his own [image](../../creation-and-humanity/image-of-god/)." Human life is sacred because every person bears the *imago Dei*. This principle grounds human government and the administration of justice.
 
 ## Common Grace and Natural Law
 
@@ -56,6 +56,6 @@ This covenant also provides a basis for natural law — the moral principles acc
 
 The institution of human government finds its origin here. By establishing capital punishment for murder, God delegated a measure of judicial authority to humanity. Paul's teaching that governing authorities are "instituted by God" and bear "the sword" as God's servants (Romans 13:1-4) is rooted in this Noahic mandate.
 
-In this way, the Noahic covenant undergirds all human civilization, preserving the stage on which God's redemptive drama unfolds. It is the quiet, often unnoticed foundation beneath every other covenant — the guarantee that the world will endure long enough for God's saving purposes to reach their consummation.
+In this way, the Noahic covenant undergirds all human civilization, preserving the stage on which God's redemptive drama unfolds. It is the quiet, often unnoticed foundation beneath every other covenant — the guarantee that the world will endure long enough for God's saving purposes to reach their consummation in the [new creation](../../last-things/new-creation/). Peter connects the flood directly to the final judgment: "The world that then existed was deluged with water and perished. But by the same word the heavens and earth that now exist are stored up for fire, being kept until the day of judgment" (2 Peter 3:6–7). The Noahic covenant preserves the present world; the [new covenant](../new-covenant/) in Christ will transform it.
 
 > "While the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night, shall not cease." — Genesis 8:22

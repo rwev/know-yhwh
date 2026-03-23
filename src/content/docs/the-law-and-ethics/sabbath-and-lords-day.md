@@ -6,7 +6,7 @@ sidebar:
 
 > "Remember the Sabbath day, to keep it holy. Six days you shall labor, and do all your work, but the seventh day is a Sabbath to the LORD your God." — Exodus 20:8–10
 
-The Sabbath is one of the most distinctive and debated institutions in all of Scripture. Rooted in creation, codified at Sinai, treasured by Israel, and fulfilled in Christ, the Sabbath principle raises profound questions about work and rest, law and gospel, creation and new creation. Christians have answered these questions in significantly different ways, yet all agree that God has built rhythms of rest and worship into the fabric of human existence.
+The Sabbath is one of the most distinctive and debated institutions in all of Scripture. Rooted in [creation](../../creation-and-humanity/creation/), codified at Sinai, treasured by Israel, and fulfilled in Christ, the Sabbath principle raises profound questions about work and rest, law and [gospel](../../salvation/gospel/), creation and [new creation](../../last-things/new-creation/). Christians have answered these questions in significantly different ways, yet all agree that God has built rhythms of rest and worship into the fabric of human existence.
 
 ## The Sabbath in Creation
 
@@ -18,7 +18,7 @@ The creation Sabbath establishes a pattern woven into the structure of reality: 
 
 The Fourth Commandment formalized the Sabbath as a covenant obligation for Israel. Exodus 20:8–11 grounds the Sabbath in creation: Israel is to rest because God rested. Deuteronomy 5:12–15 adds a redemptive grounding: Israel is to rest because God delivered them from slavery in Egypt. The Sabbath thus carries a double significance — it points back to creation and forward to redemption, reminding Israel that they are both creatures of God and objects of His saving grace.
 
-The Sabbath was the sign of the Mosaic covenant, as circumcision was the sign of the Abrahamic: "Above all you shall keep my Sabbaths, for this is a sign between me and you throughout your generations, that you may know that I, the LORD, sanctify you" (Exodus 31:13). Sabbath violation carried the death penalty (Exodus 31:14–15; Numbers 15:32–36), underscoring its gravity as a covenant marker.
+The Sabbath was the sign of the [Mosaic covenant](../../covenants/mosaic/), as circumcision was the sign of the [Abrahamic](../../covenants/abrahamic/): "Above all you shall keep my Sabbaths, for this is a sign between me and you throughout your generations, that you may know that I, the LORD, sanctify you" (Exodus 31:13). Sabbath violation carried the death penalty (Exodus 31:14–15; Numbers 15:32–36), underscoring its gravity as a covenant marker.
 
 ## The Sabbath in Israel's Life
 
@@ -35,13 +35,13 @@ Jesus' relationship to the Sabbath was a source of constant controversy with the
 - "The Sabbath was made for man, not man for the Sabbath" (Mark 2:27) — The Sabbath is a gift for human flourishing, not a legalistic burden. Jesus rejected the Pharisaic elaboration that had turned rest into an oppressive code of restrictions.
 - "The Son of Man is lord even of the Sabbath" (Mark 2:28) — Jesus claims sovereign authority over the Sabbath itself. He does not abolish it but reinterprets it in light of His own person and mission.
 
-Jesus presented Himself as the fulfillment of what the Sabbath pointed to: the rest of God, the liberation of the oppressed, the restoration of creation. His miracles on the Sabbath were not violations but enactments of the Sabbath's deepest meaning — the reign of God bringing healing and wholeness to a broken world.
+Jesus presented Himself as the fulfillment of what the Sabbath pointed to: the rest of God, the liberation of the oppressed, the restoration of creation. His inaugural sermon in Nazareth — reading Isaiah 61:1–2 and declaring "Today this Scripture has been fulfilled in your hearing" (Luke 4:21) — linked His mission explicitly to the Jubilee tradition of release, rest, and restoration. The [kingdom of God](../../jesus-christ/kingdom-of-god/) is the ultimate Sabbath breaking into history. His miracles on the Sabbath were not violations but enactments of the Sabbath's deepest meaning — the reign of God bringing healing and wholeness to a broken world.
 
 ## The Lord's Day
 
 The earliest Christians, most of them Jewish, continued to observe the Sabbath. But from the beginning, they also gathered on the first day of the week — the day of Christ's resurrection — for worship and the breaking of bread (Acts 20:7; 1 Corinthians 16:2). The first day came to be called *hē kyriakē hēmera* (ἡ κυριακὴ ἡμέρα) — "the Lord's Day" (Revelation 1:10).
 
-By the second century, Christian writers such as Ignatius of Antioch, Justin Martyr, and the author of the *Didache* describe Sunday worship as the distinctive practice of the Church. The Lord's Day was understood not as a mere transfer of the Sabbath from Saturday to Sunday but as a new day — the "eighth day," the day of resurrection and new creation.
+By the second century, Christian writers such as Ignatius of Antioch, Justin Martyr, and the author of the *Didache* describe Sunday worship as the distinctive practice of the Church. The Lord's Day was understood not as a mere transfer of the Sabbath from Saturday to Sunday but as a new day — the "eighth day," the day of [resurrection](../../jesus-christ/death-and-resurrection/) and new creation. Basil of Caesarea called Sunday "the image of the age to come" (*De Spiritu Sancto* 27.66), and the early Church gathered for [worship](../../prayer-and-worship/worship/) and the [Eucharist](../../the-church/sacraments-and-ordinances/) on this day as a weekly celebration of Christ's victory over death.
 
 ## Christian Views on the Sabbath
 

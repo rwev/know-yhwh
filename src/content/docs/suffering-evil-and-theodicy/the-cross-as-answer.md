@@ -7,13 +7,13 @@ sidebar:
 > For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.
 > — 2 Corinthians 5:21
 
-The deepest answer Christianity offers to the problem of suffering is not a philosophical argument. It is a Person — nailed to a cross, crying out in agony, and rising from the dead. God does not explain suffering from a distance. He enters it.
+The deepest answer Christianity offers to the problem of suffering is not a philosophical argument. It is a Person — nailed to a cross, crying out in agony, and [rising from the dead](../../jesus-christ/death-and-resurrection/). God does not explain suffering from a distance. He enters it.
 
 ## God Does Not Stand at a Distance
 
 Many theodicies attempt to defend God from the accusation of indifference. But the Christian gospel goes far beyond defense. It makes a staggering claim: the God who made the universe took on human flesh and suffered the worst that evil could inflict.
 
-This is not a God who watches from a safe heaven while His creatures writhe. This is a God who **descends** — into a manger, into poverty, into rejection, into torture, into death, into the grave itself.
+This is not a God who watches from a safe heaven while His creatures writhe. This is a God who **descends** — into a manger through the [incarnation](../../jesus-christ/incarnation/), into poverty, into rejection, into torture, into death, into the grave itself.
 
 > The Word became flesh and dwelt among us.
 > — John 1:14
@@ -46,7 +46,7 @@ Seven centuries before Calvary, the prophet Isaiah described a figure who would 
 
 The Hebrew *'ish makh'ovot* (אִישׁ מַכְאֹבוֹת) — "man of sorrows/pains" — uses *makh'ov* (מַכְאוֹב), which denotes not mere sadness but acute, piercing pain — physical and psychological. The parallel phrase *yedua' choli* (יְדוּעַ חֹלִי, "acquainted with grief/sickness") reinforces that this figure knows suffering from the inside, not as an observer. This is no detached deity. This is a God who chose to be broken.
 
-The Suffering Servant does not suffer randomly or accidentally. He suffers **vicariously** — in the place of others, bearing what they deserved, so that they might receive what He deserved.
+The Suffering Servant does not suffer randomly or accidentally. He suffers **vicariously** — in the place of others, bearing what they deserved, so that they might receive what He deserved. For a fuller treatment of the various [atonement models](../../jesus-christ/atonement-theories/), see the companion article.
 
 ## The Cry of Dereliction
 
@@ -83,7 +83,7 @@ If the story ended at the cross, Christianity would be a religion of noble trage
 > He is not here, for he has risen, as he said.
 > — Matthew 28:6
 
-The resurrection is God's definitive declaration that evil, suffering, and death do not have the final word. It is the first fruits of a new creation (1 Corinthians 15:20–23), the guarantee that everything broken will be made whole.
+The resurrection is God's definitive declaration that evil, suffering, and [death](../../heaven-hell-and-the-afterlife/death-and-dying/) do not have the final word. It is the first fruits of a [new creation](../../last-things/new-creation/) (1 Corinthians 15:20–23), the guarantee that everything broken will be made whole.
 
 The risen Christ still bears His wounds (John 20:27). He does not erase the suffering; He redeems it. The scars remain — but they are scars of victory, not defeat.
 

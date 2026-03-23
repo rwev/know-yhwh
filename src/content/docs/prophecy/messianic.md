@@ -16,9 +16,9 @@ The English word "Messiah" comes from the Hebrew *mashiach* (מָשִׁיחַ) �
 
 The messianic hope does not appear all at once. It unfolds progressively through Scripture, each promise narrowing the focus and adding new detail to the portrait of the coming Redeemer:
 
-- **Genesis 3:15** — The seed of the woman will crush the serpent's head. The first messianic promise, given in the Garden after the Fall.
-- **Genesis 12:3** — Through Abraham's offspring, all nations will be blessed. The promise narrows to one family.
-- **2 Samuel 7:12–16** — God establishes David's throne forever. The promise narrows to one royal line.
+- **Genesis 3:15** — The seed of the woman will crush the serpent's head. The first messianic promise, given in the Garden after the [fall](../../creation-and-humanity/the-fall/).
+- **Genesis 12:3** — Through [Abraham's](../../covenants/abrahamic/) offspring, all nations will be blessed. The promise narrows to one family.
+- **2 Samuel 7:12–16** — God establishes [David's](../../covenants/davidic/) throne forever. The promise narrows to one royal line.
 - **Isaiah 53** — The Servant is pierced for our transgressions. The promise reveals a suffering deliverer.
 - **Daniel 9:24–26** — An "anointed one" will come and be "cut off." The promise includes a timeline.
 
@@ -26,23 +26,21 @@ This chain — from all humanity to one woman's seed, to one nation, to one trib
 
 ## Key Prophecies and Fulfillments
 
-| Prophecy | Old Testament | Fulfillment |
-|---|---|---|
-| Born of a virgin | Isaiah 7:14 | Matthew 1:22–23 |
-| Born in Bethlehem | Micah 5:2 | Matthew 2:1 |
-| From the line of David | 2 Samuel 7:12–13 | Romans 1:3 |
-| Called out of Egypt | Hosea 11:1 | Matthew 2:15 |
-| Preceded by a messenger | Malachi 3:1 | Mark 1:2–4 |
-| Ministry in Galilee | Isaiah 9:1–2 | Matthew 4:13–16 |
-| Entering Jerusalem on a donkey | Zechariah 9:9 | Matthew 21:4–5 |
-| Betrayed for 30 silver pieces | Zechariah 11:12–13 | Matthew 26:15 |
-| Silent before accusers | Isaiah 53:7 | Matthew 27:12–14 |
-| Crucifixion details | Psalm 22:16–18 | John 19:23–24; 20:25 |
-| Pierced for our transgressions | Isaiah 53:5 | 1 Peter 2:24 |
-| Lots cast for garments | Psalm 22:18 | John 19:24 |
-| No bones broken | Psalm 34:20 | John 19:33, 36 |
-| Buried with the rich | Isaiah 53:9 | Matthew 27:57–60 |
-| Resurrection | Psalm 16:10 | Acts 2:31 |
+The following prophecies illustrate the breadth and precision of messianic [typology](../../typology-and-biblical-theology/types-and-shadows/) across the canon:
+
+- **Born of a virgin** — Isaiah 7:14; fulfilled in Matthew 1:22–23. The Hebrew *almah* (עַלְמָה) — "young woman" — is rendered *parthenos* (παρθένος) — "virgin" — in the Septuagint, a translation Matthew affirms as divinely intended.
+- **Born in Bethlehem** — Micah 5:2; fulfilled in Matthew 2:1
+- **From the line of David** — 2 Samuel 7:12–13; fulfilled in Romans 1:3
+- **Called out of Egypt** — Hosea 11:1; fulfilled in Matthew 2:15
+- **Preceded by a messenger** — Malachi 3:1; fulfilled in Mark 1:2–4
+- **Ministry in Galilee** — Isaiah 9:1–2; fulfilled in Matthew 4:13–16
+- **Entering Jerusalem on a donkey** — Zechariah 9:9; fulfilled in Matthew 21:4–5
+- **Betrayed for 30 silver pieces** — Zechariah 11:12–13; fulfilled in Matthew 26:15
+- **Pierced for our transgressions** — Isaiah 53:5; fulfilled in 1 Peter 2:24
+- **Crucifixion details** — Psalm 22:16–18; fulfilled in John 19:23–24; 20:25
+- **No bones broken** — Psalm 34:20; fulfilled in John 19:33, 36
+- **Buried with the rich** — Isaiah 53:9; fulfilled in Matthew 27:57–60
+- **[Resurrection](../../jesus-christ/death-and-resurrection/)** — Psalm 16:10; fulfilled in Acts 2:31. Justin Martyr (c. 100–165) marshalled these fulfillments in his *Dialogue with Trypho*, arguing that the convergence of so many independent prophecies in one person could not be coincidental but was the work of the prophetic Spirit.
 
 ## Psalm 110 — The Priestly King
 
@@ -68,7 +66,7 @@ The Old Testament presents two seemingly contradictory portraits of the coming M
 - **The Royal Messiah** — Psalm 2 declares God's anointed King who rules the nations with a rod of iron. Psalm 110 portrays Him as both King and eternal Priest, seated at God's right hand. Isaiah 9:6–7 speaks of a child born to sit on David's throne, whose government will never end.
 - **The Suffering Servant** — Isaiah 53 describes one who is despised, afflicted, led like a lamb to the slaughter, and who bears the sins of many. Zechariah 12:10 foretells one who is "pierced" and mourned.
 
-First-century Jews debated how one figure could be both conquering King and suffering Servant. Some Jewish traditions even posited two Messiahs — "Messiah ben Joseph" (who would suffer) and "Messiah ben David" (who would reign). Jesus resolved the tension not through two persons but through two comings: He came first to suffer and die as the atoning Lamb (His first coming) and will return to reign as King over all the earth (His second coming). The cross comes before the crown.
+First-century Jews debated how one figure could be both conquering King and suffering Servant. Some Jewish traditions even posited two Messiahs — "Messiah ben Joseph" (who would suffer) and "Messiah ben David" (who would reign). Jesus resolved the tension not through two persons but through two comings: He came first to suffer and die as the [atoning](../../jesus-christ/atonement-theories/) Lamb (His first coming) and will return to reign as [King](../../jesus-christ/kingdom-of-god/) over all the earth (His second coming). The cross comes before the crown.
 
 ## The Significance
 

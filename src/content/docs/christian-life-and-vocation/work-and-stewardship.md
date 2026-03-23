@@ -8,7 +8,7 @@ sidebar:
 > you will receive the inheritance as your reward. You are serving the Lord Christ.
 > — Colossians 3:23–24
 
-Work is not a consequence of the fall. It is part of God's original design for humanity — a
+Work is not a consequence of the [fall](../../creation-and-humanity/the-fall/). It is part of God's original design for humanity — a
 truth that transforms how Christians understand their daily labor.
 
 ## Work in God's Original Design
@@ -24,8 +24,8 @@ Before sin entered the world, God placed Adam in the garden "to work it and keep
 
 To tend the earth faithfully *is* an act of worship.
 
-God Himself is portrayed as a worker. He creates, shapes, plants, and rests. Human work
-mirrors the divine activity — we are made in the image of a God who labors with purpose and
+God Himself is portrayed as a worker. He [creates](../../creation-and-humanity/creation/), shapes, plants, and rests. Human work
+mirrors the divine activity — we are made in the [image](../../creation-and-humanity/image-of-god/) of a God who labors with purpose and
 delight (Genesis 2:2–3).
 
 ## The Cultural Mandate
@@ -112,5 +112,7 @@ The Christian vision of work and stewardship calls believers to:
 - Approach daily labor as service to God and neighbor
 - Resist the idolatry of careerism and the despair of meaningless toil
 - Practice generosity as a discipline of trust
-- Embrace Sabbath rest as an act of faith
+- Embrace [Sabbath](../../the-law-and-ethics/sabbath-and-lords-day/) rest as an act of faith
 - Steward creation with care, recognizing it belongs to God
+
+> "The earth is the LORD's and the fullness thereof, the world and those who dwell therein." — Psalm 24:1

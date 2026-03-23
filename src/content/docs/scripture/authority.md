@@ -8,7 +8,7 @@ sidebar:
 > — Isaiah 40:8
 
 The authority of Scripture rests not on human opinion but on its divine origin.
-Because Scripture is God-breathed, it carries the authority of God Himself.
+Because Scripture is God-breathed, it carries the authority of God Himself. The Hebrew *davar* (דָּבָר) — "word" — denotes not merely speech but dynamic, effectual power: when God speaks, things happen (Genesis 1:3; Isaiah 55:10–11). Scripture participates in this creative, commanding power of God's own voice.
 
 ## The God-Breathed Word
 
@@ -37,8 +37,8 @@ the living God.
 ### Inspiration
 
 Scripture is "breathed out by God" (2 Timothy 3:16). The human authors wrote
-freely in their own styles, yet the Holy Spirit so superintended their writing
-that the result is exactly what God intended (2 Peter 1:21).
+freely in their own styles, yet the [Holy Spirit](../../holy-spirit/person-of-the-spirit/) so superintended their writing
+that the result is exactly what God intended (2 Peter 1:21). For a fuller treatment, see the article on [inspiration and inerrancy](../inspiration-and-inerrancy/).
 
 ### Inerrancy
 
@@ -98,9 +98,11 @@ Magisterium or conciliar authority serving as the authentic interpreter.
 Catholics appeal to passages like 2 Thessalonians 2:15 ("hold to the traditions")
 and 1 Timothy 3:15 (the church as "pillar and buttress of the truth") to argue
 that Scripture alone is insufficient apart from the living tradition of the
-church. Protestants respond that tradition is valuable but fallible, and that
+Church. The Orthodox similarly honor the consensus of the [Fathers and councils](../../church-history-and-tradition/creeds-and-confessions/) as the authentic lens through which Scripture must be read. Protestants respond that tradition is valuable but fallible, and that
 Scripture alone is *theopneustos* — and therefore alone possesses the unique
-authority that belongs to God's own speech.
+authority that belongs to God's own speech. Athanasius himself, the champion of Nicene orthodoxy, appealed to Scripture as the final court: "The holy and inspired Scriptures are sufficient of themselves for the preaching of the truth" (*Contra Gentes* 1).
 
 Whatever one's position, all major branches of Christianity agree that Scripture
-is divinely inspired and carries supreme weight in matters of doctrine and life.
+is divinely inspired and carries supreme weight in matters of doctrine and life. For how Scripture is rightly interpreted, see the article on [hermeneutics](../hermeneutics/).
+
+> "Your word is a lamp to my feet and a light to my path." — Psalm 119:105

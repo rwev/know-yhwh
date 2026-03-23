@@ -6,7 +6,7 @@ sidebar:
 
 > "And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing." — Genesis 12:2
 
-The Abrahamic covenant is the foundational covenant of redemptive history. God's unconditional promises to Abraham shape the entire trajectory of the biblical narrative.
+The Abrahamic covenant is the foundational covenant of redemptive history. Building on the [Noahic](../noahic/) covenant's preservation of creation, God now begins the work of redemption through one chosen family. His unconditional promises to Abraham shape the entire trajectory of the biblical narrative and find their fulfillment in the [gospel](../../salvation/gospel/) of Jesus Christ.
 
 ## The Word *Berit*
 
@@ -30,13 +30,13 @@ In the ancient Near East, a covenant ratification ceremony involved cutting anim
 
 The stunning feature of Genesis 15 is that only God passes through. Abraham is asleep. God alone bears the covenant curse. This is pure, sovereign, unconditional grace: God stakes His own life on His promises.
 
-The Christian reader cannot miss the foreshadowing: the God who passed between the pieces would one day take the covenant curse upon Himself at Calvary. What was symbolized in the smoking fire pot and flaming torch was actualized in the cross — God bearing in His own body the penalty for a broken covenant.
+The Christian reader cannot miss the foreshadowing: the God who passed between the pieces would one day take the covenant curse upon Himself at [Calvary](../../jesus-christ/atonement-theories/). What was symbolized in the smoking fire pot and flaming torch was actualized in the cross — God bearing in His own body the penalty for a broken covenant. As Irenaeus observed, God's promise to Abraham was "the gospel preached beforehand" (*Against Heresies* IV.21.1) — and Paul agrees: "the Scripture, foreseeing that God would justify the Gentiles by [faith](../../salvation/faith/), preached the gospel beforehand to Abraham" (Galatians 3:8).
 
 > "After these things the word of the LORD came to Abram in a vision: 'Fear not, Abram, I am your shield; your reward shall be very great.'" — Genesis 15:1
 
 ## Circumcision as Covenant Sign (Genesis 17)
 
-In Genesis 17, God gave Abraham the sign of circumcision — a physical mark in the flesh of every male descendant. Circumcision did not earn the covenant; it was the outward sign of a covenant already established by grace. It marked Abraham's household as belonging to the covenant community and pointed forward to the "circumcision of the heart" that the prophets would later demand (Deuteronomy 10:16; Jeremiah 4:4).
+In Genesis 17, God gave Abraham the sign of circumcision — a physical mark in the flesh of every male descendant. Circumcision did not earn the covenant; it was the outward sign of a covenant already established by grace. It marked Abraham's household as belonging to the covenant community and pointed forward to the "circumcision of the heart" that the prophets would later demand (Deuteronomy 10:16; Jeremiah 4:4). Paul draws out this typology: true circumcision is *peritomē kardias* (περιτομὴ καρδίας) — "circumcision of the heart, by the Spirit, not the letter" (Romans 2:29; cf. Colossians 2:11–12), connecting Abrahamic circumcision to Christian [baptism](../../the-church/sacraments-and-ordinances/).
 
 > "This is my covenant, which you shall keep, between me and you and your offspring after you: Every male among you shall be circumcised." — Genesis 17:10
 
@@ -62,4 +62,6 @@ The Abrahamic covenant is fundamentally unconditional. God swore by Himself — 
 
 Paul identifies Jesus as the ultimate "offspring" of Abraham through whom blessing comes to all nations (Galatians 3:16). All who believe in Christ — Jew and Gentile alike — are Abraham's children and heirs of the promise (Galatians 3:29).
 
-In Galatians 3, Paul makes a crucial argument: the Abrahamic covenant of promise preceded the Mosaic law by 430 years. The law, which came later, cannot annul the prior covenant of promise (Galatians 3:17). Salvation has always been by faith — Abraham "believed the LORD, and he counted it to him as righteousness" (Genesis 15:6). The law was a temporary guardian; the promise to Abraham is the enduring foundation. In Christ, the blessing of Abraham comes to the Gentiles, "so that we might receive the promised Spirit through faith" (Galatians 3:14).
+In Galatians 3, Paul makes a crucial argument: the Abrahamic covenant of promise preceded the [Mosaic](../mosaic/) law by 430 years. The law, which came later, cannot annul the prior covenant of promise (Galatians 3:17). Salvation has always been by [faith](../../salvation/faith/) — Abraham "believed the LORD, and he counted it to him as [righteousness](../../salvation/justification/)" (Genesis 15:6). The law was a temporary guardian; the promise to Abraham is the enduring foundation. In Christ, the blessing of Abraham comes to the Gentiles — fulfilling the [mission](../../the-church/mission-and-evangelism/) to "all the families of the earth" — "so that we might receive the promised [Spirit](../../holy-spirit/indwelling-and-sealing/) through faith" (Galatians 3:14).
+
+> "And if you are Christ's, then you are Abraham's offspring, heirs according to promise." — Galatians 3:29

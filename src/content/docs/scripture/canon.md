@@ -12,7 +12,7 @@ How do we know which books belong in the Bible? The word *kanōn* (κανών) �
 "rule, standard, measuring reed" — came to designate the collection of books
 recognized as divinely inspired Scripture. The canon is not a list the church
 invented but a reality the church discerned: God gave His Word, and His people
-recognized it.
+recognized it. For how this [authority](../authority/) and [inspiration](../inspiration-and-inerrancy/) function, see the companion articles.
 
 ## The Principle of Recognition
 
@@ -65,11 +65,11 @@ Hebrew canon: Tobit, Judith, Wisdom of Solomon, Sirach (Ecclesiasticus), Baruch,
 The status of these books has been a point of longstanding disagreement among
 Christians:
 
-- **Roman Catholics** (following the Council of Trent, 1546) regard them as
+- **Roman Catholics** (following the [Council of Trent](../../church-history-and-tradition/the-reformation/), 1546) regard them as
   deuterocanonical — fully inspired and authoritative, a "second canon" alongside
   the protocanonical books. The Catholic Old Testament thus contains 46 books
   (compared to the Protestant 39).
-- **Eastern Orthodox** churches generally accept most of these books as canonical,
+- **[Eastern Orthodox](../../church-history-and-tradition/eastern-christianity/)** churches generally accept most of these books as canonical,
   with some variation among national churches, and may include additional texts
   such as 3 Maccabees, Psalm 151, the Prayer of Manasseh, and 1 Esdras.
 - **Protestants** classify them as apocryphal — valuable for historical and
@@ -110,5 +110,7 @@ already received.
 The canon is ultimately a matter of God's providence. The same God who inspired
 the Scriptures also preserved them and guided His people to recognize them. The
 canon is not a fragile human construction but a pillar of God's sovereign care
-for His church — that she might have His Word, whole and complete, until Christ
-returns.
+for His Church — that she might have His Word, whole and complete, until Christ
+[returns](../../last-things/second-coming/).
+
+> "Heaven and earth will pass away, but my words will not pass away." — Matthew 24:35

@@ -59,7 +59,7 @@ Emperor Constantine's conversion transformed the church's relationship to politi
 The ecumenical councils defined orthodox Christian doctrine, and their decisions are accepted by Eastern Orthodox, Roman Catholic, and most Protestant traditions:
 
 ### First Council of Nicaea (325 AD)
-- Condemned **Arianism** — the teaching that the Son was a created being
+- Condemned **[Arianism](../../trinity/trinitarian-heresies/)** — the teaching that the Son was a created being
 - Affirmed that the Son is *homoousios* (ὁμοούσιος) — "of the same substance" or "of one being" — with the Father. This term was chosen against the Arian position that the Son was *heteroousios* (ἑτεροούσιος, "of different substance"). A mediating party proposed *homoiousios* (ὁμοιούσιος) — "of similar substance" — but Nicaea insisted on the stronger *homoousios*: a single iota (*ι*) marking the difference between full equality with the Father and mere resemblance.
 - Produced the original Nicene Creed
 
@@ -70,11 +70,11 @@ The ecumenical councils defined orthodox Christian doctrine, and their decisions
 
 ### Council of Ephesus (431 AD)
 - Condemned **Nestorianism** — the teaching that Christ was two separate persons
-- Affirmed Mary as *Theotokos* (Θεοτόκος) — "God-bearer" or "Mother of God" — a title affirming the unity of Christ's person, not Marian worship
+- Affirmed [Mary](../../the-church/mary-and-the-saints/) as *Theotokos* (Θεοτόκος) — "God-bearer" or "Mother of God" — a title affirming the unity of Christ's person, not Marian worship
 
 ### Council of Chalcedon (451 AD)
 - Condemned **Eutychianism** — the teaching that Christ's human nature was absorbed into His divine nature, leaving only one nature. (Note: the Oriental Orthodox churches, which rejected Chalcedon, prefer the term *miaphysite* — confessing "one united nature" — and reject the label *monophysite*, which they regard as Eutychian. Modern dialogue has shown that the disagreement may be more terminological than substantive.)
-- Produced the **Chalcedonian Definition**: Christ is one person in two natures — fully divine and fully human — "without confusion, without change, without division, without separation"
+- Produced the **Chalcedonian Definition**: Christ is one person in two natures — fully [divine](../../jesus-christ/deity/) and fully human in the [incarnation](../../jesus-christ/incarnation/) — "without confusion, without change, without division, without separation"
 - This definition remains the standard Christological formulation for most of Christianity
 
 ### Second Council of Constantinople (553 AD)
@@ -94,7 +94,7 @@ The ecumenical councils defined orthodox Christian doctrine, and their decisions
 
 - **Athanasius of Alexandria** (c. 296–373 AD) — the champion of Nicene orthodoxy who was exiled five times for defending the full divinity of Christ: "*Athanasius contra mundum*" — Athanasius against the world
 - **The Cappadocian Fathers** — Basil of Caesarea (c. 330–379), Gregory of Nazianzus (c. 329–390), and Gregory of Nyssa (c. 335–395) — clarified Trinitarian theology by distinguishing between *ousia* (οὐσία) — essence — and *hypostasis* (ὑπόστασις) — person
-- **Augustine of Hippo** (354–430 AD) — perhaps the most influential Western theologian, whose works on grace, the Trinity, the City of God, and original sin shaped both Catholic and Protestant thought
+- **Augustine of Hippo** (354–430 AD) — perhaps the most influential Western theologian, whose works on [grace](../../salvation/grace/), the [Trinity](../../trinity/one-god-three-persons/), the City of God, and original sin shaped both Catholic and Protestant thought
 - **John Chrysostom** (c. 347–407 AD) — "Golden Mouth," the greatest preacher of the early church, known for his expository sermons and his courage in rebuking imperial sin
 
 ## The East-West Schism (1054 AD)

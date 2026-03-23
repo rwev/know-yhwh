@@ -6,7 +6,7 @@ sidebar:
 
 > "When Abram was ninety-nine years old the LORD appeared to Abram and said to him, 'I am God Almighty; walk before me, and be blameless.'" — Genesis 17:1
 
-**El Shaddai** — traditionally translated "God Almighty" — is the name by which God revealed Himself to the patriarchs Abraham, Isaac, and Jacob before the fuller revelation of YHWH to Moses.
+**El Shaddai** — traditionally translated "God Almighty" — is the name by which God revealed Himself to the patriarchs Abraham, Isaac, and Jacob before the fuller revelation of [YHWH](../yhwh/) to Moses. The compound joins *El* (אֵל) — the basic Semitic word for God (cf. [Elohim](../elohim/)) — with *Shaddai*, creating a name that speaks of God's overwhelming power exercised in intimate, covenantal relationship.
 
 ## Meaning
 
@@ -28,9 +28,9 @@ The traditional rendering "Almighty" captures the cumulative force of these poss
 
 ## El Shaddai and the Patriarchs
 
-This name appears most frequently in the patriarchal narratives (Genesis) and in the book of Job. It is the name associated with God's covenant promises to Abraham — promises that seemed humanly impossible but were fulfilled by divine power.
+This name appears most frequently in the patriarchal narratives (Genesis) and in the book of Job. It is the name associated with God's [covenant](../../covenants/abrahamic/) promises to Abraham — promises that seemed humanly impossible but were fulfilled by divine power. God appeared as El Shaddai to Abram at age ninety-nine to announce that barren Sarah would bear a son (Genesis 17:1–21) — a promise so staggering that both Abraham and Sarah laughed (Genesis 17:17; 18:12). Isaac blessed Jacob by invoking "El Shaddai" for fruitfulness and multiplication (Genesis 28:3), and Jacob himself recalled that "El Shaddai appeared to me at Luz" and promised the land and descendants (Genesis 48:3). At every turn, El Shaddai is the God who does what nature cannot — who brings life from barrenness, fulfillment from impossibility, and abundance from emptiness.
 
-> "Is anything too hard for the LORD?" — Genesis 18:14
+> "Is anything too hard — *yipale* (יִפָּלֵא), 'too wonderful, too extraordinary' — for the LORD?" — Genesis 18:14
 
 ## From El Shaddai to YHWH
 
@@ -38,14 +38,16 @@ A pivotal transition occurs in Exodus 6:2-3:
 
 > "God spoke to Moses and said to him, 'I am the LORD. I appeared to Abraham, to Isaac, and to Jacob, as God Almighty, but by my name the LORD I did not make myself known to them.'" — Exodus 6:2-3
 
-This does not mean the patriarchs never heard the word YHWH, but that the *experiential fullness* of what YHWH means — the God who redeems, delivers, and dwells among His people — was only revealed through the Exodus. El Shaddai sustained the patriarchs through promise; YHWH would carry Israel through fulfillment.
+This does not mean the patriarchs never heard the word YHWH, but that the *experiential fullness* of what YHWH means — the God who redeems, delivers, and dwells among His people — was only revealed through the Exodus. El Shaddai sustained the patriarchs through promise; YHWH would carry Israel through fulfillment. The progression reveals God's pedagogy: He disclosed Himself gradually, matching the depth of revelation to the unfolding of His [covenantal](../../covenants/covenant-theology/) purposes in history.
 
 ## Shaddai in the Book of Job
 
-The name *Shaddai* appears 31 times in Job — far more than in any other book of the Bible. Job and his friends invoke God as Shaddai as they wrestle with the mystery of suffering under the hand of the Almighty. The name is fitting: when a man endures incomprehensible loss, the question becomes whether the God of overwhelming power is also the God of faithful love. Job's final vindication comes when Shaddai Himself speaks from the whirlwind (Job 38-41), and Job confesses, "I had heard of you by the hearing of the ear, but now my eye sees you" (Job 42:5).
+The name *Shaddai* appears 31 times in [Job](../../wisdom-literature/job/) — far more than in any other book of the Bible. Job and his friends invoke God as Shaddai as they wrestle with the mystery of [suffering](../../suffering-evil-and-theodicy/why-suffering-exists/) under the hand of the Almighty. The name is fitting: when a man endures incomprehensible loss, the question becomes whether the God of overwhelming power is also the God of faithful [love](../../gods-nature/love/). Job's final vindication comes when Shaddai Himself speaks from the whirlwind (Job 38–41), and Job confesses, "I had heard of you by the hearing of the ear, but now my eye sees you" (Job 42:5). The Almighty is not indifferent to suffering — He is [sovereign](../../gods-nature/sovereignty/) over it, and His purposes, though hidden, are never arbitrary.
 
 ## The Almighty in the Greek Bible
 
-The Septuagint (LXX) most often renders *Shaddai* as *pantokratōr* (παντοκράτωρ) — "the Almighty," literally "ruler of all." This is the title carried into the New Testament, where it appears nine times in the book of Revelation. The God who made impossible promises to aged Abraham is the same God who reigns from the throne of heaven:
+The Septuagint (LXX) most often renders *Shaddai* as *pantokratōr* (παντοκράτωρ) — "the Almighty," literally "ruler of all, holder of all power." This is the title carried into the New Testament, where it appears nine times in the book of Revelation — the book that most vividly portrays the cosmic scope of God's reign. The *pantokratōr* also became central to Orthodox iconography: the image of Christ Pantocrator — the Almighty enthroned — adorns the central dome of Byzantine churches, visually proclaiming that the God of Abraham's impossible promises now reigns from the throne of heaven over all creation.
+
+Paul echoes the patriarchal promise when he quotes Isaiah and applies the name to the Church's covenant God: "'I will be a father to you, and you shall be sons and daughters to me,' says the Lord *Pantokratōr*" (2 Corinthians 6:18). The God who brought life from Sarah's barren womb is the same God who raised Jesus from the dead (Romans 4:17–21) — and the same God who will bring His [new creation](../../last-things/new-creation/) to its consummation.
 
 > "Holy, holy, holy, is the Lord God Almighty, who was and is and is to come!" — Revelation 4:8

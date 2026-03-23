@@ -16,6 +16,9 @@ Jesus Christ is the central figure of all Scripture. The Old Testament points fo
 - [**Death & Resurrection**](./death-and-resurrection/) — The heart of the gospel
 - [**Prophet, Priest & King**](./prophet-priest-king/) — The threefold office of Christ
 - [**Ascension & Session**](./ascension-and-session/) — Christ enthroned at the right hand of the Father
+- [**Atonement Theories**](./atonement-theories/) — How the cross accomplishes salvation: ransom, satisfaction, substitution, and more
+- [**The Kingdom of God**](./kingdom-of-god/) — The central theme of Jesus' preaching: the reign of God inaugurated and coming
+- [**The Parables**](./parables/) — Jesus' distinctive teaching method: stories that reveal the kingdom
 
 ## Christ in All of Scripture
 

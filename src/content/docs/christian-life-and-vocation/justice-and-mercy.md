@@ -7,7 +7,7 @@ sidebar:
 > But let justice roll down like waters, and righteousness like an ever-flowing stream.
 > — Amos 5:24
 
-Throughout Scripture, God reveals Himself as both perfectly just and boundlessly merciful. He
+Throughout Scripture, God reveals Himself as both perfectly [just and boundlessly merciful](../../gods-nature/mercy-and-justice/). He
 calls His people to reflect both attributes — never one without the other.
 
 ## The Biblical Vocabulary of Justice
@@ -125,4 +125,6 @@ food to the hungry" (Psalm 146:7) expects His people to do the same.
 - Cultivate the habit of seeing and serving the vulnerable
 - Practice *chesed* — loyal, steadfast love — in every relationship
 - Engage honestly with both personal generosity and systemic concerns
-- Remember that all human justice points toward God's final setting-right of all things
+- Remember that all human justice points toward God's final setting-right of all things in the [new creation](../../last-things/new-creation/)
+
+> "He has told you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?" — Micah 6:8

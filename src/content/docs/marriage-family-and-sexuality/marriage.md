@@ -6,7 +6,7 @@ sidebar:
 
 > "Then the Lord God said, 'It is not good that the man should be alone; I will make him a helper fit for him.'" — Genesis 2:18
 
-Marriage is the first human institution, established by God before the fall, before the giving of the law, and before the founding of the Church. It is not a human invention but a divine gift — woven into the fabric of creation itself.
+Marriage is the first human institution, established by God before the [fall](../../creation-and-humanity/the-fall/), before the giving of the [law](../../covenants/mosaic/), and before the founding of the Church. It is not a human invention but a divine gift — woven into the fabric of creation itself.
 
 ## God's Design for Marriage
 
@@ -26,7 +26,7 @@ Scripture consistently describes marriage not as a mere contract (which can be r
 - **Self-giving love** — Each spouse pledges their whole life to the other. The Hebrew *ahavah* (אַהֲבָה) — "love" — as used in the Song of Solomon (8:6–7), describes a love "strong as death" that "many waters cannot quench," capturing the fierce, total devotion the covenant demands
 - **Permanence** — "What therefore God has joined together, let not man separate" (Matthew 19:6). The Greek *sunezeuzen* (συνέζευξεν) — "yoked together" — pictures God Himself binding husband and wife under a shared yoke, making the union His own act, not merely a human agreement
 
-The covenant structure of marriage reflects God's own covenant faithfulness to His people. Just as YHWH does not abandon Israel despite her unfaithfulness (Hosea 1–3), the marriage covenant calls spouses to *chesed* (חֶסֶד) — "steadfast love, covenant loyalty" — the very quality that defines YHWH's character (Exodus 34:6). *Chesed* is not a feeling that comes and goes; it is a deliberate, enduring commitment to love the other even when love is costly.
+The [covenant](../../covenants/covenant-theology/) structure of marriage reflects God's own covenant faithfulness to His people. Just as YHWH does not abandon Israel despite her unfaithfulness (Hosea 1–3), the marriage covenant calls spouses to *chesed* (חֶסֶד) — "steadfast love, covenant loyalty" — the very quality that defines YHWH's character (Exodus 34:6). *Chesed* is not a feeling that comes and goes; it is a deliberate, enduring commitment to love the other even when love is costly.
 
 ## Marriage as a Picture of Christ and the Church
 
@@ -50,7 +50,7 @@ Christians have understood the outworking of this in two main ways:
 - **Complementarian view** — Husbands and wives are equal in dignity and worth before God but have distinct, complementary roles. The husband is called to servant leadership (headship), and the wife is called to support and respect that leadership. Proponents emphasize that headship means sacrifice, not domination (Ephesians 5:25–28)
 - **Egalitarian view** — Mutual submission means that neither spouse holds authority over the other. The household codes reflect first-century cultural norms that the gospel progressively transforms toward full equality in role and function. Proponents emphasize Galatians 3:28 and the many examples of women exercising leadership in Scripture
 
-Both traditions affirm the equal dignity of men and women as image-bearers of God. Both reject any form of abuse or coercion in marriage. The disagreement concerns how headship and submission function within a relationship of equals.
+Both traditions affirm the equal dignity of men and women as [image-bearers](../../creation-and-humanity/image-of-god/) of God. Both reject any form of abuse or coercion in marriage. The disagreement concerns how headship and submission function within a relationship of equals.
 
 ## Divorce and Remarriage
 
@@ -72,4 +72,6 @@ The Bible does not treat singleness as a lesser state. Jesus Himself was unmarri
 - Single Christians share fully in the life of God's household and should be honored and included, not treated as incomplete
 - Both marriage and singleness are **temporary** — in the resurrection, "they neither marry nor are given in marriage" (Matthew 22:30). The ultimate union to which marriage points — Christ and His people — will be fully realized
 
-Whether married or single, every believer finds their deepest identity and belonging not in marital status but in union with Christ.
+Whether married or single, every believer finds their deepest identity and belonging not in marital status but in [union with Christ](../../spiritual-formation-and-mysticism/union-with-god/). Augustine taught that marriage is a *sacramentum* — a sacred sign — of the indissoluble bond between Christ and His [Church](../../the-church/body-of-christ/) (*De Bono Conjugali* 7.7), giving even the most ordinary human relationship an eternal significance.
+
+> "Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh." — Genesis 2:24

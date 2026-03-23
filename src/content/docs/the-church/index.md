@@ -29,6 +29,9 @@ The Church exists to worship God, build up believers in faith and love, and bear
 - [**Body of Christ**](./body-of-christ/) — The nature of the Church as the assembled people of God, the biblical images of the Body, and church leadership and polity
 - [**Sacraments & Ordinances**](./sacraments-and-ordinances/) — Baptism and the Lord's Supper as acts of obedience and means of grace, with the range of historic Christian views
 - [**Mission & Evangelism**](./mission-and-evangelism/) — The Great Commission, the Church's calling to proclaim the gospel, make disciples, and serve the world
+- [**Mary & the Saints**](./mary-and-the-saints/) — The role of Mary and the communion of saints across Catholic, Orthodox, and Protestant traditions
+- [**Marks of the Church**](./marks-of-the-church/) — One, holy, catholic, and apostolic: the four marks confessed in the Nicene Creed
+- [**Christian Unity**](./christian-unity/) — The biblical call to unity, the history of division, and the ecumenical movement
 
 ## The Church in God's Story
 

@@ -19,7 +19,7 @@ Scripture uses several names and titles for the chief adversary:
 
 ## Satan's Origin
 
-Satan is a created being, not an eternal counterpart to God. Christianity is not dualistic — there is no cosmic struggle between equal and opposite powers. God alone is sovereign and uncreated.
+Satan is a created being, not an eternal counterpart to God. Christianity is not dualistic — there is no cosmic struggle between equal and opposite powers. God alone is [sovereign](../../gods-nature/sovereignty/) and uncreated.
 
 Two Old Testament passages have traditionally been read as describing Satan's fall:
 
@@ -34,7 +34,7 @@ Scripture paints a consistent portrait of Satan's nature and methods:
 
 - **Liar** — He is *pseustes* (ψεύστης) — "a liar" — and the father of lies; there is no *aletheia* (ἀλήθεια, "truth") in him (John 8:44)
 - **Accuser** — He *stood at the right hand to accuse* — the Hebrew verb *satan* (שָׂטַן) is used as a verb in Zechariah 3:1: *lesitnoh* (לְשִׂטְנוֹ), "to accuse him" (Revelation 12:10)
-- **Tempter** — He is *ho peirazon* (ὁ πειράζων), literally "the one testing/trying"; he enticed Eve with *hishia'* (הִשִּׁיא, "deceived, beguiled," from *nasha'*, נשא) in the garden and tempted Christ in the wilderness (Genesis 3:1-5, Matthew 4:1-11)
+- **Tempter** — He is *ho peirazon* (ὁ πειράζων), literally "the one testing/trying"; he enticed Eve with *hishia'* (הִשִּׁיא, "deceived, beguiled," from *nasha'*, נשא) in the [garden](../../creation-and-humanity/the-fall/) and tempted Christ in the wilderness (Genesis 3:1–5; Matthew 4:1–11)
 - **Deceiver** — He *metaschematizes* (μετασχηματίζεται) — "disguises, transforms the outward appearance of" — himself as an *angelos photos* (ἄγγελος φωτός), "angel of light" (2 Corinthians 11:14)
 - **Murderer** — He was *anthropoktonos* (ἀνθρωποκτόνος) — "a man-killer, murderer" — *ap' arches* (ἀπ' ἀρχῆς), "from the beginning" (John 8:44)
 - **Ruler of this world** — He is *ho theos tou aionos toutou* (ὁ θεὸς τοῦ αἰῶνος τούτου) — "the god of this age" (2 Corinthians 4:4) — exercising a delegated, temporary authority over fallen creation (John 12:31, 1 John 5:19)
@@ -54,7 +54,7 @@ Jesus demonstrated absolute authority over demons. He cast them out with a word,
 
 ## Satan's Defeat at the Cross
 
-The New Testament proclaims that Christ's death and resurrection constitute Satan's decisive defeat:
+The New Testament proclaims that Christ's [death and resurrection](../../jesus-christ/death-and-resurrection/) constitute Satan's decisive defeat — the fulfillment of the [protoevangelium](../../creation-and-humanity/the-fall/) of Genesis 3:15, where God promised that the seed of the woman would crush the serpent's head. The [*Christus Victor*](../../jesus-christ/atonement-theories/) model of the atonement places this cosmic victory at the center of the cross's meaning:
 
 > He disarmed the rulers and authorities and put them to open shame,
 > by triumphing over them in him. — Colossians 2:15
@@ -77,4 +77,6 @@ Key truths about Satan's limitations:
 - He has been judged and his final doom is certain (Revelation 20:10)
 - Greater is He who is in believers than he who is in the world (1 John 4:4)
 
-The Christian need not live in fear of Satan. Sober vigilance, yes — but not terror. The enemy is real but defeated, active but restrained, dangerous but doomed.
+The Christian need not live in fear of Satan. Sober vigilance, yes — but not terror. The enemy is real but defeated, active but restrained, dangerous but doomed. For how believers engage this defeated but still-active enemy, see the article on [spiritual warfare](../spiritual-warfare/).
+
+> "Submit yourselves therefore to God. Resist the devil, and he will flee from you." — James 4:7

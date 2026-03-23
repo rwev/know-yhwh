@@ -6,7 +6,7 @@ sidebar:
 
 > "Your house and your kingdom shall be made sure forever before me. Your throne shall be established forever." — 2 Samuel 7:16
 
-The Davidic covenant is God's promise of an eternal dynasty, kingdom, and throne to David and his descendants. It advances the story of redemption from a people and a land to a king and a kingdom — the kingdom of God that will never end.
+The Davidic covenant is God's promise of an eternal dynasty, kingdom, and throne to David and his descendants. Building on the [Abrahamic](../abrahamic/) promise of a people and a land, and the [Mosaic](../mosaic/) covenant's call to holy nationhood, God now advances the story to a king and a [kingdom](../../jesus-christ/kingdom-of-god/) — the kingdom of God that will never end.
 
 ## The Promise (2 Samuel 7)
 
@@ -16,7 +16,7 @@ After David conquered Jerusalem and brought the ark of the covenant into the cit
 
 ## The Wordplay of *Bayit*
 
-The Hebrew word *bayit* (בַּיִת) — "house" — carries a rich double meaning that structures the entire passage. David wants to build God a *bayit* (a temple, a physical house). God responds that He will build David a *bayit* (a dynasty, a royal house). The wordplay is deliberate and theologically profound: David's ambition is good, but God's plan is greater. The temple of stone will eventually fall; the dynasty God establishes will endure forever. God is always the initiator, always the builder — even when His servant offers to serve Him.
+The Hebrew word *bayit* (בַּיִת) — "house" — carries a rich double meaning that structures the entire passage. David wants to build God a *bayit* (a [temple](../../typology-and-biblical-theology/temple-exile-kingdom/), a physical house). God responds that He will build David a *bayit* (a dynasty, a royal house). The wordplay is deliberate and theologically profound: David's ambition is good, but God's plan is greater. The temple of stone will eventually fall; the dynasty God establishes will endure forever. God is always the initiator, always the builder — even when His servant offers to serve Him.
 
 David's response to this oracle is a prayer of humble wonder: "Who am I, O Lord GOD, and what is my house, that you have brought me thus far?" (2 Samuel 7:18). The proper response to covenant grace is not pride but astonishment.
 
@@ -34,7 +34,7 @@ This pattern reveals something essential about how God's covenants work: His sov
 
 The prophets, writing during the decline and fall of the Davidic monarchy, looked forward to a coming king who would fulfill the covenant perfectly. Isaiah prophesied: "Of the increase of his government and of peace there will be no end, on the throne of David and over his kingdom, to establish it and to uphold it with justice and with righteousness from this time forth and forevermore" (Isaiah 9:7). Jeremiah promised: "I will raise up for David a righteous Branch, and he shall reign as king and deal wisely, and shall execute justice and righteousness in the land" (Jeremiah 23:5).
 
-These oracles kept the Davidic hope alive during the darkest chapters of Israel's history. The throne was empty, but the promise was not dead.
+These oracles kept the Davidic hope alive during the darkest chapters of Israel's history. The throne was empty, but the promise was not dead. Eusebius of Caesarea (c. 260–339) observed that the prophets' vision of a righteous Davidic ruler converged with the [messianic](../../prophecy/messianic/) expectation of a [suffering servant](../../jesus-christ/atonement-theories/) — two dimensions that seemed irreconcilable until Christ united them in a single person.
 
 ## Psalm 89 and the Tension of Exile
 
@@ -52,7 +52,7 @@ The New Testament opens with the declaration that Jesus is "the son of David" (M
 
 On the day of Pentecost, Peter proclaimed that David, "being therefore a prophet, and knowing that God had sworn with an oath to him that he would set one of his descendants on his throne," spoke of the resurrection of the Christ (Acts 2:30-31). Jesus is the Son whom God promised — the true and final King of the house of David.
 
-What God said to David — "I will be to him a father, and he shall be to me a son" (2 Samuel 7:14) — finds its ultimate realization not in Solomon, whose reign ended in idolatry, but in Jesus, the eternal Son of the Father. The genealogies of Matthew 1 and Luke 3 trace the legal and biological descent from David to Jesus, demonstrating that the covenant line was preserved through exile, poverty, and obscurity — until the fullness of time.
+What God said to David — "I will be to him a father, and he shall be to me a son" (2 Samuel 7:14) — finds its ultimate realization not in Solomon, whose reign ended in idolatry, but in Jesus, the eternal [Son](../../jesus-christ/deity/) of the Father. As [Prophet, Priest, and King](../../jesus-christ/prophet-priest-king/), Christ fulfills every office that Israel's leaders held only in part. The genealogies of Matthew 1 and Luke 3 trace the legal and biological descent from David to Jesus, demonstrating that the covenant line was preserved through exile, poverty, and obscurity — until the fullness of time.
 
 ## Already and Not Yet
 
@@ -64,4 +64,4 @@ The day is coming when His kingdom will be revealed in power:
 
 > "The kingdom of the world has become the kingdom of our Lord and of his Christ, and he shall reign forever and ever." — Revelation 11:15
 
-The throne that was promised to David will be visibly and eternally occupied by David's greater Son. What began as a promise to a shepherd-king in Jerusalem will culminate in the new Jerusalem, where the Lamb on the throne reigns over a redeemed creation forever.
+The throne that was promised to David will be visibly and eternally occupied by David's greater Son. What began as a promise to a shepherd-king in Jerusalem will culminate in the [new Jerusalem](../../last-things/new-creation/), where the Lamb on the throne reigns over a redeemed creation forever — the [new covenant](../new-covenant/) kingdom without end.

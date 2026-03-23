@@ -24,7 +24,7 @@ This is the same verb used when God "saw" the affliction of Israel in Egypt (Exo
 
 ## The Aqedah: Abraham and Isaac on Mount Moriah
 
-Genesis 22 recounts the supreme test of Abraham's faith. God commanded him to offer Isaac — the son of promise, the child of impossible laughter — as a burnt offering on a mountain in the land of Moriah.
+Genesis 22 recounts the supreme test of [Abraham's](../../covenants/abrahamic/) faith. God commanded him to offer Isaac — the son of promise, the child of impossible laughter born to [El Shaddai's](../el-shaddai/) power — as a burnt offering on a mountain in the land of Moriah.
 
 Abraham obeyed. He bound Isaac on the altar, took the knife, and raised his hand. At that moment, the angel of the LORD called from heaven:
 
@@ -38,7 +38,7 @@ The connection between Mount Moriah and later biblical history is profound. When
 
 > "Then Solomon began to build the house of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared to David his father." — 2 Chronicles 3:1
 
-The mountain where God provided a substitute for Abraham's son became the mountain where sacrifices for the sins of Israel would be offered for a thousand years. The place of provision became the place of atonement.
+The mountain where God provided a substitute for Abraham's son became the mountain where sacrifices for the sins of Israel would be offered for a thousand years in the [temple](../../typology-and-biblical-theology/temple-exile-kingdom/). The place of provision became the place of [atonement](../../jesus-christ/atonement-theories/).
 
 ## Typological Fulfillment: God Provides the Lamb
 
@@ -49,6 +49,6 @@ The story of Genesis 22 is saturated with typological significance that finds it
 - **The ram** was provided as a substitute, dying in Isaac's place — as Christ died as our substitute, "the Lamb of God, who takes away the sin of the world" (John 1:29).
 - Abraham said, "God will provide for himself the lamb" — and on that very mountain range, centuries later, God did exactly that.
 
-The provision on Moriah was a shadow; the cross is the substance. What Abraham glimpsed in hope, the apostles proclaimed as accomplished fact. The God who provided a ram for Abraham provided His own Son for the world.
+The provision on Moriah was a [shadow](../../typology-and-biblical-theology/types-and-shadows/); the [cross](../../jesus-christ/death-and-resurrection/) is the substance. What Abraham glimpsed in hope, the apostles proclaimed as accomplished fact. The God who provided a ram for Abraham provided His own Son for the world. As the Church Fathers recognized, the *Aqedah* is among the most powerful [messianic](../../prophecy/messianic/) foreshadowings in all of Scripture — Origen called Genesis 22 "the beginning of the gospel."
 
 > "He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things?" — Romans 8:32

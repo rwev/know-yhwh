@@ -29,13 +29,13 @@ New Testament calls these patterns *types* and their fulfillments *antitypes*.
 ## Key Typological Pairs
 
 ### Adam and Christ
-- Adam is the head of the old humanity; Christ is the head of the new (Romans 5:12--21)
+- [Adam](../../covenants/adamic/) is the head of the old humanity; Christ is the head of the new (Romans 5:12–21)
 - Where Adam's disobedience brought death, Christ's obedience brings life (1 Corinthians 15:22)
 - Adam was the first man from the earth; Christ is the last Adam, the life-giving Spirit
   (1 Corinthians 15:45--49)
 
-### The Passover and the Cross
-- The Passover lamb's blood delivered Israel from death in Egypt (Exodus 12:1--13)
+### The Passover and the [Cross](../../jesus-christ/death-and-resurrection/)
+- The Passover lamb's blood delivered Israel from death in Egypt (Exodus 12:1–13)
 - Christ is "our Passover lamb" who has been sacrificed (1 Corinthians 5:7)
 - As the lamb was without blemish, so Christ was without sin (1 Peter 1:19)
 
@@ -70,7 +70,7 @@ New Testament calls these patterns *types* and their fulfillments *antitypes*.
 
 ### David and Christ
 - David was the anointed king, a man after God's own heart (1 Samuel 13:14)
-- Christ is the Son of David, the eternal King on David's throne (Luke 1:32--33)
+- Christ is the Son of David, the eternal King on [David's throne](../../covenants/davidic/) (Luke 1:32–33)
 - David's suffering and deliverance in the Psalms prefigure Christ's passion and
   resurrection (Psalm 22; Acts 2:25--31)
 
@@ -84,7 +84,7 @@ Typology must be distinguished from allegory:
   unrelated to the text's original sense
 - Typology respects the literal, historical meaning of the Old Testament while recognizing
   a deeper Christological dimension intended by God
-- The Church Fathers generally affirmed typology while cautioning against uncontrolled allegory
+- The Church Fathers generally affirmed typology while cautioning against uncontrolled allegory. The Antiochene school (Theodore of Mopsuestia, John Chrysostom) emphasized the historical grounding of types, while the Alexandrian school (Origen, Clement) was more open to allegorical readings. The best patristic exegesis — exemplified by Irenaeus — held both together: real history, divinely patterned to point forward to Christ
 
 ## God's Intentional Design
 
@@ -95,8 +95,8 @@ in redemptive history:
 - The patterns are real because the same God who acted in the Exodus also acted at Calvary
 - The New Testament authors did not invent these connections --- they recognized what God
   had built into the fabric of salvation history
-- Typology reveals that the Old Testament is not merely background to the gospel but an
-  integral part of it
+- Typology reveals that the Old Testament is not merely background to the [gospel](../../salvation/gospel/) but an
+  integral part of it. For how the [messianic prophecies](../../prophecy/messianic/) and the [temple-exile-kingdom](../temple-exile-kingdom/) narrative develop these patterns, see the companion articles
 
 > "Beginning with Moses and all the Prophets, he interpreted to them in all the Scriptures
 > the things concerning himself."

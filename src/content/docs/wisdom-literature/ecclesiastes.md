@@ -67,4 +67,6 @@ This conclusion does not erase the tensions of the book. It **reframes** them. L
 
 ## Ecclesiastes and the Gospel
 
-Ecclesiastes prepares the ground for the gospel by demonstrating that life "under the sun" — without resurrection, without final justice, without the redemption of all things — is ultimately unbearable. The New Testament answers Qohelet's deepest longings: death is not the final word (1 Corinthians 15:54-57), toil is not in vain "in the Lord" (1 Corinthians 15:58), and God will indeed bring every hidden thing to light (Romans 2:16). The vapor becomes glory.
+Ecclesiastes prepares the ground for the [gospel](../../salvation/gospel/) by demonstrating that life "under the sun" — without [resurrection](../../last-things/resurrection-and-judgment/), without final [justice](../../gods-nature/mercy-and-justice/), without the [redemption of all things](../../last-things/new-creation/) — is ultimately unbearable. The New Testament answers Qohelet's deepest longings: [death](../../heaven-hell-and-the-afterlife/death-and-dying/) is not the final word (1 Corinthians 15:54–57), toil is not in vain "in the Lord" (1 Corinthians 15:58), and God will indeed bring every hidden thing to light (Romans 2:16). The vapor becomes glory.
+
+> "He has made everything beautiful in its time. Also, he has put eternity into man's heart, yet so that he cannot find out what God has done from the beginning to the end." — Ecclesiastes 3:11

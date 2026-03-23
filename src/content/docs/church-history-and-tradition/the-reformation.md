@@ -22,7 +22,7 @@ The Reformation did not emerge in a vacuum. For centuries, voices within the chu
 
 On October 31, 1517, Martin Luther (1483–1546), an Augustinian monk and professor at the University of Wittenberg, posted his *Ninety-Five Theses* challenging the sale of indulgences:
 
-- Luther's central theological breakthrough was the doctrine of **justification by faith alone** (*sola fide*) — that sinners are declared righteous before God not by their own works or merits but solely through faith in Jesus Christ. The Greek verb *dikaioō* (δικαιόω) means "to declare righteous" or "to acquit" — a legal (forensic) term. Luther's insight, drawn from Romans and Galatians, was that this declaration comes through *pistis* (πίστις, "faith" or "trust") in Christ, not through human effort.
+- Luther's central theological breakthrough was the doctrine of **[justification](../../salvation/justification/) by faith alone** (*sola fide*) — that sinners are declared righteous before God not by their own works or merits but solely through faith in Jesus Christ. The Greek verb *dikaioō* (δικαιόω) means "to declare righteous" or "to acquit" — a legal (forensic) term. Luther's insight, drawn from Romans and Galatians, was that this declaration comes through *pistis* (πίστις, "faith" or "trust") in Christ, not through human effort.
 - At the Diet of Worms (1521), Luther refused to recant, declaring (in words traditionally attributed to him): "Here I stand; I can do no other. God help me." While the earliest records confirm Luther's refusal, these exact words may be a later embellishment — though they faithfully capture his resolve.
 - Luther translated the Bible into German, making Scripture accessible to ordinary people
 - He reformed worship by introducing congregational hymn singing and preaching in the vernacular
@@ -32,9 +32,9 @@ On October 31, 1517, Martin Luther (1483–1546), an Augustinian monk and profes
 
 The Reformation is often summarized by five Latin phrases, known as the five *solas*:
 
-- ***Sola Scriptura*** — Scripture alone is the ultimate authority for faith and practice
-- ***Sola Fide*** — justification is by faith alone, not by works
-- ***Sola Gratia*** — salvation is by grace alone, not by human merit
+- ***Sola Scriptura*** — [Scripture](../../scripture/authority/) alone is the ultimate authority for faith and practice
+- ***Sola Fide*** — justification is by [faith](../../salvation/faith/) alone, not by works
+- ***Sola Gratia*** — salvation is by [grace](../../salvation/grace/) alone, not by human merit
 - ***Solus Christus*** — Christ alone is the mediator between God and humanity
 - ***Soli Deo Gloria*** — all glory belongs to God alone
 
@@ -45,7 +45,7 @@ These principles were not intended as a rejection of tradition altogether, but a
 The Reformation spread rapidly beyond Germany:
 
 - **Ulrich Zwingli** (1484–1531) — led reform in Zurich, emphasizing the authority of Scripture and simplifying worship. He differed from Luther on the Lord's Supper, viewing it as a memorial rather than a means of grace.
-- **John Calvin** (1509–1564) — the most systematic theologian of the Reformation, whose *Institutes of the Christian Religion* became the definitive Reformed theological textbook. Calvin emphasized the sovereignty of God, the authority of Scripture, and the doctrine of predestination. He established a model of church governance in Geneva that influenced Presbyterianism worldwide.
+- **John Calvin** (1509–1564) — the most systematic theologian of the Reformation, whose *Institutes of the Christian Religion* became the definitive Reformed theological textbook. Calvin emphasized the [sovereignty](../../gods-nature/sovereignty/) of God, the authority of Scripture, and the doctrine of [predestination](../../salvation/predestination-and-election/). He established a model of church governance in Geneva that influenced Presbyterianism worldwide.
 - **John Knox** (c. 1514–1572) — brought Reformed theology to Scotland, founding the Presbyterian Church of Scotland. His fiery preaching and conviction shaped Scottish national identity.
 
 ## The Radical Reformation
@@ -69,7 +69,7 @@ The Reformation in England followed a distinctive path:
 
 The Roman Catholic Church responded to the Reformation with its own movement of reform and renewal:
 
-- **The Council of Trent** (1545–1563) — reaffirmed Catholic doctrines on justification, the sacraments, Scripture and tradition, and the authority of the pope. It rejected the Protestant *solas* while also addressing genuine abuses within the church.
+- **The Council of Trent** (1545–1563) — reaffirmed Catholic doctrines on justification, the [sacraments](../../the-church/sacraments-and-ordinances/), Scripture and tradition, and the authority of the pope. It rejected the Protestant *solas* while also addressing genuine abuses within the church.
 - **The Society of Jesus (Jesuits)** — founded by Ignatius of Loyola in 1540, the Jesuits became the leading force of Catholic renewal, education, and global missions
 - **Reforms in practice** — the Council of Trent addressed clerical abuses, established seminaries for the training of priests, and clarified Catholic doctrine in ways that remain authoritative for the Roman Catholic Church today
 

@@ -22,7 +22,7 @@ The parable of the talents (Matthew 25:14–30) and the parable of the shrewd ma
 
 ## The Goodness of Creation and Work
 
-The Bible does not teach that material things are evil. God created the physical world and called it "very good" — *tov meod* (טוֹב מְאֹד) (Genesis 1:31). Work is part of God's original design, not a consequence of the fall (Genesis 2:15). Honest labor, fair wages, and the enjoyment of one's work are affirmed throughout Scripture (Ecclesiastes 2:24; 3:13; 5:18–19; Proverbs 14:23; 2 Thessalonians 3:10).
+The Bible does not teach that material things are evil. God created the physical world and called it "very good" — *tov meod* (טוֹב מְאֹד) (Genesis 1:31). [Work](../work-and-stewardship/) is part of God's original design, not a consequence of the [fall](../../creation-and-humanity/the-fall/) (Genesis 2:15). Honest labor, fair wages, and the enjoyment of one's work are affirmed throughout Scripture (Ecclesiastes 2:24; 3:13; 5:18–19; Proverbs 14:23; 2 Thessalonians 3:10).
 
 The Reformers insisted that all legitimate work is a divine calling (*vocatio*). The farmer, the merchant, the craftsman, and the scholar all serve God through their labor. Wealth acquired through honest work, received with gratitude, and held with an open hand is a blessing, not a curse.
 
@@ -45,7 +45,7 @@ The Bible's concern for the poor is not incidental but central. God identifies H
 - "He raises the poor from the dust and lifts the needy from the ash heap" (Psalm 113:7)
 - "Whoever oppresses a poor man insults his Maker, but he who is generous to the needy honors him" (Proverbs 14:31)
 
-The Mosaic law contained extensive provisions for the poor: the gleaning laws (Leviticus 19:9–10; Ruth 2), the prohibition against charging interest to the poor (Exodus 22:25), the sabbatical year cancellation of debts (Deuteronomy 15:1–2), and the Jubilee — the fiftieth-year restoration of land to its original owners (Leviticus 25:10). The Jubilee was a radical check on the accumulation of wealth and a declaration that the land ultimately belongs to God, not to any human owner.
+The Mosaic law contained extensive provisions for the poor: the gleaning laws (Leviticus 19:9–10; Ruth 2), the prohibition against charging interest to the poor (Exodus 22:25), the sabbatical year cancellation of debts (Deuteronomy 15:1–2), and the Jubilee — the fiftieth-year restoration of land to its original owners (Leviticus 25:10). The Jubilee was a radical check on the accumulation of wealth — connected to the [Sabbath](../../the-law-and-ethics/sabbath-and-lords-day/) principle of rest and release — and a declaration that the land ultimately belongs to God, not to any human owner.
 
 ## Jesus and Possessions
 
@@ -63,6 +63,6 @@ Paul's principle of generosity is grounded in equality — *isotēs* (ἰσότ�
 
 The Bible frames generosity not as a burden but as an act of worship and joy. The cheerful giver is the one God loves (2 Corinthians 9:7). The Philippians' financial gift to Paul is called "a fragrant offering, a sacrifice acceptable and pleasing to God" (Philippians 4:18). To give generously is to participate in the generosity of God Himself, who "gives to all liberally and without reproach" (James 1:5).
 
-The practice of tithing — giving a tenth — has roots in Abraham's offering to Melchizedek (Genesis 14:20) and the Mosaic law (Leviticus 27:30; Malachi 3:10). Christians differ on whether tithing is a binding obligation or a helpful guideline, but all traditions agree that generous, sacrificial giving is a mark of genuine faith and a response to the overwhelming generosity of God in Christ.
+The practice of tithing — giving a tenth — has roots in Abraham's offering to Melchizedek (Genesis 14:20) and the Mosaic law (Leviticus 27:30; Malachi 3:10). Christians differ on whether tithing is a binding obligation or a helpful guideline, but all traditions agree that generous, sacrificial giving is a mark of genuine [faith](../../salvation/faith/) and a response to the overwhelming generosity of God's [grace](../../salvation/grace/) in Christ.
 
 > "For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich." — 2 Corinthians 8:9

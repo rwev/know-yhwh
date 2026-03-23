@@ -6,13 +6,13 @@ sidebar:
 
 > "But Peter said, 'Ananias, why has Satan filled your heart to lie to the Holy Spirit? ... You have not lied to man but to God.'" — Acts 5:3–4
 
-The Holy Spirit is a divine person, not merely a power or influence. Scripture attributes to Him personal qualities — mind, will, and emotions — and identifies Him explicitly as God.
+The Holy Spirit is a divine person, not merely a power or influence. Scripture attributes to Him personal qualities — mind, will, and emotions — and identifies Him explicitly as God. The [Nicene-Constantinopolitan Creed](../../church-history-and-tradition/creeds-and-confessions/) (381) confessed the Spirit as "the Lord, the Giver of Life" — *to kyrion, to zōopoion* (τὸ κύριον, τὸ ζωοποιόν) — language crafted by the Cappadocian Fathers (Basil of Caesarea, Gregory of Nazianzus, Gregory of Nyssa) to affirm the Spirit's full deity against the *Pneumatomachians* — "Spirit-fighters" — who denied it.
 
 ## The Spirit in the Old Testament
 
 The Hebrew word *ruach* (רוּחַ) means "wind," "breath," or "spirit." It conveys the invisible, powerful movement of God in the world. The Greek equivalent *pneuma* (πνεῦμα) carries the same range of meaning — breath, wind, spirit.
 
-From the very first verses of Scripture, the Spirit is present and active: "The Spirit of God was hovering over the face of the waters" (Genesis 1:2). The verb *merachefet* (מְרַחֶפֶת) — "hovering" — pictures a bird brooding over its nest, suggesting both intimate care and creative power.
+From the very first verses of Scripture, the Spirit is present and active in [creation](../../creation-and-humanity/creation/): "The Spirit of God was hovering over the face of the waters" (Genesis 1:2). The verb *merachefet* (מְרַחֶפֶת) — "hovering" — pictures a bird brooding over its nest, suggesting both intimate care and creative power.
 
 In the period of the judges, the Spirit would "rush upon" individuals for specific tasks — empowering Othniel for battle (Judges 3:10), Gideon for leadership (Judges 6:34), and Samson for feats of strength (Judges 14:6). The Spirit came upon kings: Saul prophesied when the Spirit rushed upon him (1 Samuel 10:10), and "the Spirit of the LORD rushed upon David from that day forward" (1 Samuel 16:13).
 
@@ -30,7 +30,7 @@ The prophets spoke by the Spirit. Ezekiel was carried by the Spirit into the val
 
 - Called "God" directly (Acts 5:3–4)
 - Possesses divine attributes: omnipresence (Psalm 139:7), omniscience (1 Corinthians 2:10–11)
-- Involved in creation (Genesis 1:2), the incarnation (Luke 1:35), and resurrection (Romans 8:11)
+- Involved in [creation](../../creation-and-humanity/creation/) (Genesis 1:2), the [incarnation](../../jesus-christ/incarnation/) (Luke 1:35), and resurrection (Romans 8:11)
 
 ## The Paraklētos — Advocate, Helper, Comforter
 
@@ -51,10 +51,12 @@ Paul affirms that "all Scripture is breathed out by God" (2 Timothy 3:16). The w
 
 ## The Filioque Controversy
 
-The Nicene-Constantinopolitan Creed (381 AD) originally stated that the Spirit "proceeds from the Father." In the Western church, the Latin word *Filioque* ("and the Son") was later added, so that the creed read "proceeds from the Father and the Son." This addition became one of the central theological disputes between the Eastern Orthodox and Roman Catholic churches, contributing to the Great Schism of 1054.
+The [Nicene-Constantinopolitan Creed](../../church-history-and-tradition/early-church-and-councils/) (381) originally stated that the Spirit "proceeds from the Father" (John 15:26). In the Western church, the Latin word *Filioque* ("and the Son") was later added, so that the creed read "proceeds from the Father and the Son." This addition became one of the central theological disputes between the Eastern Orthodox and Roman Catholic churches, contributing to the Great Schism of 1054.
 
-The **Eastern position** holds that the Father alone is the single source (*monarchia*) of both the Son and the Spirit. The Spirit proceeds from the Father through the Son, but the Father alone is the ultimate origin within the Trinity.
+The **Eastern position** holds that the Father alone is the single source — *monarchia* (μοναρχία) — "sole principle, single origin" — of both the Son and the Spirit. The Spirit proceeds from the Father through the Son, but the Father alone is the ultimate origin within the [Trinity](../../trinity/one-god-three-persons/).
 
 The **Western position** holds that the Spirit proceeds from both the Father and the Son, grounded in passages where the Spirit is called "the Spirit of Christ" (Romans 8:9) and where the Son sends the Spirit (John 15:26, 16:7).
 
-Both traditions affirm the full deity and personhood of the Spirit. The disagreement concerns the eternal relations of origin within the Godhead — a mystery that presses the limits of human language.
+Both traditions affirm the full deity and personhood of the Spirit. The disagreement concerns the eternal relations of origin within the Godhead — a mystery that presses the limits of human language. What is never in dispute is the Spirit's work: He [regenerates](../../salvation/regeneration/), [sanctifies](../../sanctification-and-discipleship/sanctification/), [illuminates](../gifts/), and draws believers into ever-deeper [union with God](../../spiritual-formation-and-mysticism/union-with-god/).
+
+> "Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom." — 2 Corinthians 3:17

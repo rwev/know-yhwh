@@ -8,7 +8,7 @@ sidebar:
 
 ## Biblical Foundations
 
-The Scriptures are rich with examples of sustained, attentive communion with God that goes beyond petition and intercession:
+The Scriptures are rich with examples of sustained, attentive communion with God that goes beyond petition and intercession. For a broader treatment of [prayer](../../prayer-and-worship/prayer/), see the companion article. Contemplative prayer represents the deepest dimension of the [spiritual disciplines](../../sanctification-and-discipleship/spiritual-disciplines/):
 
 - **Jesus** regularly withdrew to solitary places to pray (Luke 5:16), spent entire nights in prayer (Luke 6:12), and taught his disciples to seek the Father in hiddenness (Matthew 6:6)
 - **Moses** spoke with God "face to face, as a man speaks to his friend" (Exodus 33:11) and spent forty days on Sinai in the divine presence
@@ -26,7 +26,7 @@ Key elements of the hesychast way include:
 - **Stillness of heart**: resting in God's presence with loving attention
 - **Watchfulness** (*nepsis*, νῆψις): a sober vigilance over one's inner life. The verb *nepho* (νήφω) literally means "to be sober, free from intoxication," and in the spiritual sense denotes a clear-eyed alertness of the heart (cf. 1 Thessalonians 5:6; 1 Peter 5:8)
 
-The great defender of hesychasm, Gregory Palamas (1296–1359), taught that through contemplative prayer believers could experience the uncreated divine energies — the same light that shone on Mount Tabor at Christ's Transfiguration.
+The great defender of hesychasm, Gregory Palamas (1296–1359), taught that through contemplative prayer believers could experience the uncreated divine energies — the same light that shone on Mount Tabor at Christ's Transfiguration. This tradition is integral to the [Eastern Orthodox](../../church-history-and-tradition/eastern-christianity/) understanding of [theosis](../theosis/) — [union with God](../union-with-god/) through the Spirit's transforming work.
 
 ## Lectio Divina — Sacred Reading
 

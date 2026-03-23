@@ -21,7 +21,7 @@ Jesus told the Samaritan woman that true worship is "in spirit and truth" (John 
 - **In spirit** — from the heart, empowered by the Holy Spirit, not mere external ritual
 - **In truth** — according to God's revealed Word, not human invention or imagination
 
-This declaration marked a turning point: worship would no longer be confined to a mountain or a temple but offered wherever God's people gather in Spirit-filled, truth-governed devotion. The ground of this new worship is the finished work of Christ, who has opened "a new and living way" into the presence of God (Hebrews 10:19–22).
+This declaration marked a turning point: worship would no longer be confined to a mountain or a temple but offered wherever God's people gather in Spirit-filled, truth-governed devotion. The ground of this new worship is the finished work of Christ, who has opened "a new and living way" into the presence of God (Hebrews 10:19–22). As the [Eastern tradition](../../church-history-and-tradition/eastern-christianity/) expresses it: *lex orandi, lex credendi* — "the law of prayer is the law of belief" — what the Church worships shapes what the Church believes, and what it believes shapes how it worships.
 
 ## All of Life as Worship
 
@@ -31,8 +31,8 @@ Paul calls believers to present their bodies as "a living sacrifice, holy and ac
 
 The worship of Israel was rich, embodied, and God-ordained:
 
-- **The Tabernacle** — God's portable dwelling among His people in the wilderness, designed in every detail according to the heavenly pattern (Exodus 25:9, Hebrews 8:5)
-- **The Temple** — Solomon's permanent house for the LORD, where the glory cloud filled the sanctuary (1 Kings 8:10–11)
+- **The [Tabernacle](../../typology-and-biblical-theology/temple-exile-kingdom/)** — God's portable dwelling among His people in the wilderness, designed in every detail according to the heavenly pattern (Exodus 25:9; Hebrews 8:5)
+- **The Temple** — Solomon's permanent house for [YHWH](../../names-of-god/yhwh/), where the glory cloud filled the sanctuary (1 Kings 8:10–11)
 - **The Sacrificial System** — burnt offerings, grain offerings, peace offerings, sin offerings, and guilt offerings, all pointing forward to the once-for-all sacrifice of Christ (Hebrews 10:1–14)
 - **The Festivals** — Passover, Pentecost, Tabernacles, and others, marking God's mighty acts of redemption in the rhythm of the year (Leviticus 23)
 
@@ -40,9 +40,9 @@ The worship of Israel was rich, embodied, and God-ordained:
 
 The gathered church worships through:
 - **Preaching and reading of Scripture** — hearing God's Word
-- **Singing** — psalms, hymns, and spiritual songs (Colossians 3:16)
-- **Prayer** — corporate petition and thanksgiving
-- **Sacraments** — baptism and the Lord's Supper
+- **Singing** — [psalms, hymns, and spiritual songs](../psalms-and-hymns/) (Colossians 3:16)
+- **[Prayer](../prayer/)** — corporate petition and thanksgiving
+- **[Sacraments](../../the-church/sacraments-and-ordinances/)** — baptism and the Lord's Supper
 - **Fellowship** — mutual encouragement and edification
 
 ## The Regulative and Normative Principles
@@ -70,4 +70,4 @@ In the New Testament, idolatry extends beyond carved images to anything that usu
 
 > "After this I looked, and behold, a great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne and before the Lamb." — Revelation 7:9
 
-The final vision of Scripture is a vision of worship. Every knee will bow and every tongue confess that Jesus Christ is Lord (Philippians 2:10–11). The worship of the church on earth is a foretaste of the eternal worship of heaven — imperfect now, but one day made perfect in the unmediated presence of God.
+The final vision of Scripture is a vision of worship. Every knee will bow and every tongue confess that Jesus Christ is [Lord](../../names-of-god/adonai/) (Philippians 2:10–11). The worship of the Church on earth is a foretaste of the eternal worship of heaven — imperfect now, but one day made perfect in the unmediated presence of God in the [new creation](../../last-things/new-creation/). As John Chrysostom taught, the earthly liturgy is a participation in the heavenly: when the Church gathers to worship, it joins the angels and saints who ceaselessly cry "[Holy, holy, holy](../../gods-nature/holiness/)" before the throne (Isaiah 6:3; Revelation 4:8).

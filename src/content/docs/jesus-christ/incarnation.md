@@ -18,8 +18,8 @@ The incarnation does not mean:
 - A man became God (Jesus did not start as merely human)
 - Two persons inhabited one body (He is one person with two natures)
 
-Rather, the second person of the Trinity assumed a human nature — body and soul —
-into personal union with Himself.
+Rather, the second person of the [Trinity](../../trinity/one-god-three-persons/) assumed a human nature — body and soul —
+into personal union with Himself. As Athanasius declared in *De Incarnatione*, "The Word was not degraded by receiving a body... He deified what He put on" (54.3) — the incarnation elevates humanity without diminishing divinity.
 
 ## The Virgin Birth
 
@@ -66,7 +66,7 @@ declaring that Christ's two natures exist in one person:
 
 These four fences guard the mystery from every direction.
 The Chalcedonian Definition remains the standard of orthodox Christology
-across Catholic, Orthodox, and Protestant traditions.
+across Catholic, Orthodox, and Protestant traditions. For the [historical development](../../church-history-and-tradition/creeds-and-confessions/) of this formula and the [heresies](../../trinity/trinitarian-heresies/) it was designed to exclude, see the companion articles.
 
 ## The Kenosis
 
@@ -91,9 +91,9 @@ and grew in wisdom and stature (Luke 2:52).
 
 The incarnation was necessary for salvation:
 
-1. **Only God can save** — no creature can bear the infinite weight of divine wrath
-2. **Only a man can represent humanity** — our substitute had to be one of us (Hebrews 2:14–17)
-3. **Only the God-man unites us to God** — Christ is the mediator between God and man (1 Timothy 2:5)
+1. **Only God can save** — no creature can bear the infinite weight of divine wrath (cf. [atonement](../atonement-theories/))
+2. **Only a man can represent humanity** — our substitute had to be one of us (Hebrews 2:14–17; cf. the [Adamic](../../covenants/adamic/) federal headship)
+3. **Only the God-man unites us to God** — Christ is the mediator between God and man (1 Timothy 2:5), the bridge between [Creator](../../creation-and-humanity/creation/) and creature
 
 If Christ were not truly God, His sacrifice would be insufficient —
 a finite being cannot atone for infinite offense.
@@ -101,7 +101,7 @@ If He were not truly man, His sacrifice would be irrelevant —
 He could not stand in our place.
 If the two natures were confused or separated, the mediatorial work would collapse.
 
-The whole of salvation hangs on the truth that Jesus Christ is one person in two natures,
-fully God and fully man, now and forever.
+The whole of [salvation](../../salvation/gospel/) hangs on the truth that Jesus Christ is one person in two natures,
+fully God and fully man, now and forever. The incarnation is not merely a past event but an enduring reality: the risen and [ascended](../ascension-and-session/) Christ retains His human nature for all eternity, guaranteeing that humanity has a permanent representative at the Father's right hand (Hebrews 7:25) and that the [image of God](../../creation-and-humanity/image-of-god/) will be brought to its fullest expression in the [new creation](../../last-things/new-creation/).
 
 > "For there is one God, and there is one mediator between God and men, the man Christ Jesus." — 1 Timothy 2:5

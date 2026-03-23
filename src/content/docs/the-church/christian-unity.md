@@ -6,7 +6,7 @@ sidebar:
 
 > "I do not ask for these only, but also for those who will believe in me through their word, that they may all be one, just as you, Father, are in me, and I in you, that they also may be in us, so that the world may believe that you have sent me." — John 17:20–21
 
-The unity of the Church is not optional. It is rooted in the prayer of Christ Himself, grounded in the nature of the Triune God, and essential to the Church's witness before the world. Yet the visible Church is divided — fractured by centuries of theological dispute, cultural alienation, political entanglement, and human sin. The pursuit of Christian unity is therefore both a gift to be received and a task to be undertaken with urgency, humility, and hope.
+The unity of the Church is not optional. It is rooted in the prayer of Christ Himself, grounded in the nature of the [Triune God](../../trinity/one-god-three-persons/), and essential to the Church's [witness](../mission-and-evangelism/) before the world. Yet the visible Church is divided — fractured by centuries of theological dispute, cultural alienation, political entanglement, and human sin. The pursuit of Christian unity is therefore both a gift to be received and a task to be undertaken with urgency, humility, and hope.
 
 ## The Biblical Foundation
 
@@ -17,15 +17,15 @@ The New Testament speaks of the Church's unity with extraordinary force:
 - "By this all people will know that you are my disciples, if you have love for one another" (John 13:35)
 - "I appeal to you, brothers, by the name of our Lord Jesus Christ, that all of you agree, and that there be no divisions among you" (1 Corinthians 1:10)
 
-Paul's letters repeatedly address divisions within the early Church — between Jew and Gentile, rich and poor, followers of different leaders — and in every case the apostolic response is the same: such division is intolerable in the body of Christ. The cross has broken down "the dividing wall of hostility" (Ephesians 2:14), creating from two one new humanity. To persist in division is to deny the reconciling power of the gospel.
+Paul's letters repeatedly address divisions within the early Church — between Jew and Gentile, rich and poor, followers of different leaders — and in every case the apostolic response is the same: such division is intolerable in the body of Christ. The [cross](../../jesus-christ/death-and-resurrection/) has broken down "the dividing wall of hostility" (Ephesians 2:14), creating from two one new humanity. To persist in division is to deny the reconciling power of the gospel.
 
 ## The History of Division
 
 The Church's visible unity was fractured in stages:
 
 1. **The Chalcedonian split (451 AD)** — The Oriental Orthodox churches separated over Christological language, though modern dialogue has revealed substantial theological agreement beneath the verbal differences.
-2. **The Great Schism (1054 AD)** — The Latin West and the Greek East divided over papal authority, the *filioque*, and accumulated cultural estrangement. This remains the deepest institutional rift in Christendom.
-3. **The Reformation (16th century)** — The Protestant movement produced multiple new church bodies — Lutheran, Reformed, Anabaptist, Anglican — each organized around distinctive theological emphases. Subsequent centuries multiplied the divisions into thousands of denominations.
+2. **The [Great Schism](../../church-history-and-tradition/medieval-church/) (1054)** — The Latin West and the Greek East divided over papal authority, the *filioque*, and accumulated cultural estrangement. This remains the deepest institutional rift in Christendom.
+3. **The [Reformation](../../church-history-and-tradition/the-reformation/) (16th century)** — The Protestant movement produced multiple new church bodies — Lutheran, Reformed, Anabaptist, Anglican — each organized around distinctive theological emphases. Subsequent centuries multiplied the divisions into thousands of denominations.
 
 Each division had genuine theological substance, but each was also entangled with political power, cultural pride, and personal failings. Honest reckoning with the history of division requires both theological seriousness (the issues were real) and penitence (the manner of separation was often sinful).
 
@@ -61,7 +61,7 @@ Beneath the divisions, an enormous body of shared belief unites all who confess 
 - The call to love God and neighbor
 - Baptism and the Lord's Supper as commanded by Christ
 
-This shared inheritance is vastly greater than what divides. The Nicene Creed — confessed by Catholic, Orthodox, and most Protestant churches — represents the broadest consensus of Christian doctrine across time and space.
+This shared inheritance is vastly greater than what divides. The [Nicene Creed](../../church-history-and-tradition/creeds-and-confessions/) — confessed by Catholic, Orthodox, and most Protestant churches — represents the broadest consensus of Christian doctrine across time and space. As Irenaeus insisted in the second century, the Church scattered across the world holds "one and the same faith" received from the apostles — a faith recognizable in its essential contours from Rome to Alexandria to Antioch (*Against Heresies* I.10.1).
 
 ## The Limits of Unity
 

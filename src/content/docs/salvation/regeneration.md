@@ -6,13 +6,13 @@ sidebar:
 
 > "Jesus answered him, 'Truly, truly, I say to you, unless one is born again, he cannot see the kingdom of God.'" — John 3:3
 
-Regeneration is the sovereign act of God by which He imparts new spiritual life to a person who was dead in sin. It is the divine side of what we experience as conversion — the moment when the Holy Spirit transforms the heart, making a sinner alive to God and capable of faith and repentance. Without regeneration, no one can see, enter, or desire the kingdom of God.
+Regeneration is the sovereign act of God by which He imparts new spiritual life to a person who was dead in sin. It is the divine side of what we experience as conversion — the moment when the [Holy Spirit](../../holy-spirit/person-of-the-spirit/) transforms the heart, making a sinner alive to God and capable of faith and repentance. Without regeneration, no one can see, enter, or desire the [kingdom of God](../../jesus-christ/kingdom-of-god/).
 
 ## The Language of New Birth
 
 The Greek word *palingenesia* (παλιγγενεσία) — "regeneration, new birth" — appears twice in the New Testament: in Matthew 19:28 (referring to the cosmic renewal at Christ's return) and in Titus 3:5 ("He saved us... by the washing of regeneration and renewal of the Holy Spirit"). The more common expression is Jesus' own phrase in John 3: *gennēthē anōthen* (γεννηθῇ ἄνωθεν) — which carries a deliberate ambiguity, meaning both "born again" and "born from above." Nicodemus heard "born again" and was confused; Jesus meant "born from above" — a birth that originates not in human will but in the sovereign work of the Spirit.
 
-The Old Testament anticipates regeneration through the language of new hearts and new spirits. Through Ezekiel, God promises: "I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh" (Ezekiel 36:26). Jeremiah prophesies a new covenant in which God's law is written not on tablets of stone but on the heart (Jeremiah 31:33). These promises find their fulfillment in the new birth that Jesus describes to Nicodemus.
+The Old Testament anticipates regeneration through the language of new hearts and new spirits. Through Ezekiel, God promises: "I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh" (Ezekiel 36:26). Jeremiah prophesies a new covenant in which God's law is written not on tablets of stone but on the heart (Jeremiah 31:33). These promises find their fulfillment in the [new covenant](../../covenants/new-covenant/) new birth that Jesus describes to Nicodemus.
 
 ## The Nature of Regeneration
 
@@ -44,17 +44,17 @@ One of the most discussed questions in theology is the relationship between rege
 
 - **The Catholic and Orthodox view** closely ties regeneration to the sacrament of baptism. The Council of Trent taught that baptism is the "instrumental cause" of justification, and the new birth is effected through the baptismal rite (cf. Titus 3:5; John 3:5 — "born of water and the Spirit"). The Orthodox speak of baptism as the mystery (*mysterion*, μυστήριον) of new birth and illumination (*phōtismos*, φωτισμός). Both traditions emphasize the sacramental and ecclesial character of regeneration while also affirming the necessity of personal faith.
 
-All traditions agree on the essential point: new life comes from God, not from human effort. Whether regeneration is understood as logically prior to faith, simultaneous with faith, or effected through the sacrament of baptism, the source is always the sovereign grace of God working through the Holy Spirit.
+All traditions agree on the essential point: new life comes from God, not from human effort. Whether regeneration is understood as logically prior to faith, simultaneous with faith, or effected through the [sacrament of baptism](../../the-church/sacraments-and-ordinances/), the source is always the sovereign [grace](../grace/) of God working through the Holy Spirit. As Augustine insisted in his anti-Pelagian writings, the will itself must be healed before it can choose rightly — "[grace](../grace/) does not find a willing person but makes one willing" (*De Gratia et Libero Arbitrio* 17.33). For a fuller treatment of how regeneration fits within the broader order of salvation, see the article on the [*ordo salutis*](../ordo-salutis/).
 
 ## The Effects of Regeneration
 
 The new birth produces immediate and lasting effects in the life of the believer:
 
-- **A new heart** — The "heart of stone" is replaced by a "heart of flesh" (Ezekiel 36:26). Desires change. What was once loved (sin) becomes hateful; what was once despised (God's holiness) becomes beautiful.
+- **A new heart** — The "heart of stone" is replaced by a "heart of flesh" (Ezekiel 36:26). Desires change. What was once loved (sin) becomes hateful; what was once despised (God's [holiness](../../gods-nature/holiness/)) becomes beautiful.
 - **Spiritual sight** — The regenerate person can "see" the kingdom of God (John 3:3). The gospel, once foolishness, becomes the power and wisdom of God (1 Corinthians 1:24).
 - **Faith and repentance** — The new heart believes and turns from sin. Faith is the first breath of the newborn soul.
 - **Love for God and His people** — "Everyone who loves has been born of God" (1 John 4:7). Love for the brethren is the chief evidence of the new birth (1 John 3:14).
-- **Victory over habitual sin** — The regenerate person does not live in settled, unrepentant sin (1 John 3:9; 5:18). Sin remains, but it no longer reigns (Romans 6:14).
+- **Victory over habitual sin** — The regenerate person does not live in settled, unrepentant sin (1 John 3:9; 5:18). Sin remains, but it no longer reigns (Romans 6:14). The ongoing transformation of life that follows regeneration is [sanctification](../../sanctification-and-discipleship/sanctification/).
 
 ## Born of Water and the Spirit
 

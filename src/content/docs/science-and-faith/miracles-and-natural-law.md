@@ -38,10 +38,10 @@ The regularity of nature is itself a manifestation of God's faithfulness. When G
 
 Scripture records miracles at pivotal moments in redemptive history:
 
-- **Creation itself** — The greatest miracle: God calling all things into existence from nothing (Genesis 1; Hebrews 11:3)
+- **[Creation](../../creation-and-humanity/creation/) itself** — The greatest miracle: God calling all things into existence from nothing (Genesis 1; Hebrews 11:3)
 - **The Exodus** — The plagues, the parting of the sea, manna in the wilderness — God delivering His people with "a mighty hand and an outstretched arm" (Deuteronomy 5:15)
-- **The Incarnation** — God the Son taking on human nature, born of the Virgin Mary (John 1:14; Luke 1:35)
-- **The Resurrection** — Christ's bodily rising from the dead, the central miracle and vindication of all Christian faith (1 Corinthians 15:14, 17)
+- **The [Incarnation](../../jesus-christ/incarnation/)** — God the Son taking on human nature, born of the Virgin Mary (John 1:14; Luke 1:35)
+- **The [Resurrection](../../jesus-christ/death-and-resurrection/)** — Christ's bodily rising from the dead, the central miracle and vindication of all Christian faith (1 Corinthians 15:14, 17)
 
 ## The Resurrection: The Central Miracle
 
@@ -64,4 +64,8 @@ Biblical miracles are never arbitrary displays of raw power. They are purposeful
 - **His compassion** — Jesus healed the sick, fed the hungry, raised the dead
 - **His sovereignty** — He commands the wind, the waves, and the forces of nature
 - **His faithfulness** — Miracles confirm His covenant promises and authenticate His messengers
-- **His redemptive purpose** — The great miracles of Scripture advance the story of salvation, from creation to resurrection to the coming new creation
+- **His redemptive purpose** — The great miracles of Scripture advance the story of salvation, from [creation](../../creation-and-humanity/creation/) to resurrection to the coming [new creation](../../last-things/new-creation/)
+
+As Augustine argued in *The City of God* (XXI.8), miracles are not contrary to nature but contrary to what we *know* of nature — for God, the author of all natures, does nothing contrary to Himself. For how [faith and reason](../faith-and-reason/) relate to the evidence for miracles, see the companion article.
+
+> "Jesus of Nazareth, a man attested to you by God with mighty works and wonders and signs that God did through him in your midst." — Acts 2:22

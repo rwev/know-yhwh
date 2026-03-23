@@ -6,7 +6,7 @@ sidebar:
 
 > "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places, even as he chose us in him before the foundation of the world, that we should be holy and blameless before him." — Ephesians 1:3–4
 
-Few doctrines have generated more discussion among Christians than predestination and election. The Bible clearly teaches that God chose a people for Himself before the world began — but the nature, basis, and extent of that choosing have been understood in significantly different ways across the Christian tradition. What all parties share is the conviction that salvation originates in God's initiative, not in human merit.
+Few doctrines have generated more discussion among Christians than predestination and election. The Bible clearly teaches that God chose a people for Himself before the world began — but the nature, basis, and extent of that choosing have been understood in significantly different ways across the Christian tradition. What all parties share is the conviction that salvation originates in God's initiative, not in human merit. This doctrine touches the deepest questions of God's [sovereignty](../../gods-nature/sovereignty/), [love](../../gods-nature/love/), and [justice](../../gods-nature/mercy-and-justice/).
 
 ## The Biblical Vocabulary
 
@@ -48,7 +48,7 @@ Key tenets include:
 - **Total depravity** — fallen humanity is unable to turn to God apart from regenerating grace
 - **Unconditional election** — God's choice is not conditioned on foreseen human response
 - **Irresistible grace** — the elect will inevitably be brought to faith by the Spirit's effectual call
-- **Perseverance of the saints** — those truly elected will persevere to the end
+- **[Perseverance](../perseverance/) of the saints** — those truly elected will persevere to the end
 
 The Reformed tradition appeals to texts like Romans 9:11–16 ("it depends not on human will or exertion, but on God, who has mercy"), Ephesians 1:4–5, and John 6:44 ("No one can come to me unless the Father who sent me draws him"). Reprobation — the passing over of the non-elect — is understood as just, since all humanity deserves condemnation and God is under no obligation to save anyone.
 
@@ -88,10 +88,10 @@ Paul goes on: "So then it depends not on human will or exertion, but on God, who
 
 The debate over predestination and election is real and consequential, but it should not obscure the vast common ground shared by all who confess Christ:
 
-- Salvation is by grace — no one is saved by their own merit or effort (Ephesians 2:8–9)
+- Salvation is by [grace](../grace/) — no one is saved by their own merit or effort (Ephesians 2:8–9)
 - God takes the initiative in salvation — He loved us before we loved Him (1 John 4:19)
-- Faith in Christ is necessary for salvation — "whoever believes in him shall not perish" (John 3:16)
-- The gospel is to be proclaimed to all people everywhere — "Go into all the world" (Mark 16:15)
+- [Faith](../faith/) in Christ is necessary for salvation — "whoever believes in him shall not perish" (John 3:16)
+- The [gospel](../gospel/) is to be proclaimed to all people everywhere — "Go into all the world" (Mark 16:15)
 - God's character is just and good — He does no wrong (Deuteronomy 32:4)
 - The mystery of God's sovereignty and human responsibility is ultimately beyond full human comprehension — "Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how inscrutable his ways!" (Romans 11:33)
 

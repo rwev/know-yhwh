@@ -7,14 +7,16 @@ sidebar:
 > "And Jesus came and said to them, 'All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.'"
 > — Matthew 28:18-20
 
+The Church's mission is not ultimately a human initiative but a participation in the *missio Dei* — the mission of God Himself. The Father sent the Son into the world ([John 3:16–17](../../jesus-christ/incarnation/)); the Son sends the Spirit ([Acts 2](../../holy-spirit/baptism-of-the-spirit/)); and the triune God sends the Church. Mission flows from the very heart of the [Trinity](../../trinity/one-god-three-persons/) — the self-sending, self-giving God who seeks the lost and reconciles the world to Himself (2 Corinthians 5:18–19).
+
 ## The Great Commission
 
-The risen Christ's final command to his disciples is the charter of the Church's mission. Several features stand out:
+The risen Christ's final command to His disciples is the charter of the Church's mission. Several features stand out:
 
 - **Universal authority** — "All *exousia* (ἐξουσία) — 'authority, rightful power' — in heaven and on earth has been given to me." The mission rests on Christ's sovereign lordship over all things.
-- **All nations** — The Greek *ethne* (ἔθνη) refers to peoples and people groups, not merely political states. The gospel is for every tribe, language, and nation (Revelation 7:9).
-- **Make disciples** — The central command is not merely to announce information but to make *mathetai* (μαθηταί) — learners, followers, apprentices of Jesus.
-- **Abiding presence** — "I am with you always." The mission is sustained not by human effort alone but by Christ's own presence through his Spirit.
+- **All nations** — The Greek *ethne* (ἔθνη) refers to peoples and people groups, not merely political states. The [gospel](../../salvation/gospel/) is for every tribe, language, and nation (Revelation 7:9), fulfilling the [Abrahamic](../../covenants/abrahamic/) promise that "in you all the families of the earth shall be blessed" (Genesis 12:3).
+- **Make disciples** — The central command is not merely to announce information but to make *mathētai* (μαθηταί) — learners, followers, apprentices of Jesus.
+- **Abiding presence** — "I am with you always." The mission is sustained not by human effort alone but by Christ's own presence through His Spirit.
 
 ## The Language of Mission
 
@@ -53,4 +55,8 @@ The book of Acts provides the narrative blueprint for the Church's mission:
 
 God's missionary purpose is woven through the whole of Scripture. He promised Abraham, "In you all the families — *mishpechot* (מִשְׁפְּחֹת) — of the earth shall be blessed" — *nivrekhu* (נִבְרְכוּ), from *barak* (בָּרַךְ) — "to bless, to endue with power for flourishing" (Genesis 12:3). The prophets foresaw the nations streaming to the light of God's glory (Isaiah 2:2-3; 60:1-3). Jesus declared that "this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations" (Matthew 24:14).
 
-The Church carries this mission forward in the confidence that Christ will build his Church (Matthew 16:18), that the Spirit empowers the work (Acts 1:8), and that one day a great multitude from every nation will stand before the throne, singing, "Salvation belongs to our God" (Revelation 7:9-10).
+The Christian traditions have emphasized different dimensions of this mission. The Catholic tradition, particularly since the Second Vatican Council, has stressed both proclamation and integral human development — the inseparability of evangelization from the promotion of justice, peace, and human dignity. The Orthodox tradition understands the Divine Liturgy itself as the Church's primary missionary act — the gathered community, by worshipping the true God, becomes a beacon of transfigured life that draws the world toward Christ. The Protestant and evangelical traditions have emphasized the urgency of verbal proclamation: "How are they to believe in him of whom they have never heard? And how are they to hear without someone preaching?" (Romans 10:14). At their best, all three streams recognize that [word, deed, and worship](../../prayer-and-worship/worship/) belong together — the Church proclaims, serves, and adores, and in doing so bears witness to the [Kingdom of God](../../jesus-christ/kingdom-of-god/) that is already breaking in and will one day be consummated.
+
+The Church carries this mission forward in the confidence that Christ will build His Church (Matthew 16:18), that the Spirit empowers the work (Acts 1:8), and that one day a great multitude from every nation will stand before the throne, singing, "Salvation belongs to our God" (Revelation 7:9–10). The [global spread of Christianity](../../church-history-and-tradition/global-christianity/) across two millennia — from Jerusalem to the ends of the earth — is the ongoing fulfillment of this promise.
+
+> "After this I looked, and behold, a great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne and before the Lamb." — Revelation 7:9

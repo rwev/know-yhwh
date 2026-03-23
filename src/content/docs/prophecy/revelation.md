@@ -19,7 +19,7 @@ Christians have read Revelation through four major lenses throughout church hist
 
 Many faithful interpreters combine elements of multiple approaches. What unites all Christian readings is the conviction that Revelation reveals the certain victory of Christ.
 
-Regardless of interpretive framework, several truths are non-negotiable: Christ will return visibly and bodily, evil will be finally defeated, the dead will be raised, God will judge with perfect justice, and He will dwell with His people in a renewed creation forever.
+Regardless of interpretive framework, several truths are non-negotiable: Christ will [return](../../last-things/second-coming/) visibly and bodily, evil will be finally defeated, the dead will be [raised](../../last-things/resurrection-and-judgment/), God will judge with perfect justice, and He will dwell with His people in a [renewed creation](../../last-things/new-creation/) forever.
 
 ## Literary Structure
 
@@ -37,7 +37,7 @@ Revelation centers not on the Antichrist or catastrophe but on Jesus Christ — 
 
 ### The Lamb — *Arnion*
 
-The Greek word *arnion* (ἀρνίον) — "little lamb" — appears 29 times in Revelation and only once elsewhere in the New Testament. This is the book's dominant image for Christ. The Lamb bears the marks of slaughter yet stands in the center of the throne (5:6). He is worthy to open the scroll of history (5:9), He is the temple and light of the new Jerusalem (21:22–23), and the hosts of heaven sing His praise. The juxtaposition is deliberate: the Lion of Judah conquers precisely by being the slain Lamb. Power is exercised through sacrificial love.
+The Greek word *arnion* (ἀρνίον) — "little lamb" — appears 29 times in Revelation and only once elsewhere in the New Testament. This is the book's dominant image for Christ. The Lamb bears the marks of slaughter yet stands in the center of the throne (5:6). He is worthy to open the scroll of history (5:9), He is the temple and light of the new Jerusalem (21:22–23), and the hosts of heaven sing His praise. The juxtaposition is deliberate: the Lion of Judah conquers precisely by being the slain Lamb. Power is exercised through sacrificial [love](../../gods-nature/love/). The [atonement](../../jesus-christ/atonement-theories/) — specifically the *Christus Victor* model — finds its most vivid expression here: the Lamb conquers by dying.
 
 ### The Church in Tribulation
 
@@ -63,13 +63,13 @@ Revelation repeatedly emphasizes that the saints "conquer" — not by military p
 
 > "And I heard a loud voice from the throne saying, 'Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God.'" — Revelation 21:3
 
-The Bible ends where it began — God dwelling with His people in a renewed creation, with no more death, mourning, crying, or pain. The curse is reversed, and the glory of God illuminates all things (Revelation 21–22).
+The Bible ends where it began — God dwelling with His people in a renewed creation, with no more [death](../../heaven-hell-and-the-afterlife/death-and-dying/), mourning, crying, or pain. The curse of the [fall](../../creation-and-humanity/the-fall/) is reversed, and the glory of God illuminates all things (Revelation 21–22).
 
 ## From Eden to New Jerusalem
 
 Revelation 22 brings the biblical story full circle to Genesis 2. The river of the water of life flows from the throne of God and the Lamb, recalling the river that watered the Garden of Eden (Genesis 2:10). The tree of life, which humanity lost access to after the Fall (Genesis 3:24), stands on both sides of the river, yielding its fruit each month and offering leaves "for the healing of the nations" (Revelation 22:2).
 
-What was lost in a garden is restored in a city. What was forfeited by the first Adam is secured by the last Adam. The dwelling of God is once again with man — not in a garden vulnerable to a serpent's deception, but in an eternal city where "nothing unclean will ever enter it" (Revelation 21:27). The curse of Genesis 3 is explicitly undone: "No longer will there be anything accursed" (Revelation 22:3).
+What was lost in a garden is restored in a city. What was forfeited by the first [Adam](../../covenants/adamic/) is secured by the last Adam. The dwelling of God is once again with man — not in a garden vulnerable to a serpent's deception, but in an eternal city where "nothing unclean will ever enter it" (Revelation 21:27). The curse of Genesis 3 is explicitly undone: "No longer will there be anything accursed" (Revelation 22:3).
 
 Notably, Revelation does not end with souls escaping to heaven but with heaven coming down to earth — "the holy city, new Jerusalem, coming down out of heaven from God" (Revelation 21:2). God's redemptive plan is not the abandonment of creation but its renewal. The final vision is not flight from the material world but the transfiguration of all things under the radiant glory of God and the Lamb.
 

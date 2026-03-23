@@ -6,7 +6,7 @@ sidebar:
 
 > "Seeing the crowds, he went up on the mountain, and when he sat down, his disciples came to him. And he opened his mouth and taught them." — Matthew 5:1–2
 
-The Sermon on the Mount (Matthew 5–7) is the most sustained block of Jesus' ethical teaching in the Gospels. Delivered from a mountainside — evoking Moses receiving the law at Sinai — the Sermon presents the character, values, and conduct of those who belong to the *basileia tou Theou* (βασιλεία τοῦ Θεοῦ, "kingdom of God"). Matthew's phrase *he opened his mouth* (*anoixas to stoma autou*, ἀνοίξας τὸ στόμα αὐτοῦ) is a Semitic idiom signaling solemn, authoritative speech — this is no casual conversation but a definitive pronouncement. The Sermon has been called the magna carta of the kingdom, the constitution of Christian ethics, and the most challenging moral teaching ever given.
+The Sermon on the Mount (Matthew 5–7) is the most sustained block of Jesus' ethical teaching in the Gospels. Delivered from a mountainside — evoking Moses receiving the law at Sinai — the Sermon presents the character, values, and conduct of those who belong to the [*basileia tou Theou*](../../jesus-christ/kingdom-of-god/) (βασιλεία τοῦ Θεοῦ, "kingdom of God"). Matthew's phrase *he opened his mouth* (*anoixas to stoma autou*, ἀνοίξας τὸ στόμα αὐτοῦ) is a Semitic idiom signaling solemn, authoritative speech — this is no casual conversation but a definitive pronouncement. The Sermon has been called the magna carta of the kingdom, the constitution of Christian ethics, and the most challenging moral teaching ever given.
 
 ## The Beatitudes: Character of the Kingdom Citizen
 
@@ -34,7 +34,7 @@ In a series of six antitheses (Matthew 5:21–48), Jesus uses the formula *ekoú
 - **Retaliation** (5:38–42) — Rather than demanding *ophthalmon anti ophthalmou* (ὀφθαλμὸν ἀντὶ ὀφθαλμοῦ, "an eye for an eye," translating Hebrew *ayin tachat ayin*, עַיִן תַּחַת עַיִן), Jesus calls his followers to absorb wrong and respond with generosity.
 - **Love for enemies** (5:43–48) — *Agapate tous echthrous humōn* (ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν, "love your enemies"). The verb *agapao* (ἀγαπάω) denotes not affection but willed, self-giving devotion — the same love the Father shows "who makes his sun rise on the evil and on the good."
 
-Jesus is not contradicting Moses but revealing the law's full depth. The righteousness (*dikaiosune*, δικαιοσύνη) he demands must *perisseuse* (περισσεύσῃ, "exceed, overflow, abound beyond") that of the *grammateis* (γραμματεῖς, "scribes") and *Pharisaioi* (Φαρισαῖοι, from Aramaic *perishayya*, פְּרִישַׁיָּא, "the separated ones") (Matthew 5:20) — it reaches to the intentions and affections of the heart.
+Jesus is not contradicting [Moses](../../covenants/mosaic/) but revealing the law's full depth. The righteousness (*dikaiosune*, δικαιοσύνη) he demands must *perisseuse* (περισσεύσῃ, "exceed, overflow, abound beyond") that of the *grammateis* (γραμματεῖς, "scribes") and *Pharisaioi* (Φαρισαῖοι, from Aramaic *perishayya*, פְּרִישַׁיָּא, "the separated ones") (Matthew 5:20) — it reaches to the intentions and affections of the heart.
 
 ## The Lord's Prayer
 
@@ -68,7 +68,7 @@ The Sermon does not end with "believe this" but with "do this." The contrast is 
 
 Christians have debated how to interpret and apply the Sermon on the Mount. The major views include:
 
-- **The Reformed view**: The Sermon reveals the full depth of God's moral demand, which no one can perfectly keep. It drives believers to depend on Christ's righteousness while also providing a standard for sanctification. The Sermon shows both the goal of the Christian life and the impossibility of achieving it apart from grace.
+- **The Reformed view**: The Sermon reveals the full depth of God's moral demand, which no one can perfectly keep. It drives believers to depend on Christ's righteousness while also providing a standard for sanctification. The Sermon shows both the goal of the Christian life and the impossibility of achieving it apart from [grace](../../salvation/grace/).
 
 - **The Anabaptist and Wesleyan view**: The Sermon is meant to be obeyed — literally and practically — by the community of Jesus' disciples. Nonviolence, enemy love, and radical generosity are not impossible ideals but the actual way of life that the Spirit empowers. The church is called to embody these commands visibly in the world.
 
@@ -76,4 +76,6 @@ Christians have debated how to interpret and apply the Sermon on the Mount. The 
 
 - **The Eschatological view**: The Sermon describes the ethic of the coming kingdom. It is fully realizable only when Christ returns, but it shapes the direction of Christian life now as believers live in anticipation of that kingdom.
 
-Each of these readings captures something true. The Sermon is at once a revelation of God's ultimate standard, a call to genuine obedience, and an invitation to depend on the grace of the One who alone fulfilled it perfectly.
+Each of these readings captures something true. The Sermon is at once a revelation of God's ultimate standard, a call to genuine obedience, and an invitation to depend on the [grace](../../salvation/grace/) of the One who alone fulfilled it perfectly. Augustine devoted an entire treatise to it (*De Sermone Domini in Monte*), reading the Beatitudes as a ladder of [sanctification](../../sanctification-and-discipleship/sanctification/) ascending from humility to [peacemaking](../../gods-nature/love/) — a journey made possible only by the Spirit who writes the [law](../moral-and-ceremonial-law/) on the heart.
+
+> "Be perfect, as your heavenly Father is perfect." — Matthew 5:48

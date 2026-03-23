@@ -39,6 +39,14 @@ Jesus distilled the entire law into love of God and love of neighbor. Christian 
 mere sentiment but concrete, self-giving action — even toward enemies and strangers.
 [Read more →](./loving-neighbor/)
 
+### Money, Wealth & Poverty
+Scripture speaks with remarkable frequency about wealth, poverty, and generosity — addressing the heart's deepest loyalties and the call to steward God's provision for the good of others.
+[Read more →](./money-wealth-and-poverty/)
+
+### Forgiveness
+At the center of the gospel is God's costly forgiveness of sinners — and from that divine mercy flows the call to forgive one another as we have been forgiven.
+[Read more →](./forgiveness/)
+
 ## The Shape of Faithful Living
 
 The Christian tradition has long recognized that holiness is not confined to sacred spaces. The

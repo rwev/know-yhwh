@@ -6,7 +6,7 @@ sidebar:
 
 > "And do not fear those who kill the body but cannot kill the soul. Rather fear him who can destroy both soul and body in hell." — Matthew 10:28
 
-The doctrine of hell is among the most sobering in all of Christian theology. It demands truth-telling without triumphalism, gravity without glee. The church has historically affirmed that God's justice requires a final reckoning, and that those who persistently refuse His grace face an irreversible consequence.
+The doctrine of hell is among the most sobering in all of Christian theology. It demands truth-telling without triumphalism, gravity without glee. The Church has historically affirmed that God's [justice](../../gods-nature/mercy-and-justice/) requires a final reckoning, and that those who persistently refuse His [grace](../../salvation/grace/) face an irreversible consequence.
 
 ## The Biblical Vocabulary
 
@@ -80,7 +80,7 @@ A minority position with ancient roots:
 
 Whatever one's view on the duration or nature of hell, the doctrine rests on the character of God:
 
-- **God is holy** — sin is not a trivial matter (Habakkuk 1:13; Isaiah 6:3)
+- **God is [holy](../../gods-nature/holiness/)** — [sin](../../creation-and-humanity/sin/) is not a trivial matter (Habakkuk 1:13; Isaiah 6:3)
 - **God is just** — He cannot overlook evil forever (Romans 2:5-6; Revelation 16:5-7)
 - **God is patient** — He delays judgment to allow repentance (2 Peter 3:9; Romans 2:4)
 - **God is love** — but love that never judges is not love; it is indifference to evil
@@ -101,5 +101,7 @@ The doctrine of hell is not a weapon. It is a warning — and a motive for compa
 
 - There is a final judgment before the throne of God (Revelation 20:11-15; 2 Corinthians 5:10)
 - Human choices in this life have eternal consequences
-- The way of escape is Jesus Christ and Him alone (John 14:6; Acts 4:12)
-- The severity of the warning magnifies the glory of the grace
+- The way of escape is [Jesus Christ](../../world-religions-and-comparative-theology/uniqueness-of-christ/) and Him alone (John 14:6; Acts 4:12)
+- The severity of the warning magnifies the glory of the [gospel](../../salvation/gospel/) — for the [cross](../../jesus-christ/atonement-theories/) reveals how far God went to rescue sinners from the judgment they deserve
+
+> "For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him." — John 3:17

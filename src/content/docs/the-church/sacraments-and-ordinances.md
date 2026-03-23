@@ -9,14 +9,14 @@ sidebar:
 
 ## A Note on Terminology
 
-Christians use different terms for the sacred rites Christ instituted. Those in the Catholic, Orthodox, Anglican, Reformed, and Lutheran traditions typically speak of **sacraments** — from the Latin *sacramentum* ("oath, sacred pledge"), which the Vulgate used to translate the Greek *mysterion* (μυστήριον) — "mystery, hidden purpose of God." These are visible signs of invisible grace, means through which God communicates his grace to believers. Those in the Baptist and broader evangelical traditions often prefer **ordinances** — acts of obedience commanded by Christ that visibly portray gospel realities. The difference in terminology reflects genuine theological distinctions, but all traditions agree that Christ commanded these practices and that they hold deep spiritual significance for the life of the Church.
+Christians use different terms for the sacred rites Christ instituted. Those in the Catholic, Orthodox, Anglican, Reformed, and Lutheran traditions typically speak of **sacraments** — from the Latin *sacramentum* ("oath, sacred pledge"), which the Vulgate used to translate the Greek *mysterion* (μυστήριον) — "mystery, hidden purpose of God." These are visible signs of invisible grace, means through which God communicates his grace to believers. Those in the Baptist and broader evangelical traditions often prefer **ordinances** — acts of obedience commanded by Christ that visibly portray gospel realities. The difference in terminology reflects genuine theological distinctions, but all traditions agree that Christ commanded these practices and that they hold deep spiritual significance for the life of the Church. As early as the *Didache* (c. 50–120), the Church was providing instructions for baptism and the Eucharist, indicating that these rites were central to Christian identity from the very beginning.
 
 ## Baptism
 
 > "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit."
 > — Matthew 28:19
 
-Baptism — from *baptisma* (βάπτισμα) — "immersion, washing" — is the rite of initiation into the Christian community, commanded by Christ himself. It is an outward sign connected to the inward reality of union with Christ in his death and resurrection (Romans 6:3-4; Colossians 2:12). Paul uses the verb *synthaptō* (συνθάπτω) — "to bury together with" — to describe being buried with Christ in baptism, and *synegeirō* (συνεγείρω) — "to raise together with" — to describe being raised with him to new life.
+Baptism — from *baptisma* (βάπτισμα) — "immersion, washing" — is the rite of initiation into the Christian community, commanded by Christ Himself. It is an outward sign connected to the inward reality of [union with Christ](../../spiritual-formation-and-mysticism/union-with-god/) in His [death and resurrection](../../jesus-christ/death-and-resurrection/) (Romans 6:3–4; Colossians 2:12). Paul uses the verb *synthaptō* (συνθάπτω) — "to bury together with" — to describe being buried with Christ in baptism, and *synegeirō* (συνεγείρω) — "to raise together with" — to describe being raised with him to new life.
 
 ### Views on Baptism
 
@@ -31,7 +31,7 @@ Christians have held different convictions regarding the proper subjects and mod
 - **Affusion (pouring)** — water is poured over the candidate's head
 - **Aspersion (sprinkling)** — water is sprinkled on the candidate
 
-All traditions affirm that baptism is performed in the name of the Father, the Son, and the Holy Spirit (Matthew 28:19) and signifies cleansing from sin, identification with Christ, and incorporation into his body.
+All traditions affirm that baptism is performed in the name of the [Father, the Son, and the Holy Spirit](../../trinity/one-god-three-persons/) (Matthew 28:19) and signifies cleansing from sin, identification with Christ, and incorporation into His [body](../body-of-christ/). For a discussion of how [baptism in the Spirit](../../holy-spirit/baptism-of-the-spirit/) relates to water baptism, see the article on the Holy Spirit.
 
 ## The Lord's Supper / Eucharist
 
@@ -42,7 +42,7 @@ The Lord's Supper — also called the Eucharist (from the Greek *eucharistia*, �
 
 ### Views on the Lord's Supper
 
-- **Transubstantiation** — the bread and wine become, in substance, the actual body and blood of Christ, while retaining the outward appearance of bread and wine. Held by the Roman Catholic tradition.
+- **Transubstantiation** — the bread and wine become, in substance, the actual body and blood of Christ, while retaining the outward appearance (*species*) of bread and wine. This doctrine was formally defined at the Fourth Lateran Council (1215) and reaffirmed at Trent (1551), drawing on Aristotelian categories of substance and accident. Held by the Roman Catholic tradition.
 - **Divine mystery** — the bread and wine truly become the body and blood of Christ, but the precise manner of change is a holy mystery that exceeds human definition. The Orthodox affirm a real change in the elements while generally declining to adopt the Aristotelian philosophical categories used in Western theology. Held by the Eastern Orthodox tradition.
 - **Real presence / sacramental union** — Christ is truly and substantially present "in, with, and under" the bread and wine, though the elements remain bread and wine. Held by the Lutheran tradition.
 - **Spiritual presence** — Christ is truly but spiritually present in the Supper, and believers feed on him by faith through the Spirit. Held by many in the Reformed and Anglican traditions.
@@ -58,4 +58,6 @@ Despite these differences, the historic Church has consistently affirmed:
 - Believers should examine — *dokimazeto* (δοκιμαζέτω) — "test, prove, discern" — themselves before partaking (1 Corinthians 11:27-29)
 - The Supper expresses and deepens the unity of the body of Christ (1 Corinthians 10:16-17)
 
-Both baptism and the Lord's Supper are treasured across all Christian traditions as visible, tangible enactments of the gospel — the death, burial, and resurrection of Christ and the new life believers share in him.
+Both baptism and the Lord's Supper are treasured across all Christian traditions as visible, tangible enactments of the [gospel](../../salvation/gospel/) — the [death, burial, and resurrection](../../jesus-christ/death-and-resurrection/) of Christ and the new life believers share in Him. As Augustine expressed it, sacraments are *verbum visibile* — "the word made visible" — the gospel preached not to the ear but to the eye, the hand, and the tongue.
+
+> "The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ?" — 1 Corinthians 10:16
