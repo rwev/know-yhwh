@@ -34,7 +34,7 @@ The Greek *dianoia* (διάνοια) — "mind, understanding, intellectual facu
 
 Christian faith rests not on private feelings but on public, verifiable claims about history:
 
-- **Eyewitness testimony** — The apostles claimed to have seen, heard, and touched the risen Christ (1 John 1:1–3; 2 Peter 1:16). They suffered and died for this testimony, which they could have easily recanted if it were false.
+- **Eyewitness testimony** — The apostles claimed to have heard, seen, and handled the Word of life (1 John 1:1–3), and to have been eyewitnesses of his majesty when they heard the voice on the holy mount (2 Peter 1:16–18). They suffered and died for their testimony, which they could have easily recanted if it were false.
 - **[Fulfilled prophecy](../../prophecy/messianic/)** — Hundreds of Old Testament prophecies find their fulfillment in Jesus — His birthplace (Micah 5:2), His suffering (Isaiah 53), His [resurrection](../../jesus-christ/death-and-resurrection/) (Psalm 16:10).
 - **The resurrection** — The bodily resurrection of Jesus is the cornerstone of Christian evidential claims. Paul openly invited scrutiny: many of the eyewitnesses were still alive and could be questioned (1 Corinthians 15:6).
 

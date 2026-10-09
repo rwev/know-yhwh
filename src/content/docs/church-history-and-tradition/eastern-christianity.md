@@ -46,7 +46,7 @@ The Oriental Orthodox churches preserve some of the oldest Christian traditions 
 
 ## The Assyrian Church of the East
 
-The Assyrian Church of the East — sometimes called the "Nestorian" Church, though it rejects this label — traces its heritage to the apostolic mission in Mesopotamia and Persia. At its height in the medieval period, this church extended across the Silk Road into Central Asia, India, and China (as attested by the famous Xi'an Stele of 781 AD). The Church of the East did not accept the Council of Ephesus (431 AD) and uses the title *Christotokos* (Christ-bearer) rather than *Theotokos* for Mary, though a 1994 joint declaration with the Catholic Church affirmed shared faith in the incarnation. This small but ancient community preserves the East Syriac liturgical tradition, one of the oldest in Christendom.
+The Assyrian Church of the East — sometimes called the "Nestorian" Church, though it rejects this label — traces its heritage to the apostolic mission in Mesopotamia and Persia. At its height in the medieval period, this church extended across the Silk Road into Central Asia, India, and China (as attested by the famous Xi'an Stele of 781 AD). The Church of the East did not accept the Council of Ephesus (431 AD). A 1994 common declaration between the Catholic Church and Mar Dinkha IV confessed Mary as "the Mother of Christ our God and Saviour" and accepted the legitimacy of both "Mother of God" and "Mother of Christ." This small but ancient community preserves the East Syriac liturgical tradition, one of the oldest in Christendom.
 
 ## What the East Offers the Whole Church
 

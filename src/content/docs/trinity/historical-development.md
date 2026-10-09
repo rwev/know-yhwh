@@ -22,7 +22,7 @@ These writers did not always use terminology with later precision, but their wor
 
 ## The Arian Crisis and the Council of Nicaea (325 AD)
 
-The priest **Arius** of Alexandria taught that the Son was the first and greatest creature — in Greek, *ēn pote hote ouk ēn* (ἦν ποτε ὅτε οὐκ ἦν) — "there was a time when He was not." He was willing to call the Son *homoiousios* (ὁμοιούσιος) — "of *similar* substance" — but not *homoousios* (ὁμοούσιος) — "of the *same* substance." This single iota of difference (the ι in ὁμοι-) represented an unbridgeable theological chasm: is the Son truly God, or merely the highest creature? This struck at the heart of the gospel: if Christ is not truly God, He cannot save.
+The priest **Arius** of Alexandria taught that the Son was the first and greatest creature — in Greek, *ēn pote hote ouk ēn* (ἦν ποτε ὅτε οὐκ ἦν) — "there was a time when He was not." He taught that the Son is not consubstantial with the Father — not *homoousios* (ὁμοούσιος), "of the *same* substance" — and therefore not like Him. This struck at the heart of the gospel: if Christ is not truly God, He cannot save.
 
 **Athanasius**, then a young deacon of Alexandria, championed the full deity of the Son. The Council of Nicaea, convened by Emperor Constantine, responded by affirming that the Son is:
 
@@ -30,7 +30,7 @@ The priest **Arius** of Alexandria taught that the Son was the first and greates
 - "Begotten, not made"
 - *Homoousios* (ὁμοούσιος) — "of the same substance" as the Father
 
-The [Nicene Creed](../../church-history-and-tradition/creeds-and-confessions/) became the definitive standard of orthodox Trinitarian faith.
+The [Nicene Creed](../../church-history-and-tradition/creeds-and-confessions/) became the definitive standard of orthodox Trinitarian faith. In the conflicts after Nicaea, Semi-Arians took up *homoiousios* (ὁμοιούσιος) — "of *similar* substance" — as a watchword against that confession. The added iota (the ι in ὁμοι-) asked whether the Son is truly God or only like Him.
 
 ## The Council of Constantinople (381 AD)
 

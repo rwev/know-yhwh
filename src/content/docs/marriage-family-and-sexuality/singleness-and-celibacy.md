@@ -21,9 +21,9 @@ Paul's most extended teaching on singleness is found in 1 Corinthians 7, where h
 - "I wish that all were as I myself am" — that is, single (7:7)
 - "To the unmarried and the widows I say that it is good for them to remain single, as I am" (7:8)
 - "The unmarried man is anxious about the things of the Lord, how to please the Lord. But the married man is anxious about worldly things, how to please his wife" (7:32–33)
-- "He who refrains from marriage will do even better" (7:38)
+- "He who gives his virgin in marriage does well, and he who does not give her in marriage does better" (7:38)
 
-Paul is not denigrating marriage — he calls it "no sin" (7:28) and elsewhere describes it as a profound mystery reflecting Christ and the Church (Ephesians 5:31–32). But he is making a practical and theological argument: in the present age, with its "impending distress" (*anankē*, ἀνάγκη — 7:26), singleness offers a unique freedom for undivided devotion to the Lord.
+Paul is not denigrating marriage — he calls it "no sin" (7:28) and elsewhere describes it as a profound mystery reflecting Christ and the Church (Ephesians 5:31–32). But he is making a practical and theological argument: in the present age, with its "present distress" (*anankē*, ἀνάγκη — 7:26), singleness offers a unique freedom for undivided devotion to the Lord.
 
 The key theological term is *amerimnou* (ἀμερίμνου) — "free from anxieties" (7:32). The single person is free — not from all cares, but from the particular obligations that attend marriage and family — and can devote that freedom entirely to the service of Christ and His kingdom.
 

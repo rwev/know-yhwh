@@ -96,4 +96,4 @@ The Christian tradition has long seen in Job a prefiguration of Christ:
 
 Job teaches us that God's answer to [suffering](../../sanctification-and-discipleship/suffering-and-growth/) is ultimately not a doctrine but a Person — the same truth the [cross](../../jesus-christ/death-and-resurrection/) would make visible for all the world.
 
-> "Though he slay me, I will hope in him." — Job 13:15
+> "Though he slay me, I will hope in him." — Job 13:15 (King James Version; the World English Bible reads, "Behold, he will kill me. I have no hope.")

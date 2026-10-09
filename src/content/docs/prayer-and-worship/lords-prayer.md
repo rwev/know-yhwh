@@ -66,7 +66,7 @@ From the earliest centuries, the church has prayed this prayer in corporate wors
 
 It has been central to the liturgies of Eastern and Western churches alike. In many traditions, catechumens were taught the Lord's Prayer as part of their preparation for baptism — learning to pray as children of God before publicly professing their faith.
 
-Reformed, Catholic, and Orthodox traditions all affirm its unique place as the prayer Christ Himself gave to His people. The Westminster Larger Catechism (Q. 186–196) devotes eleven questions to expounding its petitions. Luther's *Large Catechism* calls it "the greatest martyr on earth," because it is so often prayed without thought or feeling.
+Reformed, Catholic, and Orthodox traditions all affirm its unique place as the prayer Christ Himself gave to His people. The Westminster Larger Catechism (Q. 186–196) devotes eleven questions to expounding its petitions. Luther's *Large Catechism* calls it the noblest prayer on earth, because God loves to hear it. Christians often pray it without thought or feeling.
 
 ## The Structure of the Prayer
 

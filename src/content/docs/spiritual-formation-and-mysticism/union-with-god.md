@@ -26,7 +26,7 @@ John's Gospel is saturated with the language of mutual indwelling: "I am in my F
 
 Paul's most characteristic phrase — *en Christo* (ἐν Χριστῷ), "in Christ" — appears over 160 times in his letters. It describes a participatory reality: believers are baptized *into* Christ (Romans 6:3), clothed with Christ (Galatians 3:27), members of Christ's body (1 Corinthians 12:27), and hidden with Christ in God (Colossians 3:3).
 
-For Paul, union with Christ is not one theme among many but the organizing center of the Christian life. Every blessing — [justification](../../salvation/justification/), [sanctification](../../sanctification-and-discipleship/sanctification/), [adoption](../../salvation/adoption/), glorification — comes to believers *in Christ*. Calvin called this union "the central hinge on which religion turns" (*Institutes* III.11.10).
+For Paul, union with Christ is not one theme among many but the organizing center of the Christian life. Every blessing — [justification](../../salvation/justification/), [sanctification](../../sanctification-and-discipleship/sanctification/), [adoption](../../salvation/adoption/), glorification — comes to believers *in Christ*. Calvin gives this union the highest rank (*Institutes* III.11.10). In the opening of that chapter, the "hinge" or "principal ground" on which religion must be supported is justification, not union.
 
 ### The Bridal Tradition
 

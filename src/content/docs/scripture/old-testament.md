@@ -8,8 +8,8 @@ sidebar:
 > come to abolish them but to fulfill them."
 > — Matthew 5:17
 
-The Old Testament (39 books) is the record of God's creation of the world, His
-covenant relationship with Israel, and the unfolding promise of a coming Redeemer.
+The Old Testament is the record of God's creation of the world, His covenant
+relationship with Israel, and the unfolding promise of a coming Redeemer.
 
 ## Structure
 
@@ -40,9 +40,12 @@ gathers the wisdom literature, liturgical poetry, and post-exilic histories.
 
 ## Hebrew vs. Christian Canonical Order
 
-The Hebrew Bible (Tanakh) and the Christian Old Testament contain the same 39
-books but arrange them differently. The Tanakh ends with 2 Chronicles and its
-call to "go up" to Jerusalem (2 Chronicles 36:23) — a note of hope and return.
+The Protestant Old Testament has 39 books — the same writings the Hebrew Bible
+(Tanakh) counts as 24, in a different order. The Tanakh ends with 2 Chronicles
+and its call to "go up" to Jerusalem (2 Chronicles 36:23) — a note of hope and
+return. The Catholic catechism counts 46 books. Orthodox churches receive the
+books Protestants call the Apocrypha, with some variation among the churches
+(see [The Canon](../canon/)).
 
 The Christian Old Testament follows the Septuagint ordering, grouping books by
 genre (Law, History, Poetry, Prophecy) and ending with Malachi's promise that

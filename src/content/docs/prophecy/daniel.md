@@ -64,7 +64,7 @@ Daniel 12:1–3 contains one of the clearest Old Testament statements about the 
 
 > "And many of those who sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt. And those who are wise shall shine like the brightness of the sky above; and those who turn many to righteousness, like the stars forever and ever." — Daniel 12:2–3
 
-This passage teaches that physical death is not the end. A future [resurrection](../../last-things/resurrection-and-judgment/) awaits all people — the righteous to everlasting life, the wicked to everlasting judgment. The language of "sleeping in the dust" treats death as temporary — a condition from which one can be awakened. Jesus affirmed this twofold resurrection (John 5:28–29), and Paul grounded the Christian hope of resurrection in the same prophetic tradition (Acts 24:15).
+This passage teaches that physical death is not the end. A future [resurrection](../../last-things/resurrection-and-judgment/) awaits many people — the righteous to everlasting life, the wicked to everlasting judgment. The language of "sleeping in the dust" treats death as temporary — a condition from which one can be awakened. Jesus affirmed this twofold resurrection (John 5:28–29), and Paul grounded the Christian hope of resurrection in the same prophetic tradition (Acts 24:15).
 
 Daniel 12 also introduces the concept of the wise who "turn many to righteousness" shining "like the stars forever." This is not mere metaphor — it is a glimpse of the glorified state of the redeemed, a vision Paul echoes when he writes that the resurrected body will be raised "in glory" (1 Corinthians 15:43).
 

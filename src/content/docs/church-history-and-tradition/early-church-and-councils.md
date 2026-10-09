@@ -16,7 +16,7 @@ The New Testament word for "church" is *ekklēsia* (ἐκκλησία), meaning 
 The church was born at Pentecost, when the Holy Spirit descended upon the disciples in Jerusalem (Acts 2). From this foundation:
 
 - The apostles preached the gospel first to Jews and then to Gentiles, establishing churches throughout the Roman Empire
-- Paul's missionary journeys planted congregations across Asia Minor, Greece, and eventually Rome
+- Paul's missionary journeys planted congregations across Asia Minor and Greece; brethren were already in Rome and came out to meet him (Acts 28:15)
 - The New Testament documents — Gospels, epistles, and Revelation — were written during this period
 - The destruction of the Jerusalem temple in 70 AD marked a decisive break between the church and Judaism
 - By the end of the first century, Christian communities existed from Rome to Mesopotamia
@@ -60,8 +60,10 @@ The ecumenical councils defined orthodox Christian doctrine, and their decisions
 
 ### First Council of Nicaea (325 AD)
 - Condemned **[Arianism](../../trinity/trinitarian-heresies/)** — the teaching that the Son was a created being
-- Affirmed that the Son is *homoousios* (ὁμοούσιος) — "of the same substance" or "of one being" — with the Father. This term was chosen against the Arian position that the Son was *heteroousios* (ἑτεροούσιος, "of different substance"). A mediating party proposed *homoiousios* (ὁμοιούσιος) — "of similar substance" — but Nicaea insisted on the stronger *homoousios*: a single iota (*ι*) marking the difference between full equality with the Father and mere resemblance.
+- Affirmed that the Son is *homoousios* (ὁμοούσιος) — "of the same substance" or "of one being" — with the Father. This term was chosen against the Arian position that the Son was *heteroousios* (ἑτεροούσιος, "of different substance"). Arius denied that the Son was like the Father
 - Produced the original Nicene Creed
+
+*Homoiousios* (ὁμοιούσιος) — "of similar substance" — was not proposed at Nicaea. It was a later Semi-Arian formula in the conflicts after the council, including Antioch in 341. A single iota (*ι*) marks its distance from the Nicene *homoousios*: resemblance to the Father, rather than full equality with Him.
 
 ### First Council of Constantinople (381 AD)
 - Expanded the Nicene Creed into its present form (the Niceno-Constantinopolitan Creed)

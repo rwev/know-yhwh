@@ -73,8 +73,9 @@ that I have said to you" (John 14:26).
 The apostles understood themselves as bearers of Christ's own authority: Paul
 called his letters "a command of the Lord" (1 Corinthians 14:37), and Peter
 placed Paul's writings alongside "the other Scriptures" (2 Peter 3:15–16). The
-early church received the apostolic writings not as mere human opinion but as the
-Word of God (1 Thessalonians 2:13).
+Thessalonians received the spoken message they heard not as a human word but as
+the Word of God (1 Thessalonians 2:13). That verse is about what they heard, not
+about the apostolic writings.
 
 ## Continuity and Discontinuity with the Old Testament
 

@@ -13,7 +13,7 @@ In God, mercy and justice are not opposing forces held in tension but complement
 The Hebrew Scriptures use a rich vocabulary to describe these attributes:
 
 - *Rachamim* (רַחֲמִים) — compassion or mercy, derived from *rechem* (רֶחֶם), meaning "womb." God's mercy is tender, visceral, maternal in its depth. It is the compassion of a mother for the child she has carried.
-- *Chesed* (חֶסֶד) — steadfast love, loyal kindness, covenant faithfulness. This is mercy expressed in the context of relationship and promise — the [love](./love/) that binds God to His [covenant](../../covenants/covenant-theology/) people even when they are faithless.
+- *Chesed* (חֶסֶד) — steadfast love, loyal kindness, covenant faithfulness. This is mercy expressed in the context of relationship and promise — the [love](../love/) that binds God to His [covenant](../../covenants/covenant-theology/) people even when they are faithless.
 - *Channun* (חַנּוּן) — gracious, describing God's disposition to show undeserved favor.
 - *Mishpat* (מִשְׁפָּט) — justice or judgment, referring to God's commitment to set things right, to render fair verdicts, and to uphold moral order.
 - *Tsedaqah* (צְדָקָה) — righteousness, the standard of God's own character against which all things are measured. The corresponding Greek *dikaiosynē* (δικαιοσύνη) — "righteousness, justice" — carries both forensic (declaring right) and relational (making right) dimensions, which is why Paul can speak of God's righteousness as both the standard that condemns and the gift that saves (Romans 1:17; 3:21–22).
@@ -28,9 +28,9 @@ This declaration holds two truths in a single breath: God is "merciful and graci
 
 God's mercy pervades the Old Testament narrative. He clothed Adam and Eve after their sin (Genesis 3:21). He preserved Noah's family through the flood. He heard the groaning of Israel in Egypt and delivered them (Exodus 2:24–25). He bore with their grumbling in the wilderness. He restored them again and again after cycles of rebellion and repentance in the book of Judges.
 
-> "The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness." — Lamentations 3:22–23
+> "It is of the LORD's mercies that we are not consumed, because his compassions fail not. They are new every morning: great is thy faithfulness." — Lamentations 3:22–23
 
-Even in judgment, mercy is present. When God sent Israel into exile, He preserved a remnant. When He disciplined, He did so as a father disciplines a son — not to destroy, but to restore (Hebrews 12:5–6).
+Some modern translations read "the steadfast love of the LORD never ceases." Even in judgment, mercy is present. When God sent Israel into exile, He preserved a remnant. When He disciplined, He did so as a father disciplines a son — not to destroy, but to restore (Hebrews 12:5–6).
 
 ## Justice in the Old Testament
 

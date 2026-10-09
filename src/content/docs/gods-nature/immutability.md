@@ -23,8 +23,8 @@ Moses declared the eternal self-existence of God: "Before the mountains were bro
 God's immutability extends across several dimensions:
 
 - **Unchanging in essence** — God's being does not undergo alteration. He does not gain new attributes or lose existing ones. Classical theology expresses this as God's pure actuality — *actus purus* — meaning there is no unrealized potential in God. Thomas Aquinas and the Eastern Fathers alike affirmed that God is fully and perfectly what He is, without becoming.
-- **Unchanging in character** — His [holiness](./holiness/), [love](./love/), justice, and [mercy](./mercy-and-justice/) are constant. He will never become less holy or more unjust.
-- **Unchanging in purposes** — "The counsel of the LORD stands forever, the plans of his heart to all generations" (Psalm 33:11; cf. Isaiah 46:10; Ephesians 1:11). What He has [decreed](./sovereignty/) will come to pass.
+- **Unchanging in character** — His [holiness](../holiness/), [love](../love/), justice, and [mercy](../mercy-and-justice/) are constant. He will never become less holy or more unjust.
+- **Unchanging in purposes** — "The counsel of the LORD stands forever, the plans of his heart to all generations" (Psalm 33:11; cf. Isaiah 46:10; Ephesians 1:11). What He has [decreed](../sovereignty/) will come to pass.
 - **Unchanging in promises** — "God is not man, that he should lie, or a son of man, that he should change his mind. Has he said, and will he not do it? Or has he spoken, and will he not fulfill it?" (Numbers 23:19; cf. Hebrews 6:17–18).
 
 ## What About Divine "Repentance"?
@@ -37,7 +37,7 @@ The same chapter that records God's "regret" over Saul explicitly states: "The G
 
 ## Immutability and Impassibility
 
-Closely related to immutability is *impassibility* — *apatheia* (ἀπάθεια) — the classical teaching that God is not subject to involuntary suffering or emotional disturbance from outside forces. The early Fathers — Ignatius of Antioch, Irenaeus, Athanasius — affirmed impassibility while insisting that God is not indifferent: His [love](./love/) is not a reaction to external stimuli but an eternal, unchanging disposition of His being. In modern theology, some have questioned whether impassibility renders God emotionally distant. A careful reading of the tradition, however, reveals that the Fathers were not denying that God cares but that God can be *overwhelmed* or *diminished* by creaturely events. God's compassion is real precisely because it flows from His unchanging nature, not from vulnerability.
+Closely related to immutability is *impassibility* — *apatheia* (ἀπάθεια) — the classical teaching that God is not subject to involuntary suffering or emotional disturbance from outside forces. The early Fathers — Ignatius of Antioch, Irenaeus, Athanasius — affirmed impassibility while insisting that God is not indifferent: His [love](../love/) is not a reaction to external stimuli but an eternal, unchanging disposition of His being. In modern theology, some have questioned whether impassibility renders God emotionally distant. A careful reading of the tradition, however, reveals that the Fathers were not denying that God cares but that God can be *overwhelmed* or *diminished* by creaturely events. God's compassion is real precisely because it flows from His unchanging nature, not from vulnerability.
 
 ## Immutable Yet Relational
 

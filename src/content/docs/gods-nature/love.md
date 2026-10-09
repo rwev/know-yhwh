@@ -33,11 +33,11 @@ This intra-Trinitarian love means that God did not create the world because He n
 
 ## Love and Election
 
-One of the most profound — and debated — expressions of God's love is His electing grace. Scripture speaks of God setting His love upon a people not because of any merit in them but purely out of His sovereign good pleasure:
+One of the most profound — and debated — expressions of God's love is His electing grace. The Reformed account reads Scripture as God setting His love upon a people not because of any merit in them but purely out of His sovereign good pleasure, a [gracious](../../salvation/grace/) choice to save those who could never save themselves:
 
 > "The LORD your God will circumcise your heart and the heart of your offspring, so that you will love the LORD your God with all your heart and with all your soul, that you may live." — Deuteronomy 30:6
 
-In the New Testament, Paul grounds [election](../../salvation/predestination-and-election/) in love: "In love he predestined us for [adoption](../../salvation/adoption/) to himself as sons through Jesus Christ, according to the purpose of his will" (Ephesians 1:4–5). God's electing love is not arbitrary favoritism but the free, [gracious](../../salvation/grace/) initiative of a God who chooses to save those who could never save themselves.
+In the New Testament, Paul speaks of [election](../../salvation/predestination-and-election/) and of love in the same passage (Ephesians 1:4–5). The King James Version and the World English Bible attach "in love" to being holy and without blame before him (the World English Bible reads "without defect"). Some modern translations attach "in love" to the predestining: "In love he predestined us for [adoption](../../salvation/adoption/) to himself as sons through Jesus Christ, according to the purpose of his will." Arminian theology roots election in God's foreknowledge of faith. Catholic and Orthodox theology do not confess the Reformed doctrine of unconditional election.
 
 ## Love and Justice
 

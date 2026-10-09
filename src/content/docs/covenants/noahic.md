@@ -14,7 +14,7 @@ After the waters receded and Noah's family emerged from the ark, Noah built an a
 
 > "I will never again curse the ground because of man, for the intention of man's heart is evil from his youth. Neither will I ever again strike down every living creature as I have done. While the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night, shall not cease." — Genesis 8:21-22
 
-This is remarkable: God's commitment to preserve the earth is grounded not in human improvement but in His own [sovereign](../../gods-nature/sovereignty/) [mercy](../../gods-nature/mercy-and-justice/). The same human sinfulness that provoked the flood is acknowledged — the Hebrew *yetser* (יֵצֶר) — "inclination, imagination, formed purpose" — of the human heart is *ra* (רַע) — "evil" — from youth. Yet God pledges restraint. Irenaeus saw in this a foreshadowing of God's patience with a fallen world: God preserves creation not because humanity has improved but because His redemptive purposes require time and space to unfold (*Adversus Haereses* III.11.8).
+This is remarkable: God's commitment to preserve the earth is grounded not in human improvement but in His own [sovereign](../../gods-nature/sovereignty/) [mercy](../../gods-nature/mercy-and-justice/). The same human sinfulness that provoked the flood is acknowledged — the Hebrew *yetser* (יֵצֶר) — "inclination, imagination, formed purpose" — of the human heart is *ra* (רַע) — "evil" — from youth. Yet God pledges restraint.
 
 The stability of the natural order — seasons, harvests, the rhythm of day and night — rests on this divine promise. Every time the seasons turn, every sunrise that follows a sunset, testifies to the faithfulness of the God who made this covenant with Noah.
 

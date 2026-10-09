@@ -13,10 +13,11 @@ The Bible opens not with an argument for God's existence but with the bold decla
 Scripture teaches that God created out of nothing — *ex nihilo* — rather than from pre-existing material:
 
 - "By faith we understand that the universe was created by the word of God, so that what is seen was not made out of things that are visible" (Hebrews 11:3)
-- God "calls into existence the things that do not exist" (Romans 4:17)
 - "All things were made through him, and without him was not any thing made that was made" (John 1:3)
 
-This distinguishes the biblical God from pagan creation myths, where gods shape the world from chaos or from the bodies of slain deities. [YHWH](../../names-of-god/yhwh/) is not a craftsman working with raw material — He is the source of all that exists. The early Church defended *creatio ex nihilo* against both pagan eternalism and Gnostic dualism. The Shepherd of Hermas (c. 150) declared, "First of all, believe that God is one, who made all things and completed them, and made all things to be out of that which was not." The Nicene Creed confesses God as "maker of heaven and earth, of all things visible and invisible."
+Romans 4:17 stands in the argument about Abraham, not in a creation narrative. The King James Version, the American Standard Version, and the World English Bible say that God calls the things that are not as though they were. Some modern translations read "calls into existence the things that do not exist."
+
+Creation out of nothing distinguishes the biblical God from pagan creation myths, where gods shape the world from chaos or from the bodies of slain deities. [YHWH](../../names-of-god/yhwh/) is not a craftsman working with raw material — He is the source of all that exists. The early Church defended *creatio ex nihilo* against both pagan eternalism and Gnostic dualism. The Shepherd of Hermas (c. 150) declared, "First of all, believe that God is one, who made all things and completed them, and made all things to be out of that which was not." The Nicene Creed confesses God as "maker of heaven and earth, of all things visible and invisible."
 
 ## The Genesis Creation Account
 

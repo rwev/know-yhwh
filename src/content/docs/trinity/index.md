@@ -15,7 +15,7 @@ Note that Jesus says "in the *name*" — singular *onoma* (ὄνομα) — not 
 
 The Trinity is not abstract speculation. It stands at the heart of the gospel itself:
 
-- **The Father** sends the Son and pours out the Spirit (John 3:16; Acts 2:33)
+- **The Father** sends the Son (John 3:16). The exalted Son, having received the promise from the Father, pours out the Spirit (Acts 2:33)
 - **The Son** reveals the Father and accomplishes redemption (John 14:9; Hebrews 1:3)
 - **The Holy Spirit** applies the Son's work and unites believers to the Father (Romans 8:15–16; Ephesians 2:18)
 

@@ -19,7 +19,7 @@ The Hebrew equivalent *tsedaqah* (צְדָקָה) — "righteousness" — carrie
 Justification involves a double exchange:
 
 1. **Our sin is imputed to Christ** — He bore the penalty we deserved on the cross (2 Corinthians 5:21; Isaiah 53:6)
-2. **Christ's righteousness is imputed to us** — We are credited with His perfect obedience (Romans 4:5–6; Philippians 3:9)
+2. **Christ's righteousness is imputed to us** — A Reformed account holds that we are credited with His perfect obedience. Romans 4:5 says that faith is counted for righteousness, Romans 4:6 that God counts righteousness apart from works, and Philippians 3:9 that the righteousness is from God by faith.
 
 This is the doctrine of *imputation*: sin is reckoned to Christ's account, and His righteousness is reckoned to ours. Luther called this the "great exchange" — Christ takes our rags and gives us His royal robe.
 

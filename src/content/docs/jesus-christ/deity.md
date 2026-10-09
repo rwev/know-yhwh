@@ -23,7 +23,7 @@ Scripture affirms this truth through direct declarations, divine attributes ascr
 ### Divine Attributes
 
 - **Eternality** — "Before Abraham was, I am" (John 8:58)
-- **Omnipresence** — "Where two or three are gathered in my name, there am I" (Matthew 18:20)
+- **Presence with those gathered in his name** — "Where two or three are gathered in my name, there am I" (Matthew 18:20)
 - **Omniscience** — "Lord, you know everything" (John 21:17)
 - **Omnipotence** — "All authority in heaven and on earth has been given to me" (Matthew 28:18)
 - **Authority to forgive sins** — a prerogative of God alone (Mark 2:5–7)

@@ -61,7 +61,7 @@ The Psalms teach us to [pray](../../prayer-and-worship/prayer/) with the **full 
 Certain psalms are recognized as having particular messianic significance, pointing forward to Christ:
 
 - **Psalm 2** — "You are My Son; today I have begotten You" — The enthronement of the Anointed King, cited at Jesus' baptism and throughout the New Testament
-- **Psalm 22** — "My God, my God, why have You forsaken me?" — The psalm Jesus quoted from the cross, whose details — hands and feet surrounded by evildoers (22:16), garments divided by lot (22:18) — match the crucifixion narrative with striking precision, culminating in vindication and universal praise
+- **Psalm 22** — "My God, my God, why have You forsaken me?" — The psalm Jesus quoted from the cross, whose details — they pierced his hands and feet, which the Hebrew "like a lion" reading disputes (22:16), garments divided by lot (22:18) — match the crucifixion narrative with striking precision, culminating in vindication and universal praise
 - **Psalm 110** — "The LORD says to my [Lord](../../names-of-god/adonai/): Sit at My right hand" — The most quoted Old Testament verse in the New Testament; Jesus used it to demonstrate the Messiah's divine nature (Matthew 22:41–46)
 - **Psalm 16** — "You will not abandon my soul to Sheol" — Cited by Peter at Pentecost as fulfilled in Christ's resurrection (Acts 2:25-28)
 - **Psalm 118** — "The stone the builders rejected has become the cornerstone" — Applied to Christ by Jesus Himself (Matthew 21:42)

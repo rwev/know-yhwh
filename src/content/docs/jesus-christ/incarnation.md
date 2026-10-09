@@ -19,7 +19,7 @@ The incarnation does not mean:
 - Two persons inhabited one body (He is one person with two natures)
 
 Rather, the second person of the [Trinity](../../trinity/one-god-three-persons/) assumed a human nature — body and soul —
-into personal union with Himself. As Athanasius declared in *De Incarnatione*, "The Word was not degraded by receiving a body... He deified what He put on" (54.3) — the incarnation elevates humanity without diminishing divinity.
+into personal union with Himself. As Athanasius declared in *Against the Arians*, "For the Word was not impaired in receiving a body, that He should seek to receive a grace, but rather He deified that which He put on" (I.42) — the incarnation elevates humanity without diminishing divinity.
 
 ## The Virgin Birth
 

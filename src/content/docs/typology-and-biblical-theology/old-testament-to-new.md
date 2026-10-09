@@ -78,8 +78,9 @@ Jesus Himself taught that the entire Old Testament bears witness to Him:
   of Moses, the Prophets, and the Psalms spoke of Him (Luke 24:27, 44)
 - He told the religious leaders, "You search the Scriptures because you think that in them
   you have eternal life; and it is they that bear witness about me" (John 5:39)
-- He is the prophet greater than Moses (Deuteronomy 18:15; Acts 3:22), the priest greater
-  than Aaron (Hebrews 7:11--28), and the king greater than David (Psalm 110:1; Acts 2:34--36)
+- He is the prophet like Moses (Deuteronomy 18:15; Acts 3:22) and greater in glory
+  than Moses (Hebrews 3:3), the priest greater than Aaron (Hebrews 7:11--28), and
+  the king greater than David (Psalm 110:1; Acts 2:34--36)
 
 ## Reading the Old Testament Christologically
 

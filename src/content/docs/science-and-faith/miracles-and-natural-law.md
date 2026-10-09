@@ -4,7 +4,7 @@ sidebar:
   order: 2
 ---
 
-> "Who is like you, O LORD, among the gods? Who is like you, majestic in holiness, awesome in glorious deeds, doing wonders?" — Exodus 15:11
+> "Who is like unto thee, O LORD, among the gods? who is like thee, glorious in holiness, fearful in praises, doing wonders?" — Exodus 15:11
 
 From the parting of the Red Sea to the resurrection of Jesus Christ, Scripture testifies that God acts within His creation in powerful, extraordinary ways. These mighty deeds — miracles — are not embarrassments to be explained away but revelations of who God is: sovereign over all things, faithful to His promises, and actively at work in the world He made.
 

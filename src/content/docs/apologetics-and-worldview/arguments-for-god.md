@@ -18,7 +18,7 @@ The cosmological argument (from Greek *kosmos* (κόσμος) — "world, ordere
 - The universe began to exist (supported by Big Bang cosmology, the impossibility of an actual infinite past, and the second law of thermodynamics)
 - Therefore, the universe has a cause — a cause that is itself uncaused, timeless, spaceless, immaterial, and enormously powerful. Scripture affirms this conclusion: "[In the beginning, God created](../../creation-and-humanity/creation/) the heavens and the earth" (Genesis 1:1)
 
-This line of reasoning traces back to Aristotle's Unmoved Mover, was developed by Islamic philosophers such as al-Kindi, and was refined by Thomas Aquinas in his "Five Ways." The modern *kalam* (Arabic: كلام — "speech, discourse," denoting Islamic scholastic theology) cosmological argument, championed by William Lane Craig, remains one of the most widely discussed arguments in philosophy of religion.
+This syllogism is the *kalam* (Arabic: كلام — "speech, discourse," denoting Islamic scholastic theology) cosmological argument, pressed by the Islamic theologian al-Ghazali. Aristotle's Unmoved Mover and Aquinas's "Five Ways" are a dependence argument, and Aquinas allowed a universe without a temporal beginning. The modern form, championed by William Lane Craig, remains one of the most widely discussed arguments in philosophy of religion.
 
 ## The Teleological (Design) Argument
 
@@ -46,7 +46,7 @@ First formulated by Anselm of Canterbury (1033–1109), the ontological argument
 - A being that exists in reality is greater than one that exists only in the mind
 - Therefore, the greatest conceivable being must exist in reality
 
-This argument has been debated for nearly a thousand years. While many find it too abstract, it has been defended in sophisticated modal forms by philosophers such as Alvin Plantinga. At minimum, it demonstrates that the concept of God is logically coherent. In Plantinga's modal version, if it is even *possibly* true that a maximally great being exists, then by the axioms of S5 modal logic, that being exists necessarily — and therefore actually.
+This argument has been debated for nearly a thousand years. While many find it too abstract, it has been defended in sophisticated modal forms by philosophers such as Alvin Plantinga. The conclusion is that God exists. Coherence, or possibility, is a premise the argument needs. Leibniz said that Descartes still had to show that premise. In Plantinga's modal version, if it is even *possibly* true that a maximally great being exists, then by the axioms of S5 modal logic, that being exists necessarily — and therefore actually.
 
 ## The Argument from Consciousness and Reason
 

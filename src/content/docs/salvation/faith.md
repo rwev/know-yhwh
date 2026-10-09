@@ -24,7 +24,7 @@ The Protestant Reformers helpfully analyzed saving faith as having three dimensi
 2. **Assent** (*assensus*) — Faith agrees that these truths are actually true. It moves beyond awareness to conviction — "Yes, this is so."
 3. **Trust** (*fiducia*) — Faith personally relies upon Christ for salvation. This is the decisive element. A person may know the gospel and agree that it is true yet never entrust themselves to Christ. *Fiducia* is the heart's resting upon Christ alone.
 
-All three are necessary. Knowledge without assent is mere information. Assent without trust is mere orthodoxy. Trust without knowledge and assent is mere sentimentality. Saving faith engages the whole person — intellect, affections, and will — resting entirely upon Christ. Augustine captured this distinction between belief *about* God and belief *in* God: "to believe in God (*credere Deo*) is one thing; to believe that God exists (*credere Deum*) is another; to believe *into* God (*credere in Deum*) — to love Him and be drawn into union with Him — is the faith that saves" (*In Iohannis Evangelium* 29.6).
+All three are necessary. Knowledge without assent is mere information. Assent without trust is mere orthodoxy. Trust without knowledge and assent is mere sentimentality. Saving faith engages the whole person — intellect, affections, and will — resting entirely upon Christ. Augustine contrasts believing Him with believing in Him: to believe in Him is to love Him, to esteem Him, and to go into Him (*In Iohannis Evangelium* 29.6).
 
 ## Faith vs. Mere Belief
 

@@ -93,7 +93,7 @@ Jesus inaugurated His public ministry by reading from Isaiah in the synagogue at
 
 His ministry consistently reached toward those on the margins — lepers, tax collectors,
 women, Samaritans, the demon-possessed. The kingdom He announced was one where the last
-become first and the humble are exalted (Luke 14:11).
+become first (Luke 13:30) and the humble are exalted (Luke 14:11).
 
 In the parable of the sheep and the goats (Matthew 25:31–46), Jesus identifies Himself with
 the hungry, the thirsty, the stranger, the naked, the sick, and the imprisoned. To serve

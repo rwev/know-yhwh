@@ -56,7 +56,7 @@ It does mean:
 - No one is able to save themselves or merit God's favor
 - Apart from God's grace, the human heart is inclined away from God (Jeremiah 17:9; Romans 8:7–8)
 
-The doctrine affirms the radical depth of the human problem and the corresponding necessity of divine [grace](../../salvation/grace/). As the Synod of Dort (1618–1619) expressed it, humans retain "glimmerings of natural light" but are unable to use them rightly in matters of salvation — a position that echoes Augustine's anti-Pelagian writings and was reaffirmed by the [Council of Orange](../../salvation/grace/) (529).
+The doctrine affirms the radical depth of the human problem and the corresponding necessity of divine [grace](../../salvation/grace/). As the Synod of Dort (1618–1619) expressed it, humans retain "glimmerings of natural light," but this light cannot bring a saving knowledge of God, and man is incapable of using it aright even in things natural and civil — a position that echoes Augustine's anti-Pelagian writings and the [Council of Orange](../../salvation/grace/) (529).
 
 ## Universal Sinfulness
 

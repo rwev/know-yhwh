@@ -31,8 +31,7 @@ New Jerusalem traces God's relentless pursuit of presence with His people.
 
 ### The Progression of God's Dwelling
 
-- **Eden** --- The garden was the first [temple](../../covenants/adamic/), the place where God walked with humanity
-  in unbroken fellowship (Genesis 3:8)
+- **Eden** --- The garden was the first [temple](../../covenants/adamic/), the place of God's presence with humanity
 - **The Tabernacle** --- After the Exodus, God commanded Israel to build a portable sanctuary
   so that He might dwell in their midst (Exodus 25:8)
 - **Solomon's Temple** --- A permanent dwelling for God's name in Jerusalem, filled with

@@ -12,7 +12,7 @@ Grace is God's unmerited favor toward those who deserve only judgment. It is not
 
 The Greek *charis* (χάρις) carries a range of meaning: "grace," "favor," "gift," "kindness." In the Greco-Roman world, *charis* described the generosity of a patron toward a client — a gift freely given that created a bond of gratitude. Paul transformed the word, pouring into it the radical content of God's unilateral mercy toward rebels.
 
-The Hebrew equivalent is *chen* (חֵן), meaning "favor" or "grace." It appears in the foundational phrase "to find favor in the eyes of" someone (Genesis 6:8; Exodus 33:12–17). Noah "found favor in the eyes of the LORD" — not because of his merits but because God chose to be gracious to him.
+The Hebrew equivalent is *chen* (חֵן), meaning "favor" or "grace." It appears in the foundational phrase "to find favor in the eyes of" someone (Genesis 6:8; Exodus 33:12–17). Noah "found favor in the eyes of the LORD." Genesis 6:9 calls him a righteous man and says that he walked with God.
 
 The related word *chesed* (חֶסֶד), often translated "steadfast love" or "lovingkindness," describes God's loyal, covenant-keeping grace toward His people. While *chen* emphasizes undeserved favor, *chesed* emphasizes faithful, enduring commitment — the grace that persists through Israel's rebellion and unfaithfulness. Together these words paint a portrait of a God who is both freely generous and unbreakably loyal.
 

@@ -20,7 +20,7 @@ The promise found its dramatic fulfillment at Pentecost (Acts 2). The disciples 
 
 Peter, in his sermon that day, identified this event as the fulfillment of Joel's prophecy: "This is what was uttered through the prophet Joel: 'And in the last days it shall be, God declares, that I will pour out my Spirit on all flesh'" (Acts 2:16–17).
 
-Pentecost was a unique, unrepeatable event in redemptive history — the inauguration of the [new covenant](../../covenants/new/) age of the Spirit. Just as Christ's death and resurrection happened once for all yet their benefits extend to every generation, so Pentecost inaugurated a permanent new reality: the Spirit now indwells God's people corporately and individually. Christians have reflected on the ongoing implications of this event in a few different ways.
+Pentecost was a unique, unrepeatable event in redemptive history — the inauguration of the [new covenant](../../covenants/new-covenant/) age of the Spirit. Just as Christ's death and resurrection happened once for all yet their benefits extend to every generation, so Pentecost inaugurated a permanent new reality: the Spirit now indwells God's people corporately and individually. Christians have reflected on the ongoing implications of this event in a few different ways.
 
 ## How Christians Have Understood This
 

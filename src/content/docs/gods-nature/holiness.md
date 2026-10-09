@@ -4,7 +4,7 @@ sidebar:
   order: 1
 ---
 
-> "Who is like you, O LORD, among the gods? Who is like you, majestic in holiness, awesome in glorious deeds, doing wonders?" — Exodus 15:11
+> "Who is like unto thee, O LORD, among the gods? who is like thee, glorious in holiness, fearful in praises, doing wonders?" — Exodus 15:11
 
 Holiness is the attribute of God that sets Him apart from all creation. The Hebrew word *qadosh* (קָדוֹשׁ) carries the idea of being "set apart," "separate," or "other." God's holiness is not merely one attribute among many — it is the atmosphere in which all His other attributes exist.
 
@@ -38,7 +38,7 @@ God's holiness necessarily entails His wrath against sin. Wrath is not a loss of
 
 > "For our God is a consuming fire." — Hebrews 12:29
 
-Yet even God's wrath serves a redemptive purpose. The judgment against sin clears the way for restoration, and God's holiness becomes the ground of hope rather than despair for those who take refuge in Him. At the [cross](../../jesus-christ/atonement-theories/), God's holiness and [mercy](./mercy-and-justice/) converge: the holy God judges sin with full severity while simultaneously providing the sacrifice that reconciles sinners to Himself (Romans 3:25–26).
+Yet even God's wrath serves a redemptive purpose. The judgment against sin clears the way for restoration, and God's holiness becomes the ground of hope rather than despair for those who take refuge in Him. At the [cross](../../jesus-christ/atonement-theories/), God's holiness and [mercy](../mercy-and-justice/) converge: the holy God judges sin with full severity while simultaneously providing the sacrifice that reconciles sinners to Himself (Romans 3:25–26).
 
 ## The Call to Holiness
 

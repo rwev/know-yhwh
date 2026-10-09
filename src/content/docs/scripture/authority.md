@@ -42,8 +42,11 @@ that the result is exactly what God intended (2 Peter 1:21). For a fuller treatm
 
 ### Inerrancy
 
-Because God is truthful and cannot lie (Titus 1:2), His Word is without error
-in all that it affirms — in matters of faith, history, and the created order.
+Because God is truthful and cannot lie (Titus 1:2), the strict evangelical
+account — the Chicago Statement on Biblical Inerrancy — holds that His Word is
+without error in all that it affirms — in matters of faith, history, and the
+created order. Catholic teaching in Dei Verbum ties "without error" to the
+truth God wanted put into the writings for the sake of salvation.
 
 ### Sufficiency
 
@@ -73,13 +76,15 @@ in every claim, and permanent in every promise.
 
 ## Scripture and the Church's Tradition
 
-Christians agree that Scripture is the supreme and final authority for faith and
+Protestants hold that Scripture is the supreme and final authority for faith and
 practice — the standard by which every other authority, including the church's
-own tradition, must be judged. Traditions differ in how they understand
-Scripture's relationship to the church's teaching office and to the accumulated
-wisdom of the councils and creeds.
+own tradition, must be judged. Catholic and Eastern Orthodox teaching receives
+Scripture and Sacred Tradition together and does not draw certainty from
+Scripture alone. Traditions differ in how they understand Scripture's
+relationship to the church's teaching office and to the accumulated wisdom of
+the councils and creeds.
 
-The Reformation articulated this conviction as *sola Scriptura* — "Scripture
+The Reformation articulated that Protestant rule as *sola Scriptura* — "Scripture
 alone" — meaning Scripture is the sole *infallible* rule of faith, even as
 creeds, confessions, and the church's theological heritage remain valued,
 subordinate guides (a position distinct from the more individualistic "solo

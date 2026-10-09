@@ -48,8 +48,10 @@ The book gives voice to every believer who has wondered why the wicked prosper, 
 
 Remarkably, woven through Qohelet's somber reflections is a recurring refrain of **joy**. Seven times the book commends the simple pleasures of eating, drinking, and finding satisfaction in one's work — not as escapism but as **gifts from the hand of God**:
 
-> There is nothing better for a person than that he should eat and drink and find enjoyment in his toil. This also, I saw, is from the hand of God, for apart from Him who can eat or who can have enjoyment?
-> — Ecclesiastes 2:24-25
+> There is nothing better for a person than that he should eat and drink and find enjoyment in his toil. This also, I saw, is from the hand of God.
+> — Ecclesiastes 2:24
+
+A modern critical text of verse 25 reads "apart from Him who can eat or who can have enjoyment"; the King James Version and the World English Bible say "more than I."
 
 > I perceived that there is nothing better for them than to be joyful and to do good as long as they live; also that everyone should eat and drink and take pleasure in all his toil — this is God's gift to man.
 > — Ecclesiastes 3:12-13

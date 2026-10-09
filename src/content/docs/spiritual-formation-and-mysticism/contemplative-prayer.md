@@ -13,7 +13,7 @@ The Scriptures are rich with examples of sustained, attentive communion with God
 - **Jesus** regularly withdrew to solitary places to pray (Luke 5:16), spent entire nights in prayer (Luke 6:12), and taught his disciples to seek the Father in hiddenness (Matthew 6:6)
 - **Moses** spoke with God "face to face, as a man speaks to his friend" (Exodus 33:11) and spent forty days on Sinai in the divine presence
 - **Elijah** encountered God not in wind, earthquake, or fire, but in the "still small voice" — the *qol demamah daqqah* (קוֹל דְּמָמָה דַקָּה), a sound of thin silence (1 Kings 19:12)
-- **The Psalms** repeatedly call the faithful to wait upon the Lord in silence and stillness (Psalm 27:14; 62:1, 5). The command *dom* (דּוֹם, "be silent, wait") in Psalm 62:1 and the imperative *harpu* (הַרְפּוּ, "let go, cease striving") in Psalm 46:10 both express a deliberate release of anxious activity into the hands of God
+- **The Psalms** repeatedly call the faithful to wait upon the Lord in silence and stillness (Psalm 27:14; 62:1, 5). Psalm 62:1 is a statement, "my soul waiteth," not a command. The imperative in that psalm is verse 5, *dommi* (דּוֹמִּי, "be silent, wait"). That imperative and the imperative *harpu* (הַרְפּוּ, "let go, cease striving") in Psalm 46:10 both express a deliberate release of anxious activity into the hands of God
 
 ## Hesychia — The Way of Stillness
 

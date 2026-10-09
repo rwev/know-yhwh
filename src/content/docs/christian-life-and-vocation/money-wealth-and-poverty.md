@@ -61,7 +61,7 @@ Paul's principle of generosity is grounded in equality — *isotēs* (ἰσότ�
 
 ## Generosity as Worship
 
-The Bible frames generosity not as a burden but as an act of worship and joy. The cheerful giver is the one God loves (2 Corinthians 9:7). The Philippians' financial gift to Paul is called "a fragrant offering, a sacrifice acceptable and pleasing to God" (Philippians 4:18). To give generously is to participate in the generosity of God Himself, who "gives to all liberally and without reproach" (James 1:5).
+The Bible frames generosity not as a burden but as an act of worship and joy. The cheerful giver is the one God loves (2 Corinthians 9:7). The Philippians' financial gift to Paul is called "a fragrant offering, a sacrifice acceptable and pleasing to God" (Philippians 4:18). To give generously is to participate in the generosity of God Himself.
 
 The practice of tithing — giving a tenth — has roots in Abraham's offering to Melchizedek (Genesis 14:20) and the Mosaic law (Leviticus 27:30; Malachi 3:10). Christians differ on whether tithing is a binding obligation or a helpful guideline, but all traditions agree that generous, sacrificial giving is a mark of genuine [faith](../../salvation/faith/) and a response to the overwhelming generosity of God's [grace](../../salvation/grace/) in Christ.
 

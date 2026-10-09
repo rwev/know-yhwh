@@ -28,7 +28,7 @@ This does not excuse sin within the Church. The New Testament calls believers to
 
 ## Catholic
 
-The word "catholic" — from the Greek *katholikos* (καθολικός) — means "universal, according to the whole" — *kata* (κατά, "according to") + *holos* (ὅλος, "whole"). Ignatius of Antioch first used the phrase *hē katholikē ekklēsia* — "the catholic church" — around 110 AD (*Epistle to the Smyrnaeans* 8.2): "Where the bishop is, there is the catholic church." The mark of catholicity means that the Church is not a local or national institution but a universal body that transcends every boundary of race, language, culture, and nation.
+The word "catholic" — from the Greek *katholikos* (καθολικός) — means "universal, according to the whole" — *kata* (κατά, "according to") + *holos* (ὅλος, "whole"). Ignatius of Antioch first used the phrase *hē katholikē ekklēsia* — "the catholic church" — around 110 AD (*Epistle to the Smyrnaeans* 8.2): "Wherever the bishop appears, there let the people be; wherever Jesus Christ is, there is the catholic church." The mark of catholicity means that the Church is not a local or national institution but a universal body that transcends every boundary of race, language, culture, and nation.
 
 The Church's catholicity is rooted in the Great Commission: "Go therefore and make disciples of all nations" (Matthew 28:19). The vision of Revelation confirms it: "a great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne" (Revelation 7:9). The Church is catholic because the gospel is for the whole world and the whole person — addressing every dimension of human life and every corner of human culture.
 

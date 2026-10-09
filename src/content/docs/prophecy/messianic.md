@@ -17,7 +17,7 @@ The English word "Messiah" comes from the Hebrew *mashiach* (מָשִׁיחַ) �
 The messianic hope does not appear all at once. It unfolds progressively through Scripture, each promise narrowing the focus and adding new detail to the portrait of the coming Redeemer:
 
 - **Genesis 3:15** — The seed of the woman will crush the serpent's head. The first messianic promise, given in the Garden after the [fall](../../creation-and-humanity/the-fall/).
-- **Genesis 12:3** — Through [Abraham's](../../covenants/abrahamic/) offspring, all nations will be blessed. The promise narrows to one family.
+- **Genesis 12:3; 22:18** — In [Abraham](../../covenants/abrahamic/) all the families of the earth will be blessed, and in his offspring all the nations of the earth will be blessed. The promise narrows to one family.
 - **2 Samuel 7:12–16** — God establishes [David's](../../covenants/davidic/) throne forever. The promise narrows to one royal line.
 - **Isaiah 53** — The Servant is pierced for our transgressions. The promise reveals a suffering deliverer.
 - **Daniel 9:24–26** — An "anointed one" will come and be "cut off." The promise includes a timeline.

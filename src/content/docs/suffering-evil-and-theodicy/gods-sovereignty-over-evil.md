@@ -22,7 +22,7 @@ Scripture is emphatic on this point:
 - God takes no pleasure in wickedness (Psalm 5:4)
 - God is [holy](../../gods-nature/holiness/) — *qadosh* (קָדוֹשׁ) — utterly set apart from all that is impure (Isaiah 6:3)
 
-Evil originates in the rebellious wills of creatures — angelic and human — not in the being or decree of God. Whatever we say about divine sovereignty must never compromise the absolute moral purity of God.
+The guilt of evil does not arise from the being of God. One account locates the act in the rebellious wills of creatures — angelic and human — and holds that it lies outside His decree. Another agrees that the sinfulness proceeds from the creature, while holding that nothing, evil included, falls outside His decree. Whatever we say about divine sovereignty must never compromise the absolute moral purity of God.
 
 A crucial text is Isaiah 45:7, where God declares: "I form light and create darkness; I make well-being and create calamity (*ra'*/רָע)." The Hebrew *ra'* here does not mean moral evil but *calamity* or *disaster* — God governs the fortunes of nations, sending judgment and hardship as instruments of His purposes. The KJV's translation "I create evil" has caused confusion, but the semantic range of *ra'* encompasses everything from moral wickedness to natural disaster, and the context of Isaiah 45 concerns God's sovereignty over the rise and fall of empires (specifically Cyrus), not the origin of sin.
 
