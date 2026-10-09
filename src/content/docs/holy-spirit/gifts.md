@@ -49,9 +49,9 @@ The gift of tongues (*glossolalia*, from *glossa* [γλῶσσα], "tongue/langu
 
 Paul values the gift but subordinates it to prophecy in the gathered assembly, because prophecy builds up the congregation directly while uninterpreted tongues edify only the speaker (1 Corinthians 14:4–5). He provides regulations for orderly use: no more than two or three speakers, each in turn, and only if an interpreter is present (1 Corinthians 14:27–28).
 
-## The Cessationist-Continuationist Debate
+## Do the Gifts Continue Today?
 
-Christians disagree about whether all the gifts listed in the New Testament continue today. Two broad positions have emerged:
+Christians have understood differently whether all the gifts listed in the New Testament continue today. Two broad positions have emerged:
 
 **Cessationism** holds that certain gifts — particularly tongues, prophecy, healing, and miracles (sometimes called the "sign gifts") — ceased with the apostolic age. Cessationists argue that these gifts served to authenticate the apostles and the newly-revealed Scriptures (2 Corinthians 12:12; Hebrews 2:3–4), and that once the [canon](../../scripture/canon/) was complete, their foundational purpose was fulfilled. The "perfect" — *to teleion* (τὸ τέλειον) — in 1 Corinthians 13:10 is sometimes understood as the completed canon. B.B. Warfield influentially argued this position in *Counterfeit Miracles* (1918), and it has been widely held in Reformed and dispensational traditions.
 

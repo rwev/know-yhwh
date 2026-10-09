@@ -49,9 +49,9 @@ The Spirit is the agent behind the inspiration of Scripture. Peter writes: "No p
 
 Paul affirms that "all Scripture is breathed out by God" (2 Timothy 3:16). The word *theopneustos* (θεόπνευστος) — "God-breathed" — links directly to the Spirit as the breath (*pneuma*) of God. Scripture is the Spirit's book.
 
-## The Filioque Controversy
+## The Filioque Question
 
-The [Nicene-Constantinopolitan Creed](../../church-history-and-tradition/early-church-and-councils/) (381) originally stated that the Spirit "proceeds from the Father" (John 15:26). In the Western church, the Latin word *Filioque* ("and the Son") was later added, so that the creed read "proceeds from the Father and the Son." This addition became one of the central theological disputes between the Eastern Orthodox and Roman Catholic churches, contributing to the Great Schism of 1054.
+The [Nicene-Constantinopolitan Creed](../../church-history-and-tradition/early-church-and-councils/) (381) originally stated that the Spirit "proceeds from the Father" (John 15:26). In the Western church, the Latin word *Filioque* ("and the Son") was later added, so that the creed read "proceeds from the Father and the Son." This addition became one of the questions that has long divided the Eastern Orthodox and Roman Catholic churches, contributing to the Great Schism of 1054.
 
 The **Eastern position** holds that the Father alone is the single source — *monarchia* (μοναρχία) — "sole principle, single origin" — of both the Son and the Spirit. The Spirit proceeds from the Father through the Son, but the Father alone is the ultimate origin within the [Trinity](../../trinity/one-god-three-persons/).
 

@@ -10,16 +10,14 @@ The book of Revelation is the capstone of biblical prophecy — a vision given t
 
 ## Interpretive Approaches
 
-Christians have read Revelation through four major lenses throughout church history. Each has strengths and devoted adherents:
+Whatever their interpretive framework, Christians share the conviction that Revelation reveals the certain victory of Christ. Several truths are non-negotiable across every faithful reading: Christ will [return](../../last-things/second-coming/) visibly and bodily, evil will be finally defeated, the dead will be [raised](../../last-things/resurrection-and-judgment/), God will judge with perfect justice, and He will dwell with His people in a [renewed creation](../../last-things/new-creation/) forever.
+
+Within that shared hope, Christians have read Revelation's symbols and visions through four major lenses across church history, and many faithful interpreters combine elements of more than one:
 
 - **Preterist** — The events described were largely fulfilled in the first century, particularly in the fall of Jerusalem (AD 70) and the Roman persecution of the early church. This view emphasizes the original audience and historical context.
 - **Historicist** — Revelation maps out the entire course of church history from the first century to the second coming. Various symbols correspond to specific historical events and figures across the centuries. This was the dominant Protestant view during the Reformation.
 - **Futurist** — Most of Revelation (chapters 4–22) describes events still future — a coming tribulation, the rise of the Antichrist, and Christ's visible return. This view takes the prophetic visions as literal future realities.
 - **Idealist** — Revelation presents timeless spiritual truths about the ongoing conflict between good and evil, Christ and Satan, the church and the world. The symbols are not tied to specific historical events but depict recurring patterns.
-
-Many faithful interpreters combine elements of multiple approaches. What unites all Christian readings is the conviction that Revelation reveals the certain victory of Christ.
-
-Regardless of interpretive framework, several truths are non-negotiable: Christ will [return](../../last-things/second-coming/) visibly and bodily, evil will be finally defeated, the dead will be [raised](../../last-things/resurrection-and-judgment/), God will judge with perfect justice, and He will dwell with His people in a [renewed creation](../../last-things/new-creation/) forever.
 
 ## Literary Structure
 

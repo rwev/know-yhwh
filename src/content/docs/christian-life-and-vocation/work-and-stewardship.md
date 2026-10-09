@@ -78,9 +78,9 @@ Jesus spoke about money more than nearly any other topic. His teaching is search
   reluctantly or under compulsion, for God loves a cheerful giver" (2 Corinthians 9:7)
 
 The early church modeled radical generosity, holding possessions in common so that "there was
-not a needy person among them" (Acts 4:34). Throughout church history, Christians have debated
-the proper relationship to wealth, but the call to generosity and detachment from material
-idolatry remains constant.
+not a needy person among them" (Acts 4:34). Christians have understood the proper relationship
+to wealth in different ways throughout church history, but the call to generosity and
+detachment from material idolatry remains constant.
 
 ### Time and Talents
 

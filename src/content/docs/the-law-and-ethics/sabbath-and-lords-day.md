@@ -6,7 +6,7 @@ sidebar:
 
 > "Remember the Sabbath day, to keep it holy. Six days you shall labor, and do all your work, but the seventh day is a Sabbath to the LORD your God." — Exodus 20:8–10
 
-The Sabbath is one of the most distinctive and debated institutions in all of Scripture. Rooted in [creation](../../creation-and-humanity/creation/), codified at Sinai, treasured by Israel, and fulfilled in Christ, the Sabbath principle raises profound questions about work and rest, law and [gospel](../../salvation/gospel/), creation and [new creation](../../last-things/new-creation/). Christians have answered these questions in significantly different ways, yet all agree that God has built rhythms of rest and worship into the fabric of human existence.
+The Sabbath is one of the most distinctive institutions in all of Scripture. Rooted in [creation](../../creation-and-humanity/creation/), codified at Sinai, treasured by Israel, and fulfilled in Christ, the Sabbath principle declares that God has built rhythms of rest and worship into the fabric of human existence. How that principle applies under the new covenant — which day, and in what manner — is a question Christians have answered in different ways, held with charity across the Church.
 
 ## The Sabbath in Creation
 
@@ -45,15 +45,9 @@ By the second century, Christian writers such as Ignatius of Antioch, Justin Mar
 
 ## Christian Views on the Sabbath
 
-Christians have held a range of positions on how the Sabbath commandment applies under the new covenant:
+Christians have held a range of positions on how the Sabbath commandment applies under the new covenant. Some hold a **Sabbatarian** view — that the Fourth Commandment remains a moral law of permanent validity, observed by keeping Saturday as the Sabbath (as Seventh-day Adventists and Seventh Day Baptists do) or, more commonly among Puritans and some Reformed Christians, by transferring that same rest and worship to Sunday, the Lord's Day. Others hold a **fulfillment** view — that Christ Himself is the substance the Sabbath pointed to, and believers now enter His rest by faith rather than by binding obligation to a day (Colossians 2:16–17; Hebrews 4:9–10). Luther taught a related view: that the commandment's specific day was ceremonial and is fulfilled in Christ, while the need for rest and worship remains a matter of wisdom, observed on Sunday by apostolic custom rather than divine command. Catholic and Orthodox teaching holds Sunday as the Lord's Day in fulfillment of the Sabbath, with the Eucharist at its center and rest from unnecessary work as its natural expression.
 
-- **The Sabbatarian view** — The Fourth Commandment is a moral law with permanent validity. Seventh-day Sabbatarians (Seventh-day Adventists, Seventh Day Baptists) observe Saturday as the Christian Sabbath. First-day Sabbatarians (many Puritans, some Reformed Christians) transferred the Sabbath obligation to Sunday, the Lord's Day, and observe it with similar rest and worship.
-
-- **The fulfillment view** — Christ has fulfilled the Sabbath, and believers enter a spiritual rest through faith in Him. The weekly day of worship is valued but is not a binding Sabbath obligation under the law. Paul writes, "Let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath. These are a shadow of the things to come, but the substance belongs to Christ" (Colossians 2:16–17). The author of Hebrews develops this theme: "There remains a Sabbath rest (*sabbatismos*, σαββατισμός) for the people of God, for whoever has entered God's rest has also rested from his works as God did from his" (Hebrews 4:9–10).
-
-- **The Lutheran view** — Luther taught that the Sabbath commandment, insofar as it prescribes a specific day, is ceremonial and abolished in Christ. However, the need for rest and worship is a matter of natural law and practical wisdom. Christians gather on Sunday by apostolic custom, not by divine command.
-
-- **The Catholic and Orthodox view** — Sunday is observed as the Lord's Day in fulfillment of the Sabbath, with an obligation to participate in the Eucharist and to rest from unnecessary work. The Catechism of the Catholic Church teaches that the Sunday celebration "fulfills the moral command of the Old Covenant" while transcending it.
+Whatever the precise view, every tradition agrees that God intends His people to rest, worship, and remember — and that the deepest fulfillment of the Sabbath is found in Christ, not in the letter of a day.
 
 ## The Sabbath Principle
 

@@ -19,9 +19,25 @@ The New Testament speaks of the Church's unity with extraordinary force:
 
 Paul's letters repeatedly address divisions within the early Church — between Jew and Gentile, rich and poor, followers of different leaders — and in every case the apostolic response is the same: such division is intolerable in the body of Christ. The [cross](../../jesus-christ/death-and-resurrection/) has broken down "the dividing wall of hostility" (Ephesians 2:14), creating from two one new humanity. To persist in division is to deny the reconciling power of the gospel.
 
+## What Unites Christians
+
+Beneath any discussion of division, an enormous body of shared belief unites all who confess Christ. C.S. Lewis called it "mere Christianity" — the common faith that underlies all the particular traditions:
+
+- The Triune God — Father, Son, and Holy Spirit
+- The full divinity and full humanity of Jesus Christ
+- The authority of the Holy Scriptures
+- Salvation by the grace of God through faith in Christ
+- The reality of sin and the need for redemption
+- The bodily resurrection of Jesus and the hope of resurrection for all who believe
+- The return of Christ and the final consummation of all things
+- The call to love God and neighbor
+- Baptism and the Lord's Supper as commanded by Christ
+
+This shared inheritance is vastly greater than what divides. The [Nicene Creed](../../church-history-and-tradition/creeds-and-confessions/) — confessed by Catholic, Orthodox, and most Protestant churches — represents the broadest consensus of Christian doctrine across time and space. As Irenaeus insisted in the second century, the Church scattered across the world holds "one and the same faith" received from the apostles — a faith recognizable in its essential contours from Rome to Alexandria to Antioch (*Against Heresies* I.10.1).
+
 ## The History of Division
 
-The Church's visible unity was fractured in stages:
+With so much held in common, it can come as a surprise that the visible Church bears real, historical divisions. Those divisions unfolded in stages:
 
 1. **The Chalcedonian split (451 AD)** — The Oriental Orthodox churches separated over Christological language, though modern dialogue has revealed substantial theological agreement beneath the verbal differences.
 2. **The [Great Schism](../../church-history-and-tradition/medieval-church/) (1054)** — The Latin West and the Greek East divided over papal authority, the *filioque*, and accumulated cultural estrangement. This remains the deepest institutional rift in Christendom.
@@ -46,22 +62,6 @@ Christians have proposed different models for what visible unity would look like
 - **Conciliar fellowship** — Distinct churches recognize one another as true churches and maintain full communion (including shared Eucharist) while retaining their own governance, liturgy, and traditions. The communion of Orthodox churches approximates this model.
 - **Reconciled diversity** — Churches remain institutionally distinct but formally acknowledge their differences as legitimate expressions of the one faith, entering into fellowship and cooperation. The Leuenberg Agreement (1973) between European Lutheran and Reformed churches is an example.
 - **Spiritual unity** — Christians are already united in Christ through the Holy Spirit, and this spiritual unity is the essential thing. Institutional structures are secondary. This view is common in evangelical and free church traditions.
-
-## What Unites Christians
-
-Beneath the divisions, an enormous body of shared belief unites all who confess Christ. C.S. Lewis called it "mere Christianity" — the common faith that underlies all the particular traditions:
-
-- The Triune God — Father, Son, and Holy Spirit
-- The full divinity and full humanity of Jesus Christ
-- The authority of the Holy Scriptures
-- Salvation by the grace of God through faith in Christ
-- The reality of sin and the need for redemption
-- The bodily resurrection of Jesus and the hope of resurrection for all who believe
-- The return of Christ and the final consummation of all things
-- The call to love God and neighbor
-- Baptism and the Lord's Supper as commanded by Christ
-
-This shared inheritance is vastly greater than what divides. The [Nicene Creed](../../church-history-and-tradition/creeds-and-confessions/) — confessed by Catholic, Orthodox, and most Protestant churches — represents the broadest consensus of Christian doctrine across time and space. As Irenaeus insisted in the second century, the Church scattered across the world holds "one and the same faith" received from the apostles — a faith recognizable in its essential contours from Rome to Alexandria to Antioch (*Against Heresies* I.10.1).
 
 ## The Limits of Unity
 

@@ -56,14 +56,9 @@ Christian forgiveness is often misunderstood. It is essential to distinguish wha
 - **Forgiveness does not preclude justice** — Forgiving a criminal does not mean opposing their just punishment. Paul affirms that governing authorities bear the sword as God's servants (Romans 13:4). Forgiveness operates in the realm of the heart; justice operates in the realm of public order. The two are not in conflict.
 - **Forgiveness does not mean forgetting** — The popular phrase "forgive and forget" has no biblical basis. God's promise to "remember" sins "no more" (Jeremiah 31:34) is a covenantal commitment not to hold sins against the forgiven — not a claim of divine amnesia. Human beings may remember offenses long after they have forgiven; the question is whether the memory is held with bitterness or with grace.
 
-## Forgiveness and the Sacraments
+## Forgiveness and Confession
 
-Different Christian traditions understand the practice of forgiveness in distinct ways:
-
-- **Catholic and Orthodox traditions** practice the sacrament of Confession (also called Reconciliation or Penance). The penitent confesses sins to a priest, who pronounces absolution in the name of Christ. This practice is grounded in John 20:23: "If you forgive the sins of any, they are forgiven them." The sacrament is understood as a tangible encounter with God's mercy, not a replacement for direct prayer to God.
-- **Protestant traditions** emphasize direct confession to God through Christ, the one mediator (1 Timothy 2:5), while also affirming the value of confessing sins to one another (James 5:16). Some traditions practice corporate confession in worship; others encourage private confession to a pastor or trusted believer.
-
-All traditions agree that God alone forgives sin, that forgiveness is received through faith in Christ, and that the practice of confession — whether sacramental or personal — is a vital means of experiencing and appropriating the forgiveness God has already provided.
+Christians practice the confession of sin in different ways. Catholic and Orthodox believers confess to a priest, who pronounces absolution in Christ's name (John 20:23) — a tangible encounter with God's mercy, not a replacement for direct prayer to God. Many Protestant traditions emphasize confessing directly to God through Christ, the one mediator (1 Timothy 2:5), while also valuing the confession of sin to one another (James 5:16), whether corporately in worship or privately to a pastor or trusted believer. However it is practiced, all agree that God alone forgives sin, that forgiveness is received through faith in Christ, and that confession is a vital means of experiencing the forgiveness God has already provided.
 
 ## The Freedom of Forgiveness
 

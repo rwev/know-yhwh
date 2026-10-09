@@ -26,11 +26,11 @@ The Psalms are poetry of the highest order. The Song of Solomon is love poetry o
 
 ## The Iconoclast Controversy
 
-The most significant theological debate about art in Christian history was the iconoclast controversy of the eighth and ninth centuries. The iconoclasts — from *eikon* (εἰκών) — "image" — and *klaō* (κλάω) — "to break" — opposed the use of images in Christian worship, appealing to the Second Commandment's prohibition of graven images (Exodus 20:4–5).
+One of the most significant moments in the Church's reflection on art was the iconoclast controversy of the eighth and ninth centuries. The iconoclasts — from *eikon* (εἰκών) — "image" — and *klaō* (κλάω) — "to break" — opposed the use of images in Christian worship, appealing to the Second Commandment's prohibition of graven images (Exodus 20:4–5).
 
 The defenders of icons — the iconodules (*eikōn* + *doulos*, "servant of images") — argued that the incarnation had fundamentally changed the situation. The invisible God had become visible in Christ. To forbid the depiction of Christ was, in effect, to deny the incarnation. The [Seventh Ecumenical Council](../../church-history-and-tradition/early-church-and-councils/) (Nicaea II, 787) affirmed the veneration of icons, distinguishing between *latreia* (worship, due to God alone) and *proskynēsis* (veneration, appropriate for sacred images).
 
-The Protestant Reformation reignited aspects of this debate. The Reformed tradition generally rejected images of Christ in worship (following the Second Commandment strictly), while the Lutheran tradition was more permissive, and the Anglican tradition maintained a middle way. These differences persist today and reflect genuine theological convictions about the relationship between the material and the spiritual, the visible and the invisible.
+The Protestant Reformation returned to these same questions in a new setting. The Reformed tradition generally moved away from images of Christ in worship, reading the Second Commandment strictly, while the Lutheran tradition was more permissive and the Anglican tradition sought a middle way. These differing practices persist today and reflect genuine, careful theological convictions about the relationship between the material and the spiritual, the visible and the invisible — not carelessness on either side.
 
 ## Liturgy: The Work of the People
 
@@ -38,15 +38,7 @@ The word "liturgy" comes from the Greek *leitourgia* (λειτουργία) — 
 
 ### Liturgical Traditions
 
-The major Christian traditions approach liturgy differently:
-
-- **Catholic and Orthodox worship** follows ancient liturgical forms (the Mass / the Divine Liturgy) with fixed prayers, readings, responses, and the central act of the Eucharist. The liturgical year (Advent, Christmas, Epiphany, Lent, Holy Week, Easter, Pentecost, Ordinary Time) shapes the rhythm of worship and organizes the public reading of Scripture over multi-year cycles.
-
-- **Anglican and Lutheran worship** maintains substantial liturgical structure while allowing for flexibility. The *Book of Common Prayer* (Anglican) and the various Lutheran worship books provide rich liturgical resources rooted in the historic tradition.
-
-- **Reformed worship** emphasizes the centrality of the preached Word and follows what is sometimes called the "regulative principle" — the conviction that corporate worship should include only those elements for which there is positive scriptural warrant. Calvin's Geneva liturgy was stripped of what he considered unbiblical accretions but retained a deep reverence and theological seriousness.
-
-- **Free church and evangelical worship** prioritizes spontaneity, congregational participation, and the movement of the Spirit. Worship is structured but not bound to fixed liturgical forms. Contemporary worship music, extempore prayer, and extended preaching are typical elements.
+Christian communities give shape to worship in different ways, and each has good reasons for its approach. Catholic and Orthodox worship follows ancient liturgical forms (the Mass, the Divine Liturgy) with fixed prayers and the central act of the Eucharist, organized around a liturgical year (Advent, Christmas, Epiphany, Lent, Holy Week, Easter, Pentecost) that carries the public reading of Scripture across multi-year cycles. Anglican and Lutheran worship maintains much of this structure while allowing flexibility, drawing on rich resources like the *Book of Common Prayer*. Reformed worship emphasizes the centrality of the preached Word, often shaped by what is called the "regulative principle" — including only what Scripture positively warrants — while remaining, as in Calvin's Geneva liturgy, deeply reverent and theologically serious. Free church and evangelical worship prioritizes spontaneity, congregational participation, and the felt movement of the Spirit, with contemporary music, extempore prayer, and extended preaching as typical elements. Whatever the form, the aim is the same: to give God the glory due His name.
 
 ### Common Elements
 

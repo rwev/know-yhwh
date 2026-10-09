@@ -34,7 +34,7 @@ A key insight of the New Testament is that the last days have already begun. Wit
 
 ## Humility and Hope
 
-Christians have long disagreed about the precise sequence and timing of future events. The great creeds affirm the essentials — Christ will return, the dead will rise, and God will judge — while leaving room for differing interpretations of prophetic literature. What unites all orthodox Christians is the confident hope that God's purposes will be fulfilled and that the one who began a good work will bring it to completion (Philippians 1:6).
+Christians have long held different views about the precise sequence and timing of future events. The great creeds affirm the essentials — Christ will return, the dead will rise, and God will judge — while leaving room for differing interpretations of prophetic literature. What unites all orthodox Christians is the confident hope that God's purposes will be fulfilled and that the one who began a good work will bring it to completion (Philippians 1:6).
 
 ## In This Section
 

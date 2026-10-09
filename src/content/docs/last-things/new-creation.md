@@ -15,7 +15,7 @@ Isaiah first proclaimed this hope using the Hebrew verb *bara'* (בָּרָא) �
 
 ## Continuity and Discontinuity
 
-Christians have debated whether the present creation is annihilated and replaced or purified and transformed. Both ideas find support in Scripture:
+Christians have understood in different ways whether the present creation is annihilated and replaced or purified and transformed. Both ideas find support in Scripture:
 
 - **Discontinuity**: "The heavens will pass away with a roar, and the heavenly bodies will be burned up and dissolved" (2 Peter 3:10). The language suggests a radical break with the present order.
 - **Continuity**: "The creation itself will be set free from its bondage to corruption (*phthora*, φθορά — decay, ruin, perishability)" (Romans 8:21). The verb *eleutheroō* (ἐλευθερόω) — "to set free, to liberate" — implies transformation rather than replacement — creation liberated, not discarded.

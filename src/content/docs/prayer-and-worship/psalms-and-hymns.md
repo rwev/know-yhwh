@@ -54,14 +54,9 @@ The tradition of Christian singing extends in an unbroken line from the apostoli
 - **The 18th century** saw Isaac Watts transform English hymnody, followed by Charles Wesley's vast output of doctrinally rich hymns
 - **The modern era** has produced an extraordinary diversity of worship music, from gospel and spirituals to contemporary praise
 
-## Exclusive Psalmody vs. Hymns
+## Psalms Alone, or Psalms and Hymns?
 
-A significant debate within Reformed Christianity concerns whether only the inspired Psalms should be sung in corporate worship, or whether uninspired hymns are also permissible:
-
-- **Exclusive psalmody** argues that God has given His church an inspired songbook — the 150 Psalms — and that singing uninspired compositions in worship lacks divine warrant. This position appeals to the regulative principle and the sufficiency of the Psalter. It has been held by many Scottish Presbyterians and Reformed Presbyterians.
-- **The hymn-singing position** holds that the New Testament commands to sing "hymns and spiritual songs" alongside psalms (Ephesians 5:19, Colossians 3:16) provide warrant for uninspired compositions, and that the church has always composed new songs in response to God's unfolding acts of redemption — especially the coming of Christ.
-
-Both sides share a commitment to God-centered, doctrinally faithful singing. The debate concerns the proper application of the regulative principle to the church's song.
+Within parts of the Reformed tradition, a question has long been considered with care: should corporate worship sing only the inspired Psalms, or may the church also sing uninspired hymns? Those who hold to psalms alone treasure the 150 Psalms as God's own inspired songbook, sufficient for His people's worship. Others point to the New Testament's own commands to sing "hymns and spiritual songs" alongside psalms (Ephesians 5:19; Colossians 3:16) and to the church's long history of composing new songs in response to God's unfolding acts of redemption, especially the coming of Christ. Both convictions flow from the same commitment: that the church's singing should be God-centered and doctrinally faithful.
 
 ## Singing with Heart and Mind
 

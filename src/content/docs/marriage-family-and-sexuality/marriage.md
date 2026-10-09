@@ -40,9 +40,9 @@ This typology means that every Christian marriage is meant to be a living parabl
 
 ## Roles and Mutual Submission
 
-Paul begins the Ephesians household code with a call to mutual submission: "submitting to one another out of reverence for Christ" (Ephesians 5:21). The Greek *hupotassomenoi* (ὑποτασσόμενοι) — a middle-voice participle of *hupotasso* — means "arranging oneself under," conveying voluntary deference rather than forced subordination. Two key Greek terms shape the debate over roles:
+Paul begins the Ephesians household code with a call to mutual submission: "submitting to one another out of reverence for Christ" (Ephesians 5:21). The Greek *hupotassomenoi* (ὑποτασσόμενοι) — a middle-voice participle of *hupotasso* — means "arranging oneself under," conveying voluntary deference rather than forced subordination. Two key Greek terms shape how Christians read this passage:
 
-- *Kephale* (κεφαλή) — "head" — Paul calls the husband the "head" of the wife as Christ is head of the Church (Ephesians 5:23). The word can mean "source/origin" or "authority/leader" in Koine Greek; which sense Paul intends here is central to the disagreement between complementarians and egalitarians
+- *Kephale* (κεφαλή) — "head" — Paul calls the husband the "head" of the wife as Christ is head of the Church (Ephesians 5:23). The word can mean "source/origin" or "authority/leader" in Koine Greek; which sense Paul intends here is central to how complementarians and egalitarians read the passage differently
 - *Agapao* (ἀγαπάω) — "to love" — the verb Paul uses when commanding husbands to love their wives "as Christ loved the church" (Ephesians 5:25). This is self-sacrificing, initiative-taking love, not mere affection
 
 Christians have understood the outworking of this in two main ways:

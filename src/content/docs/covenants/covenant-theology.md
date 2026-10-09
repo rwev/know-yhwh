@@ -6,9 +6,18 @@ sidebar:
 
 > "For all the promises of God find their Yes in him. That is why it is through him that we utter our Amen to God for his glory." — 2 Corinthians 1:20
 
-How do the biblical covenants relate to one another? Is there one overarching covenant, or a series of distinct administrations? Do the promises to Israel carry forward to the church, or do they remain distinct? Christians who affirm the authority of Scripture have answered these questions in different ways. Understanding the major frameworks helps us read the Bible more carefully and engage fellow believers with charity.
+How do the biblical covenants relate to one another? Is there one overarching covenant, or a series of distinct administrations? Do the promises to Israel carry forward to the church, or do they remain distinct? Christians who affirm the authority of Scripture have answered these questions in different ways, each seeking to honor the whole of what God has revealed. Whatever framework a believer finds most persuasive, the heart of the matter is shared: Christ is the fulfillment of every covenant, and God has been faithful to His promises across every age.
 
-Three major evangelical traditions have developed comprehensive answers to these questions: Covenant Theology, Dispensationalism, and New Covenant Theology (or Progressive Covenantalism). Each reads the same Scriptures with different structural emphases. Each has strengths, and each faces challenges.
+## What Unites Evangelical Views
+
+Despite the differences below, faithful interpreters across these frameworks share core convictions:
+
+- **Christ is the fulfillment of all the covenants** — Every covenant points to Him and finds its ultimate "Yes" in Him (2 Corinthians 1:20).
+- **Scripture is one unified story** — From creation to new creation, the Bible tells a single narrative of God redeeming a people for His glory.
+- **Salvation is by [grace](../../salvation/grace/) through [faith](../../salvation/faith/)** — No covenant has ever taught that sinners earn God's favor by their own merit. From Abraham to the present, [justification](../../salvation/justification/) is by faith alone in the promised Redeemer.
+- **God is faithful** — Not one of His promises has failed or will fail (Joshua 23:14). The covenants reveal a God who keeps His word across millennia, through every failure of His human partners.
+
+Three major evangelical frameworks have developed comprehensive answers to how the covenants fit together: Covenant Theology, Dispensationalism, and New Covenant Theology (or Progressive Covenantalism). Each reads the same Scriptures with different structural emphases, and each offers real insight.
 
 ## Covenant Theology (Reformed)
 
@@ -28,7 +37,7 @@ After the [fall](../../creation-and-humanity/the-fall/), God initiated a single 
 
 **Strengths**: Covenant Theology highlights the deep continuity of God's plan and reads the Old Testament Christologically. It provides a robust framework for understanding sacraments (baptism as the new covenant counterpart to circumcision) and the unity of the people of God.
 
-**Challenges**: Critics argue that the covenant of works and covenant of grace are theological constructs not explicitly named in Scripture, and that this framework can underemphasize the genuine newness of the new covenant and the distinctive role of Israel in God's plan.
+**Challenges**: Some note that the covenant of works and covenant of grace are theological constructs not explicitly named in Scripture, and that this framework can underemphasize the genuine newness of the new covenant and the distinctive role of Israel in God's plan.
 
 ## Dispensationalism
 
@@ -44,7 +53,7 @@ Progressive dispensationalism, a more recent development, softens some of these 
 
 **Strengths**: Dispensationalism takes seriously God's specific promises to Israel and resists spiritualizing Old Testament prophecy. It maintains a clear distinction between law and grace and emphasizes the imminence of Christ's return.
 
-**Challenges**: Critics contend that classical dispensationalism fragments the unity of Scripture, creates too sharp a divide between Israel and the church, and that some of its key features (such as a pre-tribulational rapture) lack strong exegetical support.
+**Challenges**: Some note that classical dispensationalism can fragment the unity of Scripture and create too sharp a divide between Israel and the church, and that some of its key features (such as a pre-tribulational rapture) rest on debated exegetical grounds.
 
 ## New Covenant Theology and Progressive Covenantalism
 
@@ -56,15 +65,6 @@ A mediating position has emerged under various names — New Covenant Theology, 
 
 **Strengths**: This approach takes the progressive nature of revelation seriously, avoids imposing a predetermined theological grid on the text, and emphasizes the radical newness of what Christ accomplished.
 
-**Challenges**: Critics argue that it can undervalue the continuity between the testaments, and that the "law of Christ" concept needs more precise definition to avoid antinomianism.
-
-## What Unites Evangelical Views
-
-Despite significant disagreements, faithful evangelical interpreters across these frameworks share core convictions:
-
-- **Christ is the fulfillment of all the covenants** — Every covenant points to Him and finds its ultimate "Yes" in Him (2 Corinthians 1:20).
-- **Scripture is one unified story** — From creation to new creation, the Bible tells a single narrative of God redeeming a people for His glory.
-- **Salvation is by [grace](../../salvation/grace/) through [faith](../../salvation/faith/)** — No covenant has ever taught that sinners earn God's favor by their own merit. From Abraham to the present, [justification](../../salvation/justification/) is by faith alone in the promised Redeemer.
-- **God is faithful** — Not one of His promises has failed or will fail (Joshua 23:14). The covenants reveal a God who keeps His word across millennia, through every failure of His human partners.
+**Challenges**: Some note that it can undervalue the continuity between the testaments, and that the "law of Christ" concept needs more precise definition to avoid antinomianism.
 
 > "Know therefore that the LORD your God is God, the faithful God who keeps covenant and steadfast love with those who love him and keep his commandments, to a thousand generations." — Deuteronomy 7:9

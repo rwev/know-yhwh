@@ -73,20 +73,7 @@ Just as Christ's two natures are genuinely united without either being destroyed
 
 ## Western Parallels
 
-### Roman Catholic "Divinization"
-
-The Catholic tradition, while not using the language of theosis as centrally as the East, affirms the same reality under different terms. The *Catechism of the Catholic Church* (460) quotes Athanasius's maxim directly and teaches that "the Word became flesh to make us partakers of the divine nature." Thomas Aquinas spoke of the *visio beatifica* — the beatific vision — in which the blessed see God "face to face" and are transformed by that seeing.
-
-### Protestant "Glorification"
-
-Protestant theology emphasizes the final glorification of believers — the completion of salvation when the redeemed are raised with incorruptible bodies and fully conformed to the image of Christ (Romans 8:29–30; Philippians 3:20–21). While Protestants have generally been cautious about the language of "deification," many scholars now recognize significant convergence between the Reformed doctrine of *unio mystica* (mystical union with Christ) and the Eastern teaching on theosis.
-
-Notable Protestant engagements include:
-
-- **Martin Luther** spoke of a "joyful exchange" (*fröhlicher Wechsel*) in which Christ takes on our sin and gives us his righteousness — language that echoes the patristic exchange formula
-- **John Calvin** wrote extensively about union with Christ and participation in his life as the foundation of salvation
-- **C.S. Lewis** popularized theosis for an English-speaking audience: "The command *Be ye perfect* is not idealistic gas. Nor is it a command to do the impossible. He is going to make us into creatures that can obey that command" (*Mere Christianity*)
-- **Finnish Luther scholarship** (Tuomo Mannermaa and the "Helsinki School") has argued that Luther's theology of justification includes a genuine participation in the divine nature
+The West has generally used different vocabulary for this same reality, though the substance is shared. The Catholic tradition speaks of "divinization": the *Catechism of the Catholic Church* (460) quotes Athanasius's maxim directly, and Thomas Aquinas described the *visio beatifica* — the beatific vision — in which the blessed see God "face to face" and are transformed by that seeing. Protestant theology tends to speak instead of "glorification" — the completion of salvation when the redeemed are raised with incorruptible bodies, fully conformed to the image of Christ (Romans 8:29–30; Philippians 3:20–21) — and while Protestants have generally been cautious about the language of deification itself, many scholars now recognize a real convergence between the Reformed doctrine of *unio mystica* (mystical union with Christ) and the Eastern teaching on theosis. Martin Luther spoke of a "joyful exchange" (*fröhlicher Wechsel*) in which Christ takes on our sin and gives us his righteousness, echoing the patristic exchange formula, and John Calvin wrote extensively of union with Christ as the foundation of salvation; more recently, Finnish Luther scholarship (Tuomo Mannermaa and the "Helsinki School") has argued that Luther's own theology of justification includes a genuine participation in the divine nature. C.S. Lewis popularized the idea for a wide audience: "The command *Be ye perfect* is not idealistic gas. Nor is it a command to do the impossible. He is going to make us into creatures that can obey that command" (*Mere Christianity*).
 
 ## The Goal of All Things
 

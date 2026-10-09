@@ -40,16 +40,13 @@ Every aspect of salvation is rooted in grace:
 
 For a fuller treatment of how these aspects relate, see the article on the [*ordo salutis*](../ordo-salutis/).
 
-## The Debate: Irresistible or Resistible?
+## How Grace Meets the Will
 
-Christians have long debated how grace operates in the human will:
+Christians have long pondered how grace operates in the human will. The **Reformed** tradition holds that saving grace is *effectual* (sometimes called "irresistible"): because sinners are spiritually dead (Ephesians 2:1), God sovereignly regenerates the heart before a person can respond in faith, and those whom He calls will surely come (John 6:37, 44) — not by coercion, but because grace so transforms the heart's desires that the sinner freely and gladly comes to Christ. The **Arminian and Wesleyan** tradition holds that God extends *prevenient grace* to all people, restoring the ability to choose that was lost in the Fall; grace is genuinely sufficient for salvation, though it can be resisted (Acts 7:51), and human cooperation is part of the response.
 
-- **The Reformed view** holds that saving grace is *effectual* (often called "irresistible"). Because sinners are spiritually dead (Ephesians 2:1), God must sovereignly regenerate the heart before a person can respond in faith. Those whom God calls will infallibly come (John 6:37, 44). The term "irresistible" does not mean grace is coercive — rather, it so transforms the heart's desires that the sinner freely and gladly comes to Christ.
-- **The Arminian/Wesleyan view** holds that God extends *prevenient grace* to all people, enabling them to respond freely to the gospel. This grace restores the ability to choose that was lost in the Fall. Grace is genuinely sufficient for salvation, but it can be resisted by the human will (Acts 7:51). Salvation remains entirely by grace, but human cooperation is part of the response.
+The Pelagian controversy of the fifth century forced the Church to define grace's role with precision. Pelagius taught that humans possess the natural ability to obey God without the prior work of grace; Augustine of Hippo argued that the [fall](../../creation-and-humanity/the-fall/) so damaged human nature that apart from grace, the will is enslaved to sin (*De Gratia et Libero Arbitrio*). The Council of Carthage (418) and the Second Council of Orange (529) sided decisively with Augustine, condemning the idea that humans can initiate or merit salvation apart from grace. Both the Reformed and Arminian traditions stand within this Augustinian consensus — differing in how grace relates to freedom, but united against any suggestion that human effort can earn God's favor.
 
-The Pelagian controversy of the fifth century forced the Church to define grace's role with precision. Pelagius taught that humans possess the natural ability to obey God without the prior work of grace; Augustine of Hippo argued that the [fall](../../creation-and-humanity/the-fall/) so damaged human nature that apart from grace, the will is enslaved to sin (*De Gratia et Libero Arbitrio*). The Council of Carthage (418) and the Second Council of Orange (529) sided decisively with Augustine, condemning the idea that humans can initiate or merit salvation apart from grace. Both Reformed and Arminian traditions stand within this Augustinian consensus — disagreeing about how grace operates, but united against any suggestion that human effort can earn God's favor.
-
-Both traditions affirm that salvation is by grace alone — the disagreement concerns *how* grace relates to human freedom. Believers on each side can affirm with gratitude:
+Both traditions affirm that salvation is by grace alone. Believers on each side can affirm together, with gratitude:
 
 > "But by the grace of God I am what I am, and his grace toward me was not in vain." — 1 Corinthians 15:10
 

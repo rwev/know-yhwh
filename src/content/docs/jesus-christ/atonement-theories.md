@@ -28,7 +28,7 @@ This model emphasizes the entire life of Christ, not only His death. The incarna
 
 Anselm of Canterbury (1033–1109) asked the question *Cur Deus Homo?* — "Why did God become man?" His answer: human sin is an infinite offense against God's honor, and no finite creature can make adequate satisfaction. Only a being who is both truly God (possessing infinite worth) and truly human (bearing the obligation to make restitution) could offer what is owed. Christ's voluntary death, as the God-man, provided a satisfaction of infinite value — more than enough to cover the debt of all human sin.
 
-Anselm's model was shaped by the feudal context of medieval Europe, where offenses against a lord's honor demanded proportional restitution. Critics note this cultural influence, but the underlying logic has deep biblical roots: sin is an offense against the infinitely [holy](../../gods-nature/holiness/) God, and only God Himself can provide what [justice](../../gods-nature/mercy-and-justice/) demands. Anselm's framework profoundly influenced Western theology, both Catholic and Protestant.
+Anselm's model was shaped by the feudal context of medieval Europe, where offenses against a lord's honor demanded proportional restitution. Some note this cultural influence, though the underlying logic has deep biblical roots: sin is an offense against the infinitely [holy](../../gods-nature/holiness/) God, and only God Himself can provide what [justice](../../gods-nature/mercy-and-justice/) demands. Anselm's framework profoundly influenced Western theology, both Catholic and Protestant.
 
 ## Penal Substitution
 
@@ -38,7 +38,7 @@ The Reformers — Luther, Calvin, and their heirs — refined and sharpened the 
 
 Isaiah 53 is the great prophetic foundation: "He was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed" (Isaiah 53:5). Paul declares that God put Christ forward as a propitiation — *hilastērion* (ἱλαστήριον) — "by his blood, to be received by faith" (Romans 3:25).
 
-This model has been the dominant view in Protestant theology since the Reformation and is affirmed by many Catholic and Orthodox theologians in modified forms. Critics argue that it can portray the Father as wrathful and the Son as victim, but its defenders insist that the Trinity acts in perfect unity: the Father sends the Son in [love](../../gods-nature/love/) (John 3:16), the Son goes willingly (John 10:18), and the Spirit applies the benefits of the cross to believers. The [cross as answer](../../suffering-evil-and-theodicy/the-cross-as-answer/) to the problem of evil also finds its deepest expression through this model.
+This model has been the dominant view in Protestant theology since the Reformation and is affirmed by many Catholic and Orthodox theologians in modified forms. Some raise the concern that it can portray the Father as wrathful and the Son as victim; its proponents respond that the Trinity acts in perfect unity: the Father sends the Son in [love](../../gods-nature/love/) (John 3:16), the Son goes willingly (John 10:18), and the Spirit applies the benefits of the cross to believers. The [cross as answer](../../suffering-evil-and-theodicy/the-cross-as-answer/) to the problem of evil also finds its deepest expression through this model.
 
 ## Moral Influence
 
@@ -52,7 +52,7 @@ The moral influence model captures something genuinely biblical: the cross does 
 
 Hugo Grotius (1583–1645), a Dutch jurist and theologian, proposed the governmental theory. God is not a private party seeking personal satisfaction but the Moral Governor of the universe. Sin threatens the moral order of God's creation. The cross is a public demonstration that God takes sin seriously — a display of divine justice that upholds the moral law and warns against transgression, while simultaneously opening the door for God to mercifully forgive without undermining His governance.
 
-This model has been influential in Wesleyan and Arminian traditions. It preserves the objective significance of the cross (something real happened) while avoiding what some see as the harsher implications of strict penal substitution. Critics argue that it reduces Christ's death to a demonstration rather than a true bearing of penalty.
+This model has been influential in Wesleyan and Arminian traditions. It preserves the objective significance of the cross (something real happened) while avoiding what some see as the harsher implications of strict penal substitution. Others feel it reduces Christ's death to a demonstration rather than a true bearing of penalty.
 
 ## Holding the Models Together
 

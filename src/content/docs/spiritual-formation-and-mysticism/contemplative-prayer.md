@@ -66,15 +66,10 @@ The practice involves:
 
 Keating described Centering Prayer as a preparation for contemplative prayer — a method of consenting to God's presence and action within.
 
-## Critiques and Concerns
+## Questions Worth Asking
 
-Some evangelical and Reformed Christians have raised concerns about contemplative prayer practices:
+Because these practices can be unfamiliar, thoughtful Christians rightly ask questions of them. Does biblical meditation mean emptying the mind, or filling it with Scripture (Joshua 1:8; Psalm 1:2)? The best answer is that contemplative prayer, rightly practiced, is not emptiness for its own sake but attentiveness to God beyond conceptual thought — a silence that follows, rather than replaces, a mind saturated in the Word. Does the practice's resemblance to Eastern meditation techniques compromise it? Christian contemplation is distinguished by what fills the silence: not the dissolution of self sought in some Eastern traditions, but relational communion with the personal God revealed in Christ.
 
-- **Emptying the mind**: Critics argue that biblical meditation involves filling the mind with Scripture (Joshua 1:8; Psalm 1:2), not emptying it. Advocates respond that contemplative prayer is not about emptiness but about attentiveness to God beyond conceptual thought.
-- **Similarity to Eastern religions**: Some note apparent parallels with Buddhist or Hindu meditation techniques. Proponents counter that Christian contemplation is fundamentally relational — directed toward the personal God revealed in Christ — and that silence before God has deep biblical roots.
-- **Lack of explicit biblical command**: Some argue the practices lack clear scriptural warrant. Defenders point to the biblical examples of silence, waiting, and wordless communion noted above.
-- **Theological foundations**: Concerns have been raised about the apophatic theology underlying some contemplative practices. Practitioners respond that apophatic and cataphatic (affirmative) approaches to God are complementary, not contradictory.
-
-These concerns deserve honest engagement. The strongest forms of contemplative prayer remain firmly anchored in Scripture, centered on Christ, practiced within community, and submitted to the discernment of the broader Church.
+Such questions deserve honest engagement rather than either uncritical adoption or reflexive suspicion. The strongest forms of contemplative prayer remain firmly anchored in Scripture, centered on Christ, practiced within community, and submitted to the discernment of the broader Church — a good test for any spiritual practice.
 
 > "In returning and rest you shall be saved; in quietness and in trust shall be your strength." — Isaiah 30:15

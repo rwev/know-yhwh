@@ -66,15 +66,7 @@ The Sermon does not end with "believe this" but with "do this." The contrast is 
 
 ## How Should We Read the Sermon?
 
-Christians have debated how to interpret and apply the Sermon on the Mount. The major views include:
-
-- **The Reformed view**: The Sermon reveals the full depth of God's moral demand, which no one can perfectly keep. It drives believers to depend on Christ's righteousness while also providing a standard for sanctification. The Sermon shows both the goal of the Christian life and the impossibility of achieving it apart from [grace](../../salvation/grace/).
-
-- **The Anabaptist and Wesleyan view**: The Sermon is meant to be obeyed — literally and practically — by the community of Jesus' disciples. Nonviolence, enemy love, and radical generosity are not impossible ideals but the actual way of life that the Spirit empowers. The church is called to embody these commands visibly in the world.
-
-- **The Lutheran two-kingdoms view**: The Sermon governs the Christian's personal life and spiritual posture before God, but civil society operates under a different mandate. A Christian may serve as a soldier or judge while personally holding to the ethic of the Sermon in matters of the heart.
-
-- **The Eschatological view**: The Sermon describes the ethic of the coming kingdom. It is fully realizable only when Christ returns, but it shapes the direction of Christian life now as believers live in anticipation of that kingdom.
+Christians have read and applied the Sermon on the Mount in a few complementary ways. Some traditions, echoing the Reformed emphasis, hear it chiefly as a revelation of God's perfect moral demand — one no one can fully keep — that drives believers to depend on Christ's righteousness even as it shapes their sanctification. Others, in the Anabaptist and Wesleyan spirit, hear it as a call to be obeyed concretely: nonviolence, enemy love, and radical generosity as the actual Spirit-empowered life of Jesus' community. The Lutheran tradition distinguishes the Sermon's claim on the believer's personal and spiritual life from the different mandate governing civil society. And many read it with an eye to the future, as a description of the coming kingdom's ethic that is only fully realizable at Christ's return, yet already shapes how believers live now in anticipation of it.
 
 Each of these readings captures something true. The Sermon is at once a revelation of God's ultimate standard, a call to genuine obedience, and an invitation to depend on the [grace](../../salvation/grace/) of the One who alone fulfilled it perfectly. Augustine devoted an entire treatise to it (*De Sermone Domini in Monte*), reading the Beatitudes as a ladder of [sanctification](../../sanctification-and-discipleship/sanctification/) ascending from humility to [peacemaking](../../gods-nature/love/) — a journey made possible only by the Spirit who writes the [law](../moral-and-ceremonial-law/) on the heart.
 

@@ -62,8 +62,7 @@ Alexandria beginning around 250 BC — included additional books not found in th
 Hebrew canon: Tobit, Judith, Wisdom of Solomon, Sirach (Ecclesiasticus), Baruch,
 1–2 Maccabees, and additions to Daniel and Esther.
 
-The status of these books has been a point of longstanding disagreement among
-Christians:
+Christian traditions have received this material differently:
 
 - **Roman Catholics** (following the [Council of Trent](../../church-history-and-tradition/the-reformation/), 1546) regard them as
   deuterocanonical — fully inspired and authoritative, a "second canon" alongside
@@ -73,10 +72,9 @@ Christians:
   with some variation among national churches, and may include additional texts
   such as 3 Maccabees, Psalm 151, the Prayer of Manasseh, and 1 Esdras.
 - **Protestants** classify them as apocryphal — valuable for historical and
-  devotional reading but not the basis for doctrine. The Reformers noted that
-  these books were not part of the Hebrew canon, were not quoted as Scripture by
-  Jesus or the apostles, and contain material in tension with the rest of the
-  canon.
+  devotional reading but not the basis for doctrine, noting that these books
+  were not part of the Hebrew canon and were not quoted as Scripture by Jesus or
+  the apostles.
 
 ## The New Testament Canon
 

@@ -45,14 +45,9 @@ The gathered church worships through:
 - **[Sacraments](../../the-church/sacraments-and-ordinances/)** — baptism and the Lord's Supper
 - **Fellowship** — mutual encouragement and edification
 
-## The Regulative and Normative Principles
+## Ordering Corporate Worship
 
-Reformed theology has long debated how to order corporate worship:
-
-- **The regulative principle** holds that only those elements of worship explicitly commanded or warranted by Scripture may be included. What God has not commanded is forbidden. This view, held by many Presbyterians and Reformed Baptists, appeals to passages like Deuteronomy 12:32 and the example of Nadab and Abihu (Leviticus 10:1–2).
-- **The normative principle** holds that whatever Scripture does not forbid is permissible, so long as it accords with the general principles of God's Word. This view, common among Lutherans and Anglicans, allows greater freedom in liturgical practice.
-
-Both traditions agree that worship must be God-centered, Christ-exalting, and Spirit-empowered. The debate concerns the proper boundaries of human creativity in the ordering of worship.
+Christians who share a high view of Scripture's authority have still asked how closely its warrant should govern the specific forms of corporate worship. Some, following what is called the regulative principle, hold that only those elements explicitly commanded or warranted by Scripture belong in worship (cf. Deuteronomy 12:32). Others, following the normative principle common among Lutherans and Anglicans, hold that whatever Scripture does not forbid is permissible, provided it accords with the general principles of God's Word and allows greater freedom in liturgical practice. Both convictions agree on what matters most: that worship be God-centered, Christ-exalting, and Spirit-empowered.
 
 ## Worship as Warfare
 

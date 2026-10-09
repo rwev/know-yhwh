@@ -37,9 +37,9 @@ The Law given through Moses includes:
 - **Ceremonial law** — Sacrifices, feasts, and purity regulations pointing to Christ as [types and shadows](../../typology-and-biblical-theology/types-and-shadows/)
 - **Civil law** — Governance for Israel as a theocratic nation
 
-### The Threefold Division Debate
+### How Christians Apply This Distinction
 
-The threefold distinction between moral, ceremonial, and civil law has been standard in Reformed theology since the Westminster Confession. It holds that the moral law (the Ten Commandments) is universally and permanently binding, while the ceremonial and civil laws were fulfilled or expired with the coming of Christ. Critics of this framework — including some theonomists and many New Covenant theologians — argue that the Old Testament itself does not make this distinction and that the law functions as a unified whole. Theonomists contend that the civil law retains binding authority as a model for modern societies, while New Covenant theologians argue that the entire Mosaic law has been set aside, replaced by the "law of Christ" (Galatians 6:2). Each position reflects a different understanding of how the old covenant relates to the new. (For a fuller discussion, see [Covenant Theology](../covenant-theology/).)
+The threefold distinction between moral, ceremonial, and civil law has been standard in Reformed theology since the Westminster Confession. It holds that the moral law (the Ten Commandments) is universally and permanently binding, while the ceremonial and civil laws were fulfilled or expired with the coming of Christ. Others, including some theonomists and many New Covenant theologians, read the Old Testament as not making this distinction explicitly and see the law as functioning more as a unified whole — theonomists holding that the civil law still models something for societies today, New Covenant theologians holding that the entire Mosaic law has given way to the "law of Christ" (Galatians 6:2). Each position reflects a different understanding of how the old covenant relates to the new. (For a fuller discussion, see [Covenant Theology](../covenant-theology/).)
 
 ## Purpose of the Law
 

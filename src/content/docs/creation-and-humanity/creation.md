@@ -30,14 +30,7 @@ The repeated refrain "and God saw that it was good" — *ki tov* (כִּי־טו
 
 ## Views on the Creation Account
 
-Christians who affirm God as Creator have understood the Genesis account in different ways:
-
-- **Young Earth Creationism** — The six days are consecutive 24-hour periods; the earth is thousands of years old
-- **Old Earth Creationism** — The days represent long ages or there are gaps in the narrative; the earth is billions of years old
-- **Framework Interpretation** — The days are a literary structure presenting God's creative acts topically rather than chronologically
-- **Analogical Day View** — The days are real but analogous to human days, reflecting God's work pattern
-
-Each view is held by serious scholars who affirm the authority of Scripture. For a fuller discussion, see [Creation and Evolution](../../science-and-faith/creation-and-evolution/). The non-negotiable truth across all orthodox positions is that the personal God of the Bible is the Creator of all things.
+Christians who affirm God as Creator have understood the days of Genesis in different ways. **Young Earth Creationism** reads the six days as consecutive twenty-four-hour periods, with the earth some thousands of years old. **Old Earth Creationism** understands the days as long ages, or finds gaps within the narrative, allowing for an earth billions of years old. The **Framework Interpretation** reads the days as a literary structure presenting God's creative acts topically rather than strictly chronologically, while the **Analogical Day** view holds the days to be real but analogous to a human workweek, reflecting the pattern of God's work rather than measuring it on a human clock. Each view is held by serious scholars who affirm the full authority of Scripture; for a fuller discussion, see [Creation and Evolution](../../science-and-faith/creation-and-evolution/). Whatever the age of the earth, the non-negotiable truth shared across every orthodox position is that the personal God of the Bible is the Creator of all things.
 
 ## The Trinity and Creation
 

@@ -6,7 +6,7 @@ sidebar:
 
 > "And Mary said, 'My soul magnifies the Lord, and my spirit rejoices in God my Savior, for he has looked on the humble estate of his servant. For behold, from now on all generations will call me blessed.'" — Luke 1:46–48
 
-Few topics in Christian theology reveal the breadth of the Church's diversity more clearly than the role of Mary and the saints. All Christians honor Mary as the mother of Jesus and acknowledge the great cloud of witnesses who have gone before (Hebrews 12:1). But traditions differ profoundly on what this honor entails, how the saints relate to the living Church, and what role Mary plays in the economy of salvation.
+All Christians honor Mary as the mother of Jesus and give thanks for the great cloud of witnesses who have gone before (Hebrews 12:1). Her willing "yes" to God stands as a model of faith for every believer. Christian traditions express that honor in different ways — some through prayer and feast days, others through simpler remembrance — and it is worth exploring those differences with charity, since each flows from a shared love for Christ and reverence for those who bore witness to Him.
 
 ## Mary in Scripture
 

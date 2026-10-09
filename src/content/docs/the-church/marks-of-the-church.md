@@ -14,13 +14,9 @@ The Church is one because Christ is one. Jesus prayed for His disciples "that th
 
 This oneness is not merely organizational but organic — the Church is the [body of Christ](../body-of-christ/) (*sōma Christou*, σῶμα Χριστοῦ), and a body cannot be divided without violence. Paul's horror at the Corinthian divisions — "Is Christ divided?" (1 Corinthians 1:13) — reveals how seriously the New Testament takes the scandal of disunity.
 
-Yet the visible Church is manifestly divided — into Orthodox, Catholic, and Protestant; into thousands of denominations and independent congregations. How do Christians understand this tension?
+Yet the visible Church bears real, historical divisions, and Christians have understood this tension in different ways. Catholic teaching identifies the one Church especially closely with the Roman Catholic Church, while acknowledging that elements of sanctification and truth exist outside its visible boundaries (Vatican II, *Lumen Gentium* 8). Orthodox theology speaks similarly of its own communion as the unbroken continuation of the apostolic Church, with boundaries that are canonical, sacramental, and mystical. Many Protestants distinguish between the visible church (which bears the marks of division) and the invisible church — the totality of all true believers, known fully only to God, which is perfectly one in Christ even where institutional structures fall short of expressing it.
 
-- **The Catholic view** identifies the one Church with the Roman Catholic Church, while acknowledging that elements of sanctification and truth exist outside its visible boundaries (Vatican II, *Lumen Gentium* 8). Unity is found in communion with the Bishop of Rome.
-- **The Orthodox view** identifies the one Church with the Orthodox communion, understood as the unbroken continuation of the apostolic Church. The Orthodox speak of the Church's boundaries as canonical, sacramental, and mystical — and hold that the fullness of the Church subsists in the Orthodox communion.
-- **The Protestant view** typically distinguishes between the visible church (which is divided) and the invisible church (the totality of all true believers, known fully only to God, which is perfectly one). Unity exists already in Christ, even if it is imperfectly expressed in institutional structures.
-
-All traditions acknowledge that the current state of division is a wound in the body of Christ that grieves the Holy Spirit and hinders the Church's witness to the world.
+All traditions acknowledge that the Church's visible divisions are a wound that grieves the Holy Spirit and hinders the Church's witness to the world — and all long, in different ways, for the day of fuller visible unity.
 
 ## Holy
 
@@ -42,10 +38,7 @@ Catholicity also means fullness of doctrine. The catholic faith is the whole fai
 
 The Church is apostolic because it is built on the foundation of the *apostoloi* (ἀπόστολοι) — "ones sent forth, commissioned envoys" — and prophets (Ephesians 2:20), with Christ Jesus as the cornerstone. The apostles were the authorized witnesses of the resurrection (Acts 1:21–22; 1 Corinthians 15:3–8), commissioned by Christ to proclaim the gospel and establish the Church. Apostolicity means continuity with the faith and [mission](../mission-and-evangelism/) of the apostles.
 
-How this continuity is understood varies significantly:
-
-- **The Catholic and Orthodox view** emphasizes **apostolic succession** — an unbroken chain of ordination from the apostles through the bishops to the present day. The bishops are the guardians and transmitters of the apostolic deposit, and valid ministry requires ordination within this succession.
-- **The Protestant view** emphasizes **apostolic doctrine** — faithfulness to the teaching of the apostles as preserved in [Scripture](../../scripture/canon/). The Church is apostolic insofar as it teaches and lives by the apostolic message, regardless of whether its ministers stand in an unbroken chain of episcopal ordination. The true succession is a succession of faith, not merely of hands laid on heads.
+Christians have understood this continuity with somewhat different emphases. Catholic and Orthodox theology emphasizes **apostolic succession** — an unbroken chain of ordination from the apostles through the bishops to the present day, with the bishops as guardians and transmitters of the apostolic deposit. Many Protestants emphasize **apostolic doctrine** — faithfulness to the teaching of the apostles as preserved in [Scripture](../../scripture/canon/), so that the Church is apostolic insofar as it teaches and lives by the apostolic message, the true succession being one of faith rather than of hands laid on heads.
 
 Both emphases capture something essential. The apostolic faith requires both faithful teaching (the message must be preserved) and faithful witness (the message must be embodied and transmitted through living communities across time). A church with impeccable ordination but heretical teaching is not truly apostolic; nor is one that affirms correct doctrine but has cut itself off from the historic community of faith.
 

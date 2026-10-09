@@ -6,7 +6,7 @@ sidebar:
 
 > "And I am sure of this, that he who began a good work in you will bring it to completion at the day of Jesus Christ." — Philippians 1:6
 
-The doctrine of perseverance addresses one of the most important pastoral questions in the Christian life: Can those who have been truly saved lose their salvation? The answer has been debated throughout church history, with faithful Christians holding different convictions.
+The doctrine of perseverance addresses one of the most important pastoral questions in the Christian life: Can those who have been truly saved lose their salvation? Faithful Christians have held different convictions on the answer, but all agree that whatever security the believer has rests in God's faithfulness, not human strength.
 
 ## Key Texts
 
@@ -20,37 +20,11 @@ Several passages speak powerfully to the security of believers:
 
 These texts ground the believer's security not in human strength or determination but in God's [sovereign](../../gods-nature/sovereignty/) power, Christ's intercession, and the Spirit's [sealing](../../holy-spirit/indwelling-and-sealing/).
 
-## Major Views
+## How Christians Have Understood This
 
-### Reformed: Perseverance of the Saints
+Christians have read the biblical evidence for security and warning in different proportions. The **Reformed** tradition holds that those whom God has truly regenerated will persevere in faith to the end — not because of their own resolve but because God preserves them, since His electing purpose cannot be thwarted (Romans 8:28–30), Christ's intercession is perpetually effective (Hebrews 7:25), and the Spirit is the "guarantee" of final redemption (Ephesians 1:13–14). On this reading, those who appear to fall away were never truly [regenerate](../regeneration/) (1 John 2:19); perseverance is the evidence of genuine [faith](../faith/), not its cause. The **Arminian and Wesleyan** tradition holds that genuine believers can, through persistent and willful unbelief, forfeit the grace they have received — the numerous biblical warnings against falling away (Hebrews 6:4–6; 10:26–31) are read as describing a real danger for real believers, not a hypothetical one, though this view does not teach that salvation is fragile or easily lost, only that it can be deliberately and persistently renounced. The **Catholic** tradition teaches that justification can be lost through mortal sin — a grave, deliberate offense committed with full knowledge and consent — while venial sins wound but do not destroy the life of grace; those who fall can be restored through the [sacrament](../../the-church/sacraments-and-ordinances/) of confession, in a journey where grace sustains, sin endangers, and the sacraments restore.
 
-The Reformed tradition holds that those whom God has truly regenerated will persevere in faith to the end — not because of their own resolve but because God preserves them. This is often summarized as "once truly saved, always saved," though the Reformed emphasis is on God's faithfulness rather than a one-time decision. The Westminster Confession (XVII.1) states that those whom God has accepted and [sanctified](../../sanctification-and-discipleship/sanctification/) "can neither totally nor finally fall away from the state of [grace](../grace/), but shall certainly persevere therein to the end, and be eternally saved."
-
-Key arguments include: God's electing purpose cannot be thwarted (Romans 8:28–30); Christ's intercession for His own is perpetually effective (Hebrews 7:25; John 17:12); and the Holy Spirit is a "guarantee" and "seal" of final redemption (Ephesians 1:13–14; 2 Corinthians 1:22).
-
-Those who appear to fall away were never truly [regenerate](../regeneration/) (1 John 2:19: "They went out from us, but they were not of us"). Perseverance is the evidence of genuine [faith](../faith/), not its cause. Augustine anticipated this logic: "They who are of the [predestined](../predestination-and-election/) number, though they may not yet be called, are already called in God's foreknowledge" — and those who persevere reveal that they were truly His from the beginning (*De Correptione et Gratia* 7.14).
-
-### Arminian/Wesleyan: Conditional Preservation
-
-The Arminian and Wesleyan traditions hold that genuine believers can, through persistent and willful unbelief, forfeit the grace they have received. Salvation is real and not merely apparent, but it can be abandoned. God does not override human freedom, and the same will that freely received grace can freely reject it.
-
-Key arguments include: the numerous biblical warnings against falling away only make sense if the danger is real (Hebrews 6:4–6; 10:26–31); believers are exhorted to "continue in the faith" and "hold firm" precisely because not doing so is a genuine possibility (Colossians 1:23; Hebrews 3:14); and some passages describe those who were genuinely sanctified yet turned back (2 Peter 2:20–22).
-
-This view does not teach that salvation is fragile or easily lost — only that it can be deliberately and persistently renounced.
-
-### Catholic: Grace Lost and Restored
-
-The Catholic tradition teaches that justification can be lost through mortal sin — a grave, deliberate offense against God committed with full knowledge and consent. Venial sins wound but do not destroy the life of grace. Those who have fallen through mortal sin can be restored through the [sacrament](../../the-church/sacraments-and-ordinances/) of confession (reconciliation), in which the penitent confesses, receives absolution, and is restored to a state of grace.
-
-This view takes seriously both the biblical warnings and the biblical promises, framing the Christian life as a real journey in which grace sustains, sin endangers, and the sacraments restore.
-
-## The Warning Passages
-
-Several New Testament texts have provoked intense debate:
-
-> "For it is impossible, in the case of those who have once been enlightened, who have tasted the heavenly gift, and have shared in the Holy Spirit, and have tasted the goodness of the word of God and the powers of the age to come, and then have fallen away, to restore them again to repentance." — Hebrews 6:4–6
-
-Reformed interpreters typically argue that these descriptions can apply to those who experienced the outward blessings of the covenant community without genuine regeneration. Arminian interpreters argue that the language is too strong to describe anything less than true believers. All agree that the passage is a solemn warning against apostasy, intended to provoke perseverance rather than complacency.
+Each of these readings takes seriously both Scripture's promises of security and its warnings against apostasy — texts like Hebrews 6:4–6 are received by every tradition as a solemn call to persevere, not a matter for complacency.
 
 ## Assurance of Salvation
 

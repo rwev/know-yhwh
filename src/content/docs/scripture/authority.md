@@ -71,36 +71,29 @@ every theological dispute by appealing to "It is written" (Matthew 4:4, 7, 10).
 His view of Scripture was total: it was authoritative in every detail, trustworthy
 in every claim, and permanent in every promise.
 
-## Sola Scriptura and the Role of Tradition
+## Scripture and the Church's Tradition
 
-The Reformation principle of *sola Scriptura* — "Scripture alone" — teaches that
-the Bible is the sole infallible rule of faith and practice. This does not mean
-Scripture is the only authority a Christian ever consults; it means Scripture is
-the supreme and final authority to which all other authorities — creeds, councils,
-traditions, reason — are subordinate and by which they must be judged.
+Christians agree that Scripture is the supreme and final authority for faith and
+practice — the standard by which every other authority, including the church's
+own tradition, must be judged. Traditions differ in how they understand
+Scripture's relationship to the church's teaching office and to the accumulated
+wisdom of the councils and creeds.
 
-### Sola Scriptura vs. Solo Scriptura
-
-It is important to distinguish *sola Scriptura* from *solo Scriptura*. *Sola
-Scriptura* (the historic Reformation position) affirms that Scripture is the
-highest authority while still valuing the creeds, confessions, and theological
-heritage of the church as subordinate guides. *Solo Scriptura* (sometimes called
-"nuda Scriptura") rejects tradition entirely and treats each individual reader as
-the sole interpreter — a position that ironically undermines the very clarity the
-Reformers affirmed.
-
-### Catholic and Orthodox Perspectives
-
-The Roman Catholic and Eastern Orthodox traditions hold that Scripture and Sacred
-Tradition together form the deposit of divine revelation, with the Church's
-Magisterium or conciliar authority serving as the authentic interpreter.
-
-Catholics appeal to passages like 2 Thessalonians 2:15 ("hold to the traditions")
-and 1 Timothy 3:15 (the church as "pillar and buttress of the truth") to argue
-that Scripture alone is insufficient apart from the living tradition of the
-Church. The Orthodox similarly honor the consensus of the [Fathers and councils](../../church-history-and-tradition/creeds-and-confessions/) as the authentic lens through which Scripture must be read. Protestants respond that tradition is valuable but fallible, and that
-Scripture alone is *theopneustos* — and therefore alone possesses the unique
-authority that belongs to God's own speech. Athanasius himself, the champion of Nicene orthodoxy, appealed to Scripture as the final court: "The holy and inspired Scriptures are sufficient of themselves for the preaching of the truth" (*Contra Gentes* 1).
+The Reformation articulated this conviction as *sola Scriptura* — "Scripture
+alone" — meaning Scripture is the sole *infallible* rule of faith, even as
+creeds, confessions, and the church's theological heritage remain valued,
+subordinate guides (a position distinct from the more individualistic "solo
+Scriptura," which discards those guides and treats each reader as their own
+final authority). The Catholic and Eastern Orthodox traditions hold that
+Scripture and Sacred Tradition together form a single deposit of divine
+revelation, entrusted to the Church and read through the consensus of the
+[Fathers and councils](../../church-history-and-tradition/creeds-and-confessions/)
+(2 Thessalonians 2:15; 1 Timothy 3:15). Athanasius, the great champion of Nicene
+orthodoxy, could nonetheless appeal to Scripture as the final court: "The holy
+and inspired Scriptures are sufficient of themselves for the preaching of the
+truth" (*Contra Gentes* 1) — a reminder that reverence for Scripture's supreme
+authority runs through the whole Christian tradition, however its relationship
+to the church is understood.
 
 Whatever one's position, all major branches of Christianity agree that Scripture
 is divinely inspired and carries supreme weight in matters of doctrine and life. For how Scripture is rightly interpreted, see the article on [hermeneutics](../hermeneutics/).

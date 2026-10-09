@@ -6,7 +6,7 @@ sidebar:
 
 > "And those whom he predestined he also called, and those whom he called he also justified, and those whom he justified he also glorified." — Romans 8:30
 
-The *ordo salutis* — Latin for "order of salvation" — is the theological attempt to describe the logical sequence in which the various aspects of salvation are applied to the individual believer. While all Christians affirm the same fundamental realities — calling, regeneration, faith, repentance, justification, adoption, sanctification, glorification — the traditions differ on how these realities relate to one another and in what order they occur.
+The *ordo salutis* — Latin for "order of salvation" — is the theological attempt to describe the logical sequence in which the various aspects of salvation are applied to the individual believer. All Christians affirm the same fundamental realities — calling, regeneration, faith, repentance, justification, adoption, sanctification, glorification — as the substance of what God does in saving a person. Where traditions differ is in how these realities relate to one another and in what order they occur, a question approached less as a dispute to be won than as an attempt to honor the full range of what Scripture says.
 
 ## Why Order Matters
 
@@ -14,7 +14,21 @@ The question of order is not academic pedantry. It touches the deepest issues of
 
 The classic text is Romans 8:29–30 — often called the "golden chain" of salvation — in which Paul traces an unbreakable sequence: foreknowledge, predestination, calling, justification, glorification. Notably, Paul presents even glorification in the past tense (*edoxasen*, ἐδόξασεν), as though it were already accomplished — because in God's eternal purpose, the entire chain is as certain as if it were already complete.
 
-## The Reformed (Calvinist) Order
+## Common Ground
+
+Despite differing on the precise arrangement, all major Christian traditions affirm:
+
+- Salvation originates entirely in God's [grace](../grace/)
+- Faith in Christ is necessary
+- The Holy Spirit is the agent of transformation
+- Salvation encompasses past (accomplished on the cross), present (being applied in the believer's life), and future (to be consummated at Christ's return)
+- The goal of salvation is not merely forgiveness of guilt but the transformation of the whole person into the image of Christ
+
+The *ordo salutis* is a tool for theological reflection, not a rigid formula. The Spirit's work in individual lives is far more dynamic and mysterious than any schema can capture. What matters most is not the precise logical order but the reality to which all the traditions point: God saves sinners, from beginning to end, by His grace alone, through faith in Christ, to the glory of His name. With that shared confession as the foundation, it is worth seeing how different traditions have arranged the pieces.
+
+## How Different Traditions Have Ordered It
+
+### The Reformed (Calvinist) Order
 
 The Reformed tradition arranges the *ordo salutis* as follows:
 
@@ -30,7 +44,7 @@ The Reformed tradition arranges the *ordo salutis* as follows:
 
 The distinctive feature of the Reformed order is that regeneration precedes faith. The sinner is dead in trespasses (Ephesians 2:1) and cannot respond to God until the Spirit makes the heart alive. Faith is the first fruit of regeneration, not its cause.
 
-## The Arminian (Wesleyan) Order
+### The Arminian (Wesleyan) Order
 
 The Arminian and Wesleyan tradition arranges the order differently:
 
@@ -45,7 +59,7 @@ The Arminian and Wesleyan tradition arranges the order differently:
 
 The distinctive feature here is that faith precedes regeneration. God's prevenient grace restores the sinner's ability to believe, but the actual exercise of faith is the human response that triggers the new birth. Grace initiates, but human freedom cooperates.
 
-## The Catholic Order
+### The Catholic Order
 
 Catholic theology does not typically speak of an *ordo salutis* in the Protestant sense but understands salvation as an organic process centered on the sacraments:
 
@@ -58,7 +72,7 @@ Catholic theology does not typically speak of an *ordo salutis* in the Protestan
 
 The distinctive feature of the Catholic order is the sacramental mediation of grace. Salvation is not an isolated moment of decision but a lifelong process of transformation within the Church's sacramental life.
 
-## The Eastern Orthodox Approach
+### The Eastern Orthodox Approach
 
 The Orthodox tradition is generally reluctant to systematize the elements of salvation into a sequential order, viewing such systematization as a Western tendency that can distort the organic, holistic nature of God's saving work. The Orthodox emphasis falls on *theosis* — the lifelong process of being united to God and transformed by His uncreated energies.
 
@@ -67,17 +81,5 @@ Key elements include:
 - **Synergy** — Divine grace and human freedom cooperating throughout the process of salvation (*synergeia*, συνέργεια). The Orthodox reject both the idea that humans can save themselves (Pelagianism) and the idea that God overrides human freedom (as they understand strict predestinarianism)
 - **Participation in the sacramental life** — The Eucharist, confession, prayer, fasting, and the liturgical cycle as means of ongoing transformation
 - **[Theosis](../../spiritual-formation-and-mysticism/theosis/)** — The goal of salvation: "partakers of the divine nature" (2 Peter 1:4)
-
-## Common Ground
-
-Despite significant differences in arrangement, all major Christian traditions affirm:
-
-- Salvation originates entirely in God's [grace](../grace/)
-- Faith in Christ is necessary
-- The Holy Spirit is the agent of transformation
-- Salvation encompasses past (accomplished on the cross), present (being applied in the believer's life), and future (to be consummated at Christ's return)
-- The goal of salvation is not merely forgiveness of guilt but the transformation of the whole person into the image of Christ
-
-The *ordo salutis* is a tool for theological reflection, not a rigid formula. The Spirit's work in individual lives is far more dynamic and mysterious than any schema can capture. What matters most is not the precise logical order but the reality to which all the traditions point: God saves sinners, from beginning to end, by His grace alone, through faith in Christ, to the glory of His name.
 
 > "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast." — Ephesians 2:8–9

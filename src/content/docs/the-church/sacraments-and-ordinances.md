@@ -18,12 +18,9 @@ Christians use different terms for the sacred rites Christ instituted. Those in 
 
 Baptism — from *baptisma* (βάπτισμα) — "immersion, washing" — is the rite of initiation into the Christian community, commanded by Christ Himself. It is an outward sign connected to the inward reality of [union with Christ](../../spiritual-formation-and-mysticism/union-with-god/) in His [death and resurrection](../../jesus-christ/death-and-resurrection/) (Romans 6:3–4; Colossians 2:12). Paul uses the verb *synthaptō* (συνθάπτω) — "to bury together with" — to describe being buried with Christ in baptism, and *synegeirō* (συνεγείρω) — "to raise together with" — to describe being raised with him to new life.
 
-### Views on Baptism
+### Who Is Baptized
 
-Christians have held different convictions regarding the proper subjects and mode of baptism:
-
-- **Believer's baptism** — Baptism is reserved for those who have made a personal profession of faith. This view emphasizes the New Testament pattern of belief preceding baptism (Acts 2:38, 41; 8:12; 16:31-33). Held by Baptist, Anabaptist, Pentecostal, and many evangelical traditions.
-- **Infant baptism (paedobaptism)** — from Greek *paido-* (παιδο-) — "child" — the children of believing parents are baptized as a sign of God's covenant promises, analogous to circumcision — *peritome* (περιτομή) — "cutting around" — in the Old Testament (Colossians 2:11-12; Acts 2:39; 16:15, 33). Held by Catholic, Orthodox, Anglican, Lutheran, Reformed, Presbyterian, and Methodist traditions.
+Christians have held different convictions regarding the proper subjects of baptism. Many traditions — Baptist, Anabaptist, Pentecostal, and other evangelical churches — practice **believer's baptism**, reserved for those who have made a personal profession of faith, emphasizing the New Testament pattern of belief preceding baptism (Acts 2:38, 41; 8:12; 16:31–33). Others — including the Catholic, Orthodox, Anglican, Lutheran, and Reformed traditions — practice **infant baptism (paedobaptism)**, in which the children of believing parents are baptized as a sign of God's covenant promises, seen as analogous to circumcision — *peritome* (περιτομή), "cutting around" — in the Old Testament (Colossians 2:11–12; Acts 2:39; 16:15, 33).
 
 ### Modes of Baptism
 
@@ -40,23 +37,19 @@ All traditions affirm that baptism is performed in the name of the [Father, the 
 
 The Lord's Supper — also called the Eucharist (from the Greek *eucharistia*, εὐχαριστία, meaning "thanksgiving"), Holy Communion — *koinonia* (κοινωνία) — "sharing, participation, fellowship" — or the Breaking of Bread — *klasis tou artou* (κλάσις τοῦ ἄρτου) (Acts 2:42) — was instituted by Jesus on the night of his betrayal (Matthew 26:26-29; Luke 22:14-20). It is a sacred meal in which believers partake of bread and wine (or grape juice) in remembrance — *anamnesis* (ἀνάμνησις), not mere recollection but a vivid re-presentation that makes the past event powerfully present — of Christ's sacrificial death and in anticipation of his return.
 
-### Views on the Lord's Supper
-
-- **Transubstantiation** — the bread and wine become, in substance, the actual body and blood of Christ, while retaining the outward appearance (*species*) of bread and wine. This doctrine was formally defined at the Fourth Lateran Council (1215) and reaffirmed at Trent (1551), drawing on Aristotelian categories of substance and accident. Held by the Roman Catholic tradition.
-- **Divine mystery** — the bread and wine truly become the body and blood of Christ, but the precise manner of change is a holy mystery that exceeds human definition. The Orthodox affirm a real change in the elements while generally declining to adopt the Aristotelian philosophical categories used in Western theology. Held by the Eastern Orthodox tradition.
-- **Real presence / sacramental union** — Christ is truly and substantially present "in, with, and under" the bread and wine, though the elements remain bread and wine. Held by the Lutheran tradition.
-- **Spiritual presence** — Christ is truly but spiritually present in the Supper, and believers feed on him by faith through the Spirit. Held by many in the Reformed and Anglican traditions.
-- **Memorial view** — the Supper is a commemorative act of obedience in which believers remember Christ's death and proclaim it until he comes, with no change in the elements themselves. Held by many Baptist and evangelical traditions.
-
 ### Common Ground
 
-Despite these differences, the historic Church has consistently affirmed:
+Before turning to how Christians have understood the manner of Christ's presence, it's worth naming what the historic Church has consistently affirmed about this meal:
 
 - Christ commanded his followers to observe this meal (1 Corinthians 11:24-25)
 - The bread and cup represent (or communicate) Christ's body and blood given for us
 - The meal proclaims the Lord's death until he comes (1 Corinthians 11:26)
 - Believers should examine — *dokimazeto* (δοκιμαζέτω) — "test, prove, discern" — themselves before partaking (1 Corinthians 11:27-29)
 - The Supper expresses and deepens the unity of the body of Christ (1 Corinthians 10:16-17)
+
+### How Christ's Presence Is Understood
+
+Christians have described the mystery of Christ's presence in the Supper in a few different ways. The Roman Catholic tradition holds to **transubstantiation** — the bread and wine become, in substance, the actual body and blood of Christ, while retaining their outward appearance. The Eastern Orthodox tradition affirms a real change in the elements but treats the precise manner of that change as a **divine mystery** that exceeds human definition, declining the Aristotelian categories of Western theology. The Lutheran tradition speaks of **sacramental union** — Christ truly and substantially present "in, with, and under" the bread and wine, which remain bread and wine. Many in the Reformed and Anglican traditions hold a **spiritual presence** view — Christ is truly but spiritually present, and believers feed on Him by faith through the Spirit. And many Baptist and evangelical traditions hold a **memorial view** — the Supper is a commemorative act of obedience in which believers remember Christ's death and proclaim it until He comes.
 
 Both baptism and the Lord's Supper are treasured across all Christian traditions as visible, tangible enactments of the [gospel](../../salvation/gospel/) — the [death, burial, and resurrection](../../jesus-christ/death-and-resurrection/) of Christ and the new life believers share in Him. As Augustine expressed it, sacraments are *verbum visibile* — "the word made visible" — the gospel preached not to the ear but to the eye, the hand, and the tongue.
 

@@ -6,7 +6,7 @@ sidebar:
 
 > "And he said to him, 'Truly, I say to you, today you will be with me in paradise.'" — Luke 23:43
 
-The "intermediate state" refers to the condition of the human person between physical death and the final resurrection. Where are the dead now? Are they conscious? At rest? In the presence of God? For how [death](../death-and-dying/) relates to the believer and the hope of [resurrection](../../last-things/resurrection-and-judgment/), see the companion articles. Christians have wrestled with these questions since the earliest centuries.
+The "intermediate state" refers to the condition of the human person between physical death and the final resurrection. Scripture is clear that death is not the end for the believer — the soul survives the body and rests in the presence of Christ. Exactly what that presence involves — its consciousness, its nearness to rest and to glory — is something Christians have pondered with reverence since the earliest centuries. For how [death](../death-and-dying/) relates to the believer and the hope of [resurrection](../../last-things/resurrection-and-judgment/), see the companion articles.
 
 ## Sheol in the Old Testament
 
@@ -40,37 +40,9 @@ The parable of the rich man and Lazarus (Luke 16:19-31) provides the most vivid 
 - The rich man suffers in *Hades* — a place of conscious torment
 - A "great chasm" separates the two, preventing passage between them
 
-Whether this parable describes the literal architecture of the afterlife or uses imagery familiar to first-century Judaism is debated. But the teaching is clear: **the dead are conscious, their condition is fixed, and it reflects their relationship to God**.
+Christians have read this parable in different ways — some as a literal picture of the afterlife's architecture, others as imagery drawn from first-century Judaism to make a pastoral point. But the teaching at its center is clear: **the dead are conscious, their condition is fixed, and it reflects their relationship to God**.
 
 Jesus' promise to the thief on the cross — "today you will be with me in paradise" (Luke 23:43) — confirms that the righteous dead are with Christ, not in unconscious oblivion.
-
-## The Debate: Conscious Presence vs. Soul Sleep
-
-Two main Protestant positions exist on the intermediate state:
-
-### Conscious Intermediate State (Majority View)
-- At death, the soul is immediately in the presence of Christ (Philippians 1:21-23; 2 Corinthians 5:6-8)
-- Paul's desire "to depart and be with Christ" implies conscious communion, not unconsciousness
-- The transfiguration shows Moses and Elijah appearing alive and speaking (Matthew 17:3)
-- The martyrs in Revelation 6:9-10 cry out to God — conscious and aware
-
-### Soul Sleep (Minority View)
-- Held by some Reformers and Anabaptist traditions, and by Seventh-day Adventists today
-- Death is described as "sleep" in both Testaments (Daniel 12:2; John 11:11; 1 Thessalonians 4:13-14)
-- The dead know nothing and have no awareness (Ecclesiastes 9:5)
-- Proponents argue the resurrection would be superfluous if souls already enjoy glory
-
-The historic consensus of Catholic, Orthodox, and most Protestant theology affirms conscious existence after death. The "sleep" language is understood as describing the body's appearance, not the soul's experience.
-
-## Purgatory
-
-The Roman Catholic tradition teaches *purgatory* — a state of purification after death for those who die in God's grace but still bear the effects of venial sin:
-
-- Rooted in 2 Maccabees 12:46, prayers for the dead, and 1 Corinthians 3:12-15
-- Formally defined at the Councils of Florence (1439) and Trent (1563)
-- Purgatory is not a "second chance" but a process of final sanctification for those already saved
-
-**Protestant churches** reject purgatory, holding that Christ's atonement is fully sufficient and that believers pass immediately into glory. **Eastern Orthodox** churches affirm prayers for the dead and a process of growth after death but generally avoid the Western juridical framework of purgatory, preferring more mystery and less precision.
 
 ## What We Can Affirm
 
@@ -78,5 +50,13 @@ The Roman Catholic tradition teaches *purgatory* — a state of purification aft
 - The righteous dead are "with Christ," which is "far better" (Philippians 1:23)
 - The intermediate state is temporary — it awaits the bodily resurrection at Christ's return
 - Our ultimate hope is not a disembodied afterlife but the [resurrection of the body](../resurrection-body/) and the life of the world to come in the [new creation](../../last-things/new-creation/)
+
+## Conscious Presence or Rest?
+
+The historic consensus of Catholic, Orthodox, and most Protestant theology is that the soul remains consciously alive after death — at death, the soul is immediately in the presence of Christ (Philippians 1:21-23; 2 Corinthians 5:6-8), Moses and Elijah appear alive and speaking at the transfiguration (Matthew 17:3), and the martyrs of Revelation 6:9-10 cry out to God, conscious and aware. A minority — held by some Reformers and Anabaptist traditions, and by Seventh-day Adventists today — reads Scripture's frequent description of death as "sleep" (Daniel 12:2; John 11:11; 1 Thessalonians 4:13-14) more literally, holding that the dead have no awareness until the resurrection (Ecclesiastes 9:5). Most interpreters take the "sleep" language as describing how the body appears rather than the soul's actual experience, but both readings are held out of a shared desire to honor what Scripture actually says.
+
+## Purgatory
+
+The Roman Catholic tradition also teaches *purgatory* — a state of purification after death for those who die in God's grace but still bear the effects of venial sin, rooted in 2 Maccabees 12:46, prayers for the dead, and 1 Corinthians 3:12-15, and formally defined at the Councils of Florence (1439) and Trent (1563). It is understood not as a "second chance" but as a process of final sanctification for those already saved. Protestant churches generally hold that Christ's atonement is fully sufficient and that believers pass immediately into glory, while Eastern Orthodox churches affirm prayers for the dead and a process of growth after death, but prefer to hold that mystery with less doctrinal precision than the Western tradition.
 
 > "For we know that if the tent that is our earthly home is destroyed, we have a building from God, a house not made with hands, eternal in the heavens." — 2 Corinthians 5:1

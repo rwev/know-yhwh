@@ -88,7 +88,7 @@ The Reformation reshaped not only the church but Western civilization:
 - The emphasis on the priesthood of all believers elevated the dignity of ordinary vocations
 - The principle of *sola Scriptura* encouraged individual engagement with the biblical text
 - Debates over church and state contributed to the eventual development of religious liberty
-- The diversity of Protestant traditions — Lutheran, Reformed, Anglican, Baptist, and others — reflects both the richness and the tragedy of the Reformation's legacy
+- The diversity of Protestant traditions — Lutheran, Reformed, Anglican, Baptist, and others — reflects both the richness and the complexity of the Reformation's legacy
 
 > For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.
 > — Ephesians 2:8–9

@@ -35,53 +35,15 @@ Christian theology has traditionally distinguished three categories within the M
 - The specific penalties and procedures were tied to Israel's unique covenant context
 - Examples: property laws, judicial procedures, laws regarding warfare
 
-## The Debate Over Categories
+## A Useful Tool, Held Loosely
 
-It is important to note that not all scholars accept this threefold division:
-
-- **In favor**: The distinction has deep roots in Christian theology (Thomas Aquinas, the Reformed confessions) and reflects genuine differences in the nature and function of various laws. The Old Testament itself uses different vocabulary — *mitzvot* (מִצְווֹת, "commandments"), *chuqqim* (חֻקִּים, "statutes"), *mishpatim* (מִשְׁפָּטִים, "judgments") — which may suggest functional differences even within the unified Torah
-- **Against**: The Old Testament itself never explicitly makes this threefold distinction. Jewish tradition treats the Torah as a unified whole. The Hebrew term *Torah* is always singular and comprehensive. Some scholars argue the categories are imposed on the text rather than drawn from it
-- **Middle ground**: Many acknowledge the categories are a useful theological tool while recognizing that the boundaries are not always clean — some laws have moral, ceremonial, and civil dimensions simultaneously
+Not every theologian frames the law in exactly these three categories — the Old Testament itself doesn't label its commands "moral," "ceremonial," and "civil," even though it does use distinct vocabulary (*mitzvot*, *chuqqim*, *mishpatim*) that hints at real functional differences within the Torah. Most Christians find the threefold division a genuinely useful tool for understanding how the law applies today, while recognizing its boundaries aren't always crisp — some commands carry moral, ceremonial, and civil dimensions all at once.
 
 ## How Christians Relate to the Old Testament Law
 
-Christians across traditions agree that Christ has decisively changed how believers relate to the Mosaic law, but they disagree on the details. The major views include:
+All Christians agree that Christ has decisively changed how believers relate to the Mosaic law; they simply describe the "how" with different emphases. The **Reformed** tradition, following Calvin, speaks of three uses of the law: it acts as a mirror that exposes sin and drives people to Christ (Romans 3:20), a curb that restrains evil in society, and a guide for grateful Christian living. The **Lutheran** tradition draws a sharper line between law and gospel, emphasizing that the law's chief work is to convict of sin while the gospel alone saves — Lutherans hold the law's guiding use more cautiously, though their confessions affirm it. **New Covenant theology** holds that the Mosaic covenant as a whole has been fulfilled and replaced in Christ, so that believers stand under "the law of Christ" (1 Corinthians 9:21; Galatians 6:2) — Old Testament commands repeated in the New remain binding not because they are Mosaic, but because Christ has renewed them. **Dispensational** readings likewise see the Mosaic law's era as complete, with believers now living under grace, guided by the moral principles the New Testament restates.
 
-### Reformed: The Threefold Use of the Law
-
-The Reformed tradition, following John Calvin, identifies three uses or functions of the law:
-
-- **First use (mirror)**: The law reveals God's [holiness](../../gods-nature/holiness/) and exposes human [sinfulness](../../creation-and-humanity/sin/), driving people to Christ for mercy (Romans 3:20)
-- **Second use (curb)**: The law restrains evil in society by declaring God's standards and their consequences
-- **Third use (guide)**: The moral law remains a guide for the Christian life, showing believers how to live in grateful obedience — this is the law's "principal use" for Calvin
-
-### Lutheran: Law and Gospel Dialectic
-
-The Lutheran tradition emphasizes the sharp distinction between law and gospel:
-
-- The law's primary function is to convict of sin (*usus theologicus*) — Paul's *ergon nomou* (ἔργον νόμου, "work of the law") brings only *orge* (ὀργή, "wrath," Romans 4:15)
-- The gospel (*euangelion*, εὐαγγέλιον, "good news") alone — the free promise of forgiveness in Christ — is the power of salvation
-- Lutherans are cautious about the "third use" of the law, though the Lutheran confessions do affirm it
-- The emphasis falls on the believer's freedom from the law's condemnation rather than ongoing obligation to the law
-
-### New Covenant Theology
-
-New Covenant theology holds that:
-
-- The Mosaic covenant as a whole has been fulfilled and replaced by the new covenant in Christ
-- Christians are not under the Mosaic law but under "the law of Christ" — *ennomos Christou* (ἔννομος Χριστοῦ, "within the law of Christ," 1 Corinthians 9:21) and *ton nomon tou Christou* (τὸν νόμον τοῦ Χριστοῦ, "the law of Christ," Galatians 6:2)
-- Moral commands from the Old Testament that are repeated in the New Testament are binding — not because they are Mosaic, but because they are part of Christ's law
-- This view rejects the threefold division and treats the Mosaic law as a unified covenant that has passed away as a covenant
-
-### Dispensational View
-
-Classic dispensationalism teaches that:
-
-- God relates to humanity through distinct dispensations or administrations
-- The Mosaic law belonged to the dispensation of law, which has ended
-- Believers today live under the dispensation of grace
-- The moral principles of the law are restated in the New Testament and are binding for that reason
-- Progressive dispensationalists hold a more nuanced view, seeing greater continuity across covenants
+These are differences of framework more than of substance — every tradition here affirms that believers are no longer under the Mosaic covenant as a legal system, and every tradition affirms that God's moral character, and the call to love Him and neighbor, remains unchanging.
 
 ## Christ as Fulfillment
 

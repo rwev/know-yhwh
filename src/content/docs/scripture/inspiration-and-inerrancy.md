@@ -102,9 +102,9 @@ about extending the category of "error" to ancient literary conventions that
 differ from modern standards.
 
 All three positions affirm that Scripture is divinely inspired, trustworthy, and
-authoritative. The debate concerns the scope and precision of its truthfulness.
-What unites them is far greater than what divides them: the conviction that in
-Scripture, God has spoken — and He does not deceive.
+authoritative. They differ mainly in the scope and precision they attribute to
+that truthfulness. What unites them is far greater than what divides them: the
+conviction that in Scripture, God has spoken — and He does not deceive.
 
 ## Jesus' Own View
 
